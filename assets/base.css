@@ -7,7 +7,7 @@ p {
   font-style: normal;
 }
 
-em, .italic {
+em {
   font-family: 'GothamBookItalic', arial, sans-serif;
   font-weight: normal;
   font-style: normal;
@@ -859,6 +859,11 @@ summary::-webkit-details-marker {
   padding-left: 1rem;
   font-size: 1.4rem;
   color: rgba(var(--color-foreground), 0.7);
+}
+
+.italic {
+  font-size: 1.4rem;
+  font-style: italic;
 }
 
 /* component-grid */
