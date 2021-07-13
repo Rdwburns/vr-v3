@@ -529,6 +529,14 @@ h6:empty {
   font-size: 1.4rem;
 }
 
+div.header__icons.link--text {
+  color: rgba(var(--color-text-header),0.75);
+}
+
+div.header__icons.link--text:hover {
+  color: rgb(var(--color-text-header));
+}
+
 .link--text {
   color: rgb(var(--color-foreground));
 }
