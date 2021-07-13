@@ -36,6 +36,9 @@
         },
         "colors_background_header": {
           "label": "Header Background"
+        },
+        "colors_text_header": {
+          "label": "Header Text"
         }
       }
     },

@@ -10,6 +10,10 @@
   --color-background-header: var(--color-background-header);
 }
 
+.color-text-header {
+  --color-text-header: var(--color-text-header);
+}
+
 .color-background-2 {
   --color-background: var(--color-base-background-2);
 }
@@ -1725,12 +1729,12 @@ input[type='checkbox'] {
 }
 
 .header__heading-link:hover .h2 {
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-text-header));
 }
 
 .header__heading-link .h2 {
   line-height: 1;
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-text-header), 0.75);
 }
 
 .header__heading-logo {
@@ -1961,11 +1965,11 @@ details[open] > .header__icon--menu .icon-hamburger {
 .header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
-  color: rgba(var(--color-foreground), 0.75);
+  color: rgba(var(--color-text-header), 0.75);
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-text-header));
 }
 
 .header__menu-item span {
@@ -1979,7 +1983,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-text-header));
   text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
