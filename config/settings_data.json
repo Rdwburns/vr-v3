@@ -1,7 +1,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#000000",
-    "colors_background_1": "#000000",
+    "colors_background_1": "#ffffff",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -26,7 +26,7 @@
         "settings": {
           "logo": "shopify:\/\/shop_images\/Black_on_Transparent.png",
           "logo_width": 100,
-          "logo_position": "top-center",
+          "logo_position": "top-left",
           "menu": "v3-header",
           "show_line_separator": true,
           "enable_sticky_header": true
