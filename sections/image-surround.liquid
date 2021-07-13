@@ -16,7 +16,8 @@
             <div class="flex__item-vertical image-surround__text rte " {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
           {%- endfor -%}
         </div>
-        <div class="grid-item image-surround__media image-surround__media--{{ section.settings.height }} {% if section.settings.image != blank %}media{% else %}image-surround__media--placeholder placeholder{% endif %}"
+        <div class="grid-item">
+          <div class="image-surround__media image-surround__media--{{ section.settings.height }} {% if section.settings.image != blank %}media{% else %}image-surround__media--placeholder placeholder{% endif %}"
             {% if section.settings.height == 'adapt' and section.settings.image != blank %} style="padding-bottom: {{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100 }}%;"{% endif %}
         >
             {%- if section.settings.image != blank -%}
@@ -37,6 +38,7 @@
             {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
             {%- endif -%}
         </div>
+      </div>
       <div class="grid-item surround-text-right">
         {%- for block in section.blocks offset:4 -%}
         <div class="flex__item-vertical image-surround__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
