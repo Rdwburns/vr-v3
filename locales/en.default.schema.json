@@ -622,6 +622,9 @@
           },
           "options__3": {
             "label": "Top center"
+          },
+          "options__4": {
+            "label": "Middle center"
           }
         },
         "menu": {
