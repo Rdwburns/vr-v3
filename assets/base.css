@@ -1,6 +1,3 @@
-/* Color custom properties */
-
-:root,
 p {
   font-family: 'GothamBook', arial, sans-serif;
   font-weight: normal;
@@ -19,13 +16,12 @@ strong {
   font-style: normal;
 }
 
+/* Color custom properties */
+
+:root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-1);
-}
-
-.color-background-header {
-  --color-background-header: var(--color-background-header);
 }
 
 .color-text-header {
