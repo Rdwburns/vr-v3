@@ -33,6 +33,9 @@
         },
         "colors_background_2": {
           "label": "Background 2"
+        },
+        "colors_background_header": {
+          "label": "Header Background"
         }
       }
     },

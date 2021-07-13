@@ -6,6 +6,10 @@
   --color-background: var(--color-base-background-1);
 }
 
+.color-background-header {
+  --color-background-header: var(--color-background-header);
+}
+
 .color-background-2 {
   --color-background: var(--color-base-background-2);
 }
@@ -1632,7 +1636,7 @@ input[type='checkbox'] {
 .header-wrapper {
   display: block;
   position: relative;
-  background-color: rgb(var(--color-background));
+  background-color: rgb(var(--color-background-header));
 }
 
 .header-wrapper--border-bottom {
