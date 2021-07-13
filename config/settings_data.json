@@ -26,7 +26,7 @@
         "settings": {
           "logo": "shopify:\/\/shop_images\/Black_on_Transparent.png",
           "logo_width": 100,
-          "logo_position": "top-center",
+          "logo_position": "middle-center",
           "menu": "v3-header",
           "show_line_separator": true,
           "enable_search": false,
