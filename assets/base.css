@@ -1674,7 +1674,7 @@ input[type='checkbox'] {
 
   .header--middle-center {
     grid-template-areas: 'navigation heading icons';
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: 2fr 1fr 2fr;
     column-gap: 2rem;
   }
 
@@ -1704,6 +1704,7 @@ input[type='checkbox'] {
 
 .header > .header__heading-link {
   line-height: 0;
+  place-self: center;
 }
 
 .header__heading,
