@@ -29,6 +29,7 @@
           "logo_position": "top-left",
           "menu": "v3-header",
           "show_line_separator": true,
+          "enable_search": false,
           "enable_sticky_header": true
         }
       },
