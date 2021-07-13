@@ -1687,10 +1687,44 @@ input[type='checkbox'] {
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
   background-color: rgb(var(--color-background-header));
-  height: 80px;
+}
+
+.header__heading-logo {
+  height: auto;
+  background: #000000;
+  border: 5px solid #000000;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 991px) {
+  .header {
+    height: 50px;
+  }
+
+  .header__icon:not(.header__icon--summary),
+  .header__icon span {
+    margin-top: -2rem;
+  }
+
+  .header__heading-logo {
+    width: 70%;
+  }
 }
 
 @media screen and (min-width: 990px) {
+  .header {
+    height: 80px;
+  }
+
+  .header__heading-logo {
+    width: 100%;
+  }
+
+  .header__icon:not(.header__icon--summary),
+  .header__icon span {
+    margin-top: -2rem;
+  }
+
   .header--top-left {
     grid-template-areas:
       'heading icons'
@@ -1720,9 +1754,6 @@ input[type='checkbox'] {
     min-width: 45rem;
   }
 
-  .header:not(.header--middle-left) .header__inline-menu {
-    margin-top: -5rem;
-  }
 }
 
 .header *[tabindex='-1']:focus {
@@ -1736,7 +1767,8 @@ input[type='checkbox'] {
 
 .header > .header__heading-link {
   line-height: 0;
-  place-self: center;
+  text-align: center;
+  justify-self: center;
 }
 
 .header__heading,
@@ -1761,13 +1793,8 @@ input[type='checkbox'] {
   color: rgba(var(--color-text-header), 0.75);
 }
 
-.header__heading-logo {
-  height: auto;
-  width: 100%;
-  background: #000000;
-  border: 5px solid #000000;
-  border-radius: 50%;
-}
+
+
 
 @media screen and (min-width: 990px) {
   .header__heading-link {
@@ -1787,13 +1814,14 @@ input[type='checkbox'] {
 
 /* Header icons */
 .header__icons {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
   grid-area: icons;
   justify-self: end;
-  margin-top: -5rem;
 }
 
-.header__icons svg {
+.header__icon svg {
   stroke: #ffffff;
   stroke-width: 1px;
 }
@@ -1975,7 +2003,8 @@ details[open] > .header__icon--menu .icon-hamburger {
 
 @media screen and (min-width: 990px) {
   .header__inline-menu {
-    display: block;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
   }
 
   .header--top-center .header__inline-menu {
