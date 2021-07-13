@@ -2,6 +2,7 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_background_1": "#ffffff",
+    "colors_background_header": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
