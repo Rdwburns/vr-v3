@@ -30,7 +30,7 @@
         "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
           "type": "text",
           "settings": {
-            "text": "Text block",
+            "text": "{{ product.metafields.my_fields.product_quote.value }}",
             "text_style": "body"
           }
         },
