@@ -6,6 +6,19 @@
   margin-bottom: 5rem;
 }
 
+.image-surround__grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+.surround-text-left {
+  text-align: right;
+}
+
+.surround-text-right {
+  text-align: left;
+}
+
 @media screen and (min-width: 750px) {
   .image-with-text {
     margin-bottom: 5rem;
