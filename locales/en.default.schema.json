@@ -633,6 +633,9 @@
         "enable_sticky_header": {
           "label": "Enable sticky header",
           "info": "Header shows on the screen as customers scroll up."
+        },
+        "enable_search": {
+          "label": "Enable search"
         }
       }
     },
