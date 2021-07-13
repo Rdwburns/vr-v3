@@ -7,7 +7,7 @@
   min-width: 100%;
   width: 20rem;
   border: 1px solid rgba(var(--color-foreground), 0.2);
-  background-color: rgb(var(--color-background));
+  background-color: rgb(var(--color-background-header));
 }
 
 .list-menu--disclosure:focus {

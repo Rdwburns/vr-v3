@@ -34,20 +34,51 @@
     %}
 
     {% style %}
-      {{ settings.type_body_font | font_face: font_display: 'swap' }}
-      {{ body_font_bold | font_face: font_display: 'swap' }}
-      {{ body_font_italic | font_face: font_display: 'swap' }}
-      {{ body_font_bold_italic | font_face: font_display: 'swap' }}
-      {{ settings.type_header_font | font_face: font_display: 'swap' }}
+
+      @font-face {
+        font-family: "GothamBook";
+        src: url("{{ 'gotham-book-webfont.woff2' | asset_url }}") format("woff2"),
+             url("{{ 'gotham-book-webfont.woff' | asset_url }}") format("woff");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "GothamBookItalic";
+        src: url("{{ 'gotham-bookitalic-webfont.woff2' | asset_url }}") format("woff2"),
+             url("{{ 'gotham-bookitalic-webfont.woff' | asset_url }}") format("woff");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "GothamBold";
+        src: url("{{ 'gotham-bold-webfont.woff2' | asset_url }}") format("woff2"),
+             url("{{ 'gotham-bold-webfont.woff' | asset_url }}") format("woff");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "GothamBoldItalic";
+        src: url("{{ 'gotham-bolditalic-webfont.woff2' | asset_url }}") format("woff2"),
+             url("{{ 'gotham-bolditalic-webfont.woff' | asset_url }}") format("woff");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
 
       :root {
-        --font-body-family: {{ settings.type_body_font.family }}, {{ settings.type_body_font.fallback_families }};
-        --font-body-style: {{ settings.type_body_font.style }};
-        --font-body-weight: {{ settings.type_body_font.weight }};
+        --font-body-family: "GothamBook", {{ settings.type_body_font.fallback_families }};
+        --font-body-style: normal;
+        --font-body-weight: normal;
 
-        --font-heading-family: {{ settings.type_header_font.family }}, {{ settings.type_header_font.fallback_families }};
-        --font-heading-style: {{ settings.type_header_font.style }};
-        --font-heading-weight: {{ settings.type_header_font.weight }};
+        --font-heading-family: "GothamBold", {{ settings.type_header_font.fallback_families }};
+        --font-heading-style: normal;
+        --font-heading-weight: normal;
 
         --color-base-text: {{ settings.colors_text.red }}, {{ settings.colors_text.green }}, {{ settings.colors_text.blue }};
         --color-base-background-1: {{ settings.colors_background_1.red }}, {{ settings.colors_background_1.green }}, {{ settings.colors_background_1.blue }};

@@ -1,6 +1,24 @@
 /* Color custom properties */
 
 :root,
+p {
+  font-family: 'GothamBook', arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+em {
+  font-family: 'GothamBookItalic', arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+strong {
+  font-family: 'GothamBold', arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
 .color-background-1 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-1);
@@ -529,11 +547,11 @@ h6:empty {
   font-size: 1.4rem;
 }
 
-div.header__icons.link--text {
+div.header__icons .link--text {
   color: rgba(var(--color-text-header),0.75);
 }
 
-div.header__icons.link--text:hover {
+div.header__icons .link--text:hover {
   color: rgb(var(--color-text-header));
 }
 
@@ -1118,6 +1136,14 @@ deferred-media {
     0 0 0.5rem 0.4rem rgba(var(--color-foreground), 0.3);
 }
 
+.button.product-form__submit {
+  background-color: #018849;
+}
+
+.button.product-form__submit:hover {
+  background-color: #006637;
+}
+
 .button,
 .button-label,
 .shopify-challenge__button,
@@ -1661,20 +1687,10 @@ input[type='checkbox'] {
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
   background-color: rgb(var(--color-background-header));
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  height: 80px;
 }
 
 @media screen and (min-width: 990px) {
-  .header {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-  }
-
-  .header--has-menu:not(.header--middle-left) {
-    padding-bottom: 0;
-  }
-
   .header--top-left {
     grid-template-areas:
       'heading icons'
@@ -1705,7 +1721,7 @@ input[type='checkbox'] {
   }
 
   .header:not(.header--middle-left) .header__inline-menu {
-    margin-top: 1.05rem;
+    margin-top: -5rem;
   }
 }
 
@@ -1748,6 +1764,9 @@ input[type='checkbox'] {
 .header__heading-logo {
   height: auto;
   width: 100%;
+  background: #000000;
+  border: 5px solid #000000;
+  border-radius: 50%;
 }
 
 @media screen and (min-width: 990px) {
@@ -1771,6 +1790,12 @@ input[type='checkbox'] {
   display: flex;
   grid-area: icons;
   justify-self: end;
+  margin-top: -5rem;
+}
+
+.header__icons svg {
+  stroke: #ffffff;
+  stroke-width: 1px;
 }
 
 .header__icon:not(.header__icon--summary),
