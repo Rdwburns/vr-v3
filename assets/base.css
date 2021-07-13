@@ -854,6 +854,12 @@ summary::-webkit-details-marker {
   color: rgba(var(--color-foreground), 0.7);
 }
 
+.quote {
+  border-left: 2px solid rgb(var(--color-foreground));
+  font-size: 1.4rem;
+  color: rgba(var(--color-foreground), 0.7);
+}
+
 /* component-grid */
 .grid {
   display: flex;

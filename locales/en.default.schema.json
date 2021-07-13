@@ -1122,6 +1122,9 @@
               },
               "options__3": {
                 "label": "Uppercase"
+              },
+              "options__4": {
+                "label": "Quote"
               }
             }
           }
