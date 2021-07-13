@@ -7,7 +7,7 @@ p {
   font-style: normal;
 }
 
-em {
+em, .italic {
   font-family: 'GothamBookItalic', arial, sans-serif;
   font-weight: normal;
   font-style: normal;

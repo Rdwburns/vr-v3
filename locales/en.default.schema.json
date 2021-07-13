@@ -1125,6 +1125,9 @@
               },
               "options__4": {
                 "label": "Quote"
+              },
+              "options__5": {
+                "label": "Italic"
               }
             }
           }
