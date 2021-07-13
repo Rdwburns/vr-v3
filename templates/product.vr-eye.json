@@ -321,43 +321,43 @@
         "16262053277f68e5df-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image Surrounded by Text"
+            "heading": "Discover Microneedle Technology"
           }
         },
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Text Block 1<\/p>"
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
           }
         },
         "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
           "type": "text",
           "settings": {
-            "text": "<p>Text Block 2<\/p>"
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p>Text Block 3<\/p>"
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
           "type": "text",
           "settings": {
-            "text": "<p>Text Block 4<\/p>"
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
           }
         },
         "f681b201-8329-477e-9561-801502724c66": {
           "type": "text",
           "settings": {
-            "text": "<p>Text Block 5<\/p>"
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
           }
         },
         "aef76901-418c-463a-9c92-f268b4c177d2": {
           "type": "text",
           "settings": {
-            "text": "<p>Text Block 6<\/p>"
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
           }
         }
       },
@@ -372,7 +372,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/needle_df95a5d1-78e6-4ee4-9b8c-7779c0ea17c4.jpg",
-        "height": "small",
+        "height": "adapt",
         "color_scheme": "background-1"
       }
     }
