@@ -1,6 +1,6 @@
 {{ 'component-image-surround.css' | asset_url | stylesheet_tag }}
 
-<div class="image-surround">
+<div class="page-width">
   {%- for block in section.blocks -%}
   {%- if block.type == 'heading' -%}
     <div class="headline-section title-wrapper-with-link title-wrapper--self-padded-mobile">
