@@ -28,14 +28,9 @@
 {% schema %}
 {
   "name": "t:sections.faq.name",
-  "tag": "section",
-  "class": "product-section spaced-section",
+  "class": "faq-section",
   "settings": [
-    {
-      "type": "text",
-      "id": "title",
-      "label": "FAQ"
-    }],
+    ],
   "blocks": [
     {
       "type": "collapsible_tab",
@@ -161,6 +156,22 @@
           ],
           "default": "check_mark",
           "label": "t:sections.faq.blocks.collapsible_tab.settings.icon.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.image-surround.presets.name",
+      "blocks": [
+        {
+          "type": "collapsible_tab"
+        },
+        {
+          "type": "collapsible_tab"
+        }
+        {
+          "type": "collapsible_tab"
         }
       ]
     }
