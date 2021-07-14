@@ -81,6 +81,41 @@
         "enable_video_looping": false
       }
     },
+    "1626248705b8c25b91": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "1626248705b8c25b91-0": {
+          "type": "column",
+          "settings": {
+            "title": "Smoothing",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626248705b8c25b91-1": {
+          "type": "column",
+          "settings": {
+            "title": "Plumping",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Hydrating",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626248705b8c25b91-0",
+        "1626248705b8c25b91-1",
+        "1626248705b8c25b91-2"
+      ],
+      "settings": {
+        "title": "Key Benefits",
+        "background_style": "primary"
+      }
+    },
     "16262053277f68e5df": {
       "type": "image-surround",
       "blocks": {
@@ -142,47 +177,6 @@
         "color_scheme": "background-1"
       }
     },
-    "1626170259f045dc55": {
-      "type": "multicolumn",
-      "blocks": {
-        "1626170259f045dc55-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626170259f045dc55-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626170259f045dc55-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626170259f045dc55-0",
-        "1626170259f045dc55-1",
-        "1626170259f045dc55-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -191,79 +185,6 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_vendor": false
-      }
-    },
-    "1626170256ee70277a": {
-      "type": "image-banner",
-      "blocks": {
-        "1626170256ee70277a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "1626170256ee70277a-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1626170256ee70277a-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1626170256ee70277a-0",
-        "1626170256ee70277a-1",
-        "1626170256ee70277a-2"
-      ],
-      "settings": {
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
-      }
-    },
-    "162617023530160b5c": {
-      "type": "image-with-text",
-      "blocks": {
-        "162617023530160b5c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "162617023530160b5c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "162617023530160b5c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "162617023530160b5c-0",
-        "162617023530160b5c-1",
-        "162617023530160b5c-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
       }
     },
     "1626170242ffa87f4b": {
@@ -295,9 +216,45 @@
         "1626170242ffa87f4b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Product_-_Wrinkle-v3.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
+      }
+    },
+    "162617023530160b5c": {
+      "type": "image-with-text",
+      "blocks": {
+        "162617023530160b5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "162617023530160b5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "162617023530160b5c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162617023530160b5c-0",
+        "162617023530160b5c-1",
+        "162617023530160b5c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Product_-_Wrinkle-v2.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "1626170247b0785461": {
@@ -332,7 +289,7 @@
         "image": "shopify:\/\/shop_images\/Product_-_Pimple-v2.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "1626170270666543f7": {
@@ -341,21 +298,24 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/COLLAGEN-V2_a106de19-e18d-4e67-a106-b6a389a62a7d.jpg",
+            "title": "Collagen",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/PEPTIDES_56e6a53f-d6da-49c3-89c2-c659b214b82b.jpg",
+            "title": "Peptides",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "1626170270666543f7-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/HYALURONIC_ACID_-_V2_9be83f89-98ed-4167-9b2e-20c66c9d0769.jpg",
+            "title": "Vitamin C",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         }
@@ -366,7 +326,7 @@
         "1626170270666543f7-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Key Ingredients",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
@@ -375,56 +335,16 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "1626248705b8c25b91": {
-      "type": "multicolumn-icons",
-      "blocks": {
-        "1626248705b8c25b91-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/check-circle.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626248705b8c25b91-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/check-circle.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626248705b8c25b91-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/check-circle.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626248705b8c25b91-0",
-        "1626248705b8c25b91-1",
-        "1626248705b8c25b91-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "background_style": "primary"
-      }
     }
   },
   "order": [
     "main",
+    "1626248705b8c25b91",
     "16262053277f68e5df",
-    "1626170259f045dc55",
     "product-recommendations",
-    "1626170256ee70277a",
-    "162617023530160b5c",
     "1626170242ffa87f4b",
+    "162617023530160b5c",
     "1626170247b0785461",
-    "1626170270666543f7",
-    "1626248705b8c25b91"
+    "1626170270666543f7"
   ]
 }
