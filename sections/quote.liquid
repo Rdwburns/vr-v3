@@ -1,15 +1,19 @@
 {{ 'component-quote.css' | asset_url | stylesheet_tag }}
 
-{%- for block in section.blocks  -%}
 <div class="quote-block page-width color-scheme-{{ section.settings.color_scheme }}">
+{%- for block in section.blocks  -%}
+    {% if block.settings.quote %}
     <div class="quote-text">
         <div class="point-quote">{% render 'icon-point' %}{% render 'icon-point' %}</div>
-        <h3>{{ block.settings.quote | escape }}</h3>
+        <h3 class="h1 mb-zero">{{ block.settings.quote | escape }}</h3>
         <div class="point-quote">{% render 'icon-point' %}{% render 'icon-point' %}</div>
     </div>
-    <p>{{ block.settings.source }}</p>
-</div>
+    {% endif %}
+    {% if block.settings.source %}
+        <div class="quote-source">{{ block.settings.source }}</div>
+    {% endif %}
 {% endfor %}
+</div>
 
 {% schema %}
 {

@@ -1,8 +1,28 @@
 .point-quote {
-    width: 1em;
+    width: 2em;
     display: flex;
+    margin: 0 1em 2em 1em;
 }
 
 .quote-text {
     display: flex;
+    justify-content: center;
+}
+
+.quote-text h3 {
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.quote-block {
+    justify-content: center;
+}
+
+.quote-source {
+    justify-content: center;
+    text-align: center;
+}
+
+.mb-zero {
+    margin-bottom: 0;
 }
