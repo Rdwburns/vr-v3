@@ -1,0 +1,8 @@
+.point-quote {
+    width: 1em;
+    display: flex;
+}
+
+.quote-text {
+    display: flex;
+}
