@@ -563,25 +563,25 @@
         }
       },
       "blocks": {
-        "heading": {
+        "quote": {
           "name": "Quote",
           "settings": {
-            "heading": {
+            "quote": {
               "label": "Quote"
             }
           }
         },
-        "text": {
+        "source": {
           "name": "Source",
           "settings": {
-            "text": {
+            "source": {
               "label": "Source"
             }
           }
         }
       },
       "presets": {
-        "name": "Single Quote Block"
+        "name": "Quote - Single"
       }
     },
     "featured-blog": {
