@@ -1,7 +1,7 @@
 .point-quote {
-    width: 2em;
+    width: 10em;
     display: flex;
-    margin: 0 1em 2em 1em;
+    margin: 0 2em 3em 2em;
 }
 
 .quote-text {
@@ -10,8 +10,30 @@
 }
 
 .quote-text h3 {
+    font-size: 3.5rem;
     letter-spacing: 0.2em;
     text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    text-indent: 1em;
+}
+
+.quote-text-body:before {
+    content: " ";
+    background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 329.000000 633.000000' preserveAspectRatio='xMidYMid meet'%3E%3Cdefs%3E%3ClinearGradient id='grad1' x1='0%25' y1='0%25' x2='0%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%23E72677;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23EA591F;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Cg transform='translate(0.000000,633.000000) scale(0.100000,-0.100000)' fill='url(%23grad1)'%3E%3Cpath d='M92 6223 c3 -10 351 -1385 774 -3055 423 -1671 771 -3038 774 -3038%0A3 0 351 1367 774 3038 423 1670 771 3045 774 3055 4 16 -75 17 -1548 17 -1473%0A0 -1552 -1 -1548 -17z'/%3E%3C/g%3E%3C/svg%3E");
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    margin-left: -1em;
+}
+
+.quote-text-body:after {
+    content: " ";
+    background-image: url("data:image/svg+xml,%3Csvg version='1.0' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 329.000000 633.000000' preserveAspectRatio='xMidYMid meet'%3E%3Cdefs%3E%3ClinearGradient id='grad1' x1='0%25' y1='0%25' x2='0%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%23E72677;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23EA591F;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Cg transform='translate(0.000000,633.000000) scale(0.100000,-0.100000)' fill='url(%23grad1)'%3E%3Cpath d='M92 6223 c3 -10 351 -1385 774 -3055 423 -1671 771 -3038 774 -3038%0A3 0 351 1367 774 3038 423 1670 771 3045 774 3055 4 16 -75 17 -1548 17 -1473%0A0 -1552 -1 -1548 -17z'/%3E%3C/g%3E%3C/svg%3E");
+    height: 0.5em;
+    width: 0.5em;
+    position: absolute;
+    margin-left: 0.5em;
 }
 
 .quote-block {
