@@ -521,6 +521,9 @@
                 "label": "Washing"
               }
             }
+          },
+          "presets": {
+            "name": "FAQ Block"
           }
         }
       }
