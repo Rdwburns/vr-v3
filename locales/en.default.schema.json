@@ -1500,9 +1500,6 @@
         "column": {
           "name": "Column",
           "settings": {
-            "image": {
-              "label": "Icon"
-            },
             "title": {
               "label": "Heading"
             },

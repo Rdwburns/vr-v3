@@ -18,20 +18,23 @@
             endif
           endfor
         -%}
+        <ul class="multicolumn-icons-list"
+            role="list"
+          >
         {%- for block in section.blocks -%}
-          <li class="multicolumn-icons-list__item grid__item" style="list-style-image: url('{{ block.settings.image | img_url: '50x' }}'); list-style: circle;" {{ block.shopify_attributes }}>
-            <div class="multicolumn-icons-card">
-              <div class="multicolumn-icons-card__info">
-                {%- if block.settings.title != blank -%}
-                  <h3>{{ block.settings.title | escape }}</h3>
-                {%- endif -%}
-                {%- if block.settings.text != blank -%}
-                  <div class="rte">{{ block.settings.text }}</div>
-                {%- endif -%}
-              </div>
-            </div>
-          </li>
+            <li class="multicolumn-icons-list__item" {{ block.shopify_attributes }}>
+                {% render 'icon-check-circle' %}
+                <div class="multicolumn-icons-card__info">
+                    {%- if block.settings.title != blank -%}
+                    <h3>{{ block.settings.title | escape }}</h3>
+                    {%- endif -%}
+                    {%- if block.settings.text != blank -%}
+                    <div class="rte">{{ block.settings.text }}</div>
+                    {%- endif -%}
+                </div>
+            </li>
         {%- endfor -%}
+    </ul>
       </ul>
   </div>
 </div>
@@ -74,11 +77,6 @@
       "type": "column",
       "name": "t:sections.multicolumn-icons.blocks.column.name",
       "settings": [
-        {
-          "type": "image_picker",
-          "id": "image",
-          "label": "t:sections.multicolumn-icons.blocks.column.settings.image.label"
-        },
         {
           "type": "text",
           "id": "title",

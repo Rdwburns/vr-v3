@@ -5,16 +5,52 @@
   .multicolumn-icons.no-heading .title {
     display: none;
   }
-  
+
+  .multicolumn-icons-list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }
+
+  .multicolumn-icons-list__item {
+      list-style: none;
+      display: flex;
+      align-items: flex-start;
+      max-width: 33%;
+  }
+
+  .multicolumn-icons-list__item > svg {
+    stroke: black;
+    stroke-width: 3px;
+  }
+
   @media screen and (max-width: 749px) {
     .multicolumn-icons.no-heading.background-secondary {
       padding-top: 5rem;
+    }
+    .multicolumn-icons-list__item > svg {
+      height: 40px;
+      padding-right: 10px;
+      margin-top: -10px;
+      stroke: black;
+      stroke-width: 3px;
     }
   }
   
   @media screen and (min-width: 750px) {
     .multicolumn-icons.no-heading:not(.background-secondary) {
       margin-top: 6rem;
+    }
+    .multicolumn-icons-list__item:only-child {
+        max-width: 72rem;
+      }
+    .multicolumn-icons-list__item > svg {
+      height: 90px;
+      padding-right: 10px;
+      margin-top: -34px;
+    }
+    .multicolumn-icons-card__info {
+      padding: 0 5rem 0 0.5rem;
     }
   }
   
@@ -25,6 +61,10 @@
   @media screen and (max-width: 749px) {
     .multicolumn-icons .title-wrapper-with-link {
       margin-bottom: 3rem;
+    }
+    .multicolumn-icons-list__item {
+        max-width: 90%;
+        width: 90%;
     }
   }
   
@@ -58,9 +98,7 @@
     padding: 0;
   }
   
-  .multicolumn-icons-list__item:only-child {
-    max-width: 72rem;
-  }
+
   
   .multicolumn-icons:not(.background-none) .multicolumn-icons-card {
     background: rgba(var(--color-foreground), 0.04);
@@ -174,9 +212,6 @@
     margin: 0;
   }
   
-  .multicolumn-icons-card__info {
-    padding: 2.5rem 2.5rem;
-  }
   
   .background-none .multicolumn-icons-card__info {
     padding-top: 0;
@@ -218,7 +253,7 @@
       .multicolumn-icons-list:not(.slider)
       .center
       .multicolumn-icons-card__info {
-      padding-left: 1.5rem;
+      padding-left: 3.5rem;
       padding-right: 1.5rem;
     }
   }
