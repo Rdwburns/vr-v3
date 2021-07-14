@@ -81,6 +81,108 @@
         "enable_video_looping": false
       }
     },
+    "16262053277f68e5df": {
+      "type": "image-surround",
+      "blocks": {
+        "16262053277f68e5df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Microneedle Technology"
+          }
+        },
+        "16262053277f68e5df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+          }
+        },
+        "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+          }
+        },
+        "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+          }
+        },
+        "f38976e4-b244-4ad1-a741-c2878db66fc3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+          }
+        },
+        "f681b201-8329-477e-9561-801502724c66": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+          }
+        },
+        "aef76901-418c-463a-9c92-f268b4c177d2": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16262053277f68e5df-0",
+        "16262053277f68e5df-1",
+        "911212cd-78d6-4d0a-b0a7-92ac6372d412",
+        "b91060dc-6eba-44de-94ff-9b84d8f5b06d",
+        "f38976e4-b244-4ad1-a741-c2878db66fc3",
+        "f681b201-8329-477e-9561-801502724c66",
+        "aef76901-418c-463a-9c92-f268b4c177d2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/needle_df95a5d1-78e6-4ee4-9b8c-7779c0ea17c4.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1"
+      }
+    },
+    "1626170259f045dc55": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626170259f045dc55-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626170259f045dc55-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1626170259f045dc55-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626170259f045dc55-0",
+        "1626170259f045dc55-1",
+        "1626170259f045dc55-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -128,47 +230,6 @@
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
-      }
-    },
-    "1626170259f045dc55": {
-      "type": "multicolumn",
-      "blocks": {
-        "1626170259f045dc55-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626170259f045dc55-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626170259f045dc55-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626170259f045dc55-0",
-        "1626170259f045dc55-1",
-        "1626170259f045dc55-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "162617023530160b5c": {
@@ -314,78 +375,17 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "16262053277f68e5df": {
-      "type": "image-surround",
-      "blocks": {
-        "16262053277f68e5df-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Discover Microneedle Technology"
-          }
-        },
-        "16262053277f68e5df-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
-          }
-        },
-        "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
-          }
-        },
-        "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
-          }
-        },
-        "f38976e4-b244-4ad1-a741-c2878db66fc3": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
-          }
-        },
-        "f681b201-8329-477e-9561-801502724c66": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
-          }
-        },
-        "aef76901-418c-463a-9c92-f268b4c177d2": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16262053277f68e5df-0",
-        "16262053277f68e5df-1",
-        "911212cd-78d6-4d0a-b0a7-92ac6372d412",
-        "b91060dc-6eba-44de-94ff-9b84d8f5b06d",
-        "f38976e4-b244-4ad1-a741-c2878db66fc3",
-        "f681b201-8329-477e-9561-801502724c66",
-        "aef76901-418c-463a-9c92-f268b4c177d2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/needle_df95a5d1-78e6-4ee4-9b8c-7779c0ea17c4.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1"
-      }
     }
   },
   "order": [
     "main",
+    "16262053277f68e5df",
+    "1626170259f045dc55",
     "product-recommendations",
     "1626170256ee70277a",
-    "1626170259f045dc55",
     "162617023530160b5c",
     "1626170242ffa87f4b",
     "1626170247b0785461",
-    "1626170270666543f7",
-    "16262053277f68e5df"
+    "1626170270666543f7"
   ]
 }
