@@ -379,6 +379,31 @@
         "1c04b4ee-dc7b-4749-b1f2-c095dd106588"
       ],
       "settings": {
+        "heading": "FAQ"
+      }
+    },
+    "1626290450f9c0b3c8": {
+      "type": "quote",
+      "blocks": {
+        "1626290450f9c0b3c8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "Quote About the Product"
+          }
+        },
+        "1626290450f9c0b3c8-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626290450f9c0b3c8-0",
+        "1626290450f9c0b3c8-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1"
       }
     }
   },
@@ -391,6 +416,7 @@
     "1626170242ffa87f4b",
     "1626170247b0785461",
     "1626170270666543f7",
-    "162627080538092e1b"
+    "162627080538092e1b",
+    "1626290450f9c0b3c8"
   ]
 }
