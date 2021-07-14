@@ -62,6 +62,15 @@
           "type": "description",
           "settings": {
           }
+        },
+        "2d42412d-8b61-4b8e-a1a1-a7d0509b3b19": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
         }
       },
       "block_order": [
@@ -74,7 +83,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "2d42412d-8b61-4b8e-a1a1-a7d0509b3b19"
       ],
       "settings": {
         "enable_sticky_info": true,
