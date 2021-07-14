@@ -394,7 +394,7 @@
         "1626290450f9c0b3c8-1": {
           "type": "source",
           "settings": {
-            "source": "<p>A. Person<br>The Daily News<\/p>"
+            "source": "<p>A. Person<br\/>The Daily News.<\/p>"
           }
         }
       },
