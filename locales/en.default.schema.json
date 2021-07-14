@@ -427,6 +427,11 @@
     },
     "faq": {
       "name": "FAQ",
+      "settings": {
+        "title": {
+          "label": "Heading"
+        }
+      },
       "blocks": {
         "collapsible_tab": {
           "name": "FAQ tab",
