@@ -1477,6 +1477,45 @@
         "name": "Multicolumn"
       }
     },
+    "multicolumn-icons": {
+      "name": "Multicolumn with Icons",
+      "settings": {
+        "title": {
+          "label": "Heading"
+        },
+        "background_style": {
+          "label": "Secondary background",
+          "options__1": {
+            "label": "None"
+          },
+          "options__2": {
+            "label": "Show as column background"
+          },
+          "options__3": {
+            "label": "Show as section background"
+          }
+        }
+      },
+      "blocks": {
+        "column": {
+          "name": "Column",
+          "settings": {
+            "image": {
+              "label": "Icon"
+            },
+            "title": {
+              "label": "Heading"
+            },
+            "text": {
+              "label": "Description"
+            }
+          }
+        }
+      },
+      "presets": {
+        "name": "Multicolumn with Icons"
+      }
+    },
     "newsletter": {
       "name": "Email signup",
       "settings": {
