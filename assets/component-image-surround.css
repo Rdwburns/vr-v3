@@ -1,6 +1,11 @@
 .image-surround {
     margin-top: 5rem;
   }
+
+  .image-surround-header {
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+  }
   
   .image-surround:not(.color-scheme-background-1) {
     margin-bottom: 5rem;
