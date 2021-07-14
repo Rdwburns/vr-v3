@@ -1,0 +1,90 @@
+{{ 'component-quote.css' | asset_url | stylesheet_tag }}
+
+{%- for block in blocks  -%}
+<div class="quote-block page-width color-scheme-{{ section.settings.color_scheme }}">
+    <div class="quote-text">
+        {% render 'icon-point' %}{% render 'icon-point' %}
+        <h3>{{ block.quote | escape }}</h3>
+        {% render 'icon-point' %}{% render 'icon-point' %}
+    </div>
+    <p>{{ block.source }}</p>
+</div>
+{% endfor %}
+
+{% schema %}
+{
+  "name": "t:sections.quote.name",
+  "class": "spaced-section spaced-section--full-width",
+  "settings": [
+    {
+      "type": "select",
+      "id": "color_scheme",
+      "options": [
+        {
+          "value": "background-1",
+          "label": "t:sections.quote.settings.color_scheme.options__1.label"
+        },
+        {
+          "value": "background-2",
+          "label": "t:sections.quote.settings.color_scheme.options__2.label"
+        },
+        {
+          "value": "inverse",
+          "label": "t:sections.quote.settings.color_scheme.options__3.label"
+        },
+        {
+          "value": "accent-1",
+          "label": "t:sections.quote.settings.color_scheme.options__4.label"
+        },
+        {
+          "value": "accent-2",
+          "label": "t:sections.quote.settings.color_scheme.options__5.label"
+        }
+      ],
+      "default": "background-1",
+      "label": "t:sections.quote.settings.color_scheme.label"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "quote",
+      "name": "t:sections.quote.blocks.quote.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "quote",
+          "default": "Quote About the Product",
+          "label": "t:sections.quote.blocks.quote.settings.quote.label"
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "name": "t:sections.quote.blocks.source.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "source",
+          "default": "<p>A. Person<br>The Daily News</p>",
+          "label": "t:sections.quote.blocks.source.settings.source.label"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.quote.presets.name",
+      "blocks": [
+        {
+          "type": "quote"
+        },
+        {
+          "type": "source"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
