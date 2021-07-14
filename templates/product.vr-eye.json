@@ -81,6 +81,30 @@
         "enable_video_looping": false
       }
     },
+    "1626290450f9c0b3c8": {
+      "type": "quote",
+      "blocks": {
+        "1626290450f9c0b3c8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "The Greatest Product to Have Ever Been Invented by Anyone Ever"
+          }
+        },
+        "1626290450f9c0b3c8-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>Andrew Person, The Guardian<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626290450f9c0b3c8-0",
+        "1626290450f9c0b3c8-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1"
+      }
+    },
     "1626248705b8c25b91": {
       "type": "multicolumn-icons",
       "blocks": {
@@ -298,6 +322,30 @@
         "layout": "image_first"
       }
     },
+    "16262976340da42008": {
+      "type": "quote",
+      "blocks": {
+        "16262976340da42008-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "Smooths, Plumps and Replenishes"
+          }
+        },
+        "16262976340da42008-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>Sally Cylicacid, The Beauty Review<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16262976340da42008-0",
+        "16262976340da42008-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1"
+      }
+    },
     "1626170270666543f7": {
       "type": "multicolumn",
       "blocks": {
@@ -381,42 +429,19 @@
       "settings": {
         "heading": "FAQ"
       }
-    },
-    "1626290450f9c0b3c8": {
-      "type": "quote",
-      "blocks": {
-        "1626290450f9c0b3c8-0": {
-          "type": "quote",
-          "settings": {
-            "quote": "The Greatest Product to Have Ever Been Invented by Anyone Ever"
-          }
-        },
-        "1626290450f9c0b3c8-1": {
-          "type": "source",
-          "settings": {
-            "source": "<p>Andrew Person, The Guardian<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626290450f9c0b3c8-0",
-        "1626290450f9c0b3c8-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1"
-      }
     }
   },
   "order": [
     "main",
+    "1626290450f9c0b3c8",
     "1626248705b8c25b91",
     "16262053277f68e5df",
     "product-recommendations",
     "162617023530160b5c",
     "1626170242ffa87f4b",
     "1626170247b0785461",
+    "16262976340da42008",
     "1626170270666543f7",
-    "162627080538092e1b",
-    "1626290450f9c0b3c8"
+    "162627080538092e1b"
   ]
 }
