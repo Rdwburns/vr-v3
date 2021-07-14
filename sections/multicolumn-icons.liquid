@@ -1,6 +1,6 @@
 {{ 'section-multicolumn-icons.css' | asset_url | stylesheet_tag }}
 
-<div class="multicolumn background-{{ section.settings.background_style }}{% if section.settings.title == blank %} no-heading{% endif %}">
+<div class="multicolumn-icons background-{{ section.settings.background_style }}{% if section.settings.title == blank %} no-heading{% endif %}">
   <div class="page-width">
     <div class="title-wrapper-with-link title-wrapper--self-padded-mobile{% if section.settings.title == blank %} title-wrapper-with-link--no-heading{% endif %}">
       <h2 class="title">
@@ -19,9 +19,9 @@
           endfor
         -%}
         {%- for block in section.blocks -%}
-          <li class="multicolumn-list__item grid__item" style="list-style-image: url('{{ block.settings.image | img_url: '50x' }}');" {{ block.shopify_attributes }}>
-            <div class="multicolumn-card">
-              <div class="multicolumn-card__info">
+          <li class="multicolumn-icons-list__item grid__item" style="list-style-image: url('{{ block.settings.image | img_url: '50x' }}');" {{ block.shopify_attributes }}>
+            <div class="multicolumn-icons-card">
+              <div class="multicolumn-icons-card__info">
                 {%- if block.settings.title != blank -%}
                   <h3>{{ block.settings.title | escape }}</h3>
                 {%- endif -%}
@@ -38,7 +38,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.multicolumn.name",
+  "name": "t:sections.multicolumn-icons.name",
   "class": "spaced-section spaced-section--full-width",
   "tag": "section",
   "settings": [
@@ -46,7 +46,7 @@
       "type": "text",
       "id": "title",
       "default": "Multicolumn",
-      "label": "t:sections.multicolumn.settings.title.label"
+      "label": "t:sections.multicolumn-icons.settings.title.label"
     },
     {
       "type": "select",
@@ -54,49 +54,49 @@
       "options": [
         {
           "value": "none",
-          "label": "t:sections.multicolumn.settings.background_style.options__1.label"
+          "label": "t:sections.multicolumn-icons.settings.background_style.options__1.label"
         },
         {
           "value": "primary",
-          "label": "t:sections.multicolumn.settings.background_style.options__2.label"
+          "label": "t:sections.multicolumn-icons.settings.background_style.options__2.label"
         },
         {
           "value": "secondary",
-          "label": "t:sections.multicolumn.settings.background_style.options__3.label"
+          "label": "t:sections.multicolumn-icons.settings.background_style.options__3.label"
         }
       ],
       "default": "primary",
-      "label": "t:sections.multicolumn.settings.background_style.label"
+      "label": "t:sections.multicolumn-icons.settings.background_style.label"
     }
   ],
   "blocks": [
     {
       "type": "column",
-      "name": "t:sections.multicolumn.blocks.column.name",
+      "name": "t:sections.multicolumn-icons.blocks.column.name",
       "settings": [
         {
           "type": "image_picker",
           "id": "image",
-          "label": "t:sections.multicolumn.blocks.column.settings.image.label"
+          "label": "t:sections.multicolumn-icons.blocks.column.settings.image.label"
         },
         {
           "type": "text",
           "id": "title",
           "default": "Column",
-          "label": "t:sections.multicolumn.blocks.column.settings.title.label"
+          "label": "t:sections.multicolumn-icons.blocks.column.settings.title.label"
         },
         {
           "type": "richtext",
           "id": "text",
           "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-          "label": "t:sections.multicolumn.blocks.column.settings.text.label"
+          "label": "t:sections.multicolumn-icons.blocks.column.settings.text.label"
         }
       ]
     }
   ],
   "presets": [
     {
-      "name": "t:sections.multicolumn.presets.name",
+      "name": "t:sections.multicolumn-icons.presets.name",
       "blocks": [
         {
           "type": "column"
