@@ -1,15 +1,15 @@
 .image-with-text {
-  margin-top: 5rem;
+  margin-top: 0;
 }
 
 .image-with-text:not(.color-scheme-background-1) {
-  margin-bottom: 5rem;
+  margin-bottom: 0;
 }
 
 
 @media screen and (min-width: 750px) {
   .image-with-text {
-    margin-bottom: 5rem;
+    margin-bottom: 0;
   }
 }
 
