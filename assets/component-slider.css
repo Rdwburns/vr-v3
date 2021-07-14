@@ -133,8 +133,8 @@ slider-component .slider-buttons {
   border: 0.1rem solid rgba(var(--color-foreground), 0.08);
   background-color: rgb(var(--color-background));
   cursor: pointer;
-  width: 44px;
-  height: 44px;
+  width: 48px;
+  height: 48px;
 }
 
 .slider-button:not([disabled]):hover {
