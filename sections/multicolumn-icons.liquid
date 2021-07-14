@@ -19,7 +19,7 @@
           endfor
         -%}
         {%- for block in section.blocks -%}
-          <li class="multicolumn-icons-list__item grid__item" style="list-style-image: url('{{ block.settings.image | img_url: '50x' }}');" {{ block.shopify_attributes }}>
+          <li class="multicolumn-icons-list__item grid__item" style="list-style-image: url('{{ block.settings.image | img_url: '50x' }}'); list-style: circle;" {{ block.shopify_attributes }}>
             <div class="multicolumn-icons-card">
               <div class="multicolumn-icons-card__info">
                 {%- if block.settings.title != blank -%}
