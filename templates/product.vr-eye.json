@@ -187,46 +187,12 @@
         "show_vendor": false
       }
     },
-    "1626170242ffa87f4b": {
-      "type": "image-with-text",
-      "blocks": {
-        "1626170242ffa87f4b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1626170242ffa87f4b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626170242ffa87f4b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1626170242ffa87f4b-0",
-        "1626170242ffa87f4b-1",
-        "1626170242ffa87f4b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Product_-_Wrinkle-v3.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
     "162617023530160b5c": {
       "type": "image-with-text",
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image with text"
           }
@@ -234,11 +200,12 @@
         "162617023530160b5c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Designed to get to work from just two hours to visibly bring down the appearance of blemishes by decreasing size, reducing redness, soothing irritation, and replenishing skin. We recommend for best results using this patch overnight to wake up to clearer skin.<\/p>"
           }
         },
         "162617023530160b5c-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -257,11 +224,49 @@
         "layout": "image_first"
       }
     },
+    "1626170242ffa87f4b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1626170242ffa87f4b-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1626170242ffa87f4b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Over 500 ultra-fine serum infused<br\/>microneedles are tightly packed on the patch - 4x more than any other microneedle patch - each microneedle is approximately 1\/3 the thickness of the human hair.<br\/><\/p>"
+          }
+        },
+        "1626170242ffa87f4b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1626170242ffa87f4b-0",
+        "1626170242ffa87f4b-1",
+        "1626170242ffa87f4b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Product_-_Wrinkle-v3.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
     "1626170247b0785461": {
       "type": "image-with-text",
       "blocks": {
         "1626170247b0785461-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image with text"
           }
@@ -269,11 +274,12 @@
         "1626170247b0785461-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>After two hours the microneedles<br\/>self-dissolve releasing the ngredients into the dermal layers to purify from within, prevent bacteria from forming, reduce inflammation, moisturise, soothe and repair your skin.<\/p>"
           }
         },
         "1626170247b0785461-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -289,7 +295,7 @@
         "image": "shopify:\/\/shop_images\/Product_-_Pimple-v2.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "1626170270666543f7": {
@@ -331,7 +337,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
@@ -342,8 +348,8 @@
     "1626248705b8c25b91",
     "16262053277f68e5df",
     "product-recommendations",
-    "1626170242ffa87f4b",
     "162617023530160b5c",
+    "1626170242ffa87f4b",
     "1626170247b0785461",
     "1626170270666543f7"
   ]
