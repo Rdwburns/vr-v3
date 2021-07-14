@@ -396,7 +396,7 @@
         "cb54a1b4-576f-4f13-a32a-0145ca6de647": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Do Microneedle Patches Work?",
             "content": "<p>Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content <\/p>",
             "page": "",
             "icon": "check_mark"
@@ -405,7 +405,7 @@
         "68fbae2d-c403-44bd-8ab8-88ae09d01b00": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Do Microneedle Patches Hurt?",
             "content": "<p>Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content <\/p>",
             "page": "",
             "icon": "check_mark"
@@ -414,17 +414,25 @@
         "1c04b4ee-dc7b-4749-b1f2-c095dd106588": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Are Microneedle Patches Suitable for People Who Have Had Botox?",
             "content": "<p>Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content <\/p>",
             "page": "",
             "icon": "check_mark"
+          }
+        },
+        "f74c604f-6eb1-4c0e-9bcc-d4f59e6a4cdb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More FAQs",
+            "button_link": "shopify:\/\/pages\/faq"
           }
         }
       },
       "block_order": [
         "cb54a1b4-576f-4f13-a32a-0145ca6de647",
         "68fbae2d-c403-44bd-8ab8-88ae09d01b00",
-        "1c04b4ee-dc7b-4749-b1f2-c095dd106588"
+        "1c04b4ee-dc7b-4749-b1f2-c095dd106588",
+        "f74c604f-6eb1-4c0e-9bcc-d4f59e6a4cdb"
       ],
       "settings": {
         "heading": "FAQ"
