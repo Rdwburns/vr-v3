@@ -852,7 +852,7 @@ summary::-webkit-details-marker {
 
 .quote {
   border-left: 2px solid #000000;
-  padding-left: 1rem;
+  padding-left: 2rem;
   font-size: 1.4rem;
   color: rgba(var(--color-foreground), 0.7);
 }

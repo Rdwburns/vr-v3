@@ -6,6 +6,24 @@
     margin-bottom: 5rem;
   }
   
+  .mt-icon {
+    width: 100%;
+    max-width: 700px;
+  }
+
+  .image-surround-heading {
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-family: "GothamBook";
+    font-size: 56pt;
+    margin: 0;
+  }
+
+  .image-surround-headline {
+    justify-content: center;
+  }
+  
+
   @media screen and (min-width: 750px) {
     .image-surround {
       margin-bottom: 5rem;
@@ -14,10 +32,10 @@
       flex-basis: 25%;
     }
     .surround-text-left {
-      text-align: right;
+      text-align: left;
     }
     .surround-text-right {
-      text-align: left;
+      text-align: right;
     }
 
   }
@@ -131,10 +149,6 @@
   }
 
 
-  .image-surround-headline {
-    justify-content: space-around;
-  }
-
   @media screen and (min-width: 750px) {
     .image-surround__grid--reverse .image-surround__content {
       margin-left: auto;
@@ -179,6 +193,13 @@
   
   .image-surround__text p {
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 13px;
+  }
+
+  .image-surround__text strong {
+    font-size: 1.625rem;
+    line-height: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
   }
   

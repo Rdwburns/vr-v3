@@ -4,7 +4,7 @@
   {%- for block in section.blocks -%}
   {%- if block.type == 'heading' -%}
     <div class="image-surround-headline headline-section title-wrapper-with-link title-wrapper--self-padded-mobile">
-        <h2 class="image-surround-heading h1">{{ block.settings.heading}}</h2>
+        <div class="mt-icon">{% render 'icon-microneedle-technology' %}</div>
     </div>
     {%- endif -%}
     {%- endfor -%}

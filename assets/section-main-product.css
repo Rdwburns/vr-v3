@@ -221,6 +221,13 @@ fieldset.product-form__input .form__label {
   margin-bottom: 0;
 }
 
+.product__text.subtitle {
+  color: #E72677;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
 a.product__text {
   display: block;
   text-decoration: none;
@@ -232,8 +239,10 @@ a.product__text {
 }
 
 .product__title {
-  word-break: break-word;
-  margin-bottom: 1.5rem;
+  margin: 0;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
 }
 
 .product__title + .product__text.caption-with-letter-spacing {
@@ -250,6 +259,9 @@ a.product__text {
 
 .product .price {
   align-items: flex-start;
+  font-family: 'GothamBold';
+  font-size: 18pt;
+  letter-spacing: 0.2em;
 }
 
 .product .price--sold-out .price__badge-sold-out {
