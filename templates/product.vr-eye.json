@@ -437,6 +437,50 @@
       "settings": {
         "heading": "FAQ"
       }
+    },
+    "1626333611a776b460": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626333611a776b460-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L6-01_400x_1.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "1626333611a776b460-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L3-01_400x_1.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "1626333611a776b460-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L2-01_400x_1.png",
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1626333611a776b460-0",
+        "1626333611a776b460-1",
+        "1626333611a776b460-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
     }
   },
   "order": [
@@ -450,6 +494,7 @@
     "1626170247b0785461",
     "16262976340da42008",
     "1626170270666543f7",
-    "162627080538092e1b"
+    "162627080538092e1b",
+    "1626333611a776b460"
   ]
 }
