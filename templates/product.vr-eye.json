@@ -508,13 +508,20 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/L2-01_400x_1.png"
           }
+        },
+        "51ce3061-3b5b-4039-be91-6970f9fc910b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/L1-01_1.png"
+          }
         }
       },
       "block_order": [
         "1626334150955f5504-0",
         "1626334150955f5504-1",
         "1626334150955f5504-2",
-        "0492de53-d677-4622-9335-c3758c65858e"
+        "0492de53-d677-4622-9335-c3758c65858e",
+        "51ce3061-3b5b-4039-be91-6970f9fc910b"
       ],
       "settings": {
         "title": "",
