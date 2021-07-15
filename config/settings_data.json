@@ -3,8 +3,8 @@
     "colors_solid_button_labels": "#ffffff",
     "colors_background_1": "#ffffff",
     "colors_background_2": "#FAF1E9",
-    "colors_background_header": "#000000",
-    "colors_text_header": "#ffffff",
+    "colors_background_header": "#ffffff",
+    "colors_text_header": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -27,7 +27,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/White_on_Transparent.png",
+          "logo": "shopify:\/\/shop_images\/Black_on_Transparent.png",
           "logo_width": 100,
           "logo_position": "middle-center",
           "menu": "v3-header",
