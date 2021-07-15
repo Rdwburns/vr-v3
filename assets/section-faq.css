@@ -1,3 +1,30 @@
 .faq-block {
     margin-bottom: 3rem;
+} 
+.faq-more-button-block {
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+}
+.faq-more-button-block > .button {
+    color: #ffffff;
+    background-color: #E72677;
+    border:1px solid #E72677;
+    border-radius: 2%;
+    box-shadow: 0 0 0 0.1rem #E72677;
+}
+.faq-more-button-block > .button:hover {
+    background-color: #d6709b;
+    border:1px solid #d6709b;
+    box-shadow: 0 0 0 0.1rem #d6709b;
+}
+
+.faq-accordion__title {
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.title {
+    letter-spacing: 0.2em;
+    text-transform: uppercase; 
 }
