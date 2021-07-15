@@ -1,5 +1,5 @@
 .multicolumn-images {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 .multicolumn-images .title {
@@ -42,7 +42,6 @@
   }
   
   .multicolumn-images:not(.background-none) .multicolumn-images-card {
-    background: rgba(var(--color-foreground), 0.04);
     height: 100%;
   }
   

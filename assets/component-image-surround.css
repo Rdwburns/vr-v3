@@ -14,6 +14,10 @@
   .mt-icon {
     width: 100%;
     max-width: 700px;
+    display: flex;
+  }
+  .mt-icon svg {
+   margin: 5px;
   }
 
   .image-surround-heading {
@@ -42,7 +46,6 @@
     .surround-text-right {
       text-align: right;
     }
-
   }
 
   @media screen and (max-width: 750px) {
@@ -52,6 +55,15 @@
 
   .grid-item:not(.image-center) {
     text-align: center;
+  }
+  .mt-icon {
+    flex-wrap: wrap;
+  }
+  .icon-discover {
+    height: 15px;
+  }
+  .icon-microneedle-technology {
+    height: 28px;
   }
 
   }
