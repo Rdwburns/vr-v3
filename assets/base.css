@@ -1699,8 +1699,8 @@ input[type='checkbox'] {
 
 .header__heading-logo {
   height: auto;
-  background: #000000;
-  border: 5px solid #000000;
+  background: rgb(var(--color-background-header));
+  border: 5px solid rgb(var(--color-background-header));
   border-radius: 50%;
 }
 
@@ -1830,7 +1830,7 @@ input[type='checkbox'] {
 }
 
 .header__icon svg {
-  stroke: #ffffff;
+  stroke: rgba(var(--color-text-header), 0.75);
   stroke-width: 1px;
 }
 
