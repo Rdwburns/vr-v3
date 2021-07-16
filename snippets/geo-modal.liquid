@@ -1,0 +1,11 @@
+{{ 'geo-lookup.js'  | asset_url | script_tag     }}
+{{ 'component-modal.css' | asset_url | stylesheet_tag }}
+
+<div id="geo-modal" class="modal">
+  <div class="modal-window large">
+    <span class="close" data-dismiss="modal">&times;</span>
+        <h3>Attention!</h3>
+    <div id="modal-text">		
+    </div>	
+  </div>
+</div>

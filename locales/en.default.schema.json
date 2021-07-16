@@ -795,6 +795,9 @@
         "menu": {
           "label": "Menu"
         },
+        "geo-menu": {
+          "label": "Geolocation Menu"
+        },
         "show_line_separator": {
           "label": "Show separator line"
         },
