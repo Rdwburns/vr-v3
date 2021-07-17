@@ -1822,15 +1822,15 @@ input[type='checkbox'] {
 
 /* Header icons */
 .header__icons {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-area: icons;
-  justify-self: end;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: -2rem;
 }
 
 .header__icon svg {
   stroke: rgba(var(--color-text-header), 0.75);
-  stroke-width: 1px;
 }
 
 .header__icon:not(.header__icon--summary),
@@ -1905,6 +1905,12 @@ menu-drawer + .header__search {
   .header:not(.header--top-center) > .header__search,
   .header--top-center * > .header__search {
     display: none;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .header__icon--geo {
+    display: none !important;
   }
 }
 

@@ -242,3 +242,13 @@ details[open].menu-opening > .menu-drawer__submenu {
 .menu-drawer__utility-links .list-social__link:hover {
   color: rgba(var(--color-foreground), 0.75);
 }
+
+.menu-drawer__utility-links {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+
+.menu-drawer__geo {
+  border-bottom: 1px solid #dadada;
+}

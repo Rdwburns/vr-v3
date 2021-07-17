@@ -70,3 +70,32 @@
     padding: 10px;
 }
 
+.geo-pop-modal-text {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+@media screen and (max-width: 750px) {
+	.geo-btn {
+		width: 100%
+	}
+  }
+
+.geo-btn {
+	padding: 5px 10px;
+	margin: 0 10px 10px 0;
+	border: 1px solid black;
+	background-color: white;
+	letter-spacing: 0.2em;
+	text-transform: uppercase;
+	color: #000000;
+	text-decoration: none;
+}
+
+.menu-drawer__account .icon-pin {
+	stroke-width: 1px;
+	margin-right: 1rem;
+	height: 2rem;
+    width: 2rem;
+}
