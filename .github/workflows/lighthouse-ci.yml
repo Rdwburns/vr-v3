@@ -12,7 +12,7 @@ jobs:
         with:
           lhci_min_score_performance: 0.8
           lhci_min_score_accessibility: 0.9
-          store: '${{ secrets.SHOP_STORE }}'
+          store: ${{ secrets.SHOP_STORE }}
           app_id: '${{ secrets.SHOP_APP_ID }}'
           app_password: '${{ secrets.SHOP_APP_PASSWORD }}'
           password: '${{ secrets.SHOP_PASSWORD }}'
