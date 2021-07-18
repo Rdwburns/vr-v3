@@ -5,7 +5,8 @@ jobs:
   lhci:
     name: Lighthouse
     runs-on: ubuntu-latest
-    environment: VR-V3
+    environment: 
+      name: VR-V3
     steps:
       - uses: actions/checkout@v2
       - name: Lighthouse
