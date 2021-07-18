@@ -9,7 +9,8 @@ function json(url) {
 
 function switchCountries(home, destination, destinationUrl){
     document.body.style.overflow = 'hidden'
-    document.getElementById('geo-modal-text').innerHTML = `<p>You are currently on our ${home} site, but you appear to be in ${destination}, would you like to visit that site instead?</p><div class="modal-buttons"><button onclick="window.location.href='${destinationUrl}${path}'">Shop in ${destination}</button><button data-dismiss="modal">Stay Here</button></div>`
+    document.getElementById('geo-modal-home').innerText = `${home}`
+    document.getElementById('geo-modal-destinaton').innerText = `${destination}`
     document.getElementById('geo-modal').classList.add('open');
     document.cookie = `vr_geo=true; path=/; Secure`;
 }
