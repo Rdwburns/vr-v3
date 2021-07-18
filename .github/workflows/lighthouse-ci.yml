@@ -5,17 +5,13 @@ jobs:
   lhci:
     name: Lighthouse
     runs-on: ubuntu-latest
-    environment: 
-      name: VR-V3
     steps:
       - uses: actions/checkout@v2
       - name: Lighthouse
         uses: shopify/lighthouse-ci-action@1.0
         with:
-          lhci_min_score_performance: 0.9
+          lhci_min_score_performance: 0.8
           lhci_min_score_accessibility: 0.9
           store: '${{ secrets.SHOP_STORE }}'
           app_id: '${{ secrets.SHOP_APP_ID }}'
           app_password: '${{ secrets.SHOP_APP_PASSWORD }}'
-        env:
-          lhci_github_app_token: '${{ secrets.LHCI_GITHUB_APP_TOKEN }}'
