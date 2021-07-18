@@ -22,5 +22,5 @@
   </div>
 </div>
 
-{{ 'geo-lookup.js'  | asset_url | script_tag  }}
+<script src="{{ 'geo-lookup.js'  | asset_url }}" defer="defer"></script>
 {{ 'component-modal.css' | asset_url | stylesheet_tag }}
