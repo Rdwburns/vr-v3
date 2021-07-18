@@ -9,8 +9,8 @@ function json(url) {
 
 function switchCountries(home, destination, destinationUrl){
     document.body.style.overflow = 'hidden'
-    document.getElementById('geo-modal-home').innerText = `${home}`
-    document.getElementById('geo-modal-destinaton').innerText = `${destination}`
+    document.getElementById('geo-modal-home').innerHTML = `${home}`
+    document.getElementById('geo-modal-destinaton').innerHTML = `${destination}`
     document.getElementById('geo-modal').classList.add('open');
     document.cookie = `vr_geo=true; path=/; Secure`;
 }
