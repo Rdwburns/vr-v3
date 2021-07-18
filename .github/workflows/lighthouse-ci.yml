@@ -15,3 +15,4 @@ jobs:
           store: '${{ secrets.SHOP_STORE }}'
           app_id: '${{ secrets.SHOP_APP_ID }}'
           app_password: '${{ secrets.SHOP_APP_PASSWORD }}'
+          password: '${{ secrets.SHOP_PASSWORD }}'
