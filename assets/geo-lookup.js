@@ -43,6 +43,7 @@ if (!cookieValue){
             switchCountries(currentSite, data.country_name, 'https://vicereversa.ie')
         }
     });
+    document.body.style.overflow = '';
 }
 
 
