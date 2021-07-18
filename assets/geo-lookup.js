@@ -10,7 +10,7 @@ function json(url) {
 function switchCountries(home, destination, destinationUrl){
     console.log(`${home}, ${destination}, ${destinationUrl}`)
     document.body.style.overflow = 'hidden'
-    document.getElementById('geo-modal-text').innerHTML = `<p>You are currently on our ${home} site, but you appear to be in ${destination}, would you like to visit that site instead?</p><div id="geo-modal-buttons" class="modal-buttons"><button onclick="window.location.href='${destinationUrl}${path}'">Shop in <span id="geo-destination"></span></button><button data-dismiss="modal">Stay Here</button></div>`
+    document.getElementById('geo-modal-text').innerHTML = `<p>You are currently on our ${home} site, but you appear to be in ${destination}, would you like to visit that site instead?</p><div id="geo-modal-buttons" class="modal-buttons"><button onclick="window.location.href='${destinationUrl}${path}'">Shop in ${destination}</button><button data-dismiss="modal">Stay Here</button></div>`
     document.getElementById('geo-modal').classList.add('open');
     document.cookie = `vr_geo=true; path=/; Secure`;
 }
@@ -19,13 +19,6 @@ if (!cookieValue){
     document.addEventListener('click', function (e) {
         e = e || window.event;
         var target = e.target;
-    
-        // Close modal window with 'data-dismiss' attribute or when the backdrop is clicked
-        if ((target.hasAttribute('data-dismiss') && target.getAttribute('data-dismiss') == 'modal') || target.classList.contains('modal')) {
-            var modal = document.querySelector('[class="modal open"]');
-            document.body.style.overflow = ''
-            modal.classList.remove('open');
-        }
         
     }, false);    
     json(`https://api.ipdata.co?api-key=${apiKey}`).then(data => {
@@ -51,7 +44,6 @@ document.addEventListener('click', function (f) {
     f = f || window.event;
     var target = f.target;
 
-    console.log(target)
     if (target.hasAttribute('data-toggle') && target.getAttribute('data-toggle') == 'modal') {
         if (target.hasAttribute('data-target')) {
             document.body.style.overflow = 'hidden'
