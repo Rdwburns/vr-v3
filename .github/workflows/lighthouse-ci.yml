@@ -14,8 +14,8 @@ jobs:
         with:
           lhci_min_score_performance: 0.9
           lhci_min_score_accessibility: 0.9
-          store: ${{ secrets.SHOP_STORE }}
-          app_id: ${{ secrets.SHOP_APP_ID }}
-          app_password: ${{ secrets.SHOP_APP_PASSWORD }}
+          store: '${{ secrets.SHOP_STORE }}'
+          app_id: '${{ secrets.SHOP_APP_ID }}'
+          app_password: '${{ secrets.SHOP_APP_PASSWORD }}'
         env:
-          lhci_github_app_token: ${{ secrets.LHCI_GITHUB_APP_TOKEN }}
+          lhci_github_app_token: '${{ secrets.LHCI_GITHUB_APP_TOKEN }}'
