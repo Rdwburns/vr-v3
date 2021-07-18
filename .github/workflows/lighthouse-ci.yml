@@ -17,3 +17,4 @@ jobs:
           app_password: '${{ secrets.SHOP_APP_PASSWORD }}'
           password: '${{ secrets.SHOP_PASSWORD }}'
           lhci_github_token: '${{ secrets.PERSONAL_ACCESS }}'
+          collection_handle: 'all'
