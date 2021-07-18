@@ -12,6 +12,9 @@ jobs:
         with:
           lhci_min_score_performance: 0.8
           lhci_min_score_accessibility: 0.9
-          store: '${{ secrets.SHOP_STORE }}'
+          store: 'vr-test-2021.myshopify.com'
           app_id: '${{ secrets.SHOP_APP_ID }}'
           app_password: '${{ secrets.SHOP_APP_PASSWORD }}'
+          password: '${{ secrets.SHOP_PASSWORD }}'
+          lhci_github_token: '${{ secrets.PERSONAL_ACCESS }}'
+
