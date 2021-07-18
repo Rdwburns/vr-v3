@@ -1821,7 +1821,7 @@ input[type='checkbox'] {
   flex-wrap: nowrap;
   align-items: center;
   justify-content: center;
-  margin-top: -2rem;
+  margin-top: -1rem;
 }
 
 .header__icon svg {
