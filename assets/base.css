@@ -1706,12 +1706,7 @@ input[type='checkbox'] {
 
 @media screen and (max-width: 991px) {
   .header {
-    height: 50px;
-  }
-
-  .header__icon:not(.header__icon--summary),
-  .header__icon span {
-    margin-top: -2rem;
+    height: 70px;
   }
 
   .header__heading-logo {
