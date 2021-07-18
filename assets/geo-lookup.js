@@ -43,7 +43,6 @@ if (!cookieValue){
             switchCountries(currentSite, data.country_name, 'https://vicereversa.ie')
         }
     });
-    document.body.style.overflow = '';
 }
 
 
@@ -55,6 +54,7 @@ document.addEventListener('click', function (f) {
     console.log(target)
     if (target.hasAttribute('data-toggle') && target.getAttribute('data-toggle') == 'modal') {
         if (target.hasAttribute('data-target')) {
+            document.body.style.overflow = 'hidden'
             document.getElementById('geo-pop-modal').classList.add('open');
         }
     }
