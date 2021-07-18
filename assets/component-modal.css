@@ -21,6 +21,7 @@
 	margin:10% auto;
 	overflow-x:hidden;
     overflow-y:auto;
+	top: 10%;
 }
 .modal-window > h3 {
 	background-color:#eee;
