@@ -31,7 +31,6 @@
     .multicolumn-icons-list__item > svg {
       height: 40px;
       padding-right: 10px;
-      margin-top: -10px;
       stroke: black;
       stroke-width: 3px;
     }
@@ -168,6 +167,11 @@
   
     .multicolumn-icons-list.slider .multicolumn-icons-list__item + .multicolumn-icons-list__item {
       padding-left: 0.5rem;
+    }
+
+    .multicolumn-icons-list__item > svg {
+      width: 7em; 
+      height: auto; 
     }
   }
   
