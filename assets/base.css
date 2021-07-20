@@ -1604,7 +1604,7 @@ input[type='checkbox'] {
   border-radius: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   font-size: 0.9rem;
   bottom: 0.8rem;
   left: 2.2rem;

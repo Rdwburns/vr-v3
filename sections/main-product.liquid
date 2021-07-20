@@ -76,6 +76,8 @@
             <p class="product__text{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle {% elsif block.settings.text_style == 'quote' %} quote {% elsif block.settings.text_style == 'italic' %} italic{% endif %}" {{ block.shopify_attributes }}>
               {{- block.settings.text -}}
             </p>
+          {%- when 'review-stars' -%}
+            <span class="stamped-product-reviews-badge stamped-main-badge" data-id="{{ product.id }}" data-product-sku="{{ product.handle }}" data-product-type="{{product.type}}" data-product-title="{{product.title}}" style="display: inline-block;">{{ product.metafields.stamped.badge }}</span>
           {%- when 'title' -%}
             <h1 class="product__title" {{ block.shopify_attributes }}>
               {{ product.title | escape }}
@@ -278,6 +280,17 @@
                 {%- endform -%}
               </product-form>
 
+              <div class="payment-form__payment-options">
+                <span class="visually-hidden">{{ 'sections.footer.payment' | t }}</span>
+                <ul class="list list-payment" role="list">
+                  {%- for type in shop.enabled_payment_types -%}
+                    <li class="list-payment__item">
+                      {{ type | payment_type_svg_tag: class: 'icon icon--full-color' }}
+                    </li>
+                  {%- endfor -%}
+                </ul>
+              </div>
+
               {{ 'component-pickup-availability.css' | asset_url | stylesheet_tag }}
 
               {%- assign pick_up_availabilities = product.selected_or_first_available_variant.store_availabilities | where: 'pick_up_enabled', true -%}
@@ -334,7 +347,7 @@
               <div class="product-media-modal__model" data-media-id="{{ media.id }}">
                 <product-model class="deferred-media media" style="padding-top: min(calc(100vh - 12rem), 100%)">
             {%- else -%}
-              <deferred-media class="deferred-media media" style="padding-top: min(calc(100vh - 12rem), {{ 1 | divided_by: media.aspect_ratio | times: 100 }}%)" data-media-id="{{ media.id }}">
+              <deferred-media class="deferred-media media" style="padding-top: min(calc(100vh - 12rem), {{ 1 | divided_by: media.aspect_ratio | times: 100 }} %)" data-media-id="{{ media.id }}">
             {%- endif -%}
 
               <button id="Deferred-Poster-Modal-{{ media.id }}" class="deferred-media__poster" type="button">
@@ -718,6 +731,11 @@
           "label": "t:sections.main-product.blocks.popup.settings.page.label"
         }
       ]
+    },
+    {
+      "type": "review-stars",
+      "name": "t:sections.main-product.blocks.review-stars.name",
+      "limit": 1
     }
   ],
   "settings": [

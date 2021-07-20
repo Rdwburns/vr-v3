@@ -485,6 +485,11 @@
         "image_ratio": "adapt",
         "swipe_on_mobile": true
       }
+    },
+    "product_reviews": {
+      "type": "product-reviews",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -499,6 +504,7 @@
     "16262976340da42008",
     "1626170270666543f7",
     "162627080538092e1b",
-    "1626334150955f5504"
+    "1626334150955f5504",
+    "product-reviews"
   ]
 }

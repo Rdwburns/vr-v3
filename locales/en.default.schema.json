@@ -1499,6 +1499,9 @@
               "label": "Page"
             }
           }
+        },
+        "review-stars": {
+          "name": "Review Stars"
         }
       },
       "settings": {
@@ -1819,6 +1822,14 @@
         },
         "show_vendor": {
           "label": "Show vendor"
+        }
+      }
+    },
+    "product-reviews": {
+      "name": "Product reviews",
+      "settings": {
+        "heading": {
+          "label": "Heading"
         }
       }
     },
