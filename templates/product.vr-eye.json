@@ -486,9 +486,22 @@
         "swipe_on_mobile": true
       }
     },
-    "product_reviews": {
-      "type": "product-reviews",
+    "1626903216068cfb52": {
+      "type": "before-after",
       "settings": {
+        "heading": "Before and After",
+        "review_title": "Eva, 21, London",
+        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
+        "after_caption": "After One Application",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Super simple to use and dramatic difference in pimple size overnight. Cannot live without these now!",
+        "button_label": "Button label",
+        "button_link": ""
       }
     }
   },
@@ -505,6 +518,6 @@
     "1626170270666543f7",
     "162627080538092e1b",
     "1626334150955f5504",
-    "product-reviews"
+    "1626903216068cfb52"
   ]
 }

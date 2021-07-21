@@ -31,7 +31,6 @@
           "logo_width": 100,
           "logo_position": "middle-center",
           "menu": "v3-header",
-          "geo_menu": "geo-menu",
           "show_line_separator": false,
           "enable_search": false,
           "enable_sticky_header": false
