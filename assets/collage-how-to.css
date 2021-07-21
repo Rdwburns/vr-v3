@@ -1,0 +1,509 @@
+.collage-how-to-section + .collage-how-to-section .no-heading {
+  margin-top: -4rem;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-section + .collage-how-to-section .no-heading {
+    margin-top: -6rem;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .collage-how-to-wrapper-title {
+    margin-top: -1rem;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-wrapper.no-heading {
+    margin-top: 6rem;
+  }
+}
+
+.collage-how-to-wrapper-title {
+  margin-bottom: 3rem;
+}
+
+.collage-how-to {
+  display: grid;
+  gap: 1rem;
+}
+
+.collage-how-to--mobile {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to {
+    grid-template-columns: minmax(auto, 48rem) minmax(25rem, auto);
+  }
+
+  .collage-how-to--right {
+    grid-template-columns: minmax(25rem, auto) minmax(auto, 48rem);
+  }
+}
+
+@media screen and (min-width: 990px) {
+  .collage-how-to {
+    grid-template-columns: minmax(auto, 73rem) minmax(30rem, 36rem);
+  }
+
+  .collage-how-to--right {
+    grid-template-columns: minmax(36rem, 35rem) minmax(auto, 73rem);
+  }
+}
+
+.collage-how-to-card {
+  position: relative;
+  border: 0.1rem solid rgba(var(--color-foreground), 0.08);
+}
+
+.collage-how-to-card:only-child {
+  grid-column: 1;
+  width: 100%;
+}
+
+@media screen and (max-width: 749px) {
+  .collage-how-to--mobile .collage-how-to-card--left,
+  .collage-how-to--mobile .collage-how-to-card--right {
+    grid-column: 1/ 3;
+  }
+
+  .collage-how-to--mobile .collage-how-to-card:first-child:nth-last-child(2) {
+    grid-column: 1/ 2;
+  }
+
+  .collage-how-to--mobile .collage-how-to-card:nth-child(2):last-child {
+    grid-column: 2/ 3;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-card--left:not(:only-child),
+  .collage-how-to-card--right:not(:only-child) {
+    min-height: 40rem;
+  }
+
+  .collage-how-to-card--left:nth-last-child(3),
+  .collage-how-to-card--right:nth-child(3) {
+    grid-row: 1/ 3;
+  }
+
+  .collage-how-to-card--right {
+    grid-column: 2/ 3;
+  }
+
+  .collage-how-to-card:only-child {
+    grid-column: 1/ 3;
+    max-width: 100%;
+  }
+
+  .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right) > * {
+    /* position: absolute; */
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.collage-how-to-card .card,
+.collage-how-to-card:not(:only-child) .deferred-media {
+  height: 100%;
+}
+
+.collage-how-to-content.deferred-media__poster:focus {
+  outline-offset: 0.3rem;
+}
+
+.collage-how-to-video.collage-how-to-card--left .collage-how-to-content,
+.collage-how-to-video.collage-how-to-card--right .collage-how-to-content {
+  position: absolute;
+}
+
+.collage-how-to-video noscript .collage-how-to-content {
+  width: 100%;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-video .collage-how-to-content {
+    position: absolute;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .collage-how-to-card--left .deferred-media--placeholder,
+  .collage-how-to-card--right .deferred-media--placeholder,
+  .collage-how-to-video-placeholder {
+    padding-bottom: 25rem;
+  }
+}
+
+.collage-how-to-card iframe {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: rgba(var(--color-foreground), 0.03);
+  border: 0;
+}
+
+.collage-how-to-card .card:hover {
+  box-shadow: none;
+}
+
+.collage-how-to-content,
+.collage-how-to-content.card,
+.collage-how-to-content.media,
+.collage-how-to-card__no-image {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.collage-how-to-content {
+  justify-content: center;
+  overflow: hidden;
+}
+
+.collage-how-to-content h3 {
+  margin: 0;
+  word-break: break-word;
+}
+
+.collage-how-to-card.collage-how-to-product:only-child {
+  max-width: 73rem;
+  justify-self: center;
+}
+
+.collage-how-to-product .collage-how-to-card__no-image {
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.collage-how-to-card__description {
+  overflow: hidden;
+}
+
+.card .icon-wrap.collage-how-to-card__arrow {
+  display: none;
+}
+
+.collage-how-to-card--left:not(.collage-how-to-product) .media > .collage-how-to-card__image,
+.collage-how-to-card--right:not(.collage-how-to-product) .media > .collage-how-to-card__image {
+  position: inherit;
+}
+
+@media screen and (max-width: 749px) {
+  .collage-how-to:not(.collage-how-to--mobile) .collage-how-to-card__no-image {
+    min-height: 25rem;
+  }
+
+  .collage-how-to-card__no-image.card__text-spacing {
+    padding: 2rem;
+  }
+
+  .collage-how-to-card--left .collage-how-to-card__no-image h3,
+  .collage-how-to-card--right .collage-how-to-card__no-image h3 {
+    font-size: 3rem;
+  }
+
+  .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right)
+    .collage-how-to-card__description {
+    display: none;
+  }
+
+  .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right)
+    .collage-how-to-card__arrow {
+    display: inline-block;
+  }
+}
+
+.collage-how-to-card--left .collage-how-to-card__no-image,
+.collage-how-to-card--right .collage-how-to-card__no-image,
+.collage-how-to-card--left .placeholder-svg,
+.collage-how-to-card--right .placeholder-svg {
+  min-height: 25rem;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-card--left .collage-how-to-card__no-image,
+  .collage-how-to-card--right .collage-how-to-card__no-image,
+  .collage-how-to-card--left .placeholder-svg,
+  .collage-how-to-card--right .placeholder-svg {
+    min-height: 40rem;
+  }
+
+  .collage-how-to-card__no-image h3 {
+    font-size: 3rem;
+  }
+}
+
+.collage-how-to-card__image-wrapper {
+  flex: 1;
+}
+
+.collage-how-to-card__image-wrapper.media--hover-effect img {
+  will-change: transform;
+}
+
+.collage-how-to-card__image-wrapper > * {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 749px) {
+  .collage-how-to--mobile
+    .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right)
+    .collage-how-to-card__image-wrapper {
+    padding-bottom: 100%;
+  }
+
+  .collage-how-to:not(.collage-how-to--mobile) .media > .collage-how-to-card__image {
+    position: inherit;
+  }
+
+  .collage-how-to:not(.collage-how-to--mobile)
+    .collage-how-to-product.collage-how-to-card--left
+    .collage-how-to-card__image,
+  .collage-how-to:not(.collage-how-to--mobile)
+    .collage-how-to-product.collage-how-to-card--right
+    .collage-how-to-card__image {
+    position: absolute;
+  }
+
+  .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right)
+    .collage-how-to-card-spacing
+    .collage-how-to-card__image-wrapper,
+  .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right)
+    .collage-how-to-card-spacing.collage-how-to-card__image-wrapper {
+    padding-bottom: 0;
+    flex: 0 auto;
+  }
+
+  .collage-how-to--mobile
+    .collage-how-to-card--left
+    + .collage-how-to-card:last-child
+    .collage-how-to-card__image-wrapper,
+  .collage-how-to--mobile.collage-how-to--right
+    .collage-how-to-card:first-child:nth-last-child(2)
+    .collage-how-to-card__image-wrapper {
+    padding-bottom: 0;
+    flex: 1;
+  }
+
+  .collage-how-to--mobile
+    .collage-how-to-card--left
+    + .collage-how-to-card:last-child
+    .collage-how-to-card-spacing
+    .collage-how-to-card__image,
+  .collage-how-to--mobile.collage-how-to--right
+    .collage-how-to-card:first-child:nth-last-child(2)
+    .collage-how-to-card-spacing
+    .collage-how-to-card__image {
+    object-fit: contain;
+    position: absolute;
+    height: 100%;
+  }
+
+  .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right)
+    .collage-how-to-card-spacing
+    .collage-how-to-card__image {
+    position: inherit;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-card--left
+    + .collage-how-to-card:last-child
+    .collage-how-to-card-spacing
+    .collage-how-to-card__image-wrapper,
+  .collage-how-to--right
+    .collage-how-to-card:first-child:nth-last-child(2)
+    .collage-how-to-card-spacing
+    .collage-how-to-card__image-wrapper {
+    padding-bottom: 100%;
+    flex: 0 0 auto;
+  }
+}
+
+.collage-how-to-card-spacing:not(.collage-how-to-card__image-wrapper),
+.collage-how-to-card-spacing > img {
+  padding: 2rem;
+}
+
+.collage-how-to-card-spacing iframe,
+.collage-how-to-video.collage-how-to-card--left .collage-how-to-card-spacing .collage-how-to-content,
+.collage-how-to-video.collage-how-to-card--right .collage-how-to-card-spacing .collage-how-to-content {
+  width: calc(100% - 4rem);
+  height: calc(100% - 4rem);
+}
+
+.collage-how-to-card-spacing .card__text-spacing {
+  padding: 0;
+}
+
+.collage-how-to-card-spacing .collage-how-to-content__info {
+  margin: 1.5rem 0 0;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-card-spacing:not(.collage-how-to-card__image-wrapper),
+  .collage-how-to-card-spacing > img {
+    padding: 3rem;
+  }
+
+  .collage-how-to-card-spacing iframe,
+  .collage-how-to-video.collage-how-to-card--left .collage-how-to-card-spacing .collage-how-to-content,
+  .collage-how-to-video.collage-how-to-card--right .collage-how-to-card-spacing .collage-how-to-content {
+    width: calc(100% - 6rem);
+    height: calc(100% - 6rem);
+  }
+
+  .collage-how-to-card-spacing .collage-how-to-content__info {
+    margin: 1.8rem 0 0;
+  }
+
+  .collage-how-to-card:not(.collage-how-to-card--left, .collage-how-to-card--right)
+    .collage-how-to-card-spacing
+    img {
+    object-fit: contain;
+  }
+}
+
+.collage-how-to-product__badge {
+  position: relative;
+}
+
+.collage-how-to-content__info {
+  margin: 1.5rem 2rem;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-content__info {
+    margin: 2rem 3.5rem;
+  }
+}
+
+/* Video modal testing */
+.collage-how-to-video__modal.collage-how-to-video__modal {
+  box-sizing: border-box;
+  opacity: 0;
+  position: fixed;
+  visibility: hidden;
+  z-index: -1;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  overflow: auto;
+  width: 100%;
+  background: rgba(var(--color-foreground), 0.2);
+  height: 100%;
+}
+
+.collage-how-to-video__modal[open].collage-how-to-video__modal[open] {
+  opacity: 1;
+  visibility: visible;
+  z-index: 101;
+}
+
+.collage-how-to-video__modal-content {
+  background-color: rgb(var(--color-background));
+  overflow: auto;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  padding: 0;
+}
+
+.collage-how-to-video__modal-toggle {
+  background-color: rgb(var(--color-background));
+  border: 0.1rem solid rgba(var(--color-foreground), 0.1);
+  border-radius: 50%;
+  color: rgba(var(--color-foreground), 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: fixed;
+  padding: 1.2rem;
+  z-index: 2;
+  top: 2rem;
+  right: 0.5rem;
+  width: 4rem;
+  margin: 0 0 0 auto;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-video__modal-toggle {
+    right: 4.8rem;
+    top: 3.5rem;
+  }
+}
+
+@media screen and (min-width: 990px) {
+  .collage-how-to-video__modal-toggle {
+    right: 4.3rem;
+    top: 3rem;
+  }
+}
+
+.collage-how-to-video__modal-toggle .icon {
+  height: auto;
+  margin: 0;
+  width: 2.2rem;
+}
+
+.collage-how-to-video__modal-video {
+  width: calc(100% - 1rem);
+  height: calc(100% - 6rem);
+  margin: 0 auto;
+  padding-top: 8rem;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-video__modal-video {
+    width: calc(100% - 9.6rem);
+    height: calc(100% - 7.5rem);
+    padding-top: 9.5rem;
+  }
+}
+
+@media screen and (min-width: 990px) {
+  .collage-how-to-video__modal-video {
+    width: calc(100% - 8.6rem);
+    height: calc(100% - 7rem);
+    padding-top: 9rem;
+  }
+}
+
+.collage-how-to-video__modal-video iframe {
+  width: 100%;
+  height: 100%;
+  position: static;
+}
+
+@media screen and (min-width: 750px) {
+  .collage-how-to-text {
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 0 20px;
+    width: auto;
+    height: auto;
+    position: inherit;
+  }
+  .collage-how-to-text p::first-letter {
+    float: left;
+    font-size: 48px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 15px;
+    padding-left: 0px;
+  }
+}
+
+.collage-how-to-wrapper-title {
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}

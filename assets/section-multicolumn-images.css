@@ -132,7 +132,13 @@
       margin-top: 0;
     }
   }
-  
+
+  @media screen and (min-width: 750px) {
+    .multicolumn-images-list__item {
+        width: calc(20% - 1rem * 3 / 4) !important;
+    }
+  }
+
   @media screen and (min-width: 990px) {
     .multicolumn-images-list__item {
         width: calc(20% - 1rem * 3 / 4) !important;

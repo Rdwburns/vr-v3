@@ -110,6 +110,8 @@
   max-width: 37rem;
   min-width: fit-content;
   border: none;
+  display: flex;
+  justify-content: space-between;
 }
 
 variant-radios,
@@ -123,6 +125,8 @@ variant-selects {
 
 .product-form__input .form__label {
   padding-left: 0;
+  float: left;
+  align-self: center;
 }
 
 fieldset.product-form__input .form__label {
@@ -769,4 +773,14 @@ a.product__text {
     margin: -0.5rem;
     padding-top: 0;
 }
+}
+
+.stamped-badge-caption {
+  padding-left: 15px;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+.stamped-product-reviews-badge {
+  margin: 0;
 }

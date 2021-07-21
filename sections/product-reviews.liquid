@@ -1,6 +1,6 @@
 {{ 'section-product-reviews.css' | asset_url | stylesheet_tag }}
 
-<div id="ProductSection-product-reviews" class="shopify-section js-section__product-reviews">
+<div id="ProductSection-product-reviews" class="shopify-section js-section__product-reviews page-width">
     <section class="section section--mb0 container container--medium container--mob-0">
       <div class="container container--medium">    
       <div class="section__title section__title--center">
@@ -35,6 +35,11 @@
       "id": "heading",
       "default": "Customer Reviews",
       "label": "t:sections.product-reviews.settings.heading.label"
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:sections.product-reviews.presets.name"
     }
   ]
 }

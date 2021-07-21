@@ -341,10 +341,153 @@
               "info": "Select image padding if you don't want your images to be cropped."
             }
           }
+        },
+        "text": {
+          "name": "Text",
+          "settings": {
+            "text": {
+              "label": "Description"
+            }
+          }
         }
       },
       "presets": {
         "name": "Collage"
+      }
+    },
+    "collage-how-to": {
+      "name": "Collage How To",
+      "settings": {
+        "heading": {
+          "label": "Heading"
+        },
+        "desktop_layout": {
+          "label": "Desktop layout",
+          "options__1": {
+            "label": "Left large block"
+          },
+          "options__2": {
+            "label": "Right large block"
+          }
+        },
+        "mobile_layout": {
+          "label": "Mobile layout",
+          "options__1": {
+            "label": "Collage"
+          },
+          "options__2": {
+            "label": "Column"
+          }
+        }
+      },
+      "blocks": {
+        "image": {
+          "name": "Image",
+          "settings": {
+            "image": {
+              "label": "Image"
+            },
+            "image_padding": {
+              "label": "Add image padding",
+              "info": "Select image padding if you don't want your images to be cropped."
+            },
+            "color_scheme": {
+              "options__1": {
+                "label": "Accent 1"
+              },
+              "options__2": {
+                "label": "Accent 2"
+              },
+              "options__3": {
+                "label": "Background 1"
+              },
+              "options__4": {
+                "label": "Background 2"
+              },
+              "options__5": {
+                "label": "Inverse"
+              },
+              "label": "Color scheme",
+              "info": "Select image padding to make color visible."
+            }
+          }
+        },
+        "product": {
+          "name": "Product",
+          "settings": {
+            "product": {
+              "label": "Product"
+            },
+            "secondary_background": {
+              "label": "Show secondary background"
+            },
+            "second_image": {
+              "label": "Show second image on hover"
+            },
+            "image_padding": {
+              "label": "Add image padding",
+              "info": "Select image padding if you don't want your images to be cropped."
+            }
+          }
+        },
+        "collection": {
+          "name": "Collection",
+          "settings": {
+            "collection": {
+              "label": "Collection"
+            },
+            "image_padding": {
+              "label": "Add image padding",
+              "info": "Select image padding if you don't want your images to be cropped."
+            },
+            "color_scheme": {
+              "options__1": {
+                "label": "Accent 1"
+              },
+              "options__2": {
+                "label": "Accent 2"
+              },
+              "options__3": {
+                "label": "Background 1"
+              },
+              "options__4": {
+                "label": "Background 2"
+              },
+              "options__5": {
+                "label": "Inverse"
+              },
+              "label": "Color scheme"
+            }
+          }
+        },
+        "video": {
+          "name": "Video",
+          "settings": {
+            "cover_image": {
+              "label": "Cover image"
+            },
+            "video_url": {
+              "label": "Link",
+              "info": "Videos play in a pop-up if the section contains other blocks.",
+              "placeholder": "Use a YouTube or Vimeo link"
+            },
+            "image_padding": {
+              "label": "Add image padding",
+              "info": "Select image padding if you don't want your images to be cropped."
+            }
+          }
+        },
+        "text": {
+          "name": "Text",
+          "settings": {
+            "text": {
+              "label": "Description"
+            }
+          }
+        }
+      },
+      "presets": {
+        "name": "Collage How To"
       }
     },
     "collection-list": {
@@ -1831,6 +1974,9 @@
         "heading": {
           "label": "Heading"
         }
+      },
+      "presets": {
+        "name": "Product Reviews"
       }
     },
     "rich-text": {
@@ -1877,12 +2023,7 @@
           }
         },
         "text": {
-          "name": "Text",
-          "settings": {
-            "text": {
-              "label": "Description"
-            }
-          }
+          "name": "Text"
         },
         "button": {
           "name": "Button",

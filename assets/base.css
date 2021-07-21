@@ -948,6 +948,10 @@ summary::-webkit-details-marker {
     width: calc(25% - 1rem * 3 / 4);
   }
 
+  .grid--5-col-tablet .grid__item {
+    width: calc(20% - 1rem * 3 / 4);
+  }
+
   .grid--3-col-tablet .grid__item {
     width: calc(33.33% - 1rem * 2 / 3);
   }
