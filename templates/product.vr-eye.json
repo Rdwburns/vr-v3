@@ -503,6 +503,34 @@
         "button_label": "Button label",
         "button_link": ""
       }
+    },
+    "16269032410f2256e7": {
+      "type": "collage-how-to",
+      "blocks": {
+        "16269032410f2256e7-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video for customers using screen readers",
+            "image_padding": false
+          }
+        },
+        "f04bfab5-2596-4e17-82f9-e1729e53353d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>1.Cleanse and dry your face thoroughly. This will help the microneedles to attach properly to your skin.<\/p><p>2.Remove the thin plastic film from each eye mask – careful not to touch those magic microneedles in the centre.<\/p><p>3.Gently place onto the under-eye area and press the mask into skin to activate the microneedles. Do not rub.<\/p><p>4.Leave on for at least two hours, allowing your skin to absorb the ingredients. Remove and discard when done.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16269032410f2256e7-0",
+        "f04bfab5-2596-4e17-82f9-e1729e53353d"
+      ],
+      "settings": {
+        "heading": "How to Apply",
+        "desktop_layout": "left",
+        "mobile_layout": "collage-how-to"
+      }
     }
   },
   "order": [
@@ -518,6 +546,7 @@
     "1626170270666543f7",
     "162627080538092e1b",
     "1626334150955f5504",
-    "1626903216068cfb52"
+    "1626903216068cfb52",
+    "16269032410f2256e7"
   ]
 }
