@@ -2043,6 +2043,93 @@
       "presets": {
         "name": "Rich text"
       }
+    },
+    "before-after": {
+      "name": "Before and After",
+      "settings": {
+        "heading": {
+          "label": "Heading"
+        },
+        "review_title": {
+          "label": "Reviewer Info"
+        },
+        "before_caption": {
+          "label": "Before Caption"
+        },
+        "after_caption": {
+          "label": "After Caption"
+        },
+        "before_image": {
+          "label": "Before Image"
+        },
+        "after_image": {
+          "label": "After Image"
+        },
+        "review": {
+          "label": "Review"
+        },
+        "button_label": {
+          "label": "Button Label",
+          "info": "Button Info"
+        },
+        "button_link": {
+          "label": "Button Link"
+        },
+        "height": {
+          "options__1": {
+            "label": "Adapt to image"
+          },
+          "options__2": {
+            "label": "Small"
+          },
+          "options__3": {
+            "label": "Large"
+          },
+          "label": "Image ratio"
+        },
+        "color_scheme": {
+          "options__1": {
+            "label": "Background 1"
+          },
+          "options__2": {
+            "label": "Background 2"
+          },
+          "options__3": {
+            "label": "Inverse"
+          },
+          "options__4": {
+            "label": "Accent 1"
+          },
+          "options__5": {
+            "label": "Accent 2"
+          },
+          "label": "Color scheme"
+        },
+        "layout": {
+          "options__1": {
+            "label": "Image first"
+          },
+          "options__2": {
+            "label": "Text first"
+          },
+          "label": "Desktop layout",
+          "info": "Image first is the default mobile layout."
+        },
+        "mobile_stack": {
+          "options__1": {
+            "label": "Stack on Mobile"
+          },
+          "options__2": {
+            "label": "Inline on Mobile"
+          },
+          "label": "Mobile layout"
+        }
+      },
+      "blocks": {
+      },
+      "presets": {
+        "name": "Before and After"
+      }
     }
   }
 }
