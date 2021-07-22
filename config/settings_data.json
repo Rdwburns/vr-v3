@@ -2,25 +2,17 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_background_1": "#ffffff",
-    "colors_background_2": "#FAF1E9",
+    "colors_background_2": "#f7f7f7",
     "colors_background_header": "#ffffff",
     "colors_text_header": "#000000",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_tiktok_link": "https:\/\/tiktok.com\/@shopify",
+    "favicon": "shopify:\/\/shop_images\/White_on_Black_bg_new_1ad4cc99-7531-4d1e-9271-83b52ec59d2d.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "announcement-bar-0": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "accent-1",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "announcement-bar-0"
-        ],
         "settings": {
         }
       },
@@ -49,14 +41,14 @@
           "34366a92-c9ce-43c4-8c67-4829ffc821c8": {
             "type": "link_list",
             "settings": {
-              "heading": "Ordering From Us",
+              "heading": "Shopping with Us",
               "menu": "new-theme-footer"
             }
           },
           "1007c9ec-a47a-4fa1-bf33-e914f08de769": {
             "type": "link_list",
             "settings": {
-              "heading": "Shop Internationally",
+              "heading": "International",
               "menu": "new-theme-footer"
             }
           }
