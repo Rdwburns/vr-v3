@@ -4,9 +4,208 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "162696588256da5bed": {
+      "type": "rich-text",
+      "blocks": {
+        "162696588256da5bed-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "What People Say",
+            "heading_size": "medium"
+          }
+        },
+        "162696588256da5bed-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "162696588256da5bed-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "162696588256da5bed-0",
+        "162696588256da5bed-1",
+        "162696588256da5bed-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16269658198e733941": {
+      "type": "quote",
+      "blocks": {
+        "16269658198e733941-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "Quote About the Product"
+          }
+        },
+        "16269658198e733941-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16269658198e733941-0",
+        "16269658198e733941-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1"
+      }
+    },
+    "16269657984747b6e1": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Real Customer Stories",
+        "review_title": "Arthur, 21, Athens",
+        "before_caption": "Day 1",
+        "after_caption": "Day 30",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1626965804b946f1ec": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Arthur, 21, Athens",
+        "before_caption": "Day 1",
+        "after_caption": "Day 30",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first",
+        "mobile_stack": "inline",
+        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "162696582513fc0179": {
+      "type": "rich-text",
+      "blocks": {
+        "162696582513fc0179-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "162696582513fc0179-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "162696582513fc0179-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "162696582513fc0179-0",
+        "162696582513fc0179-1",
+        "162696582513fc0179-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1626965950ed44762a": {
+      "type": "quote",
+      "blocks": {
+        "1626965950ed44762a-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "Quote About the Product"
+          }
+        },
+        "1626965950ed44762a-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626965950ed44762a-0",
+        "1626965950ed44762a-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1"
+      }
+    },
+    "16269658283cd5fd6a": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Arthur, 21, Athens",
+        "before_caption": "Day 1",
+        "after_caption": "Day 30",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first",
+        "mobile_stack": "inline",
+        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "16269658349365adad": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Arthur, 21, Athens",
+        "before_caption": "Day 1",
+        "after_caption": "Day 30",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1626965843cc78f33a": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "162696588256da5bed",
+    "16269658198e733941",
+    "16269657984747b6e1",
+    "1626965804b946f1ec",
+    "162696582513fc0179",
+    "1626965950ed44762a",
+    "16269658283cd5fd6a",
+    "16269658349365adad",
+    "1626965843cc78f33a"
   ]
 }
