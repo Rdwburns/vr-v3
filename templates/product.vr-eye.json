@@ -158,6 +158,24 @@
         "button_link": ""
       }
     },
+    "1626940710a73ccd9b": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Jemima, 21, London",
+        "before_image": "shopify:\/\/shop_images\/image00002.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/image00001.jpg",
+        "after_caption": "After 1 Application",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
     "16262053277f68e5df": {
       "type": "image-surround",
       "blocks": {
@@ -538,24 +556,6 @@
       "settings": {
         "heading": "Customer Reviews"
       }
-    },
-    "1626940710a73ccd9b": {
-      "type": "before-after",
-      "settings": {
-        "heading": "Before and After",
-        "review_title": "Jemima, 21, London",
-        "before_image": "shopify:\/\/shop_images\/image00002.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/image00001.jpg",
-        "after_caption": "After 1 Application",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
-        "button_label": "Button label",
-        "button_link": ""
-      }
     }
   },
   "order": [
@@ -563,6 +563,7 @@
     "1626290450f9c0b3c8",
     "1626248705b8c25b91",
     "1626903216068cfb52",
+    "1626940710a73ccd9b",
     "16262053277f68e5df",
     "product-recommendations",
     "162617023530160b5c",
@@ -573,7 +574,6 @@
     "1626170270666543f7",
     "162627080538092e1b",
     "1626334150955f5504",
-    "16269033832bed337e",
-    "1626940710a73ccd9b"
+    "16269033832bed337e"
   ]
 }
