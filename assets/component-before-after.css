@@ -44,18 +44,8 @@
     margin-bottom: 2rem;
   }
   
-  .before-after:not(.color-scheme-background-1) {
-    margin-bottom: 5rem;
-  }
   
-  .mt-icon {
-    width: 100%;
-    max-width: 700px;
-    display: flex;
-  }
-  .mt-icon svg {
-   margin: 5px;
-  }
+
 
   .before-after-heading {
     text-transform: uppercase;
@@ -93,15 +83,7 @@
   .grid-item:not(.image-center) {
     text-align: center;
   }
-  .mt-icon {
-    flex-wrap: wrap;
-  }
-  .icon-discover {
-    height: 15px;
-  }
-  .icon-microneedle-technology {
-    height: 28px;
-  }
+
 
   }
 

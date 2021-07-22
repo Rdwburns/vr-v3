@@ -182,6 +182,11 @@ html.no-js .no-js-hidden {
   margin: 0 auto;
 }
 
+.page-width--narrow h1 {
+  text-align: center;
+  margin-top: 1.3em;
+}
+
 @media screen and (min-width: 750px) {
   .page-width {
     padding: 0 5rem;
@@ -342,25 +347,29 @@ h5,
 
 @media only screen and (min-width: 750px) {
   .h0 {
-    font-size: 5.2rem;
+    font-size: 4.2rem;
   }
 }
 
 h1,
 .h1 {
   font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
 }
 
 @media only screen and (min-width: 750px) {
   h1,
   .h1 {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
 }
 
 h2,
 .h2 {
   font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
 }
 
 @media only screen and (min-width: 750px) {
@@ -1824,7 +1833,7 @@ input[type='checkbox'] {
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   margin-top: -1rem;
 }
 
@@ -2040,6 +2049,9 @@ details[open] > .header__icon--menu .icon-hamburger {
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-text-header), 0.75);
+  text-transform: uppercase;
+  font-family: "GothamBold";
+  letter-spacing: 0.2em;
 }
 
 .header__menu-item:hover {
@@ -2132,4 +2144,8 @@ details-disclosure > details {
   .overflow-hidden-tablet {
     overflow: auto;
   }
+}
+
+main#MainContent {
+  margin-bottom: 3em;
 }
