@@ -33,6 +33,8 @@
     color: #fff;
     width: 100%;
     height: auto;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
 }
 
 
