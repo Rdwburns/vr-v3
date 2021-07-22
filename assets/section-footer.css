@@ -1,9 +1,5 @@
 .footer {
-  border-top: 0.1rem solid rgba(var(--color-foreground), 0.2);
-}
-
-.footer:not(.color-background-1) {
-  border-top: none;
+  border-top: 0.1rem solid #ddd;
 }
 
 @media screen and (max-width: 749px) {
@@ -427,8 +423,8 @@ footer details[open] summary ~ * {
 }
 
 .footer .accordion .list-menu__item--link {
-  justify-content: center;
-  text-align: center;
+  justify-content: left;
+  text-align: left;
 }
 
 .footer-block__details-content {
