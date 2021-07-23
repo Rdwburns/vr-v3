@@ -237,6 +237,20 @@
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
+        },
+        "526e4c11-b38c-45d2-b702-d2d46a015414": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "9fe6cb01-a951-4e25-8c6e-231144251696": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -245,7 +259,9 @@
         "1626972980f1b89adb-2",
         "6d1d2b31-6b67-4824-bf8e-7abfa80b1196",
         "51ffcdbd-c4ee-4b58-b764-baaf811a0137",
-        "937dc291-dac0-45f9-aa82-90dd20e6af0b"
+        "937dc291-dac0-45f9-aa82-90dd20e6af0b",
+        "526e4c11-b38c-45d2-b702-d2d46a015414",
+        "9fe6cb01-a951-4e25-8c6e-231144251696"
       ],
       "settings": {
         "title": "Multicolumn",
