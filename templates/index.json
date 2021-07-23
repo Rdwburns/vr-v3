@@ -5,35 +5,13 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Talk about your brand"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "c9e3ea83-dca4-4964-a9a4-266ab19e76c6": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "heading": "Why Put up with a pimple?"
           }
         }
       },
       "block_order": [
-        "heading",
-        "button",
-        "c9e3ea83-dca4-4964-a9a4-266ab19e76c6"
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/centered.png",
