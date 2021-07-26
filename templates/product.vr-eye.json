@@ -87,13 +87,13 @@
         "1626290450f9c0b3c8-0": {
           "type": "quote",
           "settings": {
-            "quote": "The Greatest Product to Have Ever Been Invented by Anyone Ever"
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
           }
         },
         "1626290450f9c0b3c8-1": {
           "type": "source",
           "settings": {
-            "source": "<p>Andrew Person, The Guardian<\/p>"
+            "source": "<p>The Telegraph<\/p>"
           }
         }
       },
@@ -144,7 +144,7 @@
       "type": "before-after",
       "settings": {
         "heading": "Before and After",
-        "review_title": "Eva, 21, London",
+        "review_title": "Eva, 30",
         "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
         "before_caption": "Before",
         "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
@@ -162,7 +162,7 @@
       "type": "before-after",
       "settings": {
         "heading": "",
-        "review_title": "Jemima, 21, London",
+        "review_title": "Charlotte, 30",
         "before_image": "shopify:\/\/shop_images\/Jemima_Before.png",
         "before_caption": "Before",
         "after_image": "shopify:\/\/shop_images\/Jemima_After.png",
@@ -171,7 +171,7 @@
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "review": "I love these miracle patches! I have suffered with adult hormonal cystic acne for ages now and have tried everything (or so I thought) these are so easy to use and made a huge difference in stopping the spots coming out to their worst (normally they are so painful) I used a patch two nights in a row and then from then the spots cleared up so much quicker on their own (reducing redness and inflammation).",
         "button_label": "Button label",
         "button_link": ""
       }
@@ -182,43 +182,43 @@
         "16262053277f68e5df-0": {
           "type": "heading",
           "settings": {
-            "heading": "Discover Microneedle Technology"
+            "heading": ""
           }
         },
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Even, effective distribution of active ingredients. <\/p>"
           }
         },
         "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+            "text": "<p><strong>Pyramid Design<\/strong><\/p><p>Patented shape for painless penetration. <\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+            "text": "<p><strong>Crystalised Microneedles<\/strong><\/p><p>High concentration of Hyaluronic Acid, Vitamin C and Peptides in each needle.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+            "text": "<p><strong>Fast Dissolving<\/strong><\/p><p>Microneedles dissolve releasing ingredients from two hours. <\/p>"
           }
         },
         "f681b201-8329-477e-9561-801502724c66": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+            "text": "<p><strong>Vegan<\/strong><\/p><p>High quality ingredients only  <\/p>"
           }
         },
         "aef76901-418c-463a-9c92-f268b4c177d2": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Text about the needles to describe the needles.<\/p>"
+            "text": "<p><strong>Clean Skincare<\/strong><\/p><p>Formulated without fragrance, parabens, phalates and preservatives.<\/p>"
           }
         }
       },
@@ -365,13 +365,13 @@
         "16262976340da42008-0": {
           "type": "quote",
           "settings": {
-            "quote": "Smooths, Plumps and Replenishes"
+            "quote": "THIS 'MIRACLE' PRODUCT COULD BE THE SOLUTION WE'RE ALL SEARCHING FOR."
           }
         },
         "16262976340da42008-1": {
           "type": "source",
           "settings": {
-            "source": "<p>Sally Cylicacid, The Beauty Review<\/p>"
+            "source": "<p>The Sun<\/p>"
           }
         }
       },
