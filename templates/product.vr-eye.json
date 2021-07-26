@@ -62,6 +62,15 @@
           "type": "description",
           "settings": {
           }
+        },
+        "43346853-ad71-4692-98cb-050adb23a273": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingedients",
+            "content": "<p>jflhdsfjdshfkdshfkldashfjkldshflkdjshfkjdshfljadskhfds<\/p>",
+            "page": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
@@ -74,7 +83,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "43346853-ad71-4692-98cb-050adb23a273"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -232,7 +242,7 @@
         "aef76901-418c-463a-9c92-f268b4c177d2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/needle_df95a5d1-78e6-4ee4-9b8c-7779c0ea17c4.jpg",
+        "image": "shopify:\/\/shop_images\/Needle-3600x3600.png",
         "height": "adapt",
         "color_scheme": "background-1"
       }
