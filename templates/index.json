@@ -1,7 +1,47 @@
 {
   "sections": {
+    "1627380753df25bb94": {
+      "type": "custom-header",
+      "blocks": {
+        "1627380753df25bb94-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "1627380753df25bb94-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1627380753df25bb94-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1627380753df25bb94-0",
+        "1627380753df25bb94-1",
+        "1627380753df25bb94-2"
+      ],
+      "settings": {
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -254,6 +294,7 @@
     }
   },
   "order": [
+    "1627380753df25bb94",
     "image_banner",
     "162697265607f0b639",
     "16269727742aaa0df2",
