@@ -63,11 +63,20 @@
           "settings": {
           }
         },
-        "43346853-ad71-4692-98cb-050adb23a273": {
+        "ba8a8d37-00df-43b1-acf1-4e8200c261ff": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Full Ingedients",
-            "content": "<p>jflhdsfjdshfkdshfkldashfjkldshflkdjshfkjdshfljadskhfds<\/p>",
+            "heading": "Full Ingredients",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "d93f353b-f649-49bb-8b3b-67471790acaf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free From",
+            "content": "",
             "page": "",
             "icon": "none"
           }
@@ -84,7 +93,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "43346853-ad71-4692-98cb-050adb23a273"
+        "ba8a8d37-00df-43b1-acf1-4e8200c261ff",
+        "d93f353b-f649-49bb-8b3b-67471790acaf"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -97,7 +107,7 @@
         "1626290450f9c0b3c8-0": {
           "type": "quote",
           "settings": {
-            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+            "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
           }
         },
         "1626290450f9c0b3c8-1": {
@@ -121,7 +131,7 @@
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
-            "title": "Smoothing",
+            "title": "Soothing",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
@@ -242,7 +252,7 @@
         "aef76901-418c-463a-9c92-f268b4c177d2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Needle-3600x3600.png",
+        "image": "shopify:\/\/shop_images\/needle_df95a5d1-78e6-4ee4-9b8c-7779c0ea17c4.jpg",
         "height": "adapt",
         "color_scheme": "background-1"
       }
@@ -375,7 +385,7 @@
         "16262976340da42008-0": {
           "type": "quote",
           "settings": {
-            "quote": "THIS 'MIRACLE' PRODUCT COULD BE THE SOLUTION WE'RE ALL SEARCHING FOR."
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
           }
         },
         "16262976340da42008-1": {
