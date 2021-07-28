@@ -60,6 +60,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -68,6 +69,15 @@
           "settings": {
             "heading": "Full Ingredients",
             "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "79c0e3d7-b086-4581-b31d-2f3768dfa75e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
             "page": "",
             "icon": "none"
           }
@@ -84,7 +94,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "43346853-ad71-4692-98cb-050adb23a273"
+        "43346853-ad71-4692-98cb-050adb23a273",
+        "79c0e3d7-b086-4581-b31d-2f3768dfa75e"
       ],
       "settings": {
         "enable_sticky_info": true,
