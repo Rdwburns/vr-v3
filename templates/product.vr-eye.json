@@ -172,7 +172,8 @@
         "162748427714eba7e0-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "Preservative Free",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
