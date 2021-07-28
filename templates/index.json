@@ -157,6 +157,22 @@
             "title": "",
             "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
           }
+        },
+        "c693a5bb-5faf-462f-850f-d599611660cc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stars_blue.png",
+            "title": "",
+            "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
+          }
+        },
+        "01fd2601-860c-41b6-a895-a52b28e8f229": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stars_yellow.png",
+            "title": "",
+            "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
+          }
         }
       },
       "block_order": [
@@ -165,7 +181,9 @@
         "1626972980f1b89adb-2",
         "6d1d2b31-6b67-4824-bf8e-7abfa80b1196",
         "51ffcdbd-c4ee-4b58-b764-baaf811a0137",
-        "937dc291-dac0-45f9-aa82-90dd20e6af0b"
+        "937dc291-dac0-45f9-aa82-90dd20e6af0b",
+        "c693a5bb-5faf-462f-850f-d599611660cc",
+        "01fd2601-860c-41b6-a895-a52b28e8f229"
       ],
       "settings": {
         "title": "Reviews",
