@@ -333,6 +333,7 @@
       <h1 class="header__heading">
     {%- endif -%}
         <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
+          <span class="h2 logo-text o1">Precision</span>
           {%- if section.settings.logo != blank -%}
             {%- assign image_size = section.settings.logo_width | append: 'x' -%}
             <img srcset="{{ section.settings.logo | img_url: image_size }} 1x, {{ section.settings.logo | img_url: image_size, scale: 2 }} 2x"
@@ -346,6 +347,7 @@
           {%- else -%}
             <span class="h2">{{ shop.name }}</span>
           {%- endif -%}
+          <span class="h2 logo-text o2">Skincare</span>
         </a>
     {%- if request.page_type == 'index' -%}
       </h1>
