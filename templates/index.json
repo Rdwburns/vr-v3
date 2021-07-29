@@ -133,8 +133,28 @@
             "title": "",
             "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
           }
-        },
-        "6d1d2b31-6b67-4824-bf8e-7abfa80b1196": {
+        }
+      },
+      "block_order": [
+        "1626972980f1b89adb-0",
+        "1626972980f1b89adb-1",
+        "1626972980f1b89adb-2"
+      ],
+      "settings": {
+        "title": "What Our Customers Say",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1627485247b9c2be22": {
+      "type": "multicolumn",
+      "blocks": {
+        "1627485247b9c2be22-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/stars_purple.png",
@@ -142,7 +162,7 @@
             "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
           }
         },
-        "51ffcdbd-c4ee-4b58-b764-baaf811a0137": {
+        "1627485247b9c2be22-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/stars_pink.png",
@@ -150,7 +170,7 @@
             "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
           }
         },
-        "c693a5bb-5faf-462f-850f-d599611660cc": {
+        "1627485247b9c2be22-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/stars_blue.png",
@@ -160,15 +180,12 @@
         }
       },
       "block_order": [
-        "1626972980f1b89adb-0",
-        "1626972980f1b89adb-1",
-        "1626972980f1b89adb-2",
-        "6d1d2b31-6b67-4824-bf8e-7abfa80b1196",
-        "51ffcdbd-c4ee-4b58-b764-baaf811a0137",
-        "c693a5bb-5faf-462f-850f-d599611660cc"
+        "1627485247b9c2be22-0",
+        "1627485247b9c2be22-1",
+        "1627485247b9c2be22-2"
       ],
       "settings": {
-        "title": "Reviews",
+        "title": "In The Press",
         "image_width": "third",
         "image_ratio": "adapt",
         "column_alignment": "center",
@@ -232,6 +249,7 @@
     "1627478021f2611bd4",
     "featured_products",
     "1626972980f1b89adb",
+    "1627485247b9c2be22",
     "162697279498067cfb"
   ]
 }

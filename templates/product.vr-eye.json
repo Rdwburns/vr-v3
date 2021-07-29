@@ -60,14 +60,24 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
         "43346853-ad71-4692-98cb-050adb23a273": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Full Ingedients",
-            "content": "<p>jflhdsfjdshfkdshfkldashfjkldshflkdjshfkjdshfljadskhfds<\/p>",
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "79c0e3d7-b086-4581-b31d-2f3768dfa75e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
             "page": "",
             "icon": "none"
           }
@@ -84,7 +94,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "43346853-ad71-4692-98cb-050adb23a273"
+        "43346853-ad71-4692-98cb-050adb23a273",
+        "79c0e3d7-b086-4581-b31d-2f3768dfa75e"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -158,7 +169,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": ""
+            "text": "<p>Vegan product for vegans made in a vegan way. <\/p>"
           }
         },
         "162748427714eba7e0-1": {
@@ -166,22 +177,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
             "title": "Cruelty Free",
-            "text": ""
+            "text": "<p>Bunnies love us because we leave them alone.<\/p>"
           }
         },
         "162748427714eba7e0-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
-            "title": "Preservative Free",
-            "text": ""
+            "title": "No Nasties",
+            "text": "<p>Lovely clean beauty for your skin.<\/p>"
           }
         },
         "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Aqua Free",
+            "text": "<p>Dissolves directly into your skin.<\/p>"
           }
         }
       },
