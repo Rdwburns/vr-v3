@@ -1,3 +1,64 @@
+
+@media screen and (min-width: 769px) {
+  .custom-header-image-overlay {
+    position: relative !important;
+    transform: scale(0.5);
+    object-fit: contain !important;
+  }
+
+  .custom-header-image {
+    transform: scale(1.25) translateX(-25%) translateY(-9%);
+  }
+
+  .custom-header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: ". bb pn";
+    position: relative;
+    min-height: 60rem;
+  }
+
+  .banner__media-overlay {
+    background: none;
+    grid-area: pn;
+  }
+
+  .banner__content {
+    grid-area: bb;
+    z-index: 9;
+  }
+
+  .banner__box {
+    background: none;
+  }
+
+  .banner__heading {
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .banner__heading {
+    font-size: 1.8rem;
+    letter-spacing: 0.2em;
+  }
+  .custom-header-image {
+    position: relative !important;
+    transform: scale(2.5) translateY(-5%);
+    min-height: 40rem;
+  }
+  .banner__media-overlay {
+    position: absolute !important;
+    transform: scale(0.5) translateY(100%);
+    object-fit: contain !important;
+    top: 10%;
+    background: none;
+  }
+  .custom-header-image-overlay {
+    position: relative !important;
+  }
+}
+
 .banner {
     display: flex;
     position: relative;
