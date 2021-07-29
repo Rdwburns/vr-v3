@@ -191,8 +191,9 @@
         "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/030-no_syntethic_colors.png",
+            "title": "Paraben & Phalate Free",
+            "text": ""
           }
         }
       },
