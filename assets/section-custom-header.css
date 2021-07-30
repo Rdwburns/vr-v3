@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 749px) {
   .custom-header-image-overlay {
     position: relative !important;
     transform: scale(0.5);
@@ -12,7 +12,7 @@
 
   .custom-header {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 35% 30% auto;
     grid-template-areas: ". bb pn";
     position: relative;
     min-height: 60rem;
@@ -34,28 +34,38 @@
 
   .banner__heading {
     text-align: left;
+    color: #fff;
+  }
+
+  .banner__box-buttons-mobile {
+    display: none;
   }
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 750px) {
   .banner__heading {
     font-size: 1.8rem;
     letter-spacing: 0.2em;
+    color: #000;
   }
   .custom-header-image {
     position: relative !important;
-    transform: scale(2.5) translateY(-5%);
+    transform: scale(1.75) translateY(-5%);
     min-height: 40rem;
   }
   .banner__media-overlay {
     position: absolute !important;
-    transform: scale(0.5) translateY(100%);
+    transform: scale(0.5) translate(-50%, -50%);
     object-fit: contain !important;
-    top: 10%;
+    left: 50%;
+    top: 50%;
     background: none;
   }
   .custom-header-image-overlay {
     position: relative !important;
+  }
+  .banner__buttons-desktop {
+    display: none !important;
   }
 }
 
@@ -65,6 +75,8 @@
     flex-direction: column;
     min-height: initial;
   }
+
+
   
   @media screen and (max-width: 749px) {
     .banner:not(.banner--stacked) {
@@ -165,7 +177,6 @@
   @media screen and (min-width: 750px) {
     .banner__content {
       padding-bottom: 5rem;
-      padding-top: 5rem;
     }
   }
   
