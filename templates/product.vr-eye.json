@@ -189,25 +189,25 @@
             "text": "<p>Made with peptides to stimulate the body’s natural collagen and elastin production, smoothing fine lines and wrinkles and boosting plumper, youthful-looking skin.<\/p>"
           }
         },
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Skincare",
+            "text": "<p>A targeted treatment to brighten plump and smooth fine lines. This easy to apply solution delivers active ingredients below the surface of the skin, providing faster absorption and faster results. <\/p>"
+          }
+        },
         "1626248705b8c25b91-1": {
           "type": "column",
           "settings": {
             "title": "Visible Improvement",
             "text": "<p>High performance formulation for visibly firmer, brighter, more hydrated skin. Visible improvements become better with continued use.  <\/p>"
           }
-        },
-        "1626248705b8c25b91-2": {
-          "type": "column",
-          "settings": {
-            "title": "Hydrating",
-            "text": "<p>A targeted treatment to brighten plump and smooth fine lines. This easy to apply solution delivers active ingredients below the surface of the skin, providing faster absorption and faster results. <\/p>"
-          }
         }
       },
       "block_order": [
         "1626248705b8c25b91-0",
-        "1626248705b8c25b91-1",
-        "1626248705b8c25b91-2"
+        "1626248705b8c25b91-2",
+        "1626248705b8c25b91-1"
       ],
       "settings": {
         "title": "Key Benefits",
