@@ -4,9 +4,202 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "162799636701fd4175": {
+      "type": "faq",
+      "blocks": {
+        "d9e6ad21-412f-4c59-b7c0-cdf0c2418519": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What forms of payment do you accept?",
+            "content": "<p>We accept all major credit cards, Paypal, Klarna, Apple Pay, Google Pay and Shop Pay.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "67d5adf6-28d4-4120-acc9-777e466c4de1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I order over the phone?",
+            "content": "<p>Yes. Please email us at <a href=\"mailto:support@vicereversa.co.uk\">support@vicereversa.co.uk<\/a> and request a call back with your<br\/>phone number and best time to contact you.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "bde45d77-977b-4f9c-940a-031ce9c652d4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Where are Vice Reversa products shipped from?",
+            "content": "<p>Vice Reversa products are shipped via Royal Mail from our distribution<br\/>centre in the UK.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "75137bd2-cc73-4f9c-93e1-dfd58588c36b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long are shipping times?",
+            "content": "<p>All products will be dispatched within four working days of you placing<br\/>your order. Our standard shipping is 48H tracked post via Royal Mail. We also offer next day shipping with DHL. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "ee94bfe5-1aaf-4065-91c1-6f26f77aec51": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do you ship internationally?",
+            "content": "<p>Yes. For European orders please visit vicereversaskin.eu <\/p><p>For Australia and New Zealand please visit vicereversaskin.com.au<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "96354404-2303-4856-8d2f-1db8fbcac553": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "There’s a problem with my order. How do I get in touch?",
+            "content": "<p>No problem - drop us an email to our customer service team at support@vicereversa.co.uk with your order number and problem. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "14d1c4cf-afdd-4ed3-8bfa-e6644d047ed3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I cancel or change my order after it’s been placed?",
+            "content": "<p>Orders can be cancelled as long as they have not been fulfilled and shipped out yet. If you need to make a change to your order, please don’t hesitate to reach out to our customer service team at support@vicereversa.co.uk.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "d9e6ad21-412f-4c59-b7c0-cdf0c2418519",
+        "67d5adf6-28d4-4120-acc9-777e466c4de1",
+        "bde45d77-977b-4f9c-940a-031ce9c652d4",
+        "75137bd2-cc73-4f9c-93e1-dfd58588c36b",
+        "ee94bfe5-1aaf-4065-91c1-6f26f77aec51",
+        "96354404-2303-4856-8d2f-1db8fbcac553",
+        "14d1c4cf-afdd-4ed3-8bfa-e6644d047ed3"
+      ],
+      "settings": {
+        "heading": "ORDERS AND DELIVERY"
+      }
+    },
+    "16279965287f35667e": {
+      "type": "faq",
+      "blocks": {
+        "1fed90bd-a99b-4875-94a6-f29c6c7bac30": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Vice Reversa products organic or all-natural?",
+            "content": "<p>Vice Reversa is not focused on organic or all-natural formulae. We’re focused on results and finding the best ingredients for clear and smooth skin. <\/p><p>Some of our ingredients are made in labs, but we like to use high concentrations of natural ingredients wherever we can. Our patches are formulated through high-tech engineering utilising a unique delivery system to allow these ingredients to have better efficacy in the inner layers. <\/p><p>Our products are free from potentially harmful ingredients such as parabens, phalates, sulphates, fragrance, preservatives and mineral oil. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "4b2fa9ea-8387-4cc8-a157-a1abec0014b3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the products cruelty free?",
+            "content": "<p>Yes, all of our products are cruelty free. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "8a2ad296-3e12-478e-a381-a42baf563a6c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are your products Vegan?",
+            "content": "<p>Yes, all of our products are fully Vegan and contain no animal sources. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "b85a94e9-ad92-490c-9a61-bd3abe953fd5": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is your packaging recyclable?",
+            "content": "<p>Yes! Our box, film and tray are widely recycled. The foil sachets are not yet recyclable. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "99aa58fc-f73c-43ef-93d5-4f079cce9320": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do you make patches for other areas?",
+            "content": "<p>We love developing and perfecting new products, so stay tuned for more releases. Click here to subscribe to stay up to date.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "2af974a1-3535-4ca8-8e4f-e8dc04083bee": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What is the expiration date on Vice Reversa products?",
+            "content": "<p>Please check the ‘Period After Opening’ symbol on the packaging. <\/p><p>The symbol looks like an open jar with a month to indicate how long the product should remain stable for after opening.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "fad57151-b8f4-4309-8caa-0b8613c6afb4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Where are Vice Reversa patches made?",
+            "content": "<p>Vice Reversa patches are developed and manufactured in South Korea.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "39b1ad97-74f2-41d8-91a9-31964e21e11c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What’s the best way to store my patches?",
+            "content": "<p>Store at room temperature away from direct sunlight. It’s best to keep patches away from moisture. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "1fed90bd-a99b-4875-94a6-f29c6c7bac30",
+        "4b2fa9ea-8387-4cc8-a157-a1abec0014b3",
+        "8a2ad296-3e12-478e-a381-a42baf563a6c",
+        "b85a94e9-ad92-490c-9a61-bd3abe953fd5",
+        "99aa58fc-f73c-43ef-93d5-4f079cce9320",
+        "2af974a1-3535-4ca8-8e4f-e8dc04083bee",
+        "fad57151-b8f4-4309-8caa-0b8613c6afb4",
+        "39b1ad97-74f2-41d8-91a9-31964e21e11c"
+      ],
+      "settings": {
+        "heading": "GENERAL"
+      }
+    },
+    "16279963705fa2cc5b": {
+      "type": "faq",
+      "blocks": {
+        "f9b6adc9-61a0-4a42-ab1d-98f081465c56": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How do I cancel my Subscription?",
+            "content": "<p>Log in to your account <a href=\"https:\/\/vicereversa.co.uk\/account\/login\">here<\/a>, where you will be able to amend your<br\/>subscription details. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "f9b6adc9-61a0-4a42-ab1d-98f081465c56"
+      ],
+      "settings": {
+        "heading": "SUBSCRIPTION"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "162799636701fd4175",
+    "16279965287f35667e",
+    "16279963705fa2cc5b"
   ]
 }
