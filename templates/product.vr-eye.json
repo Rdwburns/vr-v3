@@ -185,22 +185,22 @@
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
-            "title": "Smoothing",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Boosts Collagen Production",
+            "text": "<p>Made with peptides to stimulate the body’s natural collagen and elastin production, smoothing fine lines and wrinkles and boosting plumper, youthful-looking skin.<\/p>"
           }
         },
         "1626248705b8c25b91-1": {
           "type": "column",
           "settings": {
-            "title": "Plumping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Visible Improvement",
+            "text": "<p>High performance formulation for visibly firmer, brighter, more hydrated skin. Visible improvements become better with continued use.  <\/p>"
           }
         },
         "1626248705b8c25b91-2": {
           "type": "column",
           "settings": {
             "title": "Hydrating",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>A targeted treatment to brighten plump and smooth fine lines. This easy to apply solution delivers active ingredients below the surface of the skin, providing faster absorption and faster results. <\/p>"
           }
         }
       },
@@ -216,6 +216,7 @@
     },
     "1626903216068cfb52": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "Before and After",
         "review_title": "Eva, 30",
@@ -234,6 +235,7 @@
     },
     "1626940710a73ccd9b": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Jemima, 21",
@@ -310,6 +312,7 @@
     },
     "162617023530160b5c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
@@ -347,6 +350,7 @@
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
@@ -384,6 +388,7 @@
     },
     "1626170247b0785461": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170247b0785461-0": {
           "type": "heading",
@@ -445,6 +450,7 @@
     },
     "16269032410f2256e7": {
       "type": "collage-how-to",
+      "disabled": true,
       "blocks": {
         "16269032410f2256e7-0": {
           "type": "video",
@@ -479,15 +485,15 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/COLLAGEN-V2_a106de19-e18d-4e67-a106-b6a389a62a7d.jpg",
             "title": "Collagen",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Peptides are amino acids that trigger the body’s natural collagen production, known to improve the skin’s tightness, firmness and elasticity. <\/p>"
           }
         },
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/PEPTIDES_56e6a53f-d6da-49c3-89c2-c659b214b82b.jpg",
-            "title": "Peptides",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Hyaluronic Acid",
+            "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
         },
         "1626170270666543f7-2": {
@@ -495,7 +501,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HYALURONIC_ACID_-_V2_9be83f89-98ed-4167-9b2e-20c66c9d0769.jpg",
             "title": "Vitamin C",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>An antioxidant that restores damage and aids the cell regeneration process, while brightening and evening skin texture.<\/p>"
           }
         }
       },
