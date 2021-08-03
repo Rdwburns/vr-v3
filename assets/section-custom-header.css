@@ -1,3 +1,6 @@
+.custom-header .media {
+ background: #FFD7B7 !important; 
+}
 
 @media screen and (min-width: 749px) {
   .custom-header-image-overlay {
@@ -7,7 +10,7 @@
   }
 
   .custom-header-image {
-    transform: scale(1.25) translateX(-25%) translateY(-9%);
+    transform: scale(1.25) translateX(-33%);
   }
 
   .custom-header {
