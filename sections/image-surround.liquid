@@ -14,7 +14,7 @@
 <div class="image-surround {% if section.settings.full_width %}image-surround--full-width{% else %}page-width{% endif %} color-scheme-{{ section.settings.color_scheme }}">
     <div class="image-surround__grid color-background-1">
         <div class="grid-item flex-vert surround-text-left">
-          {%- for block in section.blocks limit: 4 -%}
+          {%- for block in section.blocks limit: 3 -%}
             <div class="flex__item-vertical image-surround__text rte " {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
           {%- endfor -%}
         </div>
@@ -42,7 +42,7 @@
         </div>
       </div>
       <div class="grid-item flex-vert surround-text-right">
-        {%- for block in section.blocks offset: 4 -%}
+        {%- for block in section.blocks offset: 3 -%}
         <div class="flex__item-vertical image-surround__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
       {%- endfor -%}        </div>
       </div>
@@ -127,7 +127,7 @@
     {
       "type": "text",
       "name": "t:sections.image-surround.blocks.text.name",
-      "limit": 6,
+      "limit": 4,
       "settings": [
         {
             "type": "richtext",
