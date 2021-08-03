@@ -459,7 +459,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "secondary",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
@@ -468,11 +468,11 @@
     "162627080538092e1b": {
       "type": "faq",
       "blocks": {
-        "cb54a1b4-576f-4f13-a32a-0145ca6de647": {
+        "a0f47d26-50dc-45aa-a8e3-aa402b6c4d97": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Do Microneedle Patches Work?",
-            "content": "<p>Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content <\/p>",
+            "heading": "What are microneedles?",
+            "content": "<p>Microneedles are – quite literally – microscopic needles made from crystallised serum of our skin-boosting ingredients. When the microneedles meet the skin the needles fully dissolve releasing the ingredients beneath the skin where they can be most effective delivering powerful and longer-lasting results.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -481,33 +481,115 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Do Microneedle Patches Hurt?",
-            "content": "<p>Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content <\/p>",
+            "content": "<p>No, microneedle patches are completely painless. Microneedles used in at-home procedures are much smaller than those used by dermatologists, making them safe and straightforward to use. You may feel a slight sensation when you first press the patch onto the skin, followed by a warm tingle as the microneedles begin to dissolve.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
-        "1c04b4ee-dc7b-4749-b1f2-c095dd106588": {
+        "8ef761bb-b56d-4459-b606-9beb05c6505c": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Are Microneedle Patches Suitable for People Who Have Had Botox?",
-            "content": "<p>Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content <\/p>",
+            "heading": "Can I reuse Spot Stoppa patches?",
+            "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective. <\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
-        "f74c604f-6eb1-4c0e-9bcc-d4f59e6a4cdb": {
-          "type": "button",
+        "be76ed69-b967-412c-891e-038d7e846af1": {
+          "type": "collapsible_tab",
           "settings": {
-            "button_label": "Read More FAQs",
-            "button_link": "shopify:\/\/pages\/faq"
+            "heading": "What type of spots are Spot Stoppa patches for?",
+            "content": "<p>Our Spot Stoppa patches are designed for early-stage, upcoming pimples that haven’t yet surfaced, deep under-the-skin spots, and stubborn unidentifiable hormonal zits.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "47e33607-196d-4dca-91d3-d8b638b50859": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long will it take to see results?",
+            "content": "<p>We appreciate that results may differ person-to-person, however our patches are designed to get to work after just two hours to visibly reduce the appearance of blemishes by decreasing size, reducing redness, soothing irritation, and replenishing the skin.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "90bb0a4a-b8cc-4d2b-9b79-d44471f41a67": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When should I apply my Spot Stoppa patches? ",
+            "content": "<p>Use our Spot Stoppa patches as soon as you feel the tingle of an early-stage pimple. This is the best time to catch them and avoid the pimple coming to a head. <\/p><p>You can also use our advanced pimple patches on established spots, where the microneedle technology and formula helps to visibly reduce the appearance of blemishes by decreasing size, reducing redness and sooth irritation.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "ff090276-e266-4ded-9165-98188ceba203": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I use Spot Stoppa with other products?",
+            "content": "<p>Our pimple patches are easy to fit into your existing routine. It’s important that they are applied to clean, dry skin and not layered over other topical products such as moisturisers or serums.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "24373709-8156-4b8f-9b10-232c5c7b6c99": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How do I apply my Spot Stoppa Patches?",
+            "content": "<p>Spot Stoppa patches should always be applied to clean dry skin, before using any topical ingredients such as moisturisers or serums. <\/p><p>It’s important to leave the patches on for two hours to allow the ingredients to fully dissolve and get to work. For best results, we recommend applying before bed and wearing overnight for that ‘I-woke-up-like-this’, clear-skin feeling.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "1d1aae41-8732-404a-925c-055b6f7d7fc0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When I remove the Spot Stoppa patch, there is sometimes an outline left on my skin. Is this normal?",
+            "content": "<p>Yes, this is totally normal and should fade within an hour<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "c3fe28c2-09ba-4127-8d21-e608238f748a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Spot Stoppa patches vegan?",
+            "content": "<p>Yes. Our pimple patches only use vegan ingredients.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "81de5390-d049-418c-becb-a3056b2ad8f0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What makes Spot Stoppa patches different from cheaper alternatives? ",
+            "content": "<p>Our products have been designed for all skin types. The patch itself is a medical grade hydrocolloid base that gently extracts impurities and protects against further inflammation. The needles are infused with crystallised salicylic acid, totarol, and green tea extract to tackle even the most stubborn spots. <\/p><p>They’re also boosted with hyaluronic acid, which is incredibly gentle and poses low risk of irritation as the body naturally produces this ingredient. <\/p><p>We do understand that skin sensitivity varies from person-to-person and if you’re unsure of how you will react to these ingredients, try a patch test on the back of your hand before applying to your face.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "9ae3d0a8-ed9f-4043-b8be-05f03576eaf9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What age do you have to be to use Spot Stoppa?",
+            "content": "<p>We know acne isn’t just for teenagers, so we made sure anyone can use our microneedle patches. Spot Stoppa is suitable for all ages and all skin types.<\/p>",
+            "page": "",
+            "icon": "check_mark"
           }
         }
       },
       "block_order": [
-        "cb54a1b4-576f-4f13-a32a-0145ca6de647",
+        "a0f47d26-50dc-45aa-a8e3-aa402b6c4d97",
         "68fbae2d-c403-44bd-8ab8-88ae09d01b00",
-        "1c04b4ee-dc7b-4749-b1f2-c095dd106588",
-        "f74c604f-6eb1-4c0e-9bcc-d4f59e6a4cdb"
+        "8ef761bb-b56d-4459-b606-9beb05c6505c",
+        "be76ed69-b967-412c-891e-038d7e846af1",
+        "47e33607-196d-4dca-91d3-d8b638b50859",
+        "90bb0a4a-b8cc-4d2b-9b79-d44471f41a67",
+        "ff090276-e266-4ded-9165-98188ceba203",
+        "24373709-8156-4b8f-9b10-232c5c7b6c99",
+        "1d1aae41-8732-404a-925c-055b6f7d7fc0",
+        "c3fe28c2-09ba-4127-8d21-e608238f748a",
+        "81de5390-d049-418c-becb-a3056b2ad8f0",
+        "9ae3d0a8-ed9f-4043-b8be-05f03576eaf9"
       ],
       "settings": {
         "heading": "Frequently Asked Questions"
