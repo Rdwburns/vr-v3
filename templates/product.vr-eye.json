@@ -483,7 +483,7 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/COLLAGEN-V2_a106de19-e18d-4e67-a106-b6a389a62a7d.jpg",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
             "title": "Collagen",
             "text": "<p>Peptides are amino acids that trigger the body’s natural collagen production, known to improve the skin’s tightness, firmness and elasticity. <\/p>"
           }
@@ -491,7 +491,7 @@
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PEPTIDES_56e6a53f-d6da-49c3-89c2-c659b214b82b.jpg",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
             "title": "Hyaluronic Acid",
             "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
@@ -499,7 +499,7 @@
         "1626170270666543f7-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HYALURONIC_ACID_-_V2_9be83f89-98ed-4167-9b2e-20c66c9d0769.jpg",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
             "title": "Vitamin C",
             "text": "<p>An antioxidant that restores damage and aids the cell regeneration process, while brightening and evening skin texture.<\/p>"
           }
@@ -515,7 +515,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "secondary",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
