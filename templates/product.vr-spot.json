@@ -208,37 +208,25 @@
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Even, effective distribution of active ingredients. <\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are in fact highly concentrated serums, crystallised. There is no oil involved, and only the absolute minimum of water. They deliver no filler, just killer ingredients.<\/p>"
           }
         },
         "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Pyramid Design<\/strong><\/p><p>Patented shape for painless penetration. <\/p>"
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>Microneedle patches were developed to deliver drugs and vaccines – we’ve changed the active ingredients to apply to skincare, but nothing else. This is medical-grade technology: evidence-based, precision-targeted, ultra-hygienic.<\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystalised Microneedles<\/strong><\/p><p>High concentration of Hyaluronic Acid, Vitamin C and Peptides in each needle.<\/p>"
+            "text": "<p><strong>Perfect pyramid needles<\/strong><\/p><p>Designed to cause no trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Fast Dissolving<\/strong><\/p><p>Microneedles dissolve releasing ingredients from two hours. <\/p>"
-          }
-        },
-        "f681b201-8329-477e-9561-801502724c66": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Vegan<\/strong><\/p><p>High quality ingredients only  <\/p>"
-          }
-        },
-        "aef76901-418c-463a-9c92-f268b4c177d2": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Clean Skincare<\/strong><\/p><p>Formulated without fragrance, parabens, phalates and preservatives.<\/p>"
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers and getting to work from just two hours, you’ll notice results faster than you do with regular skincare.<\/p>"
           }
         }
       },
@@ -247,9 +235,7 @@
         "16262053277f68e5df-1",
         "911212cd-78d6-4d0a-b0a7-92ac6372d412",
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d",
-        "f38976e4-b244-4ad1-a741-c2878db66fc3",
-        "f681b201-8329-477e-9561-801502724c66",
-        "aef76901-418c-463a-9c92-f268b4c177d2"
+        "f38976e4-b244-4ad1-a741-c2878db66fc3"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/needle_df95a5d1-78e6-4ee4-9b8c-7779c0ea17c4.jpg",
@@ -270,6 +256,7 @@
     },
     "162617023530160b5c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
@@ -307,6 +294,7 @@
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
@@ -344,6 +332,7 @@
     },
     "1626170247b0785461": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170247b0785461-0": {
           "type": "heading",
@@ -405,6 +394,7 @@
     },
     "16269032410f2256e7": {
       "type": "collage-how-to",
+      "disabled": true,
       "blocks": {
         "16269032410f2256e7-0": {
           "type": "video",
@@ -437,25 +427,25 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/COLLAGEN-V2_a106de19-e18d-4e67-a106-b6a389a62a7d.jpg",
-            "title": "Collagen",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
+            "title": "Salicylic Acid",
+            "text": "<p>A staple when it comes to blemish prone skin, salicylic acid purges the skin of bacteria and excess oils, unclogs pores and soothes swollen skin.<\/p>"
           }
         },
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PEPTIDES_56e6a53f-d6da-49c3-89c2-c659b214b82b.jpg",
-            "title": "Peptides",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100.jpg",
+            "title": "Totarol",
+            "text": "<p>Totarol antibacterial superpowers reinforcesthe skin’s natural defences against toxins and UV damage, while preventingfuture bacterial infections.<\/p>"
           }
         },
         "1626170270666543f7-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HYALURONIC_ACID_-_V2_9be83f89-98ed-4167-9b2e-20c66c9d0769.jpg",
-            "title": "Vitamin C",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
+            "title": "Green Tea Extract",
+            "text": "<p>A powerful antioxidant that unclogs pores and eliminates surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
           }
         }
       },
