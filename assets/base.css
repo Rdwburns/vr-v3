@@ -1711,7 +1711,7 @@ input[type='checkbox'] {
 }
 
 .header__heading-logo {
-  height: auto;
+  height: intrinsic;
   background: rgb(var(--color-background-header));
   border: 5px solid rgb(var(--color-background-header));
   border-radius: 50%;
@@ -1721,6 +1721,7 @@ input[type='checkbox'] {
   .header__heading-logo {
     width: 50%;
     margin: auto;
+    height: intrinsic;
   }
   .header__heading-link .h2 {
     text-align: center;
