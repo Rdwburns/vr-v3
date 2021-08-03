@@ -102,65 +102,6 @@
         "enable_video_looping": false
       }
     },
-    "1626290450f9c0b3c8": {
-      "type": "quote",
-      "blocks": {
-        "1626290450f9c0b3c8-0": {
-          "type": "quote",
-          "settings": {
-            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
-          }
-        },
-        "1626290450f9c0b3c8-1": {
-          "type": "source",
-          "settings": {
-            "source": "<p>The Telegraph<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626290450f9c0b3c8-0",
-        "1626290450f9c0b3c8-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1"
-      }
-    },
-    "1626248705b8c25b91": {
-      "type": "multicolumn-icons",
-      "blocks": {
-        "1626248705b8c25b91-0": {
-          "type": "column",
-          "settings": {
-            "title": "Smoothing",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626248705b8c25b91-1": {
-          "type": "column",
-          "settings": {
-            "title": "Plumping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1626248705b8c25b91-2": {
-          "type": "column",
-          "settings": {
-            "title": "Hydrating",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626248705b8c25b91-0",
-        "1626248705b8c25b91-1",
-        "1626248705b8c25b91-2"
-      ],
-      "settings": {
-        "title": "Key Benefits",
-        "background_style": "primary"
-      }
-    },
     "162748427714eba7e0": {
       "type": "multicolumn",
       "blocks": {
@@ -214,8 +155,68 @@
         "swipe_on_mobile": false
       }
     },
+    "1626290450f9c0b3c8": {
+      "type": "quote",
+      "blocks": {
+        "1626290450f9c0b3c8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "1626290450f9c0b3c8-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Telegraph<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626290450f9c0b3c8-0",
+        "1626290450f9c0b3c8-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1"
+      }
+    },
+    "1626248705b8c25b91": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "1626248705b8c25b91-0": {
+          "type": "column",
+          "settings": {
+            "title": "Boosts Collagen Production",
+            "text": "<p>Made with peptides to stimulate the body’s natural collagen and elastin production, smoothing fine lines and wrinkles and boosting plumper, youthful-looking skin.<\/p>"
+          }
+        },
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Skincare",
+            "text": "<p>A targeted treatment to brighten plump and smooth fine lines. This easy to apply solution delivers active ingredients below the surface of the skin, providing faster absorption and faster results. <\/p>"
+          }
+        },
+        "1626248705b8c25b91-1": {
+          "type": "column",
+          "settings": {
+            "title": "Visible Improvement",
+            "text": "<p>High performance formulation for visibly firmer, brighter, more hydrated skin. Visible improvements become better with continued use.  <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626248705b8c25b91-0",
+        "1626248705b8c25b91-2",
+        "1626248705b8c25b91-1"
+      ],
+      "settings": {
+        "title": "Key Benefits",
+        "background_style": "primary"
+      }
+    },
     "1626903216068cfb52": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "Before and After",
         "review_title": "Eva, 30",
@@ -234,6 +235,7 @@
     },
     "1626940710a73ccd9b": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Jemima, 21",
@@ -262,48 +264,34 @@
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Even, effective distribution of active ingredients. <\/p>"
-          }
-        },
-        "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Pyramid Design<\/strong><\/p><p>Patented shape for painless penetration. <\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are in fact highly concentrated serums, crystallised. There is no oil involved, and only the absolute minimum of water. They deliver no filler, just killer ingredients.<\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystalised Microneedles<\/strong><\/p><p>High concentration of Hyaluronic Acid, Vitamin C and Peptides in each needle.<\/p>"
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>Microneedle patches were developed to deliver drugs and vaccines – we’ve changed the active ingredients to apply to skincare, but nothing else. This is medical-grade technology: evidence-based, precision-targeted, ultra-hygienic.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Fast Dissolving<\/strong><\/p><p>Microneedles dissolve releasing ingredients from two hours. <\/p>"
+            "text": "<p><strong>Perfect pyramid needles<\/strong><\/p><p>Designed to cause no trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "f681b201-8329-477e-9561-801502724c66": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Vegan<\/strong><\/p><p>High quality ingredients only  <\/p>"
-          }
-        },
-        "aef76901-418c-463a-9c92-f268b4c177d2": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Clean Skincare<\/strong><\/p><p>Formulated without fragrance, parabens, phalates and preservatives.<\/p>"
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers and getting to work from just two hours, you’ll notice results faster than you do with regular skincare.<\/p>"
           }
         }
       },
       "block_order": [
         "16262053277f68e5df-0",
         "16262053277f68e5df-1",
-        "911212cd-78d6-4d0a-b0a7-92ac6372d412",
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d",
         "f38976e4-b244-4ad1-a741-c2878db66fc3",
-        "f681b201-8329-477e-9561-801502724c66",
-        "aef76901-418c-463a-9c92-f268b4c177d2"
+        "f681b201-8329-477e-9561-801502724c66"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Needle-3600x3600.png",
@@ -324,6 +312,7 @@
     },
     "162617023530160b5c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
@@ -361,6 +350,7 @@
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
@@ -398,6 +388,7 @@
     },
     "1626170247b0785461": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170247b0785461-0": {
           "type": "heading",
@@ -459,6 +450,7 @@
     },
     "16269032410f2256e7": {
       "type": "collage-how-to",
+      "disabled": true,
       "blocks": {
         "16269032410f2256e7-0": {
           "type": "video",
@@ -491,25 +483,25 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/COLLAGEN-V2_a106de19-e18d-4e67-a106-b6a389a62a7d.jpg",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
             "title": "Collagen",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Peptides are amino acids that trigger the body’s natural collagen production, known to improve the skin’s tightness, firmness and elasticity. <\/p>"
           }
         },
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PEPTIDES_56e6a53f-d6da-49c3-89c2-c659b214b82b.jpg",
-            "title": "Peptides",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
+            "title": "Hyaluronic Acid",
+            "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
         },
         "1626170270666543f7-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HYALURONIC_ACID_-_V2_9be83f89-98ed-4167-9b2e-20c66c9d0769.jpg",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
             "title": "Vitamin C",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>An antioxidant that restores damage and aids the cell regeneration process, while brightening and evening skin texture.<\/p>"
           }
         }
       },
@@ -523,7 +515,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "secondary",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
@@ -634,9 +626,9 @@
   },
   "order": [
     "main",
+    "162748427714eba7e0",
     "1626290450f9c0b3c8",
     "1626248705b8c25b91",
-    "162748427714eba7e0",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
