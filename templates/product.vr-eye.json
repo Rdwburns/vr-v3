@@ -102,6 +102,59 @@
         "enable_video_looping": false
       }
     },
+    "162748427714eba7e0": {
+      "type": "multicolumn",
+      "blocks": {
+        "162748427714eba7e0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": "<p>Vegan product for vegans made in a vegan way. <\/p>"
+          }
+        },
+        "162748427714eba7e0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": "<p>Bunnies love us because we leave them alone.<\/p>"
+          }
+        },
+        "162748427714eba7e0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": "<p>Lovely clean beauty for your skin.<\/p>"
+          }
+        },
+        "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Aqua Free",
+            "text": "<p>Dissolves directly into your skin.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "162748427714eba7e0-0",
+        "162748427714eba7e0-1",
+        "162748427714eba7e0-2",
+        "be18d4b1-7f75-4ef3-8765-bbbed38ed574"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1626290450f9c0b3c8": {
       "type": "quote",
       "blocks": {
@@ -161,59 +214,6 @@
         "background_style": "primary"
       }
     },
-    "162748427714eba7e0": {
-      "type": "multicolumn",
-      "blocks": {
-        "162748427714eba7e0-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/045-vegan.png",
-            "title": "Vegan",
-            "text": "<p>Vegan product for vegans made in a vegan way. <\/p>"
-          }
-        },
-        "162748427714eba7e0-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": "<p>Bunnies love us because we leave them alone.<\/p>"
-          }
-        },
-        "162748427714eba7e0-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
-            "title": "No Nasties",
-            "text": "<p>Lovely clean beauty for your skin.<\/p>"
-          }
-        },
-        "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/033-petroleum.png",
-            "title": "Aqua Free",
-            "text": "<p>Dissolves directly into your skin.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "162748427714eba7e0-0",
-        "162748427714eba7e0-1",
-        "162748427714eba7e0-2",
-        "be18d4b1-7f75-4ef3-8765-bbbed38ed574"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "third",
-        "image_ratio": "square",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "1626903216068cfb52": {
       "type": "before-after",
       "settings": {
@@ -262,37 +262,37 @@
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Over 2600 Needles<\/strong><\/p><p>Even, effective distribution of active ingredients. <\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are in fact highly concentrated serums, crystallised. There is no oil involved, and only the absolute minimum of water. They deliver no filler, just killer ingredients.<\/p>"
           }
         },
         "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Pyramid Design<\/strong><\/p><p>Patented shape for painless penetration. <\/p>"
+            "text": "<p><\/p><p><strong>Nothing that doesn’t serve skin<\/strong><\/p><p>Our patches contain no parabens, preservatives, fragrance, phthalates or irritants: unlike creams, our technology allows us to use only ingredients that benefit skin.<\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystalised Microneedles<\/strong><\/p><p>High concentration of Hyaluronic Acid, Vitamin C and Peptides in each needle.<\/p>"
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>Microneedle patches were developed to deliver drugs and vaccines – we’ve changed the active ingredients to apply to skincare, but nothing else. This is medical-grade technology: evidence-based, precision-targeted, ultra-hygienic.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Fast Dissolving<\/strong><\/p><p>Microneedles dissolve releasing ingredients from two hours. <\/p>"
+            "text": "<p><strong>Perfect pyramid needles<\/strong><\/p><p>Designed to cause no trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "f681b201-8329-477e-9561-801502724c66": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Vegan<\/strong><\/p><p>High quality ingredients only  <\/p>"
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers and getting to work from just two hours, you’ll notice results faster than you do with regular skincare.<\/p>"
           }
         },
         "aef76901-418c-463a-9c92-f268b4c177d2": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Clean Skincare<\/strong><\/p><p>Formulated without fragrance, parabens, phalates and preservatives.<\/p>"
+            "text": "<p><strong>Tingles, not jabs<\/strong><\/p><p>Our needle depth, shape and material ensure tiny channels are opened in the skin’s upper layer. There’s no pain, just a weirdly addictive tingle.<\/p>"
           }
         }
       },
@@ -634,9 +634,9 @@
   },
   "order": [
     "main",
+    "162748427714eba7e0",
     "1626290450f9c0b3c8",
     "1626248705b8c25b91",
-    "162748427714eba7e0",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
