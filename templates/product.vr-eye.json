@@ -60,7 +60,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
@@ -100,59 +99,6 @@
       "settings": {
         "enable_sticky_info": true,
         "enable_video_looping": false
-      }
-    },
-    "162748427714eba7e0": {
-      "type": "multicolumn",
-      "blocks": {
-        "162748427714eba7e0-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/045-vegan.png",
-            "title": "Vegan",
-            "text": "<p>Vegan product for vegans made in a vegan way. <\/p>"
-          }
-        },
-        "162748427714eba7e0-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": "<p>Bunnies love us because we leave them alone.<\/p>"
-          }
-        },
-        "162748427714eba7e0-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
-            "title": "No Nasties",
-            "text": "<p>Lovely clean beauty for your skin.<\/p>"
-          }
-        },
-        "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/033-petroleum.png",
-            "title": "Aqua Free",
-            "text": "<p>Dissolves directly into your skin.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "162748427714eba7e0-0",
-        "162748427714eba7e0-1",
-        "162748427714eba7e0-2",
-        "be18d4b1-7f75-4ef3-8765-bbbed38ed574"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "third",
-        "image_ratio": "square",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": true
       }
     },
     "1626290450f9c0b3c8": {
@@ -212,6 +158,59 @@
       "settings": {
         "title": "Key Benefits",
         "background_style": "primary"
+      }
+    },
+    "162748427714eba7e0": {
+      "type": "multicolumn",
+      "blocks": {
+        "162748427714eba7e0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": "<p>Vegan product for vegans made in a vegan way. <\/p>"
+          }
+        },
+        "162748427714eba7e0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": "<p>Bunnies love us because we leave them alone.<\/p>"
+          }
+        },
+        "162748427714eba7e0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": "<p>Lovely clean beauty for your skin.<\/p>"
+          }
+        },
+        "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Aqua Free",
+            "text": "<p>Dissolves directly into your skin.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "162748427714eba7e0-0",
+        "162748427714eba7e0-1",
+        "162748427714eba7e0-2",
+        "be18d4b1-7f75-4ef3-8765-bbbed38ed574"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
       }
     },
     "1626903216068cfb52": {
@@ -714,9 +713,9 @@
   },
   "order": [
     "main",
-    "162748427714eba7e0",
     "1626290450f9c0b3c8",
     "1626248705b8c25b91",
+    "162748427714eba7e0",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
