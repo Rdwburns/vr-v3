@@ -132,18 +132,18 @@
     "1626248705b8c25b91": {
       "type": "multicolumn-icons",
       "blocks": {
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+          }
+        },
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
             "title": "Boosts Collagen Production",
             "text": "<p>Made with peptides to stimulate the body’s natural collagen and elastin production, smoothing fine lines and wrinkles and boosting plumper, youthful-looking skin.<\/p>"
-          }
-        },
-        "1626248705b8c25b91-2": {
-          "type": "column",
-          "settings": {
-            "title": "Precision Skincare",
-            "text": "<p>A targeted treatment to brighten plump and smooth fine lines. This easy to apply solution delivers active ingredients below the surface of the skin, providing faster absorption and faster results. <\/p>"
           }
         },
         "1626248705b8c25b91-1": {
@@ -155,8 +155,8 @@
         }
       },
       "block_order": [
-        "1626248705b8c25b91-0",
         "1626248705b8c25b91-2",
+        "1626248705b8c25b91-0",
         "1626248705b8c25b91-1"
       ],
       "settings": {
