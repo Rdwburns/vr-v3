@@ -60,6 +60,7 @@
         },
         "43346853-ad71-4692-98cb-050adb23a273": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Full Ingredients",
             "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
@@ -69,6 +70,7 @@
         },
         "79c0e3d7-b086-4581-b31d-2f3768dfa75e": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Delivery Information",
             "content": "",
@@ -78,6 +80,7 @@
         },
         "9874e8f2-e127-4f07-9c50-1f165dcfa521": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Recommended Use",
             "content": "",
@@ -138,6 +141,46 @@
       "settings": {
         "title": "Key Benefits",
         "background_style": "secondary"
+      }
+    },
+    "16281713360ba03071": {
+      "type": "faq",
+      "blocks": {
+        "6caa32b9-cedd-4839-bfda-55b11b840261": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>For best results, we recommend using twice per week for two weeks, then weekly. You should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use results will get better over time.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week! <br\/>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "6caa32b9-cedd-4839-bfda-55b11b840261",
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083"
+      ],
+      "settings": {
+        "heading": ""
       }
     },
     "1626290450f9c0b3c8": {
@@ -652,12 +695,6 @@
         "heading": "Frequently Asked Questions"
       }
     },
-    "162799731554f1a94f": {
-      "type": "faq",
-      "settings": {
-        "heading": ""
-      }
-    },
     "1626334150955f5504": {
       "type": "multicolumn-images",
       "blocks": {
@@ -716,6 +753,7 @@
   "order": [
     "main",
     "1626248705b8c25b91",
+    "16281713360ba03071",
     "1626290450f9c0b3c8",
     "162748427714eba7e0",
     "1626903216068cfb52",
@@ -729,7 +767,6 @@
     "16269032410f2256e7",
     "1626170270666543f7",
     "162627080538092e1b",
-    "162799731554f1a94f",
     "1626334150955f5504",
     "16269033832bed337e"
   ]

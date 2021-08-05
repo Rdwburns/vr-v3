@@ -214,7 +214,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "1626903216068cfb52": {
