@@ -297,43 +297,6 @@
         "color_scheme": "background-1"
       }
     },
-    "1628173599fd40a94d": {
-      "type": "rich-text",
-      "blocks": {
-        "1628173599fd40a94d-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "medium"
-          }
-        },
-        "1628173599fd40a94d-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1628173599fd40a94d-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "DISCOVER MORE",
-            "button_link": "shopify:\/\/pages\/about",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1628173599fd40a94d-0",
-        "1628173599fd40a94d-1",
-        "1628173599fd40a94d-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -345,6 +308,43 @@
         "show_vendor": false
       }
     },
+    "1628173870a469071e": {
+      "type": "rich-text",
+      "blocks": {
+        "1628173870a469071e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want to know more?",
+            "heading_size": "medium"
+          }
+        },
+        "1628173870a469071e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1628173870a469071e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1628173870a469071e-0",
+        "1628173870a469071e-1",
+        "1628173870a469071e-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "162617023530160b5c": {
       "type": "image-with-text",
       "blocks": {
@@ -352,7 +352,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "162617023530160b5c-1": {
@@ -376,8 +376,8 @@
         "162617023530160b5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1I2A8834_copy.jpg",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/IMG_1098_Facetune_29-04-2021-16-11-24.jpg",
+        "height": "large",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -587,8 +587,8 @@
         "title": "Key Ingredients",
         "image_width": "full",
         "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "secondary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
@@ -775,7 +775,7 @@
     "16269033832bed337e": {
       "type": "product-reviews",
       "settings": {
-        "heading": "Customer Reviews"
+        "heading": "What people say"
       }
     }
   },
@@ -787,8 +787,8 @@
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
-    "1628173599fd40a94d",
     "product-recommendations",
+    "1628173870a469071e",
     "162617023530160b5c",
     "1626170242ffa87f4b",
     "1626170247b0785461",
