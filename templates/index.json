@@ -14,24 +14,30 @@
         "1627380753df25bb94-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_3000.png",
+        "image": "shopify:\/\/shop_images\/Banner_3000_new.png",
         "desktop_text_box_position": "center",
         "color_scheme": "inverse",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
     },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Our Range",
+        "collection": "all-products",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": true,
+        "show_vendor": false
+      }
+    },
     "1627478021f2611bd4": {
       "type": "multicolumn",
       "blocks": {
-        "1627478021f2611bd4-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/vippng.com-south-korea-flag-png-4120245.png",
-            "title": "K-Beauty Technology",
-            "text": "<p>Korean skincare innovation driven by the uncompromising demands of Asian beauty consumers<\/p>"
-          }
-        },
         "1627478021f2611bd4-1": {
           "type": "column",
           "settings": {
@@ -55,13 +61,21 @@
             "title": "Targeted Formulations",
             "text": "<p>Precision means focus – we target the problem precisely, so you only use what, when and where you need to<\/p>"
           }
+        },
+        "1627478021f2611bd4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vippng.com-south-korea-flag-png-4120245.png",
+            "title": "K-Beauty Technology",
+            "text": "<p>Korean skincare innovation driven by the uncompromising demands of Asian beauty consumers<\/p>"
+          }
         }
       },
       "block_order": [
-        "1627478021f2611bd4-0",
         "1627478021f2611bd4-1",
         "1627478021f2611bd4-2",
-        "b47e112b-9315-45c5-a32e-8e381240a9b1"
+        "b47e112b-9315-45c5-a32e-8e381240a9b1",
+        "1627478021f2611bd4-0"
       ],
       "settings": {
         "title": "",
@@ -72,20 +86,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Shop Our Range",
-        "collection": "all-products",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": true,
-        "show_vendor": false
       }
     },
     "1626972980f1b89adb": {
@@ -227,8 +227,8 @@
   },
   "order": [
     "1627380753df25bb94",
-    "1627478021f2611bd4",
     "featured_products",
+    "1627478021f2611bd4",
     "1626972980f1b89adb",
     "1627485247b9c2be22",
     "162697279498067cfb"
