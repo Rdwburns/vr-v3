@@ -58,11 +58,6 @@
             "show_dynamic_checkout": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "ba8a8d37-00df-43b1-acf1-4e8200c261ff": {
           "type": "collapsible_tab",
           "settings": {
@@ -75,7 +70,16 @@
         "d93f353b-f649-49bb-8b3b-67471790acaf": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free From",
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "1ad08b59-2ea2-44b2-9f65-777d3f785d00": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
             "content": "",
             "page": "",
             "icon": "none"
@@ -92,9 +96,9 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "ba8a8d37-00df-43b1-acf1-4e8200c261ff",
-        "d93f353b-f649-49bb-8b3b-67471790acaf"
+        "d93f353b-f649-49bb-8b3b-67471790acaf",
+        "1ad08b59-2ea2-44b2-9f65-777d3f785d00"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -256,7 +260,6 @@
     },
     "162617023530160b5c": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
@@ -268,7 +271,7 @@
         "162617023530160b5c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Designed to get to work from just two hours to visibly bring down the appearance of blemishes by decreasing size, reducing redness, soothing irritation, and replenishing skin. We recommend for best results using this patch overnight to wake up to clearer skin.<\/p>"
+            "text": "<p>Advanced pimple patches designed to tackle stubborn hormonal zits, early-stage pimples and deep under-the-skin spots. The microneedles release powerful ingredients that visibly change the spot’s appearance, colour and size from just two hours. Skin is left feeling soothed and calm, with a clearer complexion.<\/p><p><\/p><p>Each patch features 500 self-dissolving microneedles, which painlessly penetrate the skin to reach spots at their source. As you press on the patch, the needles melt into the skin allowing for fast absorption of active ingredients and quicker results.<\/p>"
           }
         },
         "162617023530160b5c-2": {
@@ -294,7 +297,6 @@
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
@@ -306,7 +308,7 @@
         "1626170242ffa87f4b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Over 500 ultra-fine serum infused<br\/>microneedles are tightly packed on the patch - 4x more than any other microneedle patch - each microneedle is approximately 1\/3 the thickness of the human hair.<br\/><\/p>"
+            "text": "<p>Each microneedle is made from high-quality ingredients to treat deep-rooted spots. Salicylic acid purifies the skin, while reducing oil production and soothing irritation. Totarol is rich in antioxidants and antimicrobial properties, strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p><p>Our efficient and easy-to-use pimple patches deliver targeted treatment to where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently.<\/p>"
           }
         },
         "1626170242ffa87f4b-2": {
@@ -344,7 +346,7 @@
         "1626170247b0785461-1": {
           "type": "text",
           "settings": {
-            "text": "<p>After two hours the microneedles<br\/>self-dissolve releasing the ngredients into the dermal layers to purify from within, prevent bacteria from forming, reduce inflammation, moisturise, soothe and repair your skin.<\/p>"
+            "text": "<p>Our efficient and easy-to-use pimple patches deliver targeted treatment to where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently.<\/p>"
           }
         },
         "1626170247b0785461-2": {
