@@ -484,15 +484,15 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
-            "title": "Collagen",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
+            "title": "Peptides",
             "text": "<p>Peptides are amino acids that trigger the body’s natural collagen production, known to improve the skin’s tightness, firmness and elasticity. <\/p>"
           }
         },
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
             "title": "Hyaluronic Acid",
             "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
