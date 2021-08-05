@@ -3,13 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -90,7 +83,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "subtitle",
         "price",
@@ -139,48 +131,8 @@
         "1626248705b8c25b91-1"
       ],
       "settings": {
-        "title": "Key Benefits",
+        "title": "Why Eye Rejuvenator?",
         "background_style": "secondary"
-      }
-    },
-    "16281713360ba03071": {
-      "type": "faq",
-      "blocks": {
-        "6caa32b9-cedd-4839-bfda-55b11b840261": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Recommended Use",
-            "content": "<p>For best results, we recommend using twice per week for two weeks, then weekly. You should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use results will get better over time.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week! <br\/>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p>",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Delivery Information",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Full Ingredients",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "6caa32b9-cedd-4839-bfda-55b11b840261",
-        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
-        "7eba25f2-92ac-4fc2-b8e6-33773f71e083"
-      ],
-      "settings": {
-        "heading": ""
       }
     },
     "1626290450f9c0b3c8": {
@@ -238,7 +190,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
-            "title": "Aqua Free",
+            "title": "Ultra-Low Water",
             "text": ""
           }
         }
@@ -343,6 +295,43 @@
         "image": "shopify:\/\/shop_images\/Needle-3600x3600.png",
         "height": "adapt",
         "color_scheme": "background-1"
+      }
+    },
+    "1628173599fd40a94d": {
+      "type": "rich-text",
+      "blocks": {
+        "1628173599fd40a94d-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "1628173599fd40a94d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1628173599fd40a94d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "DISCOVER MORE",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1628173599fd40a94d-0",
+        "1628173599fd40a94d-1",
+        "1628173599fd40a94d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "product-recommendations": {
@@ -490,6 +479,46 @@
       ],
       "settings": {
         "color_scheme": "background-1"
+      }
+    },
+    "16281713360ba03071": {
+      "type": "faq",
+      "blocks": {
+        "6caa32b9-cedd-4839-bfda-55b11b840261": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>For best results, we recommend using twice per week for two weeks, then weekly. You should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use results will get better over time.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week! <br\/>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "6caa32b9-cedd-4839-bfda-55b11b840261",
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083"
+      ],
+      "settings": {
+        "heading": ""
       }
     },
     "16269032410f2256e7": {
@@ -753,17 +782,18 @@
   "order": [
     "main",
     "1626248705b8c25b91",
-    "16281713360ba03071",
     "1626290450f9c0b3c8",
     "162748427714eba7e0",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
+    "1628173599fd40a94d",
     "product-recommendations",
     "162617023530160b5c",
     "1626170242ffa87f4b",
     "1626170247b0785461",
     "16262976340da42008",
+    "16281713360ba03071",
     "16269032410f2256e7",
     "1626170270666543f7",
     "162627080538092e1b",
