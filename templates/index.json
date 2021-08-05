@@ -27,9 +27,9 @@
         "1627478021f2611bd4-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/korea.png",
+            "image": "shopify:\/\/shop_images\/vippng.com-south-korea-flag-png-4120245.png",
             "title": "K-Beauty Technology",
-            "text": ""
+            "text": "<p>Korean skincare innovation driven by the uncompromising demands of Asian beauty consumers<\/p>"
           }
         },
         "1627478021f2611bd4-1": {
@@ -37,7 +37,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/120k.png",
             "title": "120,000+ Patches Sold",
-            "text": ""
+            "text": "<p>We’ve been testing, learning and developing in Australia and the UK for over 2 years with tens of thousands of delighted customers<\/p>"
           }
         },
         "1627478021f2611bd4-2": {
@@ -45,7 +45,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/vegan_1.png",
             "title": "Vegan + Cruelty Free",
-            "text": ""
+            "text": "<p>We use the best of nature and science and are free from parabens, phthalates and fragrance<\/p>"
           }
         },
         "b47e112b-9315-45c5-a32e-8e381240a9b1": {
@@ -53,7 +53,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/target_1.png",
             "title": "Targeted Formulations",
-            "text": ""
+            "text": "<p>Precision means focus – we target the problem precisely, so you only use what, when and where you need to<\/p>"
           }
         }
       },
