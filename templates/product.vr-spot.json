@@ -132,6 +132,13 @@
     "1626248705b8c25b91": {
       "type": "multicolumn-icons",
       "blocks": {
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+          }
+        },
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
@@ -145,19 +152,12 @@
             "title": "Visible Results",
             "text": "<p>Designed to be tough on breakouts but gentle on skin with noticeable changes in the appearance of spots from just two hours.<\/p>"
           }
-        },
-        "1626248705b8c25b91-2": {
-          "type": "column",
-          "settings": {
-            "title": "Precision Skincare",
-            "text": "<p>Target and treat individual blemishes or breakouts with an easy to apply solution. Delivering active ingredients<br\/>below the surface of the skin, providing faster absorption and faster results.<\/p>"
-          }
         }
       },
       "block_order": [
+        "1626248705b8c25b91-2",
         "1626248705b8c25b91-0",
-        "1626248705b8c25b91-1",
-        "1626248705b8c25b91-2"
+        "1626248705b8c25b91-1"
       ],
       "settings": {
         "title": "Key Benefits",
