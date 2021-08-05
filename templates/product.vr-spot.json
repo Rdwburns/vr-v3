@@ -164,6 +164,59 @@
         "background_style": "secondary"
       }
     },
+    "162816866649a3b1b1": {
+      "type": "multicolumn",
+      "blocks": {
+        "162816866649a3b1b1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
+          }
+        },
+        "162816866649a3b1b1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        },
+        "162816866649a3b1b1-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": ""
+          }
+        },
+        "d6e983ac-06d4-434c-874d-8245ae55ba49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Aqua-Free",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "162816866649a3b1b1-0",
+        "162816866649a3b1b1-1",
+        "162816866649a3b1b1-2",
+        "d6e983ac-06d4-434c-874d-8245ae55ba49"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1626903216068cfb52": {
       "type": "before-after",
       "settings": {
@@ -656,6 +709,7 @@
     "main",
     "1626290450f9c0b3c8",
     "1626248705b8c25b91",
+    "162816866649a3b1b1",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
