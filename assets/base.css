@@ -1720,7 +1720,7 @@ input[type='checkbox'] {
 @media screen and (max-width: 991px) {
   .header__heading-logo {
     width: 50%;
-    height: 50%;
+    height: 100%;
     margin: auto;
   }
   .header__heading-link .h2 {
