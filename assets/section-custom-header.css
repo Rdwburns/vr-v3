@@ -1,6 +1,15 @@
 .custom-header .media {
- background: #FFD7B7 !important; 
+ background: #FADBE3 !important; 
 }
+
+.custom-header-image {
+  object-position: right center !important;
+}
+
+.custom-banner-box {
+  background: #FADBE3 !important; 
+}
+
 
 @media screen and (min-width: 749px) {
   .custom-header-image-overlay {
@@ -9,14 +18,10 @@
     object-fit: contain !important;
   }
 
-  .custom-header-image {
-    transform: scale(1.25) translateX(-33%);
-  }
-
   .custom-header {
     display: grid;
-    grid-template-columns: 35% 30% auto;
-    grid-template-areas: ". bb pn";
+    grid-template-columns: 35% auto;
+    grid-template-areas: "bb .";
     position: relative;
     min-height: 60rem;
   }
@@ -37,7 +42,8 @@
 
   .banner__heading {
     text-align: left;
-    color: #fff;
+    color: #000;
+    font-size: 2.5vw;
   }
 
   .banner__box-buttons-mobile {
@@ -53,7 +59,6 @@
   }
   .custom-header-image {
     position: relative !important;
-    transform: scale(1.75) translateY(-5%);
     min-height: 40rem;
   }
   .banner__media-overlay {
@@ -177,12 +182,6 @@
     justify-content: center;
   }
   
-  @media screen and (min-width: 750px) {
-    .banner__content {
-      padding-bottom: 5rem;
-    }
-  }
-  
   .banner__box {
     border: 0;
     padding: 4rem 3.5rem;
@@ -254,6 +253,9 @@
     .banner__box {
       padding: 4rem;
       width: 54.8rem;
+      height: 100%;
+      align-items: center;
+      display: flex;
     }
   
     .banner__box > .banner__buttons:only-child .button {
