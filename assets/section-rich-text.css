@@ -41,6 +41,7 @@
   .rich-text {
     /* 5rem margin on left & right */
     width: calc(100% - 10rem);
+    text-align: left;
   }
 
   .rich-text__blocks {
