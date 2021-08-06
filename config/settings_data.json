@@ -25,7 +25,7 @@
           "menu": "v3-header",
           "show_line_separator": false,
           "enable_search": false,
-          "enable_sticky_header": false
+          "enable_sticky_header": true
         }
       },
       "footer": {
