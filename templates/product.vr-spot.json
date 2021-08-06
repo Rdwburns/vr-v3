@@ -319,6 +319,51 @@
         "full_width": false
       }
     },
+    "1626170270666543f7": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626170270666543f7-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
+            "title": "Salicylic Acid",
+            "text": "<p>A staple when it comes to blemish prone skin, salicylic acid purges the skin of bacteria and excess oils, unclogs pores and soothes swollen skin.<\/p>"
+          }
+        },
+        "1626170270666543f7-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100.jpg",
+            "title": "Totarol",
+            "text": "<p>Totarol antibacterial superpowers reinforcesthe skin’s natural defences against toxins and UV damage, while preventingfuture bacterial infections.<\/p>"
+          }
+        },
+        "1626170270666543f7-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
+            "title": "Green Tea Extract",
+            "text": "<p>A powerful antioxidant that unclogs pores and eliminates surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626170270666543f7-0",
+        "1626170270666543f7-1",
+        "1626170270666543f7-2"
+      ],
+      "settings": {
+        "title": "Key Ingredients",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -335,9 +380,8 @@
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": "WANT TO KNOW MORE?"
           }
         },
         "162617023530160b5c-1": {
@@ -494,51 +538,6 @@
         "heading": "How to Apply",
         "desktop_layout": "left",
         "mobile_layout": "collage-how-to"
-      }
-    },
-    "1626170270666543f7": {
-      "type": "multicolumn",
-      "blocks": {
-        "1626170270666543f7-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
-            "title": "Salicylic Acid",
-            "text": "<p>A staple when it comes to blemish prone skin, salicylic acid purges the skin of bacteria and excess oils, unclogs pores and soothes swollen skin.<\/p>"
-          }
-        },
-        "1626170270666543f7-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100.jpg",
-            "title": "Totarol",
-            "text": "<p>Totarol antibacterial superpowers reinforcesthe skin’s natural defences against toxins and UV damage, while preventingfuture bacterial infections.<\/p>"
-          }
-        },
-        "1626170270666543f7-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
-            "title": "Green Tea Extract",
-            "text": "<p>A powerful antioxidant that unclogs pores and eliminates surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626170270666543f7-0",
-        "1626170270666543f7-1",
-        "1626170270666543f7-2"
-      ],
-      "settings": {
-        "title": "Key Ingredients",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
-        "grid_on_mobile": false
       }
     },
     "162627080538092e1b": {
@@ -795,13 +794,13 @@
     "1626290450f9c0b3c8",
     "16262053277f68e5df",
     "1628247699cb016317",
+    "1626170270666543f7",
     "product-recommendations",
     "162617023530160b5c",
     "1626170242ffa87f4b",
     "1626170247b0785461",
     "16262976340da42008",
     "16269032410f2256e7",
-    "1626170270666543f7",
     "162627080538092e1b",
     "1626334150955f5504",
     "162824594567c2397d",
