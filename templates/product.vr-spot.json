@@ -278,6 +278,43 @@
         "color_scheme": "background-1"
       }
     },
+    "1628247699cb016317": {
+      "type": "text-with-background",
+      "blocks": {
+        "1628247699cb016317-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recommended Use",
+            "heading_size": "small"
+          }
+        },
+        "1628247699cb016317-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots, but feel free to apply again, as needed, for deeper, more stubborn spots.<\/p>"
+          }
+        },
+        "1628247699cb016317-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1628247699cb016317-0",
+        "1628247699cb016317-1",
+        "1628247699cb016317-2"
+      ],
+      "settings": {
+        "color_background": "#ffdae3",
+        "color_border": "#e7c6ce",
+        "full_width": false
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -753,6 +790,7 @@
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
+    "1628247699cb016317",
     "product-recommendations",
     "162617023530160b5c",
     "1626170242ffa87f4b",
