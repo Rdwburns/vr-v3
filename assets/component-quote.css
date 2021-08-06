@@ -1,3 +1,9 @@
+.read_more_quote {
+    font-family: "GothamBold";
+    color: #000;
+    letter-spacing: 0.2em;
+}
+
 .point-quote {
     width: 10em;
     display: flex;

@@ -33,6 +33,7 @@
  
    .banner__content {
      grid-area: bb;
+     z-index: 1;
    }
  
    .banner__box {

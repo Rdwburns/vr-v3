@@ -703,6 +703,9 @@
             "label": "Accent 2"
           },
           "label": "Color scheme"
+        },
+        "more": {
+          "label": "View More"
         }
       },
       "blocks": {
@@ -1760,6 +1763,9 @@
         },
         "swipe_on_mobile": {
           "label": "Enable swipe on mobile"
+        },
+        "grid_on_mobile": {
+          "label": "Enable grid on mobile"
         }
       },
       "blocks": {
@@ -2222,6 +2228,59 @@
       },
       "presets": {
         "name": "Custom Header"
+      }
+    },
+    "twb": {
+      "name": "Text with Background",
+      "settings": {
+        "color_background": {
+          "label": "Background Colour"
+        },
+        "color_border": {
+          "label": "Border Colour"
+        },
+        "full_width": {
+          "label": "Make section full width"
+        }
+      },
+      "blocks": {
+        "heading": {
+          "name": "Heading",
+          "settings": {
+            "heading": {
+              "label": "Heading"
+            },
+            "heading_size": {
+              "options__1": {
+                "label": "Small"
+              },
+              "options__2": {
+                "label": "Medium"
+              },
+              "label": "Heading font size"
+            }
+          }
+        },
+        "text": {
+          "name": "Text"
+        },
+        "button": {
+          "name": "Button",
+          "settings": {
+            "button_label": {
+              "label": "Button label"
+            },
+            "button_link": {
+              "label": "Button link"
+            },
+            "button_style_secondary": {
+              "label": "Use outline button style"
+            }
+          }
+        }
+      },
+      "presets": {
+        "name": "Text with Background"
       }
     }
   }

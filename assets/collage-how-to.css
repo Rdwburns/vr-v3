@@ -500,6 +500,15 @@
   }
 }
 
+.collage-how-to-text p::first-letter {
+  float: left;
+  font-size: 48px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 15px;
+  padding-left: 0px;
+}
+
 .collage-how-to-wrapper-title {
   letter-spacing: 0.2em;
   text-transform: uppercase;

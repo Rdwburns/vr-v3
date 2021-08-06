@@ -11,6 +11,9 @@
         <div class="quote-source">{{ block.settings.source }}</div>
     {%- endif -%}
 {% endfor %}
+  {%- if section.settings.more -%}
+    <div class="quote-source"><a class="read_more_quote" href="#ProductSection-product-reviews">Read More Reviews {% render 'icon-caret' %}</a></div>
+  {%- endif -%}
 </div>
  
 {% schema %}
@@ -45,7 +48,13 @@
       ],
       "default": "background-1",
       "label": "t:sections.quote.settings.color_scheme.label"
-    }
+    },
+    {
+      "type": "checkbox",
+      "id": "more",
+      "default": false,
+      "label": "t:sections.quote.settings.more.label"
+  }
   ],
   "blocks": [
     {

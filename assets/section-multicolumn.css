@@ -105,6 +105,10 @@
 }
 
 @media screen and (max-width: 749px) {
+  .mobile__grid {
+
+  }
+
   .multicolumn .page-width {
     padding: 0;
   }

@@ -12,6 +12,24 @@
       <link rel="icon" type="image/png" href="{{ settings.favicon | img_url: '32x32' }}">
     {%- endif -%}
 
+    {% if template.name == "list-collections" or collection.handle == 'all' %}
+    <link rel="canonical" href="https://vicereversa.co.uk/">
+    {% elsif template.name == "article" or template.name == "blog" %}
+      <link rel="canonical" href="{{ canonical_url }}">
+      <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
+      <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
+    {% endif %}
+    {% unless template.name == "list-collections" or collection.handle == 'all' or template.name == "article" or template.name == "blog" or page.handle == "contact"  %}
+      <link rel="canonical" href="{{ canonical_url }}">
+      <link rel="alternate" hreflang="en-au" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com" }}">
+      <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
+      <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
+      <link rel="alternate" hreflang="en-ie" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.eu" | remove: "/de" | remove: "/fr" }}">
+      <link rel="alternate" hreflang="de-de" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/de" }}">
+      <link rel="alternate" hreflang="fr-fr" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/fr" }}">
+    {% endunless %}
+
+
     <title>{{ page_title }}</title>
 
     {% if page_description %}
@@ -162,5 +180,29 @@
     <script src="{{ 'slider.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'variants.js' | asset_url }}" defer="defer"></script>
     {% render "geo-modal" %} 
+
+<!-- Klaviyo CRM -->
+    <script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=R7cuJw"></script>
+    <!-- Stamped.io -->
+    {% unless template.name == "article" %}<script async type="text/javascript" id="stamped-script-widget" data-api-key="pubkey-712rYQA77N6997YM1rD32Ze0lTs1b1" src="https://cdn1.stamped.io/files/widget.min.js"></script>{% endunless %}
+	<!-- Bing Universal Sales Tag -->
+  	<script>(function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "17543739" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script>
+	<!-- Begin ReCharge code -->
+	{% unless template.name == "article" %}{% include 'subscription-theme-footer' %}{% endunless %}
+	<!-- End ReCharge code -->
+  	{% comment %}<!-- Mouseflow -->
+  	{% unless template.name == "article" %}  
+  	<script async type="text/javascript">
+      window._mfq = window._mfq || [];
+      (function() {
+        var mf = document.createElement("script");
+        mf.type = "text/javascript"; mf.defer = true;
+        mf.src = "//cdn.mouseflow.com/projects/6ff260ce-174c-4e6d-9854-379178ad84be.js";
+        document.getElementsByTagName("head")[0].appendChild(mf);
+      })();
+	</script>
+    {% endunless %}{% endcomment %}
+<!--Gorgias Chat Widget Start--><script id="gorgias-chat-widget-install">!function(_){_.GORGIAS_CHAT_APP_ID="7869",_.GORGIAS_CHAT_BASE_URL="us-east1-898b.production.gorgias.chat",_.GORGIAS_API_BASE_URL="config.gorgias.chat";var e=new XMLHttpRequest;e.open("GET","https://config.gorgias.chat/applications/7869",!0),e.onload=function(t){if(4===e.readyState)if(200===e.status){var n=JSON.parse(e.responseText);if(!n.application||!n.bundleVersion)throw new Error("Missing fields in the response body - https://config.gorgias.chat/applications/7869");if(_.GORGIAS_CHAT_APP=n.application,_.GORGIAS_CHAT_BUNDLE_VERSION=n.bundleVersion,n&&n.texts&&(_.GORGIAS_CHAT_TEXTS=n.texts),n&&n.sspTexts&&(_.GORGIAS_CHAT_SELF_SERVICE_PORTAL_TEXTS=n.sspTexts),!document.getElementById("gorgias-chat-container")){var o=document.createElement("div");o.id="gorgias-chat-container",document.body.appendChild(o);var r=document.createElement("script");r.setAttribute("defer",!0),r.src="https://client-builds.production.gorgias.chat/{bundleVersion}/static/js/main.js".replace("{bundleVersion}",n.bundleVersion),document.body.appendChild(r)}}else console.error("Failed request GET - https://config.gorgias.chat/applications/7869")},e.onerror=function(_){console.error(_)},e.send()}(window||{});</script><script id="gorgias-chat-shopify-install">!function(_){_.SHOPIFY_PERMANENT_DOMAIN="{{shop.permanent_domain}}",_.SHOPIFY_CUSTOMER_ID="{{customer.id}}",_.SHOPIFY_CUSTOMER_EMAIL="{{customer.email}}"}(window||{});</script><!--Gorgias Chat Widget End-->
+
   </body>
 </html>
