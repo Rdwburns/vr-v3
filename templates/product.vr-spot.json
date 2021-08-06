@@ -200,9 +200,9 @@
       "settings": {
         "heading": "Before and After",
         "review_title": "Eva, 30",
-        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
+        "before_image": "shopify:\/\/shop_images\/Eva-Before_67e7b24a-82e4-4a6b-a6e9-3ab92efc2ce5.jpg",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
+        "after_image": "shopify:\/\/shop_images\/Eva-After_d50f69e9-b79c-4903-ab06-3851263ebe61.jpg",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -217,10 +217,10 @@
       "type": "before-after",
       "settings": {
         "heading": "",
-        "review_title": "Charlotte, 30",
-        "before_image": "shopify:\/\/shop_images\/Jemima_Before.png",
+        "review_title": "Jemima, 25",
+        "before_image": "shopify:\/\/shop_images\/Jemima_before.jpg",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Jemima_After.png",
+        "after_image": "shopify:\/\/shop_images\/Jemima_after.jpg",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -276,6 +276,43 @@
         "image": "shopify:\/\/shop_images\/needle_df95a5d1-78e6-4ee4-9b8c-7779c0ea17c4.jpg",
         "height": "adapt",
         "color_scheme": "background-1"
+      }
+    },
+    "1628247699cb016317": {
+      "type": "text-with-background",
+      "blocks": {
+        "1628247699cb016317-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recommended Use",
+            "heading_size": "small"
+          }
+        },
+        "1628247699cb016317-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots, but feel free to apply again, as needed, for deeper, more stubborn spots.<\/p>"
+          }
+        },
+        "1628247699cb016317-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1628247699cb016317-0",
+        "1628247699cb016317-1",
+        "1628247699cb016317-2"
+      ],
+      "settings": {
+        "color_background": "#ffdae3",
+        "color_border": "#e7c6ce",
+        "full_width": false
       }
     },
     "product-recommendations": {
@@ -753,6 +790,7 @@
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
+    "1628247699cb016317",
     "product-recommendations",
     "162617023530160b5c",
     "1626170242ffa87f4b",
