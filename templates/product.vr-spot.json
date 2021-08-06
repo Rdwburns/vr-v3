@@ -22,6 +22,11 @@
             "text_style": "subtitle"
           }
         },
+        "b4da7636-b379-4c70-88c5-be3b4c806d42": {
+          "type": "review-stars",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -57,48 +62,19 @@
           "settings": {
             "show_dynamic_checkout": false
           }
-        },
-        "ba8a8d37-00df-43b1-acf1-4e8200c261ff": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Full Ingredients",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "d93f353b-f649-49bb-8b3b-67471790acaf": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Delivery Information",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "1ad08b59-2ea2-44b2-9f65-777d3f785d00": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Recommended Use",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
         "subtitle",
+        "b4da7636-b379-4c70-88c5-be3b4c806d42",
         "price",
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
         "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "ba8a8d37-00df-43b1-acf1-4e8200c261ff",
-        "d93f353b-f649-49bb-8b3b-67471790acaf",
-        "1ad08b59-2ea2-44b2-9f65-777d3f785d00"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -161,7 +137,8 @@
         "1626290450f9c0b3c8-1"
       ],
       "settings": {
-        "color_scheme": "background-1"
+        "color_scheme": "background-1",
+        "more": true
       }
     },
     "162816866649a3b1b1": {
@@ -214,7 +191,8 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": true
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
       }
     },
     "1626903216068cfb52": {
@@ -444,7 +422,8 @@
         "16262976340da42008-1"
       ],
       "settings": {
-        "color_scheme": "background-1"
+        "color_scheme": "background-1",
+        "more": true
       }
     },
     "16269032410f2256e7": {
@@ -517,7 +496,8 @@
         "background_style": "secondary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
       }
     },
     "162627080538092e1b": {
@@ -698,6 +678,66 @@
         "swipe_on_mobile": true
       }
     },
+    "162824594567c2397d": {
+      "type": "faq",
+      "blocks": {
+        "728e6229-ed0f-40dd-b196-ca41d32cf99f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "a77bf69a-42d3-43e2-a04d-eaaea34545ba": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "7dce2f5f-147a-4e9b-9c55-530cd77b32d0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "05cceef3-a7b9-44e3-983e-1cd6e513e545": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the UK?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "a6ea38e0-20bd-459e-8ec6-842103888813": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Any Questions?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "728e6229-ed0f-40dd-b196-ca41d32cf99f",
+        "a77bf69a-42d3-43e2-a04d-eaaea34545ba",
+        "7dce2f5f-147a-4e9b-9c55-530cd77b32d0",
+        "05cceef3-a7b9-44e3-983e-1cd6e513e545",
+        "a6ea38e0-20bd-459e-8ec6-842103888813"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "16269033832bed337e": {
       "type": "product-reviews",
       "settings": {
@@ -722,6 +762,7 @@
     "1626170270666543f7",
     "162627080538092e1b",
     "1626334150955f5504",
+    "162824594567c2397d",
     "16269033832bed337e"
   ]
 }
