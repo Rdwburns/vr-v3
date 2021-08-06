@@ -58,11 +58,6 @@
             "show_dynamic_checkout": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "ba8a8d37-00df-43b1-acf1-4e8200c261ff": {
           "type": "collapsible_tab",
           "settings": {
@@ -75,7 +70,16 @@
         "d93f353b-f649-49bb-8b3b-67471790acaf": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free From",
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "1ad08b59-2ea2-44b2-9f65-777d3f785d00": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
             "content": "",
             "page": "",
             "icon": "none"
@@ -92,13 +96,48 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "ba8a8d37-00df-43b1-acf1-4e8200c261ff",
-        "d93f353b-f649-49bb-8b3b-67471790acaf"
+        "d93f353b-f649-49bb-8b3b-67471790acaf",
+        "1ad08b59-2ea2-44b2-9f65-777d3f785d00"
       ],
       "settings": {
         "enable_sticky_info": true,
         "enable_video_looping": false
+      }
+    },
+    "1626248705b8c25b91": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+          }
+        },
+        "1626248705b8c25b91-0": {
+          "type": "column",
+          "settings": {
+            "title": "Spot-Busting Formulation",
+            "text": "<p>The fast-acting formula melts into skin treating spots at their core. Soothing skin from within calming inflammation, detoxifying pores, and reversing breakouts. <\/p>"
+          }
+        },
+        "1626248705b8c25b91-1": {
+          "type": "column",
+          "settings": {
+            "title": "Visible Results",
+            "text": "<p>Designed to be tough on breakouts but gentle on skin with noticeable changes in the appearance of spots from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626248705b8c25b91-2",
+        "1626248705b8c25b91-0",
+        "1626248705b8c25b91-1"
+      ],
+      "settings": {
+        "title": "Key Benefits",
+        "background_style": "secondary"
       }
     },
     "1626290450f9c0b3c8": {
@@ -125,39 +164,57 @@
         "color_scheme": "background-1"
       }
     },
-    "1626248705b8c25b91": {
-      "type": "multicolumn-icons",
+    "162816866649a3b1b1": {
+      "type": "multicolumn",
       "blocks": {
-        "1626248705b8c25b91-0": {
+        "162816866649a3b1b1-0": {
           "type": "column",
           "settings": {
-            "title": "Spot-Busting Formulation",
-            "text": "<p>The fast-acting formula melts into skin treating spots at their core. Soothing skin from within calming inflammation, detoxifying pores, and reversing breakouts. <\/p>"
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
           }
         },
-        "1626248705b8c25b91-1": {
+        "162816866649a3b1b1-1": {
           "type": "column",
           "settings": {
-            "title": "Visible Results",
-            "text": "<p>Designed to be tough on breakouts but gentle on skin with noticeable changes in the appearance of spots from just two hours.<\/p>"
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
           }
         },
-        "1626248705b8c25b91-2": {
+        "162816866649a3b1b1-2": {
           "type": "column",
           "settings": {
-            "title": "Precision Skincare",
-            "text": "<p>Target and treat individual blemishes or breakouts with an easy to apply solution. Delivering active ingredients<br\/>below the surface of the skin, providing faster absorption and faster results.<\/p>"
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": ""
+          }
+        },
+        "d6e983ac-06d4-434c-874d-8245ae55ba49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Aqua-Free",
+            "text": ""
           }
         }
       },
       "block_order": [
-        "1626248705b8c25b91-0",
-        "1626248705b8c25b91-1",
-        "1626248705b8c25b91-2"
+        "162816866649a3b1b1-0",
+        "162816866649a3b1b1-1",
+        "162816866649a3b1b1-2",
+        "d6e983ac-06d4-434c-874d-8245ae55ba49"
       ],
       "settings": {
-        "title": "Key Benefits",
-        "background_style": "secondary"
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
       }
     },
     "1626903216068cfb52": {
@@ -256,7 +313,6 @@
     },
     "162617023530160b5c": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
@@ -268,7 +324,7 @@
         "162617023530160b5c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Designed to get to work from just two hours to visibly bring down the appearance of blemishes by decreasing size, reducing redness, soothing irritation, and replenishing skin. We recommend for best results using this patch overnight to wake up to clearer skin.<\/p>"
+            "text": "<p>Advanced pimple patches designed to tackle stubborn hormonal zits, early-stage pimples and deep under-the-skin spots. The microneedles release powerful ingredients that visibly change the spot’s appearance, colour and size from just two hours. Skin is left feeling soothed and calm, with a clearer complexion.<\/p><p><\/p><p>Each patch features 500 self-dissolving microneedles, which painlessly penetrate the skin to reach spots at their source. As you press on the patch, the needles melt into the skin allowing for fast absorption of active ingredients and quicker results.<\/p>"
           }
         },
         "162617023530160b5c-2": {
@@ -294,7 +350,6 @@
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
@@ -306,7 +361,7 @@
         "1626170242ffa87f4b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Over 500 ultra-fine serum infused<br\/>microneedles are tightly packed on the patch - 4x more than any other microneedle patch - each microneedle is approximately 1\/3 the thickness of the human hair.<br\/><\/p>"
+            "text": "<p>Each microneedle is made from high-quality ingredients to treat deep-rooted spots. Salicylic acid purifies the skin, while reducing oil production and soothing irritation. Totarol is rich in antioxidants and antimicrobial properties, strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p><p>Our efficient and easy-to-use pimple patches deliver targeted treatment to where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently.<\/p>"
           }
         },
         "1626170242ffa87f4b-2": {
@@ -344,7 +399,7 @@
         "1626170247b0785461-1": {
           "type": "text",
           "settings": {
-            "text": "<p>After two hours the microneedles<br\/>self-dissolve releasing the ngredients into the dermal layers to purify from within, prevent bacteria from forming, reduce inflammation, moisturise, soothe and repair your skin.<\/p>"
+            "text": "<p>Our efficient and easy-to-use pimple patches deliver targeted treatment to where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently.<\/p>"
           }
         },
         "1626170247b0785461-2": {
@@ -652,8 +707,9 @@
   },
   "order": [
     "main",
-    "1626290450f9c0b3c8",
     "1626248705b8c25b91",
+    "1626290450f9c0b3c8",
+    "162816866649a3b1b1",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",

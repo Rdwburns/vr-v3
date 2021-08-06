@@ -3,13 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -58,13 +51,9 @@
             "show_dynamic_checkout": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "43346853-ad71-4692-98cb-050adb23a273": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Full Ingredients",
             "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
@@ -74,8 +63,19 @@
         },
         "79c0e3d7-b086-4581-b31d-2f3768dfa75e": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "9874e8f2-e127-4f07-9c50-1f165dcfa521": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Recommended Use",
             "content": "",
             "page": "",
             "icon": "none"
@@ -83,7 +83,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "subtitle",
         "price",
@@ -92,13 +91,48 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "43346853-ad71-4692-98cb-050adb23a273",
-        "79c0e3d7-b086-4581-b31d-2f3768dfa75e"
+        "79c0e3d7-b086-4581-b31d-2f3768dfa75e",
+        "9874e8f2-e127-4f07-9c50-1f165dcfa521"
       ],
       "settings": {
         "enable_sticky_info": true,
         "enable_video_looping": false
+      }
+    },
+    "1626248705b8c25b91": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+          }
+        },
+        "1626248705b8c25b91-0": {
+          "type": "column",
+          "settings": {
+            "title": "Boosts Collagen Production",
+            "text": "<p>Made with peptides to stimulate the body’s natural collagen and elastin production, smoothing fine lines and wrinkles and boosting plumper, youthful-looking skin.<\/p>"
+          }
+        },
+        "1626248705b8c25b91-1": {
+          "type": "column",
+          "settings": {
+            "title": "Visible Improvement",
+            "text": "<p>High performance formulation for visibly firmer, brighter, more hydrated skin. Visible improvements become better with continued use.  <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626248705b8c25b91-2",
+        "1626248705b8c25b91-0",
+        "1626248705b8c25b91-1"
+      ],
+      "settings": {
+        "title": "Why Eye Rejuvenator?",
+        "background_style": "secondary"
       }
     },
     "1626290450f9c0b3c8": {
@@ -125,41 +159,6 @@
         "color_scheme": "background-1"
       }
     },
-    "1626248705b8c25b91": {
-      "type": "multicolumn-icons",
-      "blocks": {
-        "1626248705b8c25b91-0": {
-          "type": "column",
-          "settings": {
-            "title": "Boosts Collagen Production",
-            "text": "<p>Made with peptides to stimulate the body’s natural collagen and elastin production, smoothing fine lines and wrinkles and boosting plumper, youthful-looking skin.<\/p>"
-          }
-        },
-        "1626248705b8c25b91-2": {
-          "type": "column",
-          "settings": {
-            "title": "Precision Skincare",
-            "text": "<p>A targeted treatment to brighten plump and smooth fine lines. This easy to apply solution delivers active ingredients below the surface of the skin, providing faster absorption and faster results. <\/p>"
-          }
-        },
-        "1626248705b8c25b91-1": {
-          "type": "column",
-          "settings": {
-            "title": "Visible Improvement",
-            "text": "<p>High performance formulation for visibly firmer, brighter, more hydrated skin. Visible improvements become better with continued use.  <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626248705b8c25b91-0",
-        "1626248705b8c25b91-2",
-        "1626248705b8c25b91-1"
-      ],
-      "settings": {
-        "title": "Key Benefits",
-        "background_style": "primary"
-      }
-    },
     "162748427714eba7e0": {
       "type": "multicolumn",
       "blocks": {
@@ -168,7 +167,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": "<p>Vegan product for vegans made in a vegan way. <\/p>"
+            "text": ""
           }
         },
         "162748427714eba7e0-1": {
@@ -176,7 +175,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
             "title": "Cruelty Free",
-            "text": "<p>Bunnies love us because we leave them alone.<\/p>"
+            "text": ""
           }
         },
         "162748427714eba7e0-2": {
@@ -184,15 +183,15 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
-            "text": "<p>Lovely clean beauty for your skin.<\/p>"
+            "text": ""
           }
         },
         "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
-            "title": "Aqua Free",
-            "text": "<p>Dissolves directly into your skin.<\/p>"
+            "title": "Ultra-Low Water",
+            "text": ""
           }
         }
       },
@@ -309,21 +308,57 @@
         "show_vendor": false
       }
     },
+    "1628173870a469071e": {
+      "type": "rich-text",
+      "blocks": {
+        "1628173870a469071e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want to know more?",
+            "heading_size": "medium"
+          }
+        },
+        "1628173870a469071e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1628173870a469071e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1628173870a469071e-0",
+        "1628173870a469071e-1",
+        "1628173870a469071e-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "162617023530160b5c": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "162617023530160b5c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Designed to get to work from just two hours to visibly bring down the appearance of blemishes by decreasing size, reducing redness, soothing irritation, and replenishing skin. We recommend for best results using this patch overnight to wake up to clearer skin.<\/p>"
+            "text": "<p>High performing but gentle on skin our ultimate eye patches are formulated to soften fine lines, strengthen skin elasticity, boost hydration, and brighten the eye area. <br\/><br\/>Microneedles get to work beneath the skin surface with every patch containing 2600 self-dissolving microneedles preloaded with our skin-restoring formula. As you apply the patch, the needles self-dissolve releasing ingredients into the epidermis where they’re most needed to leave skin looking plump, smooth and rejuvenated.<\/p>"
           }
         },
         "162617023530160b5c-2": {
@@ -341,15 +376,14 @@
         "162617023530160b5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1I2A8834_copy.jpg",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/IMG_1098_Facetune_29-04-2021-16-11-24.jpg",
+        "height": "large",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
@@ -361,7 +395,7 @@
         "1626170242ffa87f4b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Over 500 ultra-fine serum infused<br\/>microneedles are tightly packed on the patch - 4x more than any other microneedle patch - each microneedle is approximately 1\/3 the thickness of the human hair.<br\/><\/p>"
+            "text": "<p>The needles contain a blend of high-performing active ingredients, known for their skin rejuvenating properties. Peptides work with your body’s natural collagen production to promote cell rejuvenation, visibly plumping skin for a youthful and renewed appearance. Hyaluronic acid provides deep hydration, leaving skin well-moisturised and nourished. Vitamin C brightens and smooths skin, while balancing skin tone to reveal a radiant glow. <br\/><br\/>Designed to be gentle on the delicate eye area these easy to apply ultimate eye patches fit seamlessly into your routine with visible improvements over time which continue to get better with continued use.  <\/p>"
           }
         },
         "1626170242ffa87f4b-2": {
@@ -447,6 +481,46 @@
         "color_scheme": "background-1"
       }
     },
+    "16281713360ba03071": {
+      "type": "faq",
+      "blocks": {
+        "6caa32b9-cedd-4839-bfda-55b11b840261": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>For best results, we recommend using twice per week for two weeks, then weekly. You should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use results will get better over time.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week! <br\/>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "6caa32b9-cedd-4839-bfda-55b11b840261",
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "16269032410f2256e7": {
       "type": "collage-how-to",
       "disabled": true,
@@ -482,15 +556,15 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
-            "title": "Collagen",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
+            "title": "Peptides",
             "text": "<p>Peptides are amino acids that trigger the body’s natural collagen production, known to improve the skin’s tightness, firmness and elasticity. <\/p>"
           }
         },
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
             "title": "Hyaluronic Acid",
             "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
@@ -513,8 +587,8 @@
         "title": "Key Ingredients",
         "image_width": "full",
         "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "secondary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
@@ -650,12 +724,6 @@
         "heading": "Frequently Asked Questions"
       }
     },
-    "162799731554f1a94f": {
-      "type": "faq",
-      "settings": {
-        "heading": ""
-      }
-    },
     "1626334150955f5504": {
       "type": "multicolumn-images",
       "blocks": {
@@ -707,27 +775,28 @@
     "16269033832bed337e": {
       "type": "product-reviews",
       "settings": {
-        "heading": "Customer Reviews"
+        "heading": "What people say"
       }
     }
   },
   "order": [
     "main",
-    "1626290450f9c0b3c8",
     "1626248705b8c25b91",
+    "1626290450f9c0b3c8",
     "162748427714eba7e0",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "16262053277f68e5df",
     "product-recommendations",
+    "1628173870a469071e",
     "162617023530160b5c",
     "1626170242ffa87f4b",
     "1626170247b0785461",
     "16262976340da42008",
+    "16281713360ba03071",
     "16269032410f2256e7",
     "1626170270666543f7",
     "162627080538092e1b",
-    "162799731554f1a94f",
     "1626334150955f5504",
     "16269033832bed337e"
   ]
