@@ -156,31 +156,6 @@
         "button_link": ""
       }
     },
-    "1626290450f9c0b3c8": {
-      "type": "quote",
-      "blocks": {
-        "1626290450f9c0b3c8-0": {
-          "type": "quote",
-          "settings": {
-            "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
-          }
-        },
-        "1626290450f9c0b3c8-1": {
-          "type": "source",
-          "settings": {
-            "source": "<p>The Telegraph<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626290450f9c0b3c8-0",
-        "1626290450f9c0b3c8-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "more": true
-      }
-    },
     "162816866649a3b1b1": {
       "type": "multicolumn",
       "blocks": {
@@ -226,13 +201,38 @@
       "settings": {
         "title": "",
         "image_width": "third",
-        "image_ratio": "adapt",
+        "image_ratio": "circle",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false,
         "grid_on_mobile": true
+      }
+    },
+    "1626290450f9c0b3c8": {
+      "type": "quote",
+      "blocks": {
+        "1626290450f9c0b3c8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
+          }
+        },
+        "1626290450f9c0b3c8-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Telegraph<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626290450f9c0b3c8-0",
+        "1626290450f9c0b3c8-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": true
       }
     },
     "16262053277f68e5df": {
@@ -791,8 +791,8 @@
     "1626248705b8c25b91",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
-    "1626290450f9c0b3c8",
     "162816866649a3b1b1",
+    "1626290450f9c0b3c8",
     "16262053277f68e5df",
     "1628247699cb016317",
     "product-recommendations",
