@@ -323,41 +323,49 @@
         "full_width": false
       }
     },
-    "1628173870a469071e": {
-      "type": "rich-text",
+    "1626170270666543f7": {
+      "type": "multicolumn",
       "blocks": {
-        "1628173870a469071e-0": {
-          "type": "heading",
+        "1626170270666543f7-0": {
+          "type": "column",
           "settings": {
-            "heading": "Want to know more?",
-            "heading_size": "small"
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
+            "title": "Peptides",
+            "text": "<p>Peptides are amino acids that trigger the body’s natural collagen production, known to improve the skin’s tightness, firmness and elasticity. <\/p>"
           }
         },
-        "1628173870a469071e-1": {
-          "type": "text",
-          "disabled": true,
+        "1626170270666543f7-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
+            "title": "Hyaluronic Acid",
+            "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
         },
-        "1628173870a469071e-2": {
-          "type": "button",
-          "disabled": true,
+        "1626170270666543f7-2": {
+          "type": "column",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
+            "title": "Vitamin C",
+            "text": "<p>An antioxidant that restores damage and aids the cell regeneration process, while brightening and evening skin texture.<\/p>"
           }
         }
       },
       "block_order": [
-        "1628173870a469071e-0",
-        "1628173870a469071e-1",
-        "1628173870a469071e-2"
+        "1626170270666543f7-0",
+        "1626170270666543f7-1",
+        "1626170270666543f7-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
+        "title": "Key Ingredients",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
       }
     },
     "162617023530160b5c": {
@@ -365,9 +373,8 @@
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": ""
+            "heading": "Want to Know More?"
           }
         },
         "162617023530160b5c-1": {
@@ -524,51 +531,6 @@
         "heading": "How to Apply",
         "desktop_layout": "left",
         "mobile_layout": "collage-how-to"
-      }
-    },
-    "1626170270666543f7": {
-      "type": "multicolumn",
-      "blocks": {
-        "1626170270666543f7-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
-            "title": "Peptides",
-            "text": "<p>Peptides are amino acids that trigger the body’s natural collagen production, known to improve the skin’s tightness, firmness and elasticity. <\/p>"
-          }
-        },
-        "1626170270666543f7-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
-            "title": "Hyaluronic Acid",
-            "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
-          }
-        },
-        "1626170270666543f7-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
-            "title": "Vitamin C",
-            "text": "<p>An antioxidant that restores damage and aids the cell regeneration process, while brightening and evening skin texture.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1626170270666543f7-0",
-        "1626170270666543f7-1",
-        "1626170270666543f7-2"
-      ],
-      "settings": {
-        "title": "Key Ingredients",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
-        "grid_on_mobile": false
       }
     },
     "162627080538092e1b": {
@@ -826,13 +788,12 @@
     "16262053277f68e5df",
     "product-recommendations",
     "16282467341f7ecbb2",
-    "1628173870a469071e",
+    "1626170270666543f7",
     "162617023530160b5c",
     "1626170242ffa87f4b",
     "1626170247b0785461",
     "16262976340da42008",
     "16269032410f2256e7",
-    "1626170270666543f7",
     "162627080538092e1b",
     "1626334150955f5504",
     "16281713360ba03071",
