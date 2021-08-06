@@ -12,7 +12,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "color": "#000000",
+            "color": "#e72677",
             "text_style": "subtitle"
           }
         },
