@@ -8,9 +8,25 @@
  
  .custom-banner-box {
    background: #FADBE3 !important; 
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
  }
- 
- 
+
+ @media screen and (max-width: 750px) {
+  .needle_image {
+    width:38vw;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
+
+@media screen and (min-width: 749px) {
+  .needle_image {
+    width: 12vw;
+  }
+}
+
  @media screen and (min-width: 749px) {
    .custom-header-image-overlay {
      position: relative !important;
@@ -43,7 +59,7 @@
    .banner__heading {
      text-align: left;
      color: #000;
-     font-size: 2.5vw;
+     font-size: 1.7vw;
    }
  
    .banner__box-buttons-mobile {
@@ -184,7 +200,7 @@
    
    .banner__box {
      border: 0;
-     padding: 4rem 3.5rem;
+     padding: 2rem 3rem 0 3rem !important;
      position: relative;
      height: fit-content;
      align-items: center;

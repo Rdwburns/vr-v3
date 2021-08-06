@@ -2175,3 +2175,8 @@ details-disclosure > details {
 main#MainContent {
   margin-bottom: 3em;
 }
+
+.card-information__text {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
