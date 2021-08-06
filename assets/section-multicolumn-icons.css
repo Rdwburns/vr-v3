@@ -37,10 +37,8 @@
       padding-top: 5rem;
     }
     .multicolumn-icons-list__item > svg {
-      height: 40px;
-      padding-right: 10px;
-      stroke: black;
-      stroke-width: 3px;
+      width: 2em;
+      flex-shrink: 0;
     }
     .multicolumn-icons.no-heading.background-pink {
       padding-top: 5rem;
@@ -64,9 +62,9 @@
         max-width: 72rem;
       }
     .multicolumn-icons-list__item > svg {
-      height: 90px;
+      height: 2em;
       padding-right: 10px;
-      margin-top: -34px;
+      flex-shrink: 0;
     }
     .multicolumn-icons-card__info {
       padding: 0 5rem 0 0.5rem;
