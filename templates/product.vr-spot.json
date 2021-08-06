@@ -7,6 +7,7 @@
           "type": "text",
           "settings": {
             "text": "",
+            "color": "#000000",
             "text_style": "uppercase"
           }
         },
@@ -19,6 +20,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "color": "#000000",
             "text_style": "subtitle"
           }
         },
@@ -36,6 +38,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
+            "color": "#000000",
             "text_style": "italic"
           }
         },
@@ -43,6 +46,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_quote.value }}",
+            "color": "#000000",
             "text_style": "quote"
           }
         },
@@ -114,6 +118,42 @@
       "settings": {
         "title": "Key Benefits",
         "background_style": "secondary"
+      }
+    },
+    "1626903216068cfb52": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Before and After",
+        "review_title": "Eva, 30",
+        "before_image": "shopify:\/\/shop_images\/Eva-Before_67e7b24a-82e4-4a6b-a6e9-3ab92efc2ce5.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Eva-After_d50f69e9-b79c-4903-ab06-3851263ebe61.jpg",
+        "after_caption": "After 1 Use",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Super simple to use and dramatic difference in pimple size overnight. Cannot live without these now!",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1626940710a73ccd9b": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Jemima, 25",
+        "before_image": "shopify:\/\/shop_images\/Jemima_before.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Jemima_after.jpg",
+        "after_caption": "After 1 Use",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I love these miracle patches! I have suffered with adult hormonal cystic acne for ages now and have tried everything (or so I thought) these are so easy to use and made a huge difference in stopping the spots coming out to their worst (normally they are so painful) I used a patch two nights in a row and then from then the spots cleared up so much quicker on their own (reducing redness and inflammation).",
+        "button_label": "Button label",
+        "button_link": ""
       }
     },
     "1626290450f9c0b3c8": {
@@ -193,42 +233,6 @@
         "button_link": "",
         "swipe_on_mobile": false,
         "grid_on_mobile": true
-      }
-    },
-    "1626903216068cfb52": {
-      "type": "before-after",
-      "settings": {
-        "heading": "Before and After",
-        "review_title": "Eva, 30",
-        "before_image": "shopify:\/\/shop_images\/Eva-Before_67e7b24a-82e4-4a6b-a6e9-3ab92efc2ce5.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Eva-After_d50f69e9-b79c-4903-ab06-3851263ebe61.jpg",
-        "after_caption": "After 1 Use",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "Super simple to use and dramatic difference in pimple size overnight. Cannot live without these now!",
-        "button_label": "Button label",
-        "button_link": ""
-      }
-    },
-    "1626940710a73ccd9b": {
-      "type": "before-after",
-      "settings": {
-        "heading": "",
-        "review_title": "Jemima, 25",
-        "before_image": "shopify:\/\/shop_images\/Jemima_before.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Jemima_after.jpg",
-        "after_caption": "After 1 Use",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "I love these miracle patches! I have suffered with adult hormonal cystic acne for ages now and have tried everything (or so I thought) these are so easy to use and made a huge difference in stopping the spots coming out to their worst (normally they are so painful) I used a patch two nights in a row and then from then the spots cleared up so much quicker on their own (reducing redness and inflammation).",
-        "button_label": "Button label",
-        "button_link": ""
       }
     },
     "16262053277f68e5df": {
@@ -785,10 +789,10 @@
   "order": [
     "main",
     "1626248705b8c25b91",
-    "1626290450f9c0b3c8",
-    "162816866649a3b1b1",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
+    "1626290450f9c0b3c8",
+    "162816866649a3b1b1",
     "16262053277f68e5df",
     "1628247699cb016317",
     "product-recommendations",
