@@ -12,6 +12,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "color": "#e72677",
             "text_style": "subtitle"
           }
         },
@@ -29,6 +30,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
+            "color": "#000000",
             "text_style": "italic"
           }
         },
@@ -36,6 +38,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_quote.value }}",
+            "color": "#000000",
             "text_style": "quote"
           }
         },
@@ -178,7 +181,7 @@
       "settings": {
         "title": "",
         "image_width": "third",
-        "image_ratio": "square",
+        "image_ratio": "circle",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
