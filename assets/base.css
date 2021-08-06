@@ -1719,7 +1719,7 @@ input[type='checkbox'] {
 
 @media screen and (max-width: 991px) {
   .header__heading-logo {
-    max-height: 70px;
+    max-height: 60px;
     width: auto;
     margin: auto;
   }

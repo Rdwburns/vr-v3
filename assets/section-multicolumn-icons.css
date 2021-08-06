@@ -1,5 +1,9 @@
-.multicolumn-icons.background-secondary {
+.multicolumn-icons.background-pink {
   background-color: #FFDAE3 !important;
+}
+
+.multicolumn-icons.background-orange {
+  background-color: #FFD1CB !important;
 }
 
 .multicolumn-icons .title {
@@ -38,10 +42,22 @@
       stroke: black;
       stroke-width: 3px;
     }
+    .multicolumn-icons.no-heading.background-pink {
+      padding-top: 5rem;
+    }
+    .multicolumn-icons.no-heading.background-orange {
+      padding-top: 5rem;
+    }
   }
   
   @media screen and (min-width: 750px) {
     .multicolumn-icons.no-heading:not(.background-secondary) {
+      margin-top: 6rem;
+    }
+    .multicolumn-icons.no-heading:not(.background-pink) {
+      margin-top: 6rem;
+    }
+    .multicolumn-icons.no-heading:not(.background-orange) {
       margin-top: 6rem;
     }
     .multicolumn-icons-list__item:only-child {
@@ -58,6 +74,14 @@
   }
   
   .multicolumn-icons.background-secondary .title-wrapper-with-link {
+    margin-top: 0;
+  }
+
+  .multicolumn-icons.background-pink .title-wrapper-with-link {
+    margin-top: 0;
+  }
+
+  .multicolumn-icons.background-orange .title-wrapper-with-link {
     margin-top: 0;
   }
   
@@ -120,6 +144,31 @@
     margin: 5rem 0;
   }
   
+  .multicolumn-icons.background-pink .multicolumn-icons-card {
+    background: rgb(var(--color-background));
+  }
+  
+  .multicolumn-icons.background-pink {
+    padding: 4rem 0 5rem;
+  }
+  
+  .multicolumn-icons:not(.background-pink) {
+    margin: 5rem 0;
+  }
+
+  .multicolumn-icons.background-orange .multicolumn-icons-card {
+    background: rgb(var(--color-background));
+  }
+  
+  .multicolumn-icons.background-orange {
+    padding: 4rem 0 5rem;
+  }
+  
+  .multicolumn-icons:not(.background-orange) {
+    margin: 5rem 0;
+  }
+
+
   .multicolumn-icons-list h3,
   .multicolumn-icons-list p {
     margin: 0;

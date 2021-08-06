@@ -1476,6 +1476,9 @@
             "text": {
               "label": "Text"
             },
+            "color": {
+              "label": "Text Colour"
+            },
             "text_style": {
               "label": "Text style",
               "options__1": {
@@ -1855,6 +1858,12 @@
           },
           "options__3": {
             "label": "Show as section background"
+          },
+          "options__4": {
+            "label": "Eye Rejuvenator background"
+          },
+          "options__5": {
+            "label": "Spot Stoppa background"
           }
         }
       },
