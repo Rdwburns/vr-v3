@@ -3,10 +3,11 @@
     color: #000;
     letter-spacing: 0.2em;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .read_more_quote .icon-caret {
-    height: 0.6rem;
+    height: 1rem;
 }
 
 .point-quote {
