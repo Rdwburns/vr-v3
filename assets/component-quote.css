@@ -2,6 +2,11 @@
     font-family: "GothamBold";
     color: #000;
     letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.read_more_quote .icon-caret {
+    height: 0.6rem;
 }
 
 .point-quote {
