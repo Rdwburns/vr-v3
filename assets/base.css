@@ -766,6 +766,13 @@ summary::-webkit-details-marker {
 }
 
 /* component-title */
+@media screen and (max-width: 749px) {
+  .title {
+    text-align: center;
+  }
+}
+
+
 .title,
 .title-wrapper-with-link {
   margin: 3rem 0 2rem;
@@ -1699,7 +1706,7 @@ input[type='checkbox'] {
 }
 
 .header-wrapper--border-bottom {
-  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.2);
+  box-shadow: rgb(50 50 93 / 25%) 0px 2px 5px -1px, rgb(0 0 0 / 30%) 0px 1px 3px -1px;
 }
 
 .header {
