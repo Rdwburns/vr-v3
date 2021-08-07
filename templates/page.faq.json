@@ -5,6 +5,126 @@
       "settings": {
       }
     },
+    "16279965287f35667e": {
+      "type": "faq",
+      "blocks": {
+        "6ec5420e-790c-417c-a268-3f3652cb8fda": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What are microneedles?",
+            "content": "<p>Microneedles are – quite literally – microscopic needles made from crystallised serum of our skin-boosting ingredients. When the microneedles meet the skin the needles fully dissolve releasing the ingredients beneath the skin where they can be most effective delivering powerful and longer-lasting results.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "a339729e-0fb2-4923-85a1-dc0342a09a3d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do the microneedles hurt?",
+            "content": "<p>No, microneedle patches are completely painless. Microneedles used in at-home procedures are much smaller than those used by dermatologists, making them safe and straightforward to use. <\/p><p>You may feel a slight sensation when you first press the patch onto the skin, followed by a warm tingle as the microneedles begin to dissolve.  <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "174f559d-de83-46d2-8986-d0f534987717": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do the microneedles damage the skin?",
+            "content": "<p>Absolutely not. Our microneedle patches use ultra-fine microscopic microneedles, which are designed to gently penetrate the skin resulting in no pain, damage or trauma.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "1fed90bd-a99b-4875-94a6-f29c6c7bac30": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Vice Reversa products organic or all-natural?",
+            "content": "<p>Vice Reversa is not focused on organic or all-natural formulae. We’re focused on results and finding the best ingredients for clear and smooth skin. <\/p><p>Some of our ingredients are made in labs, but we like to use high concentrations of natural ingredients wherever we can. Our patches are formulated through high-tech engineering utilising a unique delivery system to allow these ingredients to have better efficacy in the inner layers. <\/p><p>Our products are free from potentially harmful ingredients such as parabens, phalates, sulphates, fragrance, preservatives and mineral oil. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "4b2fa9ea-8387-4cc8-a157-a1abec0014b3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the products cruelty free?",
+            "content": "<p>Yes, all of our products are cruelty free. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "8a2ad296-3e12-478e-a381-a42baf563a6c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are your products Vegan?",
+            "content": "<p>Yes, all of our products are fully Vegan and contain no animal sources. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "b85a94e9-ad92-490c-9a61-bd3abe953fd5": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is your packaging recyclable?",
+            "content": "<p>Yes! Our box, film and tray are widely recycled. The foil sachets are not yet recyclable. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "99aa58fc-f73c-43ef-93d5-4f079cce9320": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do you make patches for other areas?",
+            "content": "<p>We love developing and perfecting new products, so stay tuned for more releases. Click here to subscribe to stay up to date.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "2af974a1-3535-4ca8-8e4f-e8dc04083bee": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What is the expiration date on Vice Reversa products?",
+            "content": "<p>Please check the ‘Period After Opening’ symbol on the packaging. <\/p><p>The symbol looks like an open jar with a month to indicate how long the product should remain stable for after opening.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "fad57151-b8f4-4309-8caa-0b8613c6afb4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Where are Vice Reversa patches made?",
+            "content": "<p>Vice Reversa patches are developed and manufactured in South Korea.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "39b1ad97-74f2-41d8-91a9-31964e21e11c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What’s the best way to store my patches?",
+            "content": "<p>Store at room temperature away from direct sunlight. It’s best to keep patches away from moisture. <\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "6ec5420e-790c-417c-a268-3f3652cb8fda",
+        "a339729e-0fb2-4923-85a1-dc0342a09a3d",
+        "174f559d-de83-46d2-8986-d0f534987717",
+        "1fed90bd-a99b-4875-94a6-f29c6c7bac30",
+        "4b2fa9ea-8387-4cc8-a157-a1abec0014b3",
+        "8a2ad296-3e12-478e-a381-a42baf563a6c",
+        "b85a94e9-ad92-490c-9a61-bd3abe953fd5",
+        "99aa58fc-f73c-43ef-93d5-4f079cce9320",
+        "2af974a1-3535-4ca8-8e4f-e8dc04083bee",
+        "fad57151-b8f4-4309-8caa-0b8613c6afb4",
+        "39b1ad97-74f2-41d8-91a9-31964e21e11c"
+      ],
+      "settings": {
+        "heading": "GENERAL"
+      }
+    },
     "162799636701fd4175": {
       "type": "faq",
       "blocks": {
@@ -85,94 +205,114 @@
         "heading": "ORDERS AND DELIVERY"
       }
     },
-    "16279965287f35667e": {
+    "1628346718f0c61138": {
       "type": "faq",
       "blocks": {
-        "1fed90bd-a99b-4875-94a6-f29c6c7bac30": {
+        "c9c39b33-68df-4cc1-8221-9b8001666f9b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Are Vice Reversa products organic or all-natural?",
-            "content": "<p>Vice Reversa is not focused on organic or all-natural formulae. We’re focused on results and finding the best ingredients for clear and smooth skin. <\/p><p>Some of our ingredients are made in labs, but we like to use high concentrations of natural ingredients wherever we can. Our patches are formulated through high-tech engineering utilising a unique delivery system to allow these ingredients to have better efficacy in the inner layers. <\/p><p>Our products are free from potentially harmful ingredients such as parabens, phalates, sulphates, fragrance, preservatives and mineral oil. <\/p>",
+            "heading": "When can I expect to see results?",
+            "content": "<p>It differs for everyone, but you may start seeing results straight away. From one application you can expect to see deeper hydration around the eye area, but it may take between 6 - 8 applications to see significant results.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
-        "4b2fa9ea-8387-4cc8-a157-a1abec0014b3": {
+        "822abed6-ef2c-4d99-bb4d-c858d6dca2ab": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Are the products cruelty free?",
-            "content": "<p>Yes, all of our products are cruelty free. <\/p>",
+            "heading": "Are Eye Rejuvenator patches an alternative to Botox?",
+            "content": "<p>Vice Reversa aims to hydrate, nourish and rejuvenate the skin from within, helping restore collagen and elastin for a brighter, hydrated complexion. The Eye Rejuvenator patches are not an alternative to Botox, but are effective in improving the appearance of fine lines and wrinkles with continued use.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
-        "8a2ad296-3e12-478e-a381-a42baf563a6c": {
+        "fa1ab09c-8887-4b04-8363-97807f9149e1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Are your products Vegan?",
-            "content": "<p>Yes, all of our products are fully Vegan and contain no animal sources. <\/p>",
+            "heading": "How do I add Eye Rejuvenator patches to my skincare routine?",
+            "content": "<p>It’s easy to add our patches to any skincare routine, as they are simple to use and hassle-free. For best results, use twice weekly for the first fortnight, and then once a week from then on.<\/p><p>We always recommend applying the patches directly after cleansing to dry skin (before applying any serums or moisturisers). Once applied, you can carry on with your normal daily routine. It’s important to leave the patches on for at least two hours to give the microneedles time to fully dissolve.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
-        "b85a94e9-ad92-490c-9a61-bd3abe953fd5": {
+        "0bddde5b-f7a6-4215-bf95-7d6f4de3312e": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Is your packaging recyclable?",
-            "content": "<p>Yes! Our box, film and tray are widely recycled. The foil sachets are not yet recyclable. <\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "99aa58fc-f73c-43ef-93d5-4f079cce9320": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Do you make patches for other areas?",
-            "content": "<p>We love developing and perfecting new products, so stay tuned for more releases. Click here to subscribe to stay up to date.<\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "2af974a1-3535-4ca8-8e4f-e8dc04083bee": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What is the expiration date on Vice Reversa products?",
-            "content": "<p>Please check the ‘Period After Opening’ symbol on the packaging. <\/p><p>The symbol looks like an open jar with a month to indicate how long the product should remain stable for after opening.<\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "fad57151-b8f4-4309-8caa-0b8613c6afb4": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Where are Vice Reversa patches made?",
-            "content": "<p>Vice Reversa patches are developed and manufactured in South Korea.<\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "39b1ad97-74f2-41d8-91a9-31964e21e11c": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What’s the best way to store my patches?",
-            "content": "<p>Store at room temperature away from direct sunlight. It’s best to keep patches away from moisture. <\/p>",
+            "heading": "Will Eye Rejuvenator patches help with under eye bags?",
+            "content": "<p>No, the Eye Rejuvenator patches have unique properties, which are specifically designed to reduce fine lines and wrinkles. They are also formulated to hydrate and rejuvenate the skin, resulting in a plumper, smoother and youthful complexion.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
         }
       },
       "block_order": [
-        "1fed90bd-a99b-4875-94a6-f29c6c7bac30",
-        "4b2fa9ea-8387-4cc8-a157-a1abec0014b3",
-        "8a2ad296-3e12-478e-a381-a42baf563a6c",
-        "b85a94e9-ad92-490c-9a61-bd3abe953fd5",
-        "99aa58fc-f73c-43ef-93d5-4f079cce9320",
-        "2af974a1-3535-4ca8-8e4f-e8dc04083bee",
-        "fad57151-b8f4-4309-8caa-0b8613c6afb4",
-        "39b1ad97-74f2-41d8-91a9-31964e21e11c"
+        "c9c39b33-68df-4cc1-8221-9b8001666f9b",
+        "822abed6-ef2c-4d99-bb4d-c858d6dca2ab",
+        "fa1ab09c-8887-4b04-8363-97807f9149e1",
+        "0bddde5b-f7a6-4215-bf95-7d6f4de3312e"
       ],
       "settings": {
-        "heading": "GENERAL"
+        "heading": "Eye Rejuvenator"
+      }
+    },
+    "1628346723381cda58": {
+      "type": "faq",
+      "blocks": {
+        "c0a84983-17f9-461f-b484-2d1801f10030": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What type of spots are Spot Stoppa patches for?",
+            "content": "<p>Our Spot Stoppa patches are designed for early-stage, upcoming pimples that haven’t yet surfaced, deep under-the-skin spots, and stubborn unidentifiable hormonal zits.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "5af9aa33-411e-4218-a7e7-19659d15f140": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long will it take to see results?",
+            "content": "<p>We appreciate that results may differ person-to-person, however our patches are designed to get to work after just two hours to visibly reduce the appearance of blemishes by decreasing size, reducing redness, soothing irritation, and replenishing the skin.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "b380b064-5371-4507-b354-b17f9c1b9ec2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When should I apply my Spot Stoppa patches? ",
+            "content": "<p>Use our Spot Stoppa patches as soon as you feel the tingle of an early-stage pimple. This is the best time to catch them and avoid the pimple coming to a head. <\/p><p>You can also use our advanced pimple patches on established spots, where the microneedle technology and formula helps to visibly reduce the appearance of blemishes by decreasing size, reducing redness and sooth irritation.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "da569aef-b8eb-4c70-a277-a07cd4ca647c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How do I apply my Spot Stoppa Patches?",
+            "content": "<p>Spot Stoppa patches should always be applied to clean dry skin, before using any topical ingredients such as moisturisers or serums. <\/p><p>It’s important to leave the patches on for two hours to allow the ingredients to fully dissolve and get to work. For best results, we recommend applying before bed and wearing overnight for that ‘I-woke-up-like-this’, clear-skin feeling.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "a5f4e78a-a011-4b98-8641-219a3bf5784d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What age do you have to be to use Spot Stoppa?",
+            "content": "<p>We know acne isn’t just for teenagers, so we made sure anyone can use our microneedle patches. Spot Stoppa is suitable for all ages and all skin types.<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "c0a84983-17f9-461f-b484-2d1801f10030",
+        "5af9aa33-411e-4218-a7e7-19659d15f140",
+        "b380b064-5371-4507-b354-b17f9c1b9ec2",
+        "da569aef-b8eb-4c70-a277-a07cd4ca647c",
+        "a5f4e78a-a011-4b98-8641-219a3bf5784d"
+      ],
+      "settings": {
+        "heading": "Spot Stoppa"
       }
     },
     "16279963705fa2cc5b": {
@@ -198,8 +338,10 @@
   },
   "order": [
     "main",
-    "162799636701fd4175",
     "16279965287f35667e",
+    "162799636701fd4175",
+    "1628346718f0c61138",
+    "1628346723381cda58",
     "16279963705fa2cc5b"
   ]
 }
