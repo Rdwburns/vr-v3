@@ -299,7 +299,7 @@
         "16282467341f7ecbb2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>"
+            "text": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve and release all of the ingredients. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use, results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>"
           }
         },
         "16282467341f7ecbb2-2": {
@@ -417,7 +417,7 @@
         "1626170242ffa87f4b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The needles contain a blend of high-performing active ingredients, known for their skin rejuvenating properties. Peptides work with your body’s natural collagen production to promote cell rejuvenation, visibly plumping skin for a youthful and renewed appearance. Hyaluronic acid provides deep hydration, leaving skin well-moisturised and nourished. Vitamin C and Glutathione work in unison brighten, smooth and restore skin, while balancing skin tone to reveal a radiant glow.<\/p><p><br\/>Designed to be gentle on the delicate eye area these easy to apply ultimate eye patches fit seamlessly into your routine with visible improvements over time which continue to get better with continued use.  <\/p>"
+            "text": "<p>The needles contain a blend of high-performing active ingredients, known for their skin rejuvenating properties. Peptides work with your body’s natural collagen production to promote cell rejuvenation, visibly plumping skin for a youthful and renewed appearance. <\/p><p><\/p><p>Hyaluronic acid provides deep hydration, leaving skin well-moisturised and nourished. Vitamin C and Glutathione work in unison to brighten, smooth and restore skin, while balancing skin tone to reveal a radiant glow. <\/p><p>Designed to be gentle on the delicate eye area these easy to apply ultimate eye patches fit seamlessly into your routine with visible improvements over time which get better with continued use.  <\/p>"
           }
         },
         "1626170242ffa87f4b-2": {
@@ -538,6 +538,7 @@
       "blocks": {
         "cb54a1b4-576f-4f13-a32a-0145ca6de647": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "What are microneedles?",
             "content": "<p>Microneedles are – quite literally – microscopic needles made from crystallised serum of our skin-boosting ingredients. When the microneedles meet the skin the needles fully dissolve releasing the ingredients beneath the skin where they can be most effective delivering powerful and longer-lasting results.<\/p>",
@@ -547,6 +548,7 @@
         },
         "68fbae2d-c403-44bd-8ab8-88ae09d01b00": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Do the microneedles hurt?",
             "content": "<p>No, microneedle patches are completely painless. Microneedles used in at-home procedures are much smaller than those used by dermatologists, making them safe and straightforward to use. <\/p><p>You may feel a slight sensation when you first press the patch onto the skin, followed by a warm tingle as the microneedles begin to dissolve.  <\/p>",
@@ -556,6 +558,7 @@
         },
         "1c04b4ee-dc7b-4749-b1f2-c095dd106588": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Do the microneedles damage the skin?",
             "content": "<p>Absolutely not. Our microneedle patches use ultra-fine microscopic microneedles, which are designed to gently penetrate the skin resulting in no pain, damage or trauma.<\/p>",
@@ -610,6 +613,7 @@
         },
         "e473012e-e4b4-47fa-978f-c715a4062929": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "When can I expect to see results?",
             "content": "<p>It differs for everyone, but you may start seeing results straight away. From one application you can expect to see deeper hydration around the eye area, but it may take between 6 - 8 applications to see significant results.<\/p>",
@@ -619,6 +623,7 @@
         },
         "6dafca75-5813-4441-a839-64a16211f4d2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Are Eye Rejuvenator patches an alternative to Botox?",
             "content": "<p>Vice Reversa aims to hydrate, nourish and rejuvenate the skin from within, helping restore collagen and elastin for a brighter, hydrated complexion. The Eye Rejuvenator patches are not an alternative to Botox, but are effective in improving the appearance of fine lines and wrinkles with continued use.<\/p>",
@@ -628,6 +633,7 @@
         },
         "827f105e-c9ea-40cf-98cb-afa3be7cbbe0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "How do I add Eye Rejuvenator patches to my skincare routine?",
             "content": "<p>It’s easy to add our patches to any skincare routine, as they are simple to use and hassle-free. For best results, use twice weekly for the first fortnight, and then once a week from then on.<\/p><p>We always recommend applying the patches directly after cleansing to dry skin (before applying any serums or moisturisers). Once applied, you can carry on with your normal daily routine. It’s important to leave the patches on for at least two hours to give the microneedles time to fully dissolve.<\/p>",
@@ -637,6 +643,7 @@
         },
         "8d58dc27-f35c-40d0-90af-bc6fe9cb0e72": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "How long do I have to wear Eye Rejuvenator patches for?",
             "content": "<p>The patches need to be worn for a minimum of two hours to allow the microneedles to dissolve and release all the active ingredients. They can also be worn overnight if preferred. <\/p>",
