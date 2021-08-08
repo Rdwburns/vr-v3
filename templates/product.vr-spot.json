@@ -732,7 +732,7 @@
           "settings": {
             "heading": "Delivery Information",
             "content": "",
-            "page": "",
+            "page": "shipping-information",
             "icon": "none"
           }
         },
@@ -741,7 +741,7 @@
           "settings": {
             "heading": "Returns Information",
             "content": "",
-            "page": "",
+            "page": "returns-information",
             "icon": "none"
           }
         },
@@ -750,12 +750,13 @@
           "settings": {
             "heading": "Shopping Outside of the UK?",
             "content": "",
-            "page": "",
+            "page": "international-shipping-information",
             "icon": "none"
           }
         },
         "a6ea38e0-20bd-459e-8ec6-842103888813": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Any Questions?",
             "content": "",

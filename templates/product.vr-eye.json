@@ -721,7 +721,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Full Ingredients",
-            "content": "",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -749,12 +749,13 @@
           "settings": {
             "heading": "Shopping Outside of the UK?",
             "content": "",
-            "page": "",
+            "page": "international-shipping-information",
             "icon": "none"
           }
         },
         "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Any Questions?",
             "content": "",
