@@ -59,6 +59,11 @@
   .grid-item:not(.image-center) {
     text-align: center;
   }
+
+  .image-center {
+    order: -1;
+  }
+
   }
 
 
