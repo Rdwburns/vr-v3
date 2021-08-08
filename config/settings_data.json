@@ -19,10 +19,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/Black_on_Transparent.png",
+          "logo": "shopify:\/\/shop_images\/Black_on_White_bg.png",
           "logo_width": 100,
           "logo_position": "middle-center",
-          "menu": "v3-header",
+          "menu": "v3-main-menu",
           "show_line_separator": true,
           "enable_search": false,
           "enable_sticky_header": true
