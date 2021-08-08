@@ -10,6 +10,10 @@
   .multicolumn.no-heading.background-secondary {
     padding-top: 5rem;
   }
+
+  .multicolumn.background-secondary .title-wrapper-with-link {
+    justify-content: center;
+  }
 }
 
 @media screen and (min-width: 750px) {
