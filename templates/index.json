@@ -14,7 +14,7 @@
         "1627380753df25bb94-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_3000_new_final_final_final_final_final.png",
+        "image": "shopify:\/\/shop_images\/Banner_3000_new_v7.png",
         "desktop_text_box_position": "center",
         "color_scheme": "inverse",
         "stack_images_on_mobile": true,
@@ -53,19 +53,19 @@
         "8bac2994-31f6-47eb-b86b-29d0f0142e90": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>Microneedle patches were developed to deliver drugs and vaccines – we’ve changed the active ingredients to apply to skincare, but nothing else. This is medical-grade technology: evidence-based, precision-targeted, ultra-hygienic.<\/p>"
+            "text": "<p><\/p><p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>Microneedle patches were first developed to deliver painless, effective drugs and vaccines. We’ve worked with K-beauty scientists to create our precision skincare. This is medical-grade technology: precision-targeted, ultra-hygienic.<\/p>"
           }
         },
         "626a64f5-f78c-4f70-8984-9b60b5a583b9": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>PERFECT PYRAMID NEEDLES<\/strong><\/p><p>Designed to cause no skin trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>PAINLESS PYRAMID NEEDLES<\/strong><\/p><p>Designed to cause no skin trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "5cb8bd32-381c-43d1-8064-1669c3ecf989": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>FAST-MELTING<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers and getting to work from just two hours, you’ll notice results faster than you do with regular skincare.<\/p>"
+            "text": "<p><\/p><p><strong>FAST-MELTING<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers from just two hours, the concentrated formulas get to work fast and effectively. <\/p>"
           }
         }
       },
@@ -77,8 +77,8 @@
         "5cb8bd32-381c-43d1-8064-1669c3ecf989"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_Surround_Diagram.png",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/Pimple-Patch-ingrediant-1400.jpg",
+        "height": "adapt",
         "color_scheme": "background-1"
       }
     },
@@ -98,7 +98,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/vegan_1.png",
             "title": "Vegan + Cruelty Free",
-            "text": "<p>We use the best of nature and science and are free from parabens, phthalates and fragrance<\/p>"
+            "text": "<p>We use the best of nature and science and are free from parabens, phthalates and fragrance.<\/p>"
           }
         },
         "b47e112b-9315-45c5-a32e-8e381240a9b1": {
@@ -106,7 +106,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/target_1.png",
             "title": "Targeted Formulations",
-            "text": "<p>Precision means focus – we target the problem precisely, so you only use what, when and where you need to<\/p>"
+            "text": "<p>Precision means focus – we target the problem precisely, so you only use what, when and where you need to.<\/p>"
           }
         },
         "1627478021f2611bd4-0": {
@@ -114,7 +114,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/vippng.com-south-korea-flag-png-4120245.png",
             "title": "K-Beauty Technology",
-            "text": "<p>Korean skincare innovation driven by the uncompromising demands of Asian beauty consumers<\/p>"
+            "text": "<p>Korean skincare innovation driven by the uncompromising demands of consumers. Proven to penetrate and deliver their ingredients through to the epidermis<\/p>"
           }
         }
       },
@@ -197,7 +197,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/stars_pink.png",
             "title": "",
-            "text": "<p>‘Revolutionary, Effective And Painless’<br\/><br\/><strong>The Telegraph<\/strong><\/p>"
+            "text": "<p>‘Revolutionary, Effective And Painless.’<br\/><br\/><strong>The Telegraph<\/strong><\/p>"
           }
         },
         "1627485247b9c2be22-2": {
@@ -225,54 +225,6 @@
         "swipe_on_mobile": false,
         "grid_on_mobile": false
       }
-    },
-    "162697279498067cfb": {
-      "type": "multicolumn-images",
-      "blocks": {
-        "162697279498067cfb-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
-          }
-        },
-        "162697279498067cfb-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/stylist_logo.png"
-          }
-        },
-        "162697279498067cfb-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
-          }
-        },
-        "3c7fadd3-c8bd-41ca-88cb-67c4f525f71a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
-          }
-        },
-        "dbb63eba-13ba-46b3-8a49-0978aac7465c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
-          }
-        }
-      },
-      "block_order": [
-        "162697279498067cfb-0",
-        "162697279498067cfb-1",
-        "162697279498067cfb-2",
-        "3c7fadd3-c8bd-41ca-88cb-67c4f525f71a",
-        "dbb63eba-13ba-46b3-8a49-0978aac7465c"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "swipe_on_mobile": true
-      }
     }
   },
   "order": [
@@ -281,7 +233,6 @@
     "162826528758e4667d",
     "1627478021f2611bd4",
     "1626972980f1b89adb",
-    "1627485247b9c2be22",
-    "162697279498067cfb"
+    "1627485247b9c2be22"
   ]
 }

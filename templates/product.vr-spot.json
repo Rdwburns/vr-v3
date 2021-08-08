@@ -253,19 +253,19 @@
         "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>Microneedle patches were developed to deliver drugs and vaccines – we’ve changed the active ingredients to apply to skincare, but nothing else. This is medical-grade technology: evidence-based, precision-targeted, ultra-hygienic.<\/p>"
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>Microneedle patches were first developed to deliver painless, effective drugs and vaccines. We’ve worked with K-beauty scientists to create our precision skincare. This is medical-grade technology: precision-targeted, ultra-hygienic.<\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Perfect pyramid needles<\/strong><\/p><p>Designed to cause no trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Designed to cause no trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Fast-melting<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers and getting to work from just two hours, you’ll notice results faster than you do with regular skincare.<\/p>"
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers from just two hours, the concentrated formulas get to work fast and effectively. <\/p>"
           }
         }
       },
@@ -405,7 +405,7 @@
         "162617023530160b5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1I2A8808_a.jpg",
+        "image": "shopify:\/\/shop_images\/raquelsmx_3.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -442,7 +442,7 @@
         "1626170242ffa87f4b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/raquelsmx_3.jpg",
+        "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
