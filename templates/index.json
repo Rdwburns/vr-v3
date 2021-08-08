@@ -225,54 +225,6 @@
         "swipe_on_mobile": false,
         "grid_on_mobile": false
       }
-    },
-    "162697279498067cfb": {
-      "type": "multicolumn-images",
-      "blocks": {
-        "162697279498067cfb-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
-          }
-        },
-        "162697279498067cfb-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/stylist_logo.png"
-          }
-        },
-        "162697279498067cfb-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
-          }
-        },
-        "3c7fadd3-c8bd-41ca-88cb-67c4f525f71a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
-          }
-        },
-        "dbb63eba-13ba-46b3-8a49-0978aac7465c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
-          }
-        }
-      },
-      "block_order": [
-        "162697279498067cfb-0",
-        "162697279498067cfb-1",
-        "162697279498067cfb-2",
-        "3c7fadd3-c8bd-41ca-88cb-67c4f525f71a",
-        "dbb63eba-13ba-46b3-8a49-0978aac7465c"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "swipe_on_mobile": true
-      }
     }
   },
   "order": [
@@ -281,7 +233,6 @@
     "162826528758e4667d",
     "1627478021f2611bd4",
     "1626972980f1b89adb",
-    "1627485247b9c2be22",
-    "162697279498067cfb"
+    "1627485247b9c2be22"
   ]
 }
