@@ -277,6 +277,7 @@
         "f38976e4-b244-4ad1-a741-c2878db66fc3"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP.png",
         "height": "adapt",
         "color_scheme": "background-1"
       }
@@ -404,6 +405,7 @@
         "162617023530160b5c-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/2._MODEL.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -724,7 +726,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Full Ingredients",
-            "content": "",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }
