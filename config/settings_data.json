@@ -1,10 +1,12 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
+    "colors_accent_2": "#f8c6ff",
     "colors_background_1": "#ffffff",
     "colors_background_2": "#f7f7f7",
     "colors_background_header": "#ffffff",
     "colors_text_header": "#000000",
+    "sale_badge_color_scheme": "accent-2",
     "social_twitter_link": "https:\/\/twitter.com\/shopify",
     "social_facebook_link": "https:\/\/facebook.com\/shopify",
     "social_instagram_link": "http:\/\/instagram.com\/shopify",
