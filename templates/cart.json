@@ -30,9 +30,52 @@
     },
     "162834708158427b5b": {
       "type": "faq",
-      "disabled": true,
+      "blocks": {
+        "7c48227c-4007-42ad-bd80-9723beadf744": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "59090b24-5601-4291-9ef2-75d4e2004fb2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "4f122230-5385-4799-aeeb-c126f462d95c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the UK?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "82134fe0-d56e-47e1-b9a1-119dc301d0ba": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Any Questions?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "7c48227c-4007-42ad-bd80-9723beadf744",
+        "59090b24-5601-4291-9ef2-75d4e2004fb2",
+        "4f122230-5385-4799-aeeb-c126f462d95c",
+        "82134fe0-d56e-47e1-b9a1-119dc301d0ba"
+      ],
       "settings": {
-        "heading": "FAQ"
+        "heading": ""
       }
     }
   },
