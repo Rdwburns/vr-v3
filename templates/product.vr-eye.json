@@ -731,7 +731,7 @@
           "settings": {
             "heading": "Delivery Information",
             "content": "",
-            "page": "",
+            "page": "shipping-information",
             "icon": "none"
           }
         },
