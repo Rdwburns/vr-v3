@@ -215,9 +215,7 @@
       "settings": {
         "heading": "",
         "review_title": "Jemima, 21",
-        "before_image": "shopify:\/\/shop_images\/Jemima_Before.png",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Jemima_After.png",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -270,7 +268,7 @@
         "f681b201-8329-477e-9561-801502724c66"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_Surround_Diagram.png",
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP.png",
         "height": "adapt",
         "color_scheme": "background-1"
       }
@@ -399,7 +397,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Jordana-Image-2000x2000.jpg",
-        "height": "large",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -473,7 +471,6 @@
         "1626170247b0785461-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SquareIMG_1098_Facetune_29-04-2021-16-11-24_copy.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -688,7 +685,6 @@
         "1626334150955f5504-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stylist_logo.png"
           }
         },
         "0492de53-d677-4622-9335-c3758c65858e": {
