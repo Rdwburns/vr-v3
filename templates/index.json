@@ -88,6 +88,7 @@
         "1627478021f2611bd4-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/352142_stars_icon_cb4cb760-9d24-49a1-a50c-6beace29305f.png",
             "title": "Hundreds of 5 Star Reviews",
             "text": "<p>Tens of thousands of delighted customers worldwide.<\/p>"
           }
@@ -95,6 +96,7 @@
         "1627478021f2611bd4-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/vegan_1.png",
             "title": "Vegan + Cruelty Free",
             "text": "<p>We use the best of nature and science and are free from parabens, phthalates and fragrance.<\/p>"
           }
@@ -102,6 +104,7 @@
         "b47e112b-9315-45c5-a32e-8e381240a9b1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/target_1.png",
             "title": "Targeted Formulations",
             "text": "<p>Precision means focus – we target the problem precisely, so you only use what, when and where you need to.<\/p>"
           }
@@ -109,6 +112,7 @@
         "1627478021f2611bd4-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/vippng.com-south-korea-flag-png-4120245.png",
             "title": "K-Beauty Technology",
             "text": "<p>Korean skincare innovation driven by the uncompromising demands of consumers. Proven to penetrate and deliver their ingredients through to the epidermis<\/p>"
           }
