@@ -142,6 +142,7 @@
         "1626972980f1b89adb-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_pink.png",
             "title": "",
             "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
           }
@@ -149,6 +150,7 @@
         "1626972980f1b89adb-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_blue.png",
             "title": "",
             "text": "<p>Easy to use, no discomfort, and I saw a real difference after wearing them for only 6 hours.<br\/><br\/><strong>Clare<\/strong><\/p>"
           }
@@ -156,6 +158,7 @@
         "1626972980f1b89adb-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_purple.png",
             "title": "",
             "text": "<p>I have to admit I was a tad suspicious at first but this product is surprisingly effective.<br\/><br\/><strong>Jess<\/strong><\/p>"
           }
@@ -184,6 +187,7 @@
         "1627485247b9c2be22-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_purple.png",
             "title": "",
             "text": "<p>This “Miracle” Product Could Be The Solution We’re All Searching For.<br\/><br\/><strong>The Sun<\/strong><\/p>"
           }
@@ -191,6 +195,7 @@
         "1627485247b9c2be22-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_pink.png",
             "title": "",
             "text": "<p>‘Revolutionary, Effective And Painless.’<br\/><br\/><strong>The Telegraph<\/strong><\/p>"
           }
@@ -198,6 +203,7 @@
         "1627485247b9c2be22-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_blue.png",
             "title": "",
             "text": "<p>‘Impressive Results And Super Easy-To-Use At Home.’<br\/><br\/><strong>You Magazine<\/strong><\/p>"
           }
