@@ -15,7 +15,7 @@ function switchCountries(home, destination, destinationUrl){
     document.cookie = `vr_geo=true; path=/; Secure`;
 }
 
-if (!cookieValue){
+/* if (!cookieValue){
     document.addEventListener('click', function (e) {
         e = e || window.event;
         var target = e.target;
@@ -36,7 +36,7 @@ if (!cookieValue){
             switchCountries(currentSite, data.country_name, 'https://vicereversa.ie')
         }
     });
-}
+} */
 
 
 document.addEventListener('click', function (f) {
