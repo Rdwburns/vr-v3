@@ -3,14 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "color": "#000000",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -69,7 +61,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "subtitle",
         "b4da7636-b379-4c70-88c5-be3b4c806d42",
@@ -125,9 +116,9 @@
       "settings": {
         "heading": "",
         "review_title": "Eva, 30",
-        "before_image": "shopify:\/\/shop_images\/Eva-Before_67e7b24a-82e4-4a6b-a6e9-3ab92efc2ce5.jpg",
+        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Eva-After_d50f69e9-b79c-4903-ab06-3851263ebe61.jpg",
+        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -187,7 +178,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
-            "title": "Aqua-Free",
+            "title": "Ultra-Low Water",
             "text": ""
           }
         }
@@ -277,7 +268,7 @@
         "f38976e4-b244-4ad1-a741-c2878db66fc3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_Surround_Diagram.png",
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP.png",
         "height": "adapt",
         "color_scheme": "background-1"
       }
@@ -405,7 +396,7 @@
         "162617023530160b5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/raquelsmx_3.jpg",
+        "image": "shopify:\/\/shop_images\/2._MODEL.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -480,7 +471,6 @@
         "1626170247b0785461-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SquareIMG_1098_Facetune_29-04-2021-16-11-24_copy.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -683,31 +673,26 @@
         "1626334150955f5504-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
           }
         },
         "1626334150955f5504-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
           }
         },
         "1626334150955f5504-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/stylist_logo.png"
           }
         },
         "0492de53-d677-4622-9335-c3758c65858e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
           }
         },
         "51ce3061-3b5b-4039-be91-6970f9fc910b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
           }
         }
       },
@@ -732,7 +717,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Full Ingredients",
-            "content": "",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }

@@ -65,7 +65,7 @@
         "5cb8bd32-381c-43d1-8064-1669c3ecf989": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>FAST-MELTING<\/strong><\/p><p>With all the ingredients dissolving into the deeper skin layers from just two hours, the concentrated formulas get to work fast and effectively. <\/p>"
+            "text": "<p><\/p><p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers. The concentrated formulas get to work fast and effectively from just two hours.<\/p>"
           }
         }
       },
@@ -88,6 +88,7 @@
         "1627478021f2611bd4-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/352142_stars_icon_cb4cb760-9d24-49a1-a50c-6beace29305f.png",
             "title": "Hundreds of 5 Star Reviews",
             "text": "<p>Tens of thousands of delighted customers worldwide.<\/p>"
           }
@@ -95,6 +96,7 @@
         "1627478021f2611bd4-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/vegan_1.png",
             "title": "Vegan + Cruelty Free",
             "text": "<p>We use the best of nature and science and are free from parabens, phthalates and fragrance.<\/p>"
           }
@@ -102,6 +104,7 @@
         "b47e112b-9315-45c5-a32e-8e381240a9b1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/target_1.png",
             "title": "Targeted Formulations",
             "text": "<p>Precision means focus – we target the problem precisely, so you only use what, when and where you need to.<\/p>"
           }
@@ -109,6 +112,7 @@
         "1627478021f2611bd4-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/vippng.com-south-korea-flag-png-4120245.png",
             "title": "K-Beauty Technology",
             "text": "<p>Korean skincare innovation driven by the uncompromising demands of consumers. Proven to penetrate and deliver their ingredients through to the epidermis<\/p>"
           }
@@ -138,6 +142,7 @@
         "1626972980f1b89adb-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_pink.png",
             "title": "",
             "text": "<p>I found this product easy to use and loved the packaging. The patches really make a difference.<br\/><br\/><strong>Alice<\/strong><\/p>"
           }
@@ -145,6 +150,7 @@
         "1626972980f1b89adb-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_blue.png",
             "title": "",
             "text": "<p>Easy to use, no discomfort, and I saw a real difference after wearing them for only 6 hours.<br\/><br\/><strong>Clare<\/strong><\/p>"
           }
@@ -152,6 +158,7 @@
         "1626972980f1b89adb-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_purple.png",
             "title": "",
             "text": "<p>I have to admit I was a tad suspicious at first but this product is surprisingly effective.<br\/><br\/><strong>Jess<\/strong><\/p>"
           }
@@ -180,6 +187,7 @@
         "1627485247b9c2be22-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_purple.png",
             "title": "",
             "text": "<p>This “Miracle” Product Could Be The Solution We’re All Searching For.<br\/><br\/><strong>The Sun<\/strong><\/p>"
           }
@@ -187,6 +195,7 @@
         "1627485247b9c2be22-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_pink.png",
             "title": "",
             "text": "<p>‘Revolutionary, Effective And Painless.’<br\/><br\/><strong>The Telegraph<\/strong><\/p>"
           }
@@ -194,6 +203,7 @@
         "1627485247b9c2be22-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/stars_blue.png",
             "title": "",
             "text": "<p>‘Impressive Results And Super Easy-To-Use At Home.’<br\/><br\/><strong>You Magazine<\/strong><\/p>"
           }

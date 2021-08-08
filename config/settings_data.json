@@ -35,21 +35,21 @@
             "type": "link_list",
             "settings": {
               "heading": "Quick Links",
-              "menu": "new-theme-footer"
+              "menu": "footer-links"
             }
           },
           "34366a92-c9ce-43c4-8c67-4829ffc821c8": {
             "type": "link_list",
             "settings": {
               "heading": "Shopping with Us",
-              "menu": "new-theme-footer"
+              "menu": "policies"
             }
           },
           "1007c9ec-a47a-4fa1-bf33-e914f08de769": {
             "type": "link_list",
             "settings": {
               "heading": "International",
-              "menu": "new-theme-footer"
+              "menu": "international-site-links"
             }
           }
         },
