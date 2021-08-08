@@ -186,7 +186,8 @@
         "d6e983ac-06d4-434c-874d-8245ae55ba49": {
           "type": "column",
           "settings": {
-            "title": "Aqua-Free",
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Ultra-Low Water",
             "text": ""
           }
         }
