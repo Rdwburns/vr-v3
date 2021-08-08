@@ -11,7 +11,7 @@
     "social_facebook_link": "https:\/\/facebook.com\/shopify",
     "social_instagram_link": "http:\/\/instagram.com\/shopify",
     "social_tiktok_link": "https:\/\/tiktok.com\/@shopify",
-    "favicon": "shopify:\/\/shop_images\/White_on_Black_bg_new_1ad4cc99-7531-4d1e-9271-83b52ec59d2d.png",
+    "favicon": "shopify:\/\/shop_images\/VR_Logo_2.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/VR_Logo.png",
     "checkout_heading_font": "Helvetica Neue",
     "checkout_body_font": "Helvetica Neue",
@@ -23,7 +23,7 @@
           "e33af555-54e1-46df-a206-f438dc4a1d61": {
             "type": "announcement",
             "settings": {
-              "text": "LOOKING FOR PIMPLE AND WRINKLE REVERSA. LEARN MORE",
+              "text": "LOOKING FOR PIMPLE AND WRINKLE REVERSA? LEARN MORE",
               "color_scheme": "inverse",
               "link": "shopify:\/\/blogs\/news\/introducing-precision-skincare"
             }
