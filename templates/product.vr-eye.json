@@ -530,6 +530,67 @@
         "mobile_layout": "collage-how-to"
       }
     },
+    "16281713360ba03071": {
+      "type": "faq",
+      "blocks": {
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "shipping-information",
+            "icon": "none"
+          }
+        },
+        "264197d3-38b5-4d2f-91f7-d829d8cfbc36": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "returns-information",
+            "icon": "none"
+          }
+        },
+        "223a2ffc-d74a-46c7-b667-e5908de6430c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the UK?",
+            "content": "",
+            "page": "international-shipping-information",
+            "icon": "none"
+          }
+        },
+        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Any Questions?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083",
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
+        "264197d3-38b5-4d2f-91f7-d829d8cfbc36",
+        "223a2ffc-d74a-46c7-b667-e5908de6430c",
+        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "162627080538092e1b": {
       "type": "faq",
       "blocks": {
@@ -669,6 +730,7 @@
     },
     "1626334150955f5504": {
       "type": "multicolumn-images",
+      "disabled": true,
       "blocks": {
         "1626334150955f5504-0": {
           "type": "column",
@@ -715,67 +777,6 @@
         "swipe_on_mobile": true
       }
     },
-    "16281713360ba03071": {
-      "type": "faq",
-      "blocks": {
-        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Full Ingredients",
-            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Delivery Information",
-            "content": "",
-            "page": "shipping-information",
-            "icon": "none"
-          }
-        },
-        "264197d3-38b5-4d2f-91f7-d829d8cfbc36": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Returns Information",
-            "content": "",
-            "page": "returns-information",
-            "icon": "none"
-          }
-        },
-        "223a2ffc-d74a-46c7-b667-e5908de6430c": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shopping Outside of the UK?",
-            "content": "",
-            "page": "international-shipping-information",
-            "icon": "none"
-          }
-        },
-        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Any Questions?",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "7eba25f2-92ac-4fc2-b8e6-33773f71e083",
-        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
-        "264197d3-38b5-4d2f-91f7-d829d8cfbc36",
-        "223a2ffc-d74a-46c7-b667-e5908de6430c",
-        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281"
-      ],
-      "settings": {
-        "heading": ""
-      }
-    },
     "16269033832bed337e": {
       "type": "product-reviews",
       "settings": {
@@ -799,9 +800,9 @@
     "1626170247b0785461",
     "16262976340da42008",
     "16269032410f2256e7",
+    "16281713360ba03071",
     "162627080538092e1b",
     "1626334150955f5504",
-    "16281713360ba03071",
     "16269033832bed337e"
   ]
 }
