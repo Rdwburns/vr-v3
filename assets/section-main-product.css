@@ -227,8 +227,8 @@ fieldset.product-form__input .form__label {
 
 .product__text.subtitle {
   margin: 0;
-  text-transform: uppercase;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.12em;
+  font-size: 1.1em;
 }
 
 a.product__text {
@@ -243,7 +243,7 @@ a.product__text {
 
 .product__title {
   margin: 0;
-  font-size: 3rem;
+  font-size: 2.5rem;
   text-transform: uppercase;
   letter-spacing: 0.2em;
 }
