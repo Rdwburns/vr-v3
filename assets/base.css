@@ -1732,7 +1732,7 @@ input[type='checkbox'] {
   }
   .header__heading-link .h2 {
     text-align: center;
-    font-size: 0.3em !important;
+    font-size: 1vw !important;
   }
   .header__heading-link {
     padding: 0 !important;
