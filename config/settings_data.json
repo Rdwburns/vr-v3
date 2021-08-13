@@ -22,8 +22,9 @@
         "blocks": {
           "e33af555-54e1-46df-a206-f438dc4a1d61": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
-              "text": "LOOKING FOR PIMPLE AND WRINKLE REVERSA? LEARN MORE",
+              "text": "WE'VE GOT A NEW LOOK! LEARN MORE",
               "color_scheme": "inverse",
               "link": "shopify:\/\/blogs\/news\/introducing-precision-skincare"
             }
