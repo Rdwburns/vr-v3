@@ -47,25 +47,25 @@
         "162826528758e4667d-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our microneedles are in fact highly concentrated serums, crystallised. There is no oil involved, and only the absolute minimum of water. They deliver no filler, just killer ingredients.<\/p>"
+            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
           }
         },
         "8bac2994-31f6-47eb-b86b-29d0f0142e90": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>Microneedle patches were first developed to deliver painless, effective drugs and vaccines. We’ve worked with K-beauty scientists to create our precision skincare. This is medical-grade technology: precision-targeted, ultra-hygienic.<\/p>"
+            "text": "<p><\/p><p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
           }
         },
         "626a64f5-f78c-4f70-8984-9b60b5a583b9": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Designed to cause no skin trauma, the elongated pyramid-shape of our microneedles allows them to painlessly push through skin’s outer layer to deliver the good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "5cb8bd32-381c-43d1-8064-1669c3ecf989": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers. The concentrated formulas get to work fast and effectively from just two hours.<\/p>"
+            "text": "<p><\/p><p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
           }
         }
       },
@@ -106,7 +106,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/target_1.png",
             "title": "Targeted Formulations",
-            "text": "<p>Precision means focus – we target the problem precisely, so you only use what, when and where you need to.<\/p>"
+            "text": "<p>We target the problem precisely, so you only use what, when and where you need to.<\/p>"
           }
         },
         "1627478021f2611bd4-0": {
@@ -114,7 +114,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/vippng.com-south-korea-flag-png-4120245.png",
             "title": "Clinically Proven",
-            "text": "<p>K-beauty skincare innovation driven by the demands of discerning consumers. Proven to penetrate directly to the epidermis and deliver ingredients through to the dermal layers.<\/p>"
+            "text": "<p>Proven to penetrate directly to the epidermis and deliver ingredients even through to the dermal layers<\/p>"
           }
         }
       },
