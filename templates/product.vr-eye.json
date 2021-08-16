@@ -645,6 +645,7 @@
         },
         "47d059da-84d0-4db9-8a2e-078cb4c2ed8e": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Can I use Eye Rejuvenator patches with Filler or Botox?",
             "content": "<p>Absolutely. The Eye Rejuvenator patches gently penetrate the skin to allow active ingredients to reach the epidermis layers beneath the surface. Similarly, fillers are subcutaneous and are applied beneath the skin’s epidermis.<\/p>",
@@ -672,7 +673,6 @@
         },
         "e473012e-e4b4-47fa-978f-c715a4062929": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "When can I expect to see results?",
             "content": "<p>It differs for everyone, but you may start seeing results straight away. From one application you can expect to see deeper hydration around the eye area, but it may take between 6 - 8 applications to see significant results.<\/p>",
