@@ -783,3 +783,21 @@ a.product__text {
 .stamped-product-reviews-badge {
   margin: 0;
 }
+
+.rc_popup {
+  display: none !important;
+}
+
+.rc-widget span {
+  font-family: "GothamBook";
+  letter-spacing: 0.2em;
+}
+
+.rc-option__price {
+  font-family: "GothamBold" !important;
+  padding-left: 10px;
+}
+
+.rc-radio {
+  margin: 0 0 10px 0;
+}
