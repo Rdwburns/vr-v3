@@ -1,4 +1,4 @@
-{% if template.name == "list-collections" or collection.handle == 'all' %}
+{% if template.name == "list-collections" or collection.handle == 'all' or collection.handle == 'all-products' %}
     <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com">
     <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
     <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
@@ -30,7 +30,7 @@
     <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/products/wrinkle-reversa-microneedle-plumping-eye-patches">
     <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com/products/wrinkle-reversa-microneedle-plumping-eye-patches">
 {% endif %}
-{% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us"  %}
+{% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all'  or collection.handle == 'all-products' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us"  %}
     <link rel="alternate" hreflang="en-au" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com" }}">
     <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
     <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
