@@ -12,23 +12,8 @@
       <link rel="icon" type="image/png" href="{{ settings.favicon | img_url: '32x32' }}">
     {%- endif -%}
 
-    {% if template.name == "list-collections" or collection.handle == 'all' %}
-    <link rel="canonical" href="https://vicereversa.co.uk/">
-    {% elsif template.name == "article" or template.name == "blog" %}
-      <link rel="canonical" href="{{ canonical_url }}">
-      <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-      <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-    {% endif %}
-    {% unless template.name == "list-collections" or collection.handle == 'all' or template.name == "article" or template.name == "blog" or page.handle == "contact"  %}
-      <link rel="canonical" href="{{ canonical_url }}">
-      <link rel="alternate" hreflang="en-au" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com" }}">
-      <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-      <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-      <link rel="alternate" hreflang="en-ie" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.eu" | remove: "/de" | remove: "/fr" }}">
-      <link rel="alternate" hreflang="de-de" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/de" }}">
-      <link rel="alternate" hreflang="fr-fr" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/fr" }}">
-    {% endunless %}
 
+    {% render 'international-seo' %}
 
     <title>{{ page_title }}</title>
 
