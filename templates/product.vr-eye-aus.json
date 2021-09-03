@@ -3,11 +3,9 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
+        "ded84350-da35-4b5d-be22-f69cec5f1827": {
+          "type": "review-stars",
           "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
           }
         },
         "title": {
@@ -15,11 +13,20 @@
           "settings": {
           }
         },
-        "subtitle": {
+        "vendor": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "color": "#e72677",
             "text_style": "subtitle"
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields.product_short_description.value }}",
+            "color": "#000000",
+            "text_style": "italic"
           }
         },
         "price": {
@@ -43,28 +50,17 @@
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-          }
         }
       },
       "block_order": [
-        "vendor",
+        "ded84350-da35-4b5d-be22-f69cec5f1827",
         "title",
+        "vendor",
         "subtitle",
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "description",
-        "share"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -81,10 +77,46 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "1630667350eac58cba": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "16306673507dd07b78-0": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Unlike topical creams, our Microneedle Technology goes directly where it’s needed, deeper in the skin. Pyramid-shaped microneedles on perfect-fitting hydrocolloid patches ensure gentle, effective penetration and fast absorption of ingredients.<\/p>"
+          }
+        },
+        "16306673507dd07b78-1": {
+          "type": "column",
+          "settings": {
+            "title": "Collagen Counts",
+            "text": "<p>2600 serum-infused microneedles on each pair. Made with 3 key peptides and adenosine the concentrated formula helps smooth the appearance of fine lines and give firmer, younger-looking skin. No cream, no oil and tiny amounts of water in our concentrated formula.<\/p>"
+          }
+        },
+        "16306673507dd07b78-2": {
+          "type": "column",
+          "settings": {
+            "title": "Visible Improvement",
+            "text": "<p>High performance formulation made with peptides, hyalauronic acid, vitamin c and glutathione for visibly firmer, brighter, more hydrated skin. Visible improvements that get better with continued use.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306673507dd07b78-0",
+        "16306673507dd07b78-1",
+        "16306673507dd07b78-2"
+      ],
+      "settings": {
+        "title": "Why Eye Rejuvenator?",
+        "background_style": "pink"
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1630667350eac58cba"
   ]
 }
