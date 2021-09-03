@@ -569,28 +569,28 @@
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
-            "content": "",
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "none"
           }
         },
         "7825e2de-8ede-40e1-9183-87d822ad162d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Delivery Information",
             "content": "",
-            "page": "",
-            "icon": "check_mark"
+            "page": "shipping-information",
+            "icon": "none"
           }
         },
         "03010517-4855-4015-952f-3f10770e4630": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Returns Information",
             "content": "",
-            "page": "",
-            "icon": "check_mark"
+            "page": "returns-information",
+            "icon": "none"
           }
         }
       },
