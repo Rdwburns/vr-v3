@@ -429,6 +429,31 @@
         "color_scheme": "background-1",
         "layout": "text_first"
       }
+    },
+    "1630670725d93383b2": {
+      "type": "quote",
+      "blocks": {
+        "1630670725e31cbdd3-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "1630670725e31cbdd3-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Sun<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630670725e31cbdd3-0",
+        "1630670725e31cbdd3-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
     }
   },
   "order": [
@@ -443,6 +468,7 @@
     "1630670401e8a21014",
     "16306704548aeb6f5e",
     "1630670605efc9d8e8",
-    "16306706442722ab1c"
+    "16306706442722ab1c",
+    "1630670725d93383b2"
   ]
 }
