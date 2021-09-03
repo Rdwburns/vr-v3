@@ -5,7 +5,6 @@
       "blocks": {
         "ded84350-da35-4b5d-be22-f69cec5f1827": {
           "type": "review-stars",
-          "disabled": true,
           "settings": {
           }
         },
@@ -419,56 +418,6 @@
         "more": false
       }
     },
-    "16306681249299ca0a": {
-      "type": "faq",
-      "blocks": {
-        "716af1da-77e2-4a80-84b0-f3130387a520": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Full Ingredients",
-            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "74caeb69-73d4-4c77-bb25-5eb4562ac318": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Delivery Information",
-            "content": "",
-            "page": "shipping-information",
-            "icon": "check_mark"
-          }
-        },
-        "3cea9393-06a4-4c76-bafd-1bb46106f08f": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Returns Information",
-            "content": "",
-            "page": "returns-information",
-            "icon": "check_mark"
-          }
-        },
-        "a2e220bd-cd42-45ed-97a3-201c502cf736": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shopping Outside of the UK?",
-            "content": "",
-            "page": "international-shipping-information",
-            "icon": "check_mark"
-          }
-        }
-      },
-      "block_order": [
-        "716af1da-77e2-4a80-84b0-f3130387a520",
-        "74caeb69-73d4-4c77-bb25-5eb4562ac318",
-        "3cea9393-06a4-4c76-bafd-1bb46106f08f",
-        "a2e220bd-cd42-45ed-97a3-201c502cf736"
-      ],
-      "settings": {
-        "heading": ""
-      }
-    },
     "1630668062b8a6dbc5": {
       "type": "faq",
       "blocks": {
@@ -529,11 +478,10 @@
         "heading": "Frequently Asked Questions"
       }
     },
-    "1630668130e6ae61d4": {
-      "type": "product-reviews",
-      "disabled": true,
+    "16306681249299ca0a": {
+      "type": "faq",
       "settings": {
-        "heading": "What people say"
+        "heading": "FAQ"
       }
     }
   },
@@ -549,8 +497,7 @@
     "163066789374079d02",
     "163066801691ce005c",
     "1630668022cab0cd42",
-    "16306681249299ca0a",
     "1630668062b8a6dbc5",
-    "1630668130e6ae61d4"
+    "16306681249299ca0a"
   ]
 }
