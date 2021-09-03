@@ -363,7 +363,6 @@
       "blocks": {
         "16306706059d664fbe-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "WANT TO KNOW MORE?"
           }
@@ -371,7 +370,7 @@
         "16306706059d664fbe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.their magic.<\/p>"
+            "text": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p>"
           }
         },
         "16306706059d664fbe-2": {
@@ -400,6 +399,7 @@
       "blocks": {
         "16306706447d17b881-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image with text"
           }
@@ -407,13 +407,13 @@
         "16306706447d17b881-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>"
           }
         },
         "16306706447d17b881-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -424,6 +424,7 @@
         "16306706447d17b881-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
