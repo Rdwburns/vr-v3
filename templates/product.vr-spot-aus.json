@@ -454,6 +454,66 @@
         "color_scheme": "background-1",
         "more": false
       }
+    },
+    "163067075567773c25": {
+      "type": "faq",
+      "blocks": {
+        "cc10d2d5-6bd1-44a8-ad1b-acd1cb502b89": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "5363b941-f9be-46c0-a97b-8406367f2902": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "d6134b69-733b-445e-b05c-4a3696d2cffd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "36fc48b5-1a19-420f-9cd4-732a2a406fb0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "86f2acf7-49e1-43ad-97d1-5d5a92e4c762": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "cc10d2d5-6bd1-44a8-ad1b-acd1cb502b89",
+        "5363b941-f9be-46c0-a97b-8406367f2902",
+        "d6134b69-733b-445e-b05c-4a3696d2cffd",
+        "36fc48b5-1a19-420f-9cd4-732a2a406fb0",
+        "86f2acf7-49e1-43ad-97d1-5d5a92e4c762"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions"
+      }
     }
   },
   "order": [
@@ -469,6 +529,7 @@
     "16306704548aeb6f5e",
     "1630670605efc9d8e8",
     "16306706442722ab1c",
-    "1630670725d93383b2"
+    "1630670725d93383b2",
+    "163067075567773c25"
   ]
 }
