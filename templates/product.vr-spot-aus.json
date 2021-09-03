@@ -149,6 +149,60 @@
         "button_label": "Button label",
         "button_link": ""
       }
+    },
+    "16306701834173a61d": {
+      "type": "multicolumn",
+      "blocks": {
+        "1630670183a78fe379-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
+          }
+        },
+        "1630670183a78fe379-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        },
+        "1630670183a78fe379-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": ""
+          }
+        },
+        "dd428091-6592-4d2a-ac85-545657f1027d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Ultra-Low Water",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630670183a78fe379-0",
+        "1630670183a78fe379-1",
+        "1630670183a78fe379-2",
+        "dd428091-6592-4d2a-ac85-545657f1027d"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
+      }
     }
   },
   "order": [
@@ -156,6 +210,7 @@
     "product-recommendations",
     "1630665518a37c4504",
     "163066578569987736",
-    "16306659269238a056"
+    "16306659269238a056",
+    "16306701834173a61d"
   ]
 }
