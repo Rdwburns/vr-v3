@@ -289,11 +289,12 @@
         "1630670401cc0a1dcb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots. However for deeper, more stubborn spots a second application may be needed.<\/p>"
           }
         },
         "1630670401cc0a1dcb-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
