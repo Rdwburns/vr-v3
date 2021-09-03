@@ -25,7 +25,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "all-products",
+        "collection": "our-range",
         "products_to_show": 2,
         "show_view_all": false,
         "swipe_on_mobile": false,
@@ -77,7 +77,6 @@
         "5cb8bd32-381c-43d1-8064-1669c3ecf989"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Pimple-Patch-ingrediant-1400_535x_8342dbdb-fd8c-4506-b376-a8e7bc6fff17.jpg",
         "height": "adapt",
         "color_scheme": "background-1"
       }
