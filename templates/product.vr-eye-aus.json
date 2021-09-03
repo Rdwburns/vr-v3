@@ -5,6 +5,7 @@
       "blocks": {
         "ded84350-da35-4b5d-be22-f69cec5f1827": {
           "type": "review-stars",
+          "disabled": true,
           "settings": {
           }
         },
@@ -530,6 +531,7 @@
     },
     "1630668130e6ae61d4": {
       "type": "product-reviews",
+      "disabled": true,
       "settings": {
         "heading": "What people say"
       }
