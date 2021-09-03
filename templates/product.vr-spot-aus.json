@@ -148,6 +148,466 @@
         "button_label": "Button label",
         "button_link": ""
       }
+    },
+    "16306659421320169f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1630665942ac3e8611-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
+          }
+        },
+        "1630665942ac3e8611-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        },
+        "1630665942ac3e8611-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": ""
+          }
+        },
+        "002e08ca-fc28-413f-8142-ffb96be74c10": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Ultra-Low Water",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630665942ac3e8611-0",
+        "1630665942ac3e8611-1",
+        "1630665942ac3e8611-2",
+        "002e08ca-fc28-413f-8142-ffb96be74c10"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
+      }
+    },
+    "1630666015358bd0c9": {
+      "type": "quote",
+      "blocks": {
+        "1630666015b7f7fd2e-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
+          }
+        },
+        "1630666015b7f7fd2e-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Telegraph<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630666015b7f7fd2e-0",
+        "1630666015b7f7fd2e-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "1630666337c09e6a3c": {
+      "type": "image-surround",
+      "blocks": {
+        "16306663377fad1b42-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "16306663377fad1b42-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+          }
+        },
+        "8535584c-05b2-47ff-bff8-2072c8ef8f44": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+          }
+        },
+        "e27a1146-93b6-4190-b28b-cae36a70c86b": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+          }
+        },
+        "c0810710-86d7-4deb-96d1-4a95110358ff": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306663377fad1b42-0",
+        "16306663377fad1b42-1",
+        "8535584c-05b2-47ff-bff8-2072c8ef8f44",
+        "e27a1146-93b6-4190-b28b-cae36a70c86b",
+        "c0810710-86d7-4deb-96d1-4a95110358ff"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP_540b1183-618e-4df2-898c-beb32cbdfd70.png",
+        "height": "adapt",
+        "color_scheme": "background-1"
+      }
+    },
+    "16306663409d21c0a4": {
+      "type": "text-with-background",
+      "blocks": {
+        "1630666340fd524880-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recommended Use",
+            "heading_size": "small"
+          }
+        },
+        "1630666340fd524880-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots. However for deeper, more stubborn spots a second application may be needed.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630666340fd524880-0",
+        "1630666340fd524880-1"
+      ],
+      "settings": {
+        "color_background": "#fff1b9",
+        "color_border": "#ffd902",
+        "full_width": false
+      }
+    },
+    "1630666417cb64e983": {
+      "type": "multicolumn",
+      "blocks": {
+        "16306664179de5efb4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
+            "title": "Salicylic Acid",
+            "text": "<p>A staple when it comes to blemish-prone skin, salicylic acid is known for its ability to help unclog pores, reduce bacteria and sooth swollen skin.<\/p>"
+          }
+        },
+        "16306664179de5efb4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100_cbc150c5-7be0-43ab-bfb7-819b04434676.jpg",
+            "title": "Totarol",
+            "text": "<p>Totarol’s antibacterial superpowers are well-known, reinforcing the skin’s natural defences against toxins and UV damage.<\/p>"
+          }
+        },
+        "16306664179de5efb4-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
+            "title": "Green Tea Extract",
+            "text": "<p>A powerful antioxidant known to unclog pores and eliminate surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306664179de5efb4-0",
+        "16306664179de5efb4-1",
+        "16306664179de5efb4-2"
+      ],
+      "settings": {
+        "title": "Key Ingredients",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "16306665798820063b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16306665792287c725-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "WANT TO KNOW MORE?"
+          }
+        },
+        "16306665792287c725-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p>"
+          }
+        },
+        "16306665792287c725-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16306665792287c725-0",
+        "16306665792287c725-1",
+        "16306665792287c725-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Product_-_Pimple-v2.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1630666636bdc30c9b": {
+      "type": "image-with-text",
+      "blocks": {
+        "163066663665e48b58-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "163066663665e48b58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>"
+          }
+        },
+        "163066663665e48b58-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163066663665e48b58-0",
+        "163066663665e48b58-1",
+        "163066663665e48b58-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "163066663991779af8": {
+      "type": "quote",
+      "blocks": {
+        "1630666639603bd5cf-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "1630666639603bd5cf-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Sun<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630666639603bd5cf-0",
+        "1630666639603bd5cf-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "16306667041d9e5b40": {
+      "type": "faq",
+      "blocks": {
+        "22c082f2-47bb-41fe-a564-a13f8854c05d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I reuse Spot Stoppa patches?",
+            "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective. <\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ecf1dd8a-ff2f-40a8-830e-c06a1eac4ad2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I use Spot Stoppa with other products?",
+            "content": "<p>Our pimple patches are easy to fit into your existing routine. It’s important that they are applied to clean, dry skin and not layered over other topical products such as moisturisers or serums.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ed43b768-bb0b-4f0e-bc32-02b7e2ddebf9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When I remove the Spot Stoppa patch, there is sometimes an outline left on my skin. Is this normal?",
+            "content": "<p>Yes, this is totally normal and should fade within an hour<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "1f44e8f8-5eec-4f1a-a5aa-226bcd277df0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Spot Stoppa patches vegan?",
+            "content": "<p>Yes. Our pimple patches only use vegan ingredients.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "f470551d-45d4-4839-a917-ea555b2be808": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What makes Spot Stoppa patches different from cheaper alternatives? ",
+            "content": "<p>Our products have been designed for all skin types. The patch itself is a medical grade hydrocolloid base that gently extracts impurities and protects against further inflammation. The needles are infused with crystallised salicylic acid, totarol, and green tea extract to tackle even the most stubborn spots. <\/p><p>They’re also boosted with hyaluronic acid, which is incredibly gentle and poses low risk of irritation as the body naturally produces this ingredient. <\/p><p>We do understand that skin sensitivity varies from person-to-person and if you’re unsure of how you will react to these ingredients, try a patch test on the back of your hand before applying to your face.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "22c082f2-47bb-41fe-a564-a13f8854c05d",
+        "ecf1dd8a-ff2f-40a8-830e-c06a1eac4ad2",
+        "ed43b768-bb0b-4f0e-bc32-02b7e2ddebf9",
+        "1f44e8f8-5eec-4f1a-a5aa-226bcd277df0",
+        "f470551d-45d4-4839-a917-ea555b2be808"
+      ],
+      "settings": {
+        "heading": "FAQ"
+      }
+    },
+    "163066680516ae1198": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "163066680583ac5fc0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/glamour-logo.png"
+          }
+        },
+        "163066680583ac5fc0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/r29_logo.png"
+          }
+        },
+        "163066680583ac5fc0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vogue_logo.png"
+          }
+        },
+        "900aea33-8eb9-451f-9397-de802778fd32": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tatler_logo.png"
+          }
+        },
+        "7b0eedd6-ab4c-4438-8eb8-e7c0daf0d8f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
+          }
+        }
+      },
+      "block_order": [
+        "163066680583ac5fc0-0",
+        "163066680583ac5fc0-1",
+        "163066680583ac5fc0-2",
+        "900aea33-8eb9-451f-9397-de802778fd32",
+        "7b0eedd6-ab4c-4438-8eb8-e7c0daf0d8f2"
+      ],
+      "settings": {
+        "title": "As Seen In",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "swipe_on_mobile": true
+      }
+    },
+    "1630666871337c1d51": {
+      "type": "faq",
+      "blocks": {
+        "17e73277-8793-4210-ba22-a7998dae1672": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "1e3e2749-f485-4dd4-804c-f53cd2c40e57": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "166337a4-ceb9-4127-8a6a-70727072ae5c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "6f683c0c-85fb-444d-9c7e-3629c56eb289": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the Australia?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "17e73277-8793-4210-ba22-a7998dae1672",
+        "1e3e2749-f485-4dd4-804c-f53cd2c40e57",
+        "166337a4-ceb9-4127-8a6a-70727072ae5c",
+        "6f683c0c-85fb-444d-9c7e-3629c56eb289"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
+    "163066687596e2c5d6": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
     }
   },
   "order": [
@@ -155,6 +615,18 @@
     "product-recommendations",
     "1630665518a37c4504",
     "163066578569987736",
-    "16306659269238a056"
+    "16306659269238a056",
+    "16306659421320169f",
+    "1630666015358bd0c9",
+    "1630666337c09e6a3c",
+    "16306663409d21c0a4",
+    "1630666417cb64e983",
+    "16306665798820063b",
+    "1630666636bdc30c9b",
+    "163066663991779af8",
+    "16306667041d9e5b40",
+    "163066680516ae1198",
+    "1630666871337c1d51",
+    "163066687596e2c5d6"
   ]
 }
