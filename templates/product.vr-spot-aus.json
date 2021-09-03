@@ -312,6 +312,51 @@
         "color_border": "#ffd902",
         "full_width": false
       }
+    },
+    "16306704548aeb6f5e": {
+      "type": "multicolumn",
+      "blocks": {
+        "1630670454d46c61ec-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100_f0ef302b-6934-4954-8952-a7c0ba96841b.jpg",
+            "title": "Salicylic Acid",
+            "text": "<p>A staple when it comes to blemish-prone skin, salicylic acid is known for its ability to help unclog pores, reduce bacteria and sooth swollen skin.<\/p>"
+          }
+        },
+        "1630670454d46c61ec-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100_cbc150c5-7be0-43ab-bfb7-819b04434676.jpg",
+            "title": "Totarol",
+            "text": "<p>Totarol’s antibacterial superpowers are well-known, reinforcing the skin’s natural defences against toxins and UV damage.<\/p>"
+          }
+        },
+        "1630670454d46c61ec-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100_79e2f469-3b11-4ba9-b31d-b636371b6d58.jpg",
+            "title": "Green Tea Extract",
+            "text": "<p>A powerful antioxidant known to unclog pores and eliminate surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630670454d46c61ec-0",
+        "1630670454d46c61ec-1",
+        "1630670454d46c61ec-2"
+      ],
+      "settings": {
+        "title": "Key Ingredients",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
     }
   },
   "order": [
@@ -323,6 +368,7 @@
     "16306701834173a61d",
     "1630670224f303657c",
     "163067039806b11365",
-    "1630670401e8a21014"
+    "1630670401e8a21014",
+    "16306704548aeb6f5e"
   ]
 }
