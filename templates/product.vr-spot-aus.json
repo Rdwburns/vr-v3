@@ -3,11 +3,9 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
+        "1ee344ff-d4e2-4e80-92ee-b5057cb31988": {
+          "type": "review-stars",
           "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
           }
         },
         "title": {
@@ -19,7 +17,16 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "color": "#e41f1a",
             "text_style": "subtitle"
+          }
+        },
+        "68a8aec7-bf15-4dba-bd03-4a7d68078c2b": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields.product_short_description.value }}",
+            "color": "#000000",
+            "text_style": "italic"
           }
         },
         "price": {
@@ -43,28 +50,17 @@
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-          }
         }
       },
       "block_order": [
-        "vendor",
+        "1ee344ff-d4e2-4e80-92ee-b5057cb31988",
         "title",
         "subtitle",
+        "68a8aec7-bf15-4dba-bd03-4a7d68078c2b",
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "description",
-        "share"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
