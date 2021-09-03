@@ -514,6 +514,89 @@
       "settings": {
         "heading": "Frequently Asked Questions"
       }
+    },
+    "163067078558f946c3": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "163067078502d32b10-0": {
+          "type": "column",
+          "settings": {
+          }
+        },
+        "163067078502d32b10-1": {
+          "type": "column",
+          "settings": {
+          }
+        },
+        "163067078502d32b10-2": {
+          "type": "column",
+          "settings": {
+          }
+        },
+        "bbd2a802-1960-4dfd-939d-f3cc7ebe1339": {
+          "type": "column",
+          "settings": {
+          }
+        },
+        "24a03b52-6fcf-42a1-81ad-237dc8ee2719": {
+          "type": "column",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "163067078502d32b10-0",
+        "163067078502d32b10-1",
+        "163067078502d32b10-2",
+        "bbd2a802-1960-4dfd-939d-f3cc7ebe1339",
+        "24a03b52-6fcf-42a1-81ad-237dc8ee2719"
+      ],
+      "settings": {
+        "title": "multicolumn-images",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "swipe_on_mobile": false
+      }
+    },
+    "1630670794bbb91b25": {
+      "type": "faq",
+      "blocks": {
+        "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "7825e2de-8ede-40e1-9183-87d822ad162d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "03010517-4855-4015-952f-3f10770e4630": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "ccfb11ff-ccab-4a85-9d96-67368a9a749f",
+        "7825e2de-8ede-40e1-9183-87d822ad162d",
+        "03010517-4855-4015-952f-3f10770e4630"
+      ],
+      "settings": {
+        "heading": "FAQ"
+      }
     }
   },
   "order": [
@@ -530,6 +613,8 @@
     "1630670605efc9d8e8",
     "16306706442722ab1c",
     "1630670725d93383b2",
-    "163067075567773c25"
+    "163067075567773c25",
+    "163067078558f946c3",
+    "1630670794bbb91b25"
   ]
 }
