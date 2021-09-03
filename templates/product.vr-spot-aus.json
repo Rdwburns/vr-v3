@@ -77,10 +77,84 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "1630665518a37c4504": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "1630665518e425ef08-0": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+          }
+        },
+        "1630665518e425ef08-1": {
+          "type": "column",
+          "settings": {
+            "title": "Spot-Busting Formulation",
+            "text": "<p>500 microneedles on each patch. The concentrated formula of salicylic acid, totarol, green tea extract and hyaluronic acid melts into skin, purifying spots from within. Reduces the appearance of spots, soothes skin and reverses breakouts.<\/p>"
+          }
+        },
+        "1630665518e425ef08-2": {
+          "type": "column",
+          "settings": {
+            "title": "Visible Results",
+            "text": "<p>Designed for hormonal zits, early-stage pimples and deep under-the-skin spots. With noticeable changes in size, colour and pressure. Get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630665518e425ef08-0",
+        "1630665518e425ef08-1",
+        "1630665518e425ef08-2"
+      ],
+      "settings": {
+        "title": "Why Spot Stoppa",
+        "background_style": "orange"
+      }
+    },
+    "163066578569987736": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Eva, 34",
+        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
+        "after_caption": "After 1 Use",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Super simple to use and dramatic difference in pimple size overnight. Cannot live without these now!",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "16306659269238a056": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Jemima, 25",
+        "before_image": "shopify:\/\/shop_images\/Jemima_before.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Jemima_after.jpg",
+        "after_caption": "After 1 Use",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I love these miracle patches! I have suffered with adult hormonal cystic acne for ages now and have tried everything (or so I thought) these are so easy to use and made a huge difference in stopping the spots coming out to their worst (normally they are so painful) I used a patch two nights in a row and then from then the spots cleared up so much quicker on their own (reducing redness and inflammation).",
+        "button_label": "Button label",
+        "button_link": ""
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1630665518a37c4504",
+    "163066578569987736",
+    "16306659269238a056"
   ]
 }
