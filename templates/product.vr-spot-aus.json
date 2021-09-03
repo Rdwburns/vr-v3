@@ -203,6 +203,31 @@
         "swipe_on_mobile": false,
         "grid_on_mobile": true
       }
+    },
+    "1630670224f303657c": {
+      "type": "quote",
+      "blocks": {
+        "16306702244df286bb-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
+          }
+        },
+        "16306702244df286bb-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Telegraph<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306702244df286bb-0",
+        "16306702244df286bb-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
     }
   },
   "order": [
@@ -211,6 +236,7 @@
     "1630665518a37c4504",
     "163066578569987736",
     "16306659269238a056",
-    "16306701834173a61d"
+    "16306701834173a61d",
+    "1630670224f303657c"
   ]
 }
