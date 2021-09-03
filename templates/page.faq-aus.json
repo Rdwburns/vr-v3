@@ -133,13 +133,14 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "What forms of payment do you accept?",
-            "content": "<p>We accept all major credit cards, Paypal, Klarna, Apple Pay, Google Pay and Shop Pay.<\/p>",
+            "content": "<p>We accept all major credit cards, Paypal, Afterpay, Apple Pay, Google Pay and Shop Pay.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
         "67d5adf6-28d4-4120-acc9-777e466c4de1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Can I order over the phone?",
             "content": "<p>Yes. Please email us at <a href=\"mailto:support@vicereversa.co.uk\">support@vicereversa.co.uk<\/a> and request a call back with your<br\/>phone number and best time to contact you.<\/p>",
@@ -151,7 +152,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Where are Vice Reversa products shipped from?",
-            "content": "<p>Vice Reversa products are shipped via Royal Mail from our distribution<br\/>centre in the UK.<\/p>",
+            "content": "<p>Vice Reversa products are shipped via Australia Post from our distribution<br\/>centre in Sydney.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -160,7 +161,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "How long are shipping times?",
-            "content": "<p>All products will be dispatched within four working days of you placing<br\/>your order. Our standard shipping is 48H tracked post via Royal Mail. We also offer next day shipping with DHL. <\/p>",
+            "content": "<p>All products will be dispatched within four working days of you placing<br\/>your order. Our standard shipping is tracked post via Australia Post.  <\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -169,7 +170,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Do you ship internationally?",
-            "content": "<p>Yes. For European orders please visit vicereversaskin.eu <\/p><p>For Australia and New Zealand please visit vicereversaskin.com.au<\/p>",
+            "content": "<p>Yes. For European orders please visit vicereversaskin.eu <\/p><p>For the UK visit vicereversa.co.uk<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -187,7 +188,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Can I cancel or change my order after it’s been placed?",
-            "content": "<p>Orders can be cancelled as long as they have not been fulfilled and shipped out yet. If you need to make a change to your order, please don’t hesitate to reach out to our customer service team at support@vicereversa.co.uk.<\/p>",
+            "content": "<p>Orders can be cancelled as long as they have not been fulfilled and shipped out yet. If you need to make a change to your order, please don’t hesitate to reach out to our customer service team at support@vicereversaskin.com<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -329,9 +330,11 @@
     },
     "16279963705fa2cc5b": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "f9b6adc9-61a0-4a42-ab1d-98f081465c56": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "How do I cancel my Subscription?",
             "content": "<p>Log in to your account <a href=\"https:\/\/vicereversa.co.uk\/account\/login\">here<\/a>, where you will be able to amend your<br\/>subscription details. <\/p>",

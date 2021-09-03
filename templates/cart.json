@@ -51,6 +51,7 @@
         },
         "4f122230-5385-4799-aeeb-c126f462d95c": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shopping Outside of the UK?",
             "content": "",
