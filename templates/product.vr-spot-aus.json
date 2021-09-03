@@ -521,26 +521,31 @@
         "163067078502d32b10-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/glamour-logo.png"
           }
         },
         "163067078502d32b10-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/r29_logo.png"
           }
         },
         "163067078502d32b10-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/vogue_logo.png"
           }
         },
         "bbd2a802-1960-4dfd-939d-f3cc7ebe1339": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/tatler_logo.png"
           }
         },
         "24a03b52-6fcf-42a1-81ad-237dc8ee2719": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
           }
         }
       },
@@ -552,10 +557,10 @@
         "24a03b52-6fcf-42a1-81ad-237dc8ee2719"
       ],
       "settings": {
-        "title": "multicolumn-images",
-        "image_width": "full",
+        "title": "As Seen In",
+        "image_width": "third",
         "image_ratio": "adapt",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "1630670794bbb91b25": {
