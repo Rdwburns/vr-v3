@@ -5,6 +5,7 @@
       "blocks": {
         "1ee344ff-d4e2-4e80-92ee-b5057cb31988": {
           "type": "review-stars",
+          "disabled": true,
           "settings": {
           }
         },
