@@ -527,6 +527,12 @@
       "settings": {
         "heading": "Frequently Asked Questions"
       }
+    },
+    "1630668130e6ae61d4": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "What people say"
+      }
     }
   },
   "order": [
@@ -542,6 +548,7 @@
     "163066801691ce005c",
     "1630668022cab0cd42",
     "16306681249299ca0a",
-    "1630668062b8a6dbc5"
+    "1630668062b8a6dbc5",
+    "1630668130e6ae61d4"
   ]
 }
