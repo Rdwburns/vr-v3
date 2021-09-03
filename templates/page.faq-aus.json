@@ -133,13 +133,14 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "What forms of payment do you accept?",
-            "content": "<p>We accept all major credit cards, Paypal, Klarna, Apple Pay, Google Pay and Shop Pay.<\/p>",
+            "content": "<p>We accept all major credit cards, Paypal, Afterpay, Apple Pay, Google Pay and Shop Pay.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
         "67d5adf6-28d4-4120-acc9-777e466c4de1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Can I order over the phone?",
             "content": "<p>Yes. Please email us at <a href=\"mailto:support@vicereversa.co.uk\">support@vicereversa.co.uk<\/a> and request a call back with your<br\/>phone number and best time to contact you.<\/p>",
@@ -151,7 +152,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Where are Vice Reversa products shipped from?",
-            "content": "<p>Vice Reversa products are shipped via Royal Mail from our distribution<br\/>centre in the UK.<\/p>",
+            "content": "<p>Vice Reversa products are shipped via Australia Post from our distribution<br\/>centre in Sydney.<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -329,9 +330,11 @@
     },
     "16279963705fa2cc5b": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "f9b6adc9-61a0-4a42-ab1d-98f081465c56": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "How do I cancel my Subscription?",
             "content": "<p>Log in to your account <a href=\"https:\/\/vicereversa.co.uk\/account\/login\">here<\/a>, where you will be able to amend your<br\/>subscription details. <\/p>",
