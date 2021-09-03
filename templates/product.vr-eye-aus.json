@@ -420,6 +420,46 @@
         "more": false
       }
     },
+    "16306681249299ca0a": {
+      "type": "faq",
+      "blocks": {
+        "19c84816-3415-4728-ac96-82bc00d38c0b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "966dde6d-81f9-4e4c-b5ae-afb47582a864": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "shipping-information",
+            "icon": "none"
+          }
+        },
+        "6caee6b5-d566-4cce-b684-418084339a36": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "19c84816-3415-4728-ac96-82bc00d38c0b",
+        "966dde6d-81f9-4e4c-b5ae-afb47582a864",
+        "6caee6b5-d566-4cce-b684-418084339a36"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "1630668062b8a6dbc5": {
       "type": "faq",
       "blocks": {
@@ -479,12 +519,6 @@
       "settings": {
         "heading": "Frequently Asked Questions"
       }
-    },
-    "16306681249299ca0a": {
-      "type": "faq",
-      "settings": {
-        "heading": "FAQ"
-      }
     }
   },
   "order": [
@@ -499,7 +533,7 @@
     "163066789374079d02",
     "163066801691ce005c",
     "1630668022cab0cd42",
-    "1630668062b8a6dbc5",
-    "16306681249299ca0a"
+    "16306681249299ca0a",
+    "1630668062b8a6dbc5"
   ]
 }
