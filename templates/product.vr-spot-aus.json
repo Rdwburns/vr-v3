@@ -357,6 +357,77 @@
         "swipe_on_mobile": false,
         "grid_on_mobile": false
       }
+    },
+    "1630670605efc9d8e8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16306706059d664fbe-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "WANT TO KNOW MORE?"
+          }
+        },
+        "16306706059d664fbe-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.their magic.<\/p>"
+          }
+        },
+        "16306706059d664fbe-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16306706059d664fbe-0",
+        "16306706059d664fbe-1",
+        "16306706059d664fbe-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Product_-_Pimple-v2.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16306706442722ab1c": {
+      "type": "image-with-text",
+      "blocks": {
+        "16306706447d17b881-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16306706447d17b881-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16306706447d17b881-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16306706447d17b881-0",
+        "16306706447d17b881-1",
+        "16306706447d17b881-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -369,6 +440,8 @@
     "1630670224f303657c",
     "163067039806b11365",
     "1630670401e8a21014",
-    "16306704548aeb6f5e"
+    "16306704548aeb6f5e",
+    "1630670605efc9d8e8",
+    "16306706442722ab1c"
   ]
 }
