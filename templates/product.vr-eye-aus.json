@@ -389,7 +389,7 @@
         "163066801602f8cb56-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1080x1080PDPEYEREPLACEMENT.jpg",
+        "image": "shopify:\/\/shop_images\/1080x1080_IG_PINK_10_a3ad6ec6-de5a-4e4d-8da5-c2c318b01770.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -420,46 +420,6 @@
         "more": false
       }
     },
-    "16306681249299ca0a": {
-      "type": "faq",
-      "blocks": {
-        "19c84816-3415-4728-ac96-82bc00d38c0b": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Full Ingredients",
-            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "966dde6d-81f9-4e4c-b5ae-afb47582a864": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Delivery Information",
-            "content": "",
-            "page": "shipping-information",
-            "icon": "none"
-          }
-        },
-        "6caee6b5-d566-4cce-b684-418084339a36": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Returns Information",
-            "content": "",
-            "page": "returns-information",
-            "icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "19c84816-3415-4728-ac96-82bc00d38c0b",
-        "966dde6d-81f9-4e4c-b5ae-afb47582a864",
-        "6caee6b5-d566-4cce-b684-418084339a36"
-      ],
-      "settings": {
-        "heading": ""
-      }
-    },
     "1630668062b8a6dbc5": {
       "type": "faq",
       "blocks": {
@@ -469,7 +429,7 @@
             "heading": "Are the Eye Rejuvenator patches reusable?",
             "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
             "page": "",
-            "icon": "none"
+            "icon": "check_mark"
           }
         },
         "0f3f1ec7-ed7b-4705-bb59-31448ddd3e24": {
@@ -478,7 +438,7 @@
             "heading": "Are the Eye Rejuvenator patches vegan?",
             "content": "<p>Yes, our Eye Rejuvenator patches are fully vegan. Our formula uses peptides to boost the skin’s natural collagen production, instead of collagen protein, which is mostly derived from animal sources.<\/p>",
             "page": "",
-            "icon": "none"
+            "icon": "check_mark"
           }
         },
         "1d6f02b9-8deb-4f0b-b38c-b7809bd9e91c": {
@@ -487,7 +447,7 @@
             "heading": "Will Eye Rejuvenator patches work on dark circles?",
             "content": "<p>Yes, our formula contains vitamin C, which is an antioxidant that fights free radicals in the skin, known to cause ageing, hyperpigmentation and dark circles. It brightens the skin while hyaluronic acid works to plump and hydrate the under-eye area.<\/p>",
             "page": "",
-            "icon": "none"
+            "icon": "check_mark"
           }
         },
         "379ba45d-e55d-4a2a-9c6e-0048f23ca4e3": {
@@ -496,7 +456,7 @@
             "heading": "Will Eye Rejuvenator patches help with under eye bags?",
             "content": "<p>No, the Eye Rejuvenator patches have unique properties, which are specifically designed to reduce fine lines and wrinkles. They are also formulated to hydrate and rejuvenate the skin, resulting in a plumper, smoother and youthful complexion.<\/p>",
             "page": "",
-            "icon": "none"
+            "icon": "check_mark"
           }
         },
         "37dbc49b-f676-42cd-9993-1a7d15bedb67": {
@@ -505,7 +465,7 @@
             "heading": "When can I expect to see results?",
             "content": "<p>It differs for everyone, but you may start seeing results straight away. From one application you can expect to see deeper hydration around the eye area, but it may take between 6 - 8 applications to see significant results.<\/p>",
             "page": "",
-            "icon": "none"
+            "icon": "check_mark"
           }
         }
       },
@@ -518,6 +478,12 @@
       ],
       "settings": {
         "heading": "Frequently Asked Questions"
+      }
+    },
+    "16306681249299ca0a": {
+      "type": "faq",
+      "settings": {
+        "heading": "FAQ"
       }
     }
   },
@@ -533,7 +499,7 @@
     "163066789374079d02",
     "163066801691ce005c",
     "1630668022cab0cd42",
-    "16306681249299ca0a",
-    "1630668062b8a6dbc5"
+    "1630668062b8a6dbc5",
+    "16306681249299ca0a"
   ]
 }

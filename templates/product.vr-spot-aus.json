@@ -49,7 +49,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false
+            "show_dynamic_checkout": true
           }
         }
       },
@@ -569,28 +569,28 @@
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Full Ingredients",
-            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
+            "heading": "Collapsible tab",
+            "content": "",
             "page": "",
-            "icon": "none"
+            "icon": "check_mark"
           }
         },
         "7825e2de-8ede-40e1-9183-87d822ad162d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Delivery Information",
+            "heading": "Collapsible tab",
             "content": "",
-            "page": "shipping-information",
-            "icon": "none"
+            "page": "",
+            "icon": "check_mark"
           }
         },
         "03010517-4855-4015-952f-3f10770e4630": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Returns Information",
+            "heading": "Collapsible tab",
             "content": "",
-            "page": "returns-information",
-            "icon": "none"
+            "page": "",
+            "icon": "check_mark"
           }
         }
       },
