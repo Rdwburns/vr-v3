@@ -112,11 +112,92 @@
         "title": "Why Eye Rejuvenator?",
         "background_style": "pink"
       }
+    },
+    "163066738607a4d67e": {
+      "type": "quote",
+      "blocks": {
+        "16306673869cfd67d4-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "16306673869cfd67d4-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Telegraph<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306673869cfd67d4-0",
+        "16306673869cfd67d4-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "1630667495e3b57b45": {
+      "type": "multicolumn",
+      "blocks": {
+        "1630667495b88b054a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
+          }
+        },
+        "1630667495b88b054a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        },
+        "1630667495b88b054a-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": ""
+          }
+        },
+        "975d5d6f-64a1-471b-bb9c-d0ca08ac1071": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Ultra-Low Water",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630667495b88b054a-0",
+        "1630667495b88b054a-1",
+        "1630667495b88b054a-2",
+        "975d5d6f-64a1-471b-bb9c-d0ca08ac1071"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "1630667350eac58cba"
+    "1630667350eac58cba",
+    "163066738607a4d67e",
+    "1630667495e3b57b45"
   ]
 }
