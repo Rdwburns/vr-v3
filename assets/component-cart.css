@@ -165,11 +165,11 @@ cart-items {
 
 .cart__checkout-button {
   max-width: 36rem;
-  color: #018849;
+  background-color: #018849;
 }
 
 .cart__checkout-button:hover {
-  color: #006637;
+  background-color: #006637;
 }
 
 
