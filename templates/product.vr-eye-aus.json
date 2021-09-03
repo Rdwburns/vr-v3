@@ -389,9 +389,10 @@
         "163066801602f8cb56-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/1080x1080_IG_PINK_10_a3ad6ec6-de5a-4e4d-8da5-c2c318b01770.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "1630668022cab0cd42": {
