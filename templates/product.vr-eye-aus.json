@@ -436,7 +436,7 @@
           "settings": {
             "heading": "Delivery Information",
             "content": "",
-            "page": "",
+            "page": "shipping-information",
             "icon": "check_mark"
           }
         },
@@ -445,7 +445,7 @@
           "settings": {
             "heading": "Returns Information",
             "content": "",
-            "page": "",
+            "page": "returns-information",
             "icon": "check_mark"
           }
         },
@@ -454,7 +454,7 @@
           "settings": {
             "heading": "Shopping Outside of the UK?",
             "content": "",
-            "page": "",
+            "page": "international-shipping-information",
             "icon": "check_mark"
           }
         }
