@@ -529,6 +529,12 @@
       "settings": {
         "heading": ""
       }
+    },
+    "1630939506625ef710": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
     }
   },
   "order": [
@@ -544,6 +550,7 @@
     "163066801691ce005c",
     "1630668022cab0cd42",
     "1630668062b8a6dbc5",
-    "16306681249299ca0a"
+    "16306681249299ca0a",
+    "1630939506625ef710"
   ]
 }
