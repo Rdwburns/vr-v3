@@ -565,6 +565,7 @@
     },
     "1630670794bbb91b25": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
           "type": "collapsible_tab",
