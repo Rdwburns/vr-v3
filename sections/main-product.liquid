@@ -77,7 +77,19 @@
               {{- block.settings.text -}}
             </p>
           {%- when 'review-stars' -%}
-            <span class="stamped-product-reviews-badge stamped-main-badge" data-id="{{ product.id }}" data-product-sku="{{ product.handle }}" data-product-type="{{product.type}}" data-product-title="{{product.title}}" style="display: inline-block;">{{ product.metafields.stamped.badge }}</span>
+            <span 
+              style="display: inline-block;"
+              class="yotpo bottomLine"
+              data-appkey="vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI"
+              data-domain="{{shop.permanent_domain | escape }}"
+              data-product-id="{{ product.id }}"
+              data-product-models="{{ product.id }}"
+              data-name="{{ product.title | escape }}"
+              data-url="{{ shop.url }}{{ product.url }}"
+              data-image-url="{{ product.featured_image | product_img_url: 'large' |replace: '?', '%3F' | replace: '&','%26'}}"
+              data-description="{{ product.description | escape }}"
+              data-bread-crumbs="{% for tag in product.tags %}{{ tag | escape }};{% endfor %}">
+          </span>
           {%- when 'title' -%}
             <h1 class="product__title" {{ block.shopify_attributes }}>
               {{ product.title | escape }}

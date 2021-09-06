@@ -774,14 +774,12 @@ a.product__text {
 }
 }
 
-.stamped-badge-caption {
-  padding-left: 15px;
-  text-transform: uppercase;
-  font-size: 11px;
+span.yotpo-stars {
+  margin-right: 1rem;
 }
 
-.stamped-product-reviews-badge {
-  margin: 0;
+a.text-m {
+  font-family: 'GothamBook';
 }
 
 .rc_popup {
