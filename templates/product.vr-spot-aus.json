@@ -593,12 +593,22 @@
             "page": "returns-information",
             "icon": "check_mark"
           }
+        },
+        "f9200c81-d2e7-4cc7-8cfe-b7ad2972792f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Internationally?",
+            "content": "",
+            "page": "international-shipping-information",
+            "icon": "check_mark"
+          }
         }
       },
       "block_order": [
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f",
         "7825e2de-8ede-40e1-9183-87d822ad162d",
-        "03010517-4855-4015-952f-3f10770e4630"
+        "03010517-4855-4015-952f-3f10770e4630",
+        "f9200c81-d2e7-4cc7-8cfe-b7ad2972792f"
       ],
       "settings": {
         "heading": ""
