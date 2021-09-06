@@ -482,6 +482,51 @@
     },
     "16306681249299ca0a": {
       "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "8a763d67-6733-4e0b-896b-0ee61b62304b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "455d13e2-648f-41c2-ae3f-9393a377bed2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "ae482b64-ebec-4bc7-9a1c-3e7b89775569": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "6b71d4a6-72b1-469f-884c-d510a80af41b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "check_mark"
+          }
+        }
+      },
+      "block_order": [
+        "8a763d67-6733-4e0b-896b-0ee61b62304b",
+        "455d13e2-648f-41c2-ae3f-9393a377bed2",
+        "ae482b64-ebec-4bc7-9a1c-3e7b89775569",
+        "6b71d4a6-72b1-469f-884c-d510a80af41b"
+      ],
       "settings": {
         "heading": ""
       }
