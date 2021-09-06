@@ -482,7 +482,6 @@
     },
     "16306681249299ca0a": {
       "type": "faq",
-      "disabled": true,
       "blocks": {
         "8a763d67-6733-4e0b-896b-0ee61b62304b": {
           "type": "collapsible_tab",
@@ -514,10 +513,10 @@
         "6b71d4a6-72b1-469f-884c-d510a80af41b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Shopping Internationally?",
             "content": "",
-            "page": "",
-            "icon": "check_mark"
+            "page": "international-shipping-information",
+            "icon": "none"
           }
         }
       },
