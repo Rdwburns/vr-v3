@@ -49,7 +49,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         }
       },
@@ -579,9 +579,9 @@
         "7825e2de-8ede-40e1-9183-87d822ad162d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Delivery Information",
             "content": "",
-            "page": "",
+            "page": "shipping-information",
             "icon": "check_mark"
           }
         },
