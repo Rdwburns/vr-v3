@@ -496,19 +496,19 @@
         "455d13e2-648f-41c2-ae3f-9393a377bed2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Delivery Information",
             "content": "",
-            "page": "",
-            "icon": "check_mark"
+            "page": "shipping-information",
+            "icon": "none"
           }
         },
         "ae482b64-ebec-4bc7-9a1c-3e7b89775569": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Returns Information",
             "content": "",
-            "page": "",
-            "icon": "check_mark"
+            "page": "returns-information",
+            "icon": "none"
           }
         },
         "6b71d4a6-72b1-469f-884c-d510a80af41b": {
