@@ -570,7 +570,7 @@
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "FULL INGREDIENTS",
+            "heading": "Full Ingredients",
             "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
             "page": "",
             "icon": "check_mark"
@@ -588,9 +588,9 @@
         "03010517-4855-4015-952f-3f10770e4630": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Returns Information",
             "content": "",
-            "page": "",
+            "page": "returns-information",
             "icon": "check_mark"
           }
         }
