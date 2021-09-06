@@ -532,8 +532,9 @@
     },
     "1630939506625ef710": {
       "type": "product-reviews",
+      "disabled": true,
       "settings": {
-        "heading": "Customer Reviews"
+        "heading": ""
       }
     }
   },
