@@ -570,8 +570,8 @@
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
-            "content": "",
+            "heading": "FULL INGREDIENTS",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
             "page": "",
             "icon": "check_mark"
           }
