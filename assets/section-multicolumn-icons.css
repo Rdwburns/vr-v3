@@ -172,6 +172,10 @@
   .multicolumn-icons.background-orange {
     padding: 4rem 0 5rem;
   }
+
+  .multicolumn-icons.background-purple {
+    padding: 4rem 0 5rem;
+  }
   
   .multicolumn-icons:not(.background-orange) {
     margin: 5rem 0;
