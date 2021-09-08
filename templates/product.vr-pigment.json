@@ -90,15 +90,15 @@
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
-            "title": "Spot-Busting Formulation",
-            "text": "<p>500 microneedles on each patch. The concentrated formula of salicylic acid, totarol, green tea extract and hyaluronic acid melts into skin, purifying spots from within. Reduces the appearance of spots, soothes skin and reverses breakouts.<\/p>"
+            "title": "Skin Brightening Formula",
+            "text": "<p>500 serum infused microneedles deliver a power cocktail of skin brightening ingredients including tranexamic acid, niacinamide, vitamin C and glutathione. Progressively reduce the appearance of dark spots, age spots and post breakout blemishes. <\/p>"
           }
         },
         "1626248705b8c25b91-1": {
           "type": "column",
           "settings": {
             "title": "Visible Results",
-            "text": "<p>Designed for hormonal zits, early-stage pimples and deep under-the-skin spots. With noticeable changes in size, colour and pressure. Get to work from just two hours.<\/p>"
+            "text": "<p>Brighten and fade blemishes, hydrate and help restore skin texture for a more even skin tone when used twice weekly from 2-6 consecutive week<\/p>"
           }
         }
       },
@@ -114,6 +114,7 @@
     },
     "1626903216068cfb52": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Eva, 34",
@@ -132,6 +133,7 @@
     },
     "1626940710a73ccd9b": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Jemima, 25",
@@ -287,7 +289,7 @@
         "1628247699cb016317-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots. However for deeper, more stubborn spots a second application may be needed.<\/p>"
+            "text": "<p>Leave on for at least 2 hours, ideally overnight, allowing the microneedles to fully dissolve and release the actives deeper into the skin where they can be most effective. <br\/><br\/>For best results, use two-three times per week for from 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. To avoid risk of sensitivity, do not use more than 3 times per week or within 24 hours of previous application.<\/p>"
           }
         },
         "1628247699cb016317-2": {
@@ -317,25 +319,25 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
-            "title": "Salicylic Acid",
-            "text": "<p>A staple when it comes to blemish-prone skin, salicylic acid is known for its ability to help unclog pores, reduce bacteria and sooth swollen skin.<\/p>"
+            "image": "shopify:\/\/shop_images\/Tranxemic-Acid-Needle.jpg",
+            "title": "Tranexamic acid",
+            "text": "<p>A powerful anti-inflammatory. Reduces pigmentation, brightens skin tone and improves skin texture.<\/p>"
           }
         },
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100.jpg",
-            "title": "Totarol",
-            "text": "<p>Totarol’s antibacterial superpowers are well-known, reinforcing the skin’s natural defences against toxins and UV damage.<\/p>"
+            "image": "shopify:\/\/shop_images\/NiacinamideNeedle.jpg",
+            "title": "Niacinamide",
+            "text": "<p>A potent vitamin that strengthens the skin’s barrier, boosts hydration and repairs hyper-pigmentation.<\/p>"
           }
         },
         "1626170270666543f7-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
-            "title": "Green Tea Extract",
-            "text": "<p>A powerful antioxidant known to unclog pores and eliminate surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
+            "image": "shopify:\/\/shop_images\/Glutathione-Needle.jpg",
+            "title": "Glutathione",
+            "text": "<p>Brightens and rejuvenates skin. Improves skin texture and counters the effects of hyperpigmentation.<\/p>"
           }
         }
       },
@@ -379,7 +381,7 @@
         "162617023530160b5c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p>"
+            "text": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed.<br\/><br\/>Our innovative brilliant dark spot patches use Microneedle Technology to fade dark spots and blemishes. 500 self-dissolving microneedles melt into the skin to deliver a hydrating cocktail of brightening actives deep down where it counts. <\/p>"
           }
         },
         "162617023530160b5c-2": {
@@ -397,7 +399,7 @@
         "162617023530160b5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2._MODEL.jpg",
+        "image": "shopify:\/\/shop_images\/Photo_29-08-2021_12_17_30.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -416,7 +418,7 @@
         "1626170242ffa87f4b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>"
+            "text": "<p>Each microscopic needle contains a blend of high-performing active ingredients including tranexamic acid, niacinamide, vitamin C and glutathione, known for their skin rejuvenating properties. This potent combination of regenerative ingredients helps to gradually brighten skin tone, restore skin texture and reduce the appearance of dark spots.<br\/><br\/>Use these easy to apply patches where it's needed most. For best results, use two-three times per week for 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. <\/p>"
           }
         },
         "1626170242ffa87f4b-2": {
@@ -434,7 +436,7 @@
         "1626170242ffa87f4b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
+        "image": "shopify:\/\/shop_images\/Pigment.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -533,6 +535,7 @@
     },
     "162627080538092e1b": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "a0f47d26-50dc-45aa-a8e3-aa402b6c4d97": {
           "type": "collapsible_tab",
@@ -668,54 +671,6 @@
         "heading": "Frequently Asked Questions"
       }
     },
-    "1626334150955f5504": {
-      "type": "multicolumn-images",
-      "blocks": {
-        "1626334150955f5504-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
-          }
-        },
-        "1626334150955f5504-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
-          }
-        },
-        "1626334150955f5504-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/vogue_logo.png"
-          }
-        },
-        "0492de53-d677-4622-9335-c3758c65858e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
-          }
-        },
-        "51ce3061-3b5b-4039-be91-6970f9fc910b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
-          }
-        }
-      },
-      "block_order": [
-        "1626334150955f5504-0",
-        "1626334150955f5504-1",
-        "1626334150955f5504-2",
-        "0492de53-d677-4622-9335-c3758c65858e",
-        "51ce3061-3b5b-4039-be91-6970f9fc910b"
-      ],
-      "settings": {
-        "title": "As Seen In",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "swipe_on_mobile": true
-      }
-    },
     "162824594567c2397d": {
       "type": "faq",
       "blocks": {
@@ -777,6 +732,54 @@
         "heading": ""
       }
     },
+    "1626334150955f5504": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "1626334150955f5504-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/glamour-logo.png"
+          }
+        },
+        "1626334150955f5504-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/r29_logo.png"
+          }
+        },
+        "1626334150955f5504-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vogue_logo.png"
+          }
+        },
+        "0492de53-d677-4622-9335-c3758c65858e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tatler_logo.png"
+          }
+        },
+        "51ce3061-3b5b-4039-be91-6970f9fc910b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
+          }
+        }
+      },
+      "block_order": [
+        "1626334150955f5504-0",
+        "1626334150955f5504-1",
+        "1626334150955f5504-2",
+        "0492de53-d677-4622-9335-c3758c65858e",
+        "51ce3061-3b5b-4039-be91-6970f9fc910b"
+      ],
+      "settings": {
+        "title": "As Seen In",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "swipe_on_mobile": true
+      }
+    },
     "16269033832bed337e": {
       "type": "product-reviews",
       "settings": {
@@ -801,8 +804,8 @@
     "16262976340da42008",
     "16269032410f2256e7",
     "162627080538092e1b",
-    "1626334150955f5504",
     "162824594567c2397d",
+    "1626334150955f5504",
     "16269033832bed337e"
   ]
 }
