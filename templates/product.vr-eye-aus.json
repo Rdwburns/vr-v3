@@ -429,7 +429,7 @@
             "heading": "Are the Eye Rejuvenator patches reusable?",
             "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "none"
           }
         },
         "0f3f1ec7-ed7b-4705-bb59-31448ddd3e24": {
@@ -438,7 +438,7 @@
             "heading": "Are the Eye Rejuvenator patches vegan?",
             "content": "<p>Yes, our Eye Rejuvenator patches are fully vegan. Our formula uses peptides to boost the skin’s natural collagen production, instead of collagen protein, which is mostly derived from animal sources.<\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "none"
           }
         },
         "1d6f02b9-8deb-4f0b-b38c-b7809bd9e91c": {
@@ -447,7 +447,7 @@
             "heading": "Will Eye Rejuvenator patches work on dark circles?",
             "content": "<p>Yes, our formula contains vitamin C, which is an antioxidant that fights free radicals in the skin, known to cause ageing, hyperpigmentation and dark circles. It brightens the skin while hyaluronic acid works to plump and hydrate the under-eye area.<\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "none"
           }
         },
         "379ba45d-e55d-4a2a-9c6e-0048f23ca4e3": {
@@ -456,7 +456,7 @@
             "heading": "Will Eye Rejuvenator patches help with under eye bags?",
             "content": "<p>No, the Eye Rejuvenator patches have unique properties, which are specifically designed to reduce fine lines and wrinkles. They are also formulated to hydrate and rejuvenate the skin, resulting in a plumper, smoother and youthful complexion.<\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "none"
           }
         },
         "37dbc49b-f676-42cd-9993-1a7d15bedb67": {
@@ -465,7 +465,7 @@
             "heading": "When can I expect to see results?",
             "content": "<p>It differs for everyone, but you may start seeing results straight away. From one application you can expect to see deeper hydration around the eye area, but it may take between 6 - 8 applications to see significant results.<\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "none"
           }
         }
       },
@@ -482,8 +482,59 @@
     },
     "16306681249299ca0a": {
       "type": "faq",
+      "blocks": {
+        "8a763d67-6733-4e0b-896b-0ee61b62304b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "455d13e2-648f-41c2-ae3f-9393a377bed2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "shipping-information",
+            "icon": "none"
+          }
+        },
+        "ae482b64-ebec-4bc7-9a1c-3e7b89775569": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "returns-information",
+            "icon": "none"
+          }
+        },
+        "6b71d4a6-72b1-469f-884c-d510a80af41b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Internationally?",
+            "content": "",
+            "page": "international-shipping-information",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "8a763d67-6733-4e0b-896b-0ee61b62304b",
+        "455d13e2-648f-41c2-ae3f-9393a377bed2",
+        "ae482b64-ebec-4bc7-9a1c-3e7b89775569",
+        "6b71d4a6-72b1-469f-884c-d510a80af41b"
+      ],
       "settings": {
-        "heading": "FAQ"
+        "heading": ""
+      }
+    },
+    "1630939506625ef710": {
+      "type": "product-reviews",
+      "disabled": true,
+      "settings": {
+        "heading": ""
       }
     }
   },
@@ -500,6 +551,7 @@
     "163066801691ce005c",
     "1630668022cab0cd42",
     "1630668062b8a6dbc5",
-    "16306681249299ca0a"
+    "16306681249299ca0a",
+    "1630939506625ef710"
   ]
 }
