@@ -1864,6 +1864,9 @@
           },
           "options__5": {
             "label": "Spot Stoppa background"
+          },
+          "options__6": {
+            "label": "Pigment Fader background"
           }
         }
       },
