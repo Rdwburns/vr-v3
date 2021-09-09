@@ -5,7 +5,6 @@
       "blocks": {
         "1ee344ff-d4e2-4e80-92ee-b5057cb31988": {
           "type": "review-stars",
-          "disabled": true,
           "settings": {
           }
         },
@@ -612,6 +611,12 @@
         "image_ratio": "adapt",
         "swipe_on_mobile": true
       }
+    },
+    "1631200065d0b64647": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
     }
   },
   "order": [
@@ -630,6 +635,7 @@
     "1630670725d93383b2",
     "163067075567773c25",
     "1630670794bbb91b25",
-    "163067078558f946c3"
+    "163067078558f946c3",
+    "1631200065d0b64647"
   ]
 }
