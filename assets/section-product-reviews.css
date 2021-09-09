@@ -80,3 +80,7 @@
 .yotpo .new-yotpo-small-box {
     border: none;
 }
+
+.yotpo-grouping-reference {
+    display: none;
+}
