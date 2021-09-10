@@ -166,8 +166,8 @@
     {% render "geo-modal" %} 
 
     <!-- Yotpo -->
-    {% if request.host = 'vicereversa.co.uk' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
-    {% elsif request.host = 'vicereversaskin.com' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/sO8rB32YVfbLjrFFyqFErsUGKLPnjt0ppxQ3ttS9/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
+    {% if request.host == 'vicereversa.co.uk' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
+    {% elsif request.host == 'vicereversaskin.com' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/sO8rB32YVfbLjrFFyqFErsUGKLPnjt0ppxQ3ttS9/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
     {% endif %}
     <!-- End Yotpo -->
     <!-- Klaviyo CRM --><script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=R7cuJw"></script>
