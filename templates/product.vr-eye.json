@@ -196,16 +196,16 @@
       "disabled": true,
       "settings": {
         "heading": "Before and After",
-        "review_title": "Eva, 30",
-        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
+        "review_title": "Tania, 50-55",
+        "before_image": "shopify:\/\/shop_images\/Tanya3.png",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
-        "after_caption": "After 1 Use",
+        "after_image": "shopify:\/\/shop_images\/Tanya5.png",
+        "after_caption": "After 4 Uses",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "Super simple to use and dramatic difference in pimple size overnight. Cannot live without these now!",
+        "review": "",
         "button_label": "Button label",
         "button_link": ""
       }
