@@ -193,19 +193,18 @@
     },
     "1626903216068cfb52": {
       "type": "before-after",
-      "disabled": true,
       "settings": {
         "heading": "Before and After",
-        "review_title": "Eva, 30",
-        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
+        "review_title": "Tania, Early 50s, 4 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
-        "after_caption": "After 1 Use",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 4 Uses",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "Super simple to use and dramatic difference in pimple size overnight. Cannot live without these now!",
+        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
         "button_label": "Button label",
         "button_link": ""
       }
@@ -531,67 +530,6 @@
         "mobile_layout": "collage-how-to"
       }
     },
-    "16281713360ba03071": {
-      "type": "faq",
-      "blocks": {
-        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Full Ingredients",
-            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Delivery Information",
-            "content": "",
-            "page": "shipping-information",
-            "icon": "none"
-          }
-        },
-        "264197d3-38b5-4d2f-91f7-d829d8cfbc36": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Returns Information",
-            "content": "",
-            "page": "returns-information",
-            "icon": "none"
-          }
-        },
-        "223a2ffc-d74a-46c7-b667-e5908de6430c": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shopping Outside of the UK?",
-            "content": "",
-            "page": "international-shipping-information",
-            "icon": "none"
-          }
-        },
-        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "Any Questions?",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "7eba25f2-92ac-4fc2-b8e6-33773f71e083",
-        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
-        "264197d3-38b5-4d2f-91f7-d829d8cfbc36",
-        "223a2ffc-d74a-46c7-b667-e5908de6430c",
-        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281"
-      ],
-      "settings": {
-        "heading": ""
-      }
-    },
     "162627080538092e1b": {
       "type": "faq",
       "blocks": {
@@ -729,9 +667,75 @@
         "heading": "Frequently Asked Questions"
       }
     },
+    "16269033832bed337e": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "What people say"
+      }
+    },
+    "16281713360ba03071": {
+      "type": "faq",
+      "blocks": {
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "shipping-information",
+            "icon": "none"
+          }
+        },
+        "264197d3-38b5-4d2f-91f7-d829d8cfbc36": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "returns-information",
+            "icon": "none"
+          }
+        },
+        "223a2ffc-d74a-46c7-b667-e5908de6430c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the UK?",
+            "content": "",
+            "page": "international-shipping-information",
+            "icon": "none"
+          }
+        },
+        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Any Questions?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083",
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
+        "264197d3-38b5-4d2f-91f7-d829d8cfbc36",
+        "223a2ffc-d74a-46c7-b667-e5908de6430c",
+        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "1626334150955f5504": {
       "type": "multicolumn-images",
-      "disabled": true,
       "blocks": {
         "1626334150955f5504-0": {
           "type": "column",
@@ -777,12 +781,6 @@
         "image_ratio": "adapt",
         "swipe_on_mobile": true
       }
-    },
-    "16269033832bed337e": {
-      "type": "product-reviews",
-      "settings": {
-        "heading": "What people say"
-      }
     }
   },
   "order": [
@@ -801,9 +799,9 @@
     "1626170247b0785461",
     "16262976340da42008",
     "16269032410f2256e7",
-    "16281713360ba03071",
     "162627080538092e1b",
-    "1626334150955f5504",
-    "16269033832bed337e"
+    "16269033832bed337e",
+    "16281713360ba03071",
+    "1626334150955f5504"
   ]
 }
