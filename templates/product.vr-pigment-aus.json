@@ -319,7 +319,6 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Tranxemic-Acid-Needle.jpg",
             "title": "Tranexamic acid",
             "text": "<p>A powerful anti-inflammatory. Reduces pigmentation, brightens skin tone and improves skin texture.<\/p>"
           }
@@ -327,7 +326,6 @@
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/NiacinamideNeedle.jpg",
             "title": "Niacinamide",
             "text": "<p>A potent vitamin that strengthens the skin’s barrier, boosts hydration and repairs hyper-pigmentation.<\/p>"
           }
@@ -335,7 +333,6 @@
         "1626170270666543f7-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Glutathione-Needle.jpg",
             "title": "Glutathione",
             "text": "<p>Brightens and rejuvenates skin. Improves skin texture and counters the effects of hyperpigmentation.<\/p>"
           }
@@ -399,7 +396,6 @@
         "162617023530160b5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Photo_29-08-2021_12_17_30.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -436,7 +432,6 @@
         "1626170242ffa87f4b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Pigment.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -678,7 +673,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Full Ingredients",
-            "content": "<p><\/p>",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }
