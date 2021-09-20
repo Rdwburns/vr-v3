@@ -396,6 +396,7 @@
         "162617023530160b5c-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Photo_29-08-2021_12_17_30.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -432,6 +433,7 @@
         "1626170242ffa87f4b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Pigment.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
