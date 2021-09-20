@@ -211,17 +211,18 @@
     },
     "1626940710a73ccd9b": {
       "type": "before-after",
-      "disabled": true,
       "settings": {
         "heading": "",
-        "review_title": "Jemima, 21",
+        "review_title": "Abbé, 42, 3 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
         "before_caption": "Before",
-        "after_caption": "After 1 Use",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 3 Uses",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "I’ve recently discovered Microneedle pimple patches. I used them on an under the surface spot that was sore and painful but no head, just a red bump. The tiny needles penetrate the skin in and around the spot releasing the ingredients. I didn’t feel the needles and its completely painless. I left it on overnight and saw a visible difference in the size of my spot in the morning.",
+        "review": "This is my third application. I’ve always suffered from under eye shadows and since using I can really see a difference, it’s so much brighter under the eyes and also so much smoother and I can feel a deeper moisturization.",
         "button_label": "Button label",
         "button_link": ""
       }
