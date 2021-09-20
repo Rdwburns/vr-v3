@@ -308,6 +308,10 @@
   }
 }
 
-.card-information__text {
+.card-information__wrapper {
   font-family: "GothamBook";
+}
+
+.card-information__wrapper > h3 {
+  font-family: "GothamBold";
 }
