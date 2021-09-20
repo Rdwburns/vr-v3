@@ -307,3 +307,7 @@
     transition: background-color var(--duration-long) ease;
   }
 }
+
+.card-information__text {
+  font-family: "GothamBook";
+}
