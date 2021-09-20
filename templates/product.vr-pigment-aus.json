@@ -478,6 +478,7 @@
     },
     "16262976340da42008": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "16262976340da42008-0": {
           "type": "quote",
@@ -701,7 +702,7 @@
         "05cceef3-a7b9-44e3-983e-1cd6e513e545": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shopping Outside of the UK?",
+            "heading": "Shopping Outside of Australia?",
             "content": "",
             "page": "international-shipping-information",
             "icon": "none"
