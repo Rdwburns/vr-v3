@@ -315,3 +315,20 @@
 .card-information__wrapper > h3 {
   font-family: "GothamBold";
 }
+
+.card-information__product-title {
+  display: flex;
+  align-items: center;
+}
+
+.card-information__new {
+  padding: 2px 5px;
+  margin-right: 10px;
+  text-transform: uppercase;
+  background: #018849;
+  color: white;
+  border-radius: 10%;
+  font-size: 0.75em;
+  font-family: "GothamBold";
+}
+

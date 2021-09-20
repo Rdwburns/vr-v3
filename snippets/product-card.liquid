@@ -90,9 +90,12 @@
         {%- endif -%}
 
         {%- if product_card_product.featured_media -%}
-          <span class="card-information__text h3">
-            {{ product_card_product.title | escape }}
-          </span>
+          <div class="card-information__product-title">
+            {%- if product_card_product.metafields.my_fields.new -%}<span class="card-information__new">New</span>{%- endif -%}
+            <span class="card-information__text h3">
+              {{ product_card_product.title | escape }}
+            </span>
+          </div>
           <span style="color:{{ product_card_product.metafields.my_fields.product_color }}" class="card-information__text subtitle">
             {{ product_card_product.metafields.descriptors.subtitle | escape }}
           </span>
