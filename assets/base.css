@@ -51,6 +51,11 @@ strong {
   --color-background: var(--color-base-accent-2);
 }
 
+.color-vr-default {
+  --color-foreground: #000000;
+  --color-background: #F5D3CC;
+}
+
 .color-foreground-outline-button {
   --color-foreground: var(--color-base-outline-button-labels);
 }
@@ -88,7 +93,8 @@ strong {
 .color-background-2,
 .color-inverse,
 .color-accent-1,
-.color-accent-2 {
+.color-accent-2,
+.color-vr-default {
   --color-button: var(--color-foreground);
   --color-button-text: var(--color-background);
 }
@@ -102,7 +108,8 @@ strong {
 .color-background-2 .button--secondary,
 .color-inverse .button--secondary,
 .color-accent-1 .button--secondary,
-.color-accent-2 .button--secondary {
+.color-accent-2 .button--secondary,
+.color-vr-default .button--secondary {
   --color-button: var(--color-foreground);
   --color-button-text: var(--color-foreground);
 }
@@ -117,7 +124,8 @@ strong {
 .color-background-2 .button--tertiary,
 .color-inverse .button--tertiary,
 .color-accent-1 .button--tertiary,
-.color-accent-2 .button--tertiary {
+.color-accent-2 .button--tertiary,
+.color-vr-default .button--tertiary {
   --color-button: var(--color-foreground);
   --color-button-text: var(--color-foreground);
 }
@@ -132,7 +140,8 @@ strong {
 .color-background-2,
 .color-inverse,
 .color-accent-1,
-.color-accent-2 {
+.color-accent-2,
+.color-vr-default  {
   --color-badge-background: var(--color-background);
   --color-badge-border: var(--color-background);
   --alpha-badge-border: 1;
@@ -149,7 +158,8 @@ strong {
 }
 
 .color-accent-1,
-.color-accent-2 {
+.color-accent-2,
+.color-vr-default  {
   --color-card-hover: var(--color-base-solid-button-labels);
 }
 
@@ -249,6 +259,11 @@ body,
 .color-accent-2 {
   color: rgba(var(--color-foreground), 0.75);
   background-color: rgb(var(--color-background));
+}
+
+.color-vr-default {
+  color: var(--color-foreground);
+  background-color: var(--color-background);
 }
 
 .background-secondary {
