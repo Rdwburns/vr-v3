@@ -1939,6 +1939,12 @@ input[type='checkbox'] {
   }
 }
 
+@media screen and (max-width: 989px) {
+  .header__icon--account {
+    display: none !important;
+  }
+}
+
 /* Search */
 menu-drawer + .header__search {
   display: none;
