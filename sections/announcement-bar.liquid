@@ -30,11 +30,11 @@
             <p class="announcement-bar__message h5">Your order ships free! 📦</p>
             {%- elsif request.host == 'vicereversaskin.com' -%}
               {%- if cart.total_price > 10000 -%}<p class="announcement-bar__message h5">Your order ships free! 📦</p>
-              {%- else -%}<p class="announcement-bar__message h5">Spend {{ 10000 | minus: cart.total_price | money }} to get free shipping!</p>
+              {%- else -%}<p class="announcement-bar__message h5">Spend just {{ 10000 | minus: cart.total_price | money }} more to get free shipping!</p>
               {%- endif -%}
             {%- elsif request.host == 'vicereversaskin.eu' -%}
               {%- if cart.total_price > 5000 -%}<p class="announcement-bar__message h5">Your order ships free! 📦</p>
-              {%- else -%}<p class="announcement-bar__message h5">Spend {{ 5000 | minus: cart.total_price | money }} to get free shipping!</p>
+              {%- else -%}<p class="announcement-bar__message h5">Spend just {{ 5000 | minus: cart.total_price | money }} more to get free shipping!</p>
               {%- endif -%}
             {%- endif -%}
         {% endif %}
