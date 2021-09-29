@@ -29,10 +29,17 @@
               "color_scheme": "inverse",
               "link": "shopify:\/\/blogs\/news\/introducing-precision-skincare"
             }
+          },
+          "c2490c2d-2eaa-480a-a83d-285e7d6e0b93": {
+            "type": "shipping_bar",
+            "settings": {
+              "color_scheme": "vr-default"
+            }
           }
         },
         "block_order": [
-          "e33af555-54e1-46df-a206-f438dc4a1d61"
+          "e33af555-54e1-46df-a206-f438dc4a1d61",
+          "c2490c2d-2eaa-480a-a83d-285e7d6e0b93"
         ],
         "settings": {
         }
