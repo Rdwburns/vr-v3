@@ -2198,13 +2198,13 @@ details-disclosure > details {
   .overflow-hidden-mobile {
     overflow: auto;
   }
-  .hide-mobile {
+  .hide-desktop {
     display: none;
   }
 }
 
 @media screen and (max-width: 751px) {
-  .hide-desktop {
+  .hide-mobile {
     display: none;
   }
 }
