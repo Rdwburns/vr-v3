@@ -21,8 +21,6 @@
       <div class="announcement-bar color-{{ block.settings.color_scheme }}" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes }}>
         {%- if cart == empty -%}
           {% if request.host == 'vicereversa.co.uk' %}<p class="announcement-bar__message h5">Free UK Shipping on All Orders</p>
-            {% elsif request.host == 'vicereversaskin.com' %}<p class="announcement-bar__message h5">Free Shipping on Orders Over A$120</p>
-            {% elsif request.host == 'vicereversaskin.eu' %}<p class="announcement-bar__message h5">Free EU Shipping on Orders Over €50</p>
           {% endif %}
         {%- endif -%}
         {%- if cart != empty -%}
