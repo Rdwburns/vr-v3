@@ -7,15 +7,15 @@ function json(url) {
     return fetch(url).then(res => res.json());
 }
 
-function switchCountries(home, destination, destinationUrl){
-    console.log(`${home}, ${destination}, ${destinationUrl}`)
+function switchCountries(home, destination, destinationUrl, emoji){
+    console.log(`${home}, ${destination}, ${destinationUrl}, ${emoji}`)
     document.body.style.overflow = 'hidden'
-    document.getElementById('geo-modal-text').innerHTML = `<p>You are currently on our ${home} site, but you appear to be in ${destination}, would you like to visit that site instead?</p><div id="geo-modal-buttons" class="modal-buttons"><button onclick="window.location.href='${destinationUrl}${path}'">Shop in ${destination}</button><button data-dismiss="modal">Stay Here</button></div>`
+    document.getElementById('geo-modal-text').innerHTML = `<p>You are currently on our ${home} site, but you appear to be in ${destination}, would you like to visit that site instead?</p><div id="geo-modal-buttons" class="modal-buttons"><button onclick="window.location.href='${destinationUrl}${path}'">Shop in ${destination} ${emoji} </button><button data-dismiss="modal">Stay Here</button></div>`
     document.getElementById('geo-modal').classList.add('open');
     document.cookie = `vr_geo=true; path=/; Secure`;
 }
 
-/* if (!cookieValue){
+ /* if (!cookieValue){
     document.addEventListener('click', function (e) {
         e = e || window.event;
         var target = e.target;
@@ -23,20 +23,20 @@ function switchCountries(home, destination, destinationUrl){
     }, false);    
     json(`https://api.ipdata.co?api-key=${apiKey}`).then(data => {
         if (data.country_code == 'GB' && window.location.hostname != "vicereversa.co.uk") {
-            switchCountries(currentSite, data.country_name, 'https://vicereversa.co.uk')
+            switchCountries(currentSite, data.country_name, 'https://vicereversa.co.uk', data.emoji_flag)
         } else if (data.country_code == 'DE' && window.location.hostname != "vicereversa.de") {
-            switchCountries(currentSite, data.country_name, 'https://vicereversa.de')
+            switchCountries(currentSite, data.country_name, 'https://vicereversa.de', data.emoji_flag)
         } else if (data.country_code == 'FR' && window.location.hostname != "vicereversa.fr") {
-            switchCountries(currentSite, data.country_name, 'https://vicereversa.fr')
+            switchCountries(currentSite, data.country_name, 'https://vicereversa.fr', data.emoji_flag)
         } else if (data.country_code == 'IE' && window.location.hostname != "vicereversa.ie") {
-            switchCountries(currentSite, data.country_name, 'https://vicereversa.ie')
-        } else if (data.country_code == 'AU') {
-            switchCountries(currentSite, data.country_name, 'https://vicereversa.com.au')
-        } else if (data.continent_code == 'EU' && window.location.hostname != "vicereversaskin.eu" ) {
-            switchCountries(currentSite, data.country_name, 'https://vicereversa.ie')
-        }
+            switchCountries(currentSite, data.country_name, 'https://vicereversa.ie', data.emoji_flag)
+        } else if (data.country_code == 'AU' && window.location.hostname != "https://vicereversa.com.au") {
+            switchCountries(currentSite, data.country_name, 'https://vicereversa.com.au', data.emoji_flag)
+        } else if (data.continent_code == 'US' && window.location.hostname != "vicereversaskin.com" ) {
+            switchCountries(currentSite, data.country_name, 'vicereversaskin.com', data.emoji_flag)
+        } 
     });
-} */
+}  */
 
 
 document.addEventListener('click', function (f) {

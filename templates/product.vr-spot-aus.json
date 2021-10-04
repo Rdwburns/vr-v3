@@ -521,7 +521,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Full Ingredients",
-            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }
