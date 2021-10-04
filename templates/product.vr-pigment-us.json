@@ -1,0 +1,811 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "b4da7636-b379-4c70-88c5-be3b4c806d42": {
+          "type": "review-stars",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "color": "#7f3386",
+            "text_style": "subtitle"
+          }
+        },
+        "a6d28a41-e904-4f31-82fa-195a5ae6f20b": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields.product_short_description.value }}",
+            "color": "#000000",
+            "text_style": "italic"
+          }
+        },
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.metafields.my_fields.product_quote.value }}",
+            "color": "#000000",
+            "text_style": "quote"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        }
+      },
+      "block_order": [
+        "b4da7636-b379-4c70-88c5-be3b4c806d42",
+        "title",
+        "subtitle",
+        "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "enable_video_looping": false
+      }
+    },
+    "1626248705b8c25b91": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+          }
+        },
+        "1626248705b8c25b91-0": {
+          "type": "column",
+          "settings": {
+            "title": "Skin Brightening Formula",
+            "text": "<p>500 serum infused microneedles deliver a power cocktail of skin brightening ingredients including tranexamic acid, niacinamide, vitamin C and glutathione. Progressively reduce the appearance of dark spots, age spots and post breakout blemishes. <\/p>"
+          }
+        },
+        "1626248705b8c25b91-1": {
+          "type": "column",
+          "settings": {
+            "title": "Visible Results",
+            "text": "<p>Brighten and fade blemishes, hydrate and help restore skin texture for a more even skin tone when used twice weekly from 2-6 consecutive week<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626248705b8c25b91-2",
+        "1626248705b8c25b91-0",
+        "1626248705b8c25b91-1"
+      ],
+      "settings": {
+        "title": "Why Pigment Fader",
+        "background_style": "purple"
+      }
+    },
+    "1626903216068cfb52": {
+      "type": "before-after",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "review_title": "Eva, 34",
+        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
+        "after_caption": "After 1 Use",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Super simple to use and dramatic difference in pimple size overnight. Cannot live without these now!",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1626940710a73ccd9b": {
+      "type": "before-after",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "review_title": "Jemima, 25",
+        "before_image": "shopify:\/\/shop_images\/Jemima_before.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Jemima_after.jpg",
+        "after_caption": "After 1 Use",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I love these miracle patches! I have suffered with adult hormonal cystic acne for ages now and have tried everything (or so I thought) these are so easy to use and made a huge difference in stopping the spots coming out to their worst (normally they are so painful) I used a patch two nights in a row and then from then the spots cleared up so much quicker on their own (reducing redness and inflammation).",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1626290450f9c0b3c8": {
+      "type": "quote",
+      "blocks": {
+        "1626290450f9c0b3c8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "1626290450f9c0b3c8-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Telegraph<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626290450f9c0b3c8-0",
+        "1626290450f9c0b3c8-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": true
+      }
+    },
+    "162816866649a3b1b1": {
+      "type": "multicolumn",
+      "blocks": {
+        "162816866649a3b1b1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
+          }
+        },
+        "162816866649a3b1b1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        },
+        "162816866649a3b1b1-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": ""
+          }
+        },
+        "d6e983ac-06d4-434c-874d-8245ae55ba49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Ultra-Low Water",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "162816866649a3b1b1-0",
+        "162816866649a3b1b1-1",
+        "162816866649a3b1b1-2",
+        "d6e983ac-06d4-434c-874d-8245ae55ba49"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
+      }
+    },
+    "16262053277f68e5df": {
+      "type": "image-surround",
+      "blocks": {
+        "16262053277f68e5df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "16262053277f68e5df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+          }
+        },
+        "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+          }
+        },
+        "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+          }
+        },
+        "f38976e4-b244-4ad1-a741-c2878db66fc3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16262053277f68e5df-0",
+        "16262053277f68e5df-1",
+        "911212cd-78d6-4d0a-b0a7-92ac6372d412",
+        "b91060dc-6eba-44de-94ff-9b84d8f5b06d",
+        "f38976e4-b244-4ad1-a741-c2878db66fc3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP.png",
+        "height": "adapt",
+        "color_scheme": "background-1"
+      }
+    },
+    "1628247699cb016317": {
+      "type": "text-with-background",
+      "blocks": {
+        "1628247699cb016317-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recommended Use",
+            "heading_size": "small"
+          }
+        },
+        "1628247699cb016317-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leave on for at least 2 hours, ideally overnight, allowing the microneedles to fully dissolve and release the actives deeper into the skin where they can be most effective. <br\/><br\/>For best results, use two-three times per week for from 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. To avoid risk of sensitivity, do not use more than 3 times per week or within 24 hours of previous application.<\/p>"
+          }
+        },
+        "1628247699cb016317-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1628247699cb016317-0",
+        "1628247699cb016317-1",
+        "1628247699cb016317-2"
+      ],
+      "settings": {
+        "color_background": "#e2c4de",
+        "color_border": "#7d3490",
+        "full_width": false
+      }
+    },
+    "1626170270666543f7": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626170270666543f7-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tranxemic-Acid-Needle.jpg",
+            "title": "Tranexamic acid",
+            "text": "<p>A powerful anti-inflammatory. Reduces pigmentation, brightens skin tone and improves skin texture.<\/p>"
+          }
+        },
+        "1626170270666543f7-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NiacinamideNeedle.jpg",
+            "title": "Niacinamide",
+            "text": "<p>A potent vitamin that strengthens the skin’s barrier, boosts hydration and repairs hyper-pigmentation.<\/p>"
+          }
+        },
+        "1626170270666543f7-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Glutathione-Needle.jpg",
+            "title": "Glutathione",
+            "text": "<p>Brightens and rejuvenates skin. Improves skin texture and counters the effects of hyperpigmentation.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626170270666543f7-0",
+        "1626170270666543f7-1",
+        "1626170270666543f7-2"
+      ],
+      "settings": {
+        "title": "Key Ingredients",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    },
+    "162617023530160b5c": {
+      "type": "image-with-text",
+      "blocks": {
+        "162617023530160b5c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "WANT TO KNOW MORE?"
+          }
+        },
+        "162617023530160b5c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed.<br\/><br\/>Our innovative brilliant dark spot patches use Microneedle Technology to fade dark spots and blemishes. 500 self-dissolving microneedles melt into the skin to deliver a hydrating cocktail of brightening actives deep down where it counts. <\/p>"
+          }
+        },
+        "162617023530160b5c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162617023530160b5c-0",
+        "162617023530160b5c-1",
+        "162617023530160b5c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Photo_29-08-2021_12_17_30.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1626170242ffa87f4b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1626170242ffa87f4b-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1626170242ffa87f4b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each microscopic needle contains a blend of high-performing active ingredients including tranexamic acid, niacinamide, vitamin C and glutathione, known for their skin rejuvenating properties. This potent combination of regenerative ingredients helps to gradually brighten skin tone, restore skin texture and reduce the appearance of dark spots.<br\/><br\/>Use these easy to apply patches where it's needed most. For best results, use two-three times per week for 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. <\/p>"
+          }
+        },
+        "1626170242ffa87f4b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1626170242ffa87f4b-0",
+        "1626170242ffa87f4b-1",
+        "1626170242ffa87f4b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pigment.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1626170247b0785461": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1626170247b0785461-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1626170247b0785461-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our efficient and easy-to-use pimple patches deliver targeted treatment to where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently.<\/p>"
+          }
+        },
+        "1626170247b0785461-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1626170247b0785461-0",
+        "1626170247b0785461-1",
+        "1626170247b0785461-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16262976340da42008": {
+      "type": "quote",
+      "blocks": {
+        "16262976340da42008-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "THIS 'MIRACLE' PRODUCT COULD BE THE SOLUTION WE'RE ALL SEARCHING FOR."
+          }
+        },
+        "16262976340da42008-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Sun<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16262976340da42008-0",
+        "16262976340da42008-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": true
+      }
+    },
+    "16269032410f2256e7": {
+      "type": "collage-how-to",
+      "disabled": true,
+      "blocks": {
+        "16269032410f2256e7-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video for customers using screen readers",
+            "image_padding": false
+          }
+        },
+        "f04bfab5-2596-4e17-82f9-e1729e53353d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>1.Cleanse and dry your face thoroughly. This will help the microneedles to attach properly to your skin.<\/p><p>2.Remove the thin plastic film from each eye mask – careful not to touch those magic microneedles in the centre.<\/p><p>3.Gently place onto the under-eye area and press the mask into skin to activate the microneedles. Do not rub.<\/p><p>4.Leave on for at least two hours, allowing your skin to absorb the ingredients. Remove and discard when done.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16269032410f2256e7-0",
+        "f04bfab5-2596-4e17-82f9-e1729e53353d"
+      ],
+      "settings": {
+        "heading": "How to Apply",
+        "desktop_layout": "left",
+        "mobile_layout": "collage-how-to"
+      }
+    },
+    "162627080538092e1b": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "a0f47d26-50dc-45aa-a8e3-aa402b6c4d97": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "What are microneedles?",
+            "content": "<p>Microneedles are – quite literally – microscopic needles made from crystallised serum of our skin-boosting ingredients. When the microneedles meet the skin the needles fully dissolve releasing the ingredients beneath the skin where they can be most effective delivering powerful and longer-lasting results.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "68fbae2d-c403-44bd-8ab8-88ae09d01b00": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Do Microneedle Patches Hurt?",
+            "content": "<p>No, microneedle patches are completely painless. Microneedles used in at-home procedures are much smaller than those used by dermatologists, making them safe and straightforward to use. You may feel a slight sensation when you first press the patch onto the skin, followed by a warm tingle as the microneedles begin to dissolve.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "8ef761bb-b56d-4459-b606-9beb05c6505c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I reuse Spot Stoppa patches?",
+            "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective. <\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "be76ed69-b967-412c-891e-038d7e846af1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "What type of spots are Spot Stoppa patches for?",
+            "content": "<p>Our Spot Stoppa patches are designed for early-stage, upcoming pimples that haven’t yet surfaced, deep under-the-skin spots, and stubborn unidentifiable hormonal zits.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "47e33607-196d-4dca-91d3-d8b638b50859": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "How long will it take to see results?",
+            "content": "<p>We appreciate that results may differ person-to-person, however our patches are designed to get to work after just two hours to visibly reduce the appearance of blemishes by decreasing size, reducing redness, soothing irritation, and replenishing the skin.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "90bb0a4a-b8cc-4d2b-9b79-d44471f41a67": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "When should I apply my Spot Stoppa patches? ",
+            "content": "<p>Use our Spot Stoppa patches as soon as you feel the tingle of an early-stage pimple. This is the best time to catch them and avoid the pimple coming to a head. <\/p><p>You can also use our advanced pimple patches on established spots, where the microneedle technology and formula helps to visibly reduce the appearance of blemishes by decreasing size, reducing redness and sooth irritation.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ff090276-e266-4ded-9165-98188ceba203": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I use Spot Stoppa with other products?",
+            "content": "<p>Our pimple patches are easy to fit into your existing routine. It’s important that they are applied to clean, dry skin and not layered over other topical products such as moisturisers or serums.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "24373709-8156-4b8f-9b10-232c5c7b6c99": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "How do I apply my Spot Stoppa Patches?",
+            "content": "<p>Spot Stoppa patches should always be applied to clean dry skin, before using any topical ingredients such as moisturisers or serums. <\/p><p>It’s important to leave the patches on for two hours to allow the ingredients to fully dissolve and get to work. For best results, we recommend applying before bed and wearing overnight for that ‘I-woke-up-like-this’, clear-skin feeling.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "1d1aae41-8732-404a-925c-055b6f7d7fc0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When I remove the Spot Stoppa patch, there is sometimes an outline left on my skin. Is this normal?",
+            "content": "<p>Yes, this is totally normal and should fade within an hour<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "c3fe28c2-09ba-4127-8d21-e608238f748a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are Spot Stoppa patches vegan?",
+            "content": "<p>Yes. Our pimple patches only use vegan ingredients.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "81de5390-d049-418c-becb-a3056b2ad8f0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What makes Spot Stoppa patches different from cheaper alternatives? ",
+            "content": "<p>Our products have been designed for all skin types. The patch itself is a medical grade hydrocolloid base that gently extracts impurities and protects against further inflammation. The needles are infused with crystallised salicylic acid, totarol, and green tea extract to tackle even the most stubborn spots. <\/p><p>They’re also boosted with hyaluronic acid, which is incredibly gentle and poses low risk of irritation as the body naturally produces this ingredient. <\/p><p>We do understand that skin sensitivity varies from person-to-person and if you’re unsure of how you will react to these ingredients, try a patch test on the back of your hand before applying to your face.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "9ae3d0a8-ed9f-4043-b8be-05f03576eaf9": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "What age do you have to be to use Spot Stoppa?",
+            "content": "<p>We know acne isn’t just for teenagers, so we made sure anyone can use our microneedle patches. Spot Stoppa is suitable for all ages and all skin types.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "a0f47d26-50dc-45aa-a8e3-aa402b6c4d97",
+        "68fbae2d-c403-44bd-8ab8-88ae09d01b00",
+        "8ef761bb-b56d-4459-b606-9beb05c6505c",
+        "be76ed69-b967-412c-891e-038d7e846af1",
+        "47e33607-196d-4dca-91d3-d8b638b50859",
+        "90bb0a4a-b8cc-4d2b-9b79-d44471f41a67",
+        "ff090276-e266-4ded-9165-98188ceba203",
+        "24373709-8156-4b8f-9b10-232c5c7b6c99",
+        "1d1aae41-8732-404a-925c-055b6f7d7fc0",
+        "c3fe28c2-09ba-4127-8d21-e608238f748a",
+        "81de5390-d049-418c-becb-a3056b2ad8f0",
+        "9ae3d0a8-ed9f-4043-b8be-05f03576eaf9"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions"
+      }
+    },
+    "162824594567c2397d": {
+      "type": "faq",
+      "blocks": {
+        "728e6229-ed0f-40dd-b196-ca41d32cf99f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p><\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "a77bf69a-42d3-43e2-a04d-eaaea34545ba": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "shipping-information",
+            "icon": "none"
+          }
+        },
+        "7dce2f5f-147a-4e9b-9c55-530cd77b32d0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "returns-information",
+            "icon": "none"
+          }
+        },
+        "05cceef3-a7b9-44e3-983e-1cd6e513e545": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the UK?",
+            "content": "",
+            "page": "international-shipping-information",
+            "icon": "none"
+          }
+        },
+        "a6ea38e0-20bd-459e-8ec6-842103888813": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Any Questions?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "728e6229-ed0f-40dd-b196-ca41d32cf99f",
+        "a77bf69a-42d3-43e2-a04d-eaaea34545ba",
+        "7dce2f5f-147a-4e9b-9c55-530cd77b32d0",
+        "05cceef3-a7b9-44e3-983e-1cd6e513e545",
+        "a6ea38e0-20bd-459e-8ec6-842103888813"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
+    "1626334150955f5504": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "1626334150955f5504-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/glamour-logo.png"
+          }
+        },
+        "1626334150955f5504-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/r29_logo.png"
+          }
+        },
+        "1626334150955f5504-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vogue_logo.png"
+          }
+        },
+        "0492de53-d677-4622-9335-c3758c65858e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tatler_logo.png"
+          }
+        },
+        "51ce3061-3b5b-4039-be91-6970f9fc910b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
+          }
+        }
+      },
+      "block_order": [
+        "1626334150955f5504-0",
+        "1626334150955f5504-1",
+        "1626334150955f5504-2",
+        "0492de53-d677-4622-9335-c3758c65858e",
+        "51ce3061-3b5b-4039-be91-6970f9fc910b"
+      ],
+      "settings": {
+        "title": "As Seen In",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "swipe_on_mobile": true
+      }
+    },
+    "16269033832bed337e": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1626248705b8c25b91",
+    "1626903216068cfb52",
+    "1626940710a73ccd9b",
+    "1626290450f9c0b3c8",
+    "162816866649a3b1b1",
+    "16262053277f68e5df",
+    "1628247699cb016317",
+    "1626170270666543f7",
+    "product-recommendations",
+    "162617023530160b5c",
+    "1626170242ffa87f4b",
+    "1626170247b0785461",
+    "16262976340da42008",
+    "16269032410f2256e7",
+    "162627080538092e1b",
+    "162824594567c2397d",
+    "1626334150955f5504",
+    "16269033832bed337e"
+  ]
+}
