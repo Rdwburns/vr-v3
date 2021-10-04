@@ -314,6 +314,7 @@
         "1630670454d46c61ec-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
             "title": "Salicylic Acid",
             "text": "<p>A staple when it comes to blemish-prone skin, salicylic acid is known for its ability to help unclog pores, reduce bacteria and sooth swollen skin.<\/p>"
           }
@@ -321,6 +322,7 @@
         "1630670454d46c61ec-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100.jpg",
             "title": "Totarol",
             "text": "<p>Totarol’s antibacterial superpowers are well-known, reinforcing the skin’s natural defences against toxins and UV damage.<\/p>"
           }
@@ -328,6 +330,7 @@
         "1630670454d46c61ec-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
             "title": "Green Tea Extract",
             "text": "<p>A powerful antioxidant known to unclog pores and eliminate surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
           }
