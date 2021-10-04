@@ -116,12 +116,11 @@
     },
     "163066578569987736": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Eva, 34",
-        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -134,12 +133,11 @@
     },
     "16306659269238a056": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Jemima, 25",
-        "before_image": "shopify:\/\/shop_images\/Jemima_before.jpg",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Jemima_after.jpg",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -152,11 +150,11 @@
     },
     "16306701834173a61d": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1630670183a78fe379-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
             "text": ""
           }
@@ -164,7 +162,6 @@
         "1630670183a78fe379-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
             "title": "Cruelty Free",
             "text": ""
           }
@@ -172,7 +169,6 @@
         "1630670183a78fe379-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
             "text": ""
           }
@@ -180,7 +176,6 @@
         "dd428091-6592-4d2a-ac85-545657f1027d": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
             "text": ""
           }
@@ -271,7 +266,7 @@
         "d014f1c8-f674-404d-a62a-da1e2fc79fc4"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP_540b1183-618e-4df2-898c-beb32cbdfd70.png",
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP.png",
         "height": "adapt",
         "color_scheme": "background-1"
       }
@@ -319,7 +314,6 @@
         "1630670454d46c61ec-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100_f0ef302b-6934-4954-8952-a7c0ba96841b.jpg",
             "title": "Salicylic Acid",
             "text": "<p>A staple when it comes to blemish-prone skin, salicylic acid is known for its ability to help unclog pores, reduce bacteria and sooth swollen skin.<\/p>"
           }
@@ -327,7 +321,6 @@
         "1630670454d46c61ec-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100_cbc150c5-7be0-43ab-bfb7-819b04434676.jpg",
             "title": "Totarol",
             "text": "<p>Totarol’s antibacterial superpowers are well-known, reinforcing the skin’s natural defences against toxins and UV damage.<\/p>"
           }
@@ -335,7 +328,6 @@
         "1630670454d46c61ec-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100_79e2f469-3b11-4ba9-b31d-b636371b6d58.jpg",
             "title": "Green Tea Extract",
             "text": "<p>A powerful antioxidant known to unclog pores and eliminate surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
           }
@@ -388,7 +380,6 @@
         "16306706059d664fbe-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Product_-_Pimple-v2.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -424,7 +415,6 @@
         "16306706447d17b881-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
