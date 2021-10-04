@@ -279,6 +279,7 @@
         "16306677505ea62545-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
             "title": "Peptides",
             "text": "<p>Peptides are known for their ability to stimulate collagen production, which is important for firm-looking skim.<\/p><p>We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
           }
@@ -286,6 +287,7 @@
         "16306677505ea62545-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
             "title": "Hyaluronic Acid",
             "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
@@ -293,6 +295,7 @@
         "16306677505ea62545-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
             "title": "Vitamin C",
             "text": "<p>An antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
           }
