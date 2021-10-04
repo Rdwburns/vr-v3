@@ -346,7 +346,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
-        "background_style": "secondary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false,
@@ -355,6 +355,7 @@
     },
     "1630670605efc9d8e8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306706059d664fbe-0": {
           "type": "heading",
@@ -390,6 +391,7 @@
     },
     "16306706442722ab1c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306706447d17b881-0": {
           "type": "heading",
