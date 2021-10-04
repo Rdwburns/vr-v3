@@ -1,0 +1,550 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "ded84350-da35-4b5d-be22-f69cec5f1827": {
+          "type": "review-stars",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "color": "#e72677",
+            "text_style": "subtitle"
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields.product_short_description.value }}",
+            "color": "#000000",
+            "text_style": "italic"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        }
+      },
+      "block_order": [
+        "ded84350-da35-4b5d-be22-f69cec5f1827",
+        "title",
+        "vendor",
+        "subtitle",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "enable_video_looping": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    },
+    "1630667350eac58cba": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "16306673507dd07b78-0": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Unlike topical creams, our Microneedle Technology goes directly where it’s needed, deeper in the skin. Pyramid-shaped microneedles on perfect-fitting hydrocolloid patches ensure gentle, effective penetration and fast absorption of ingredients.<\/p>"
+          }
+        },
+        "16306673507dd07b78-1": {
+          "type": "column",
+          "settings": {
+            "title": "Collagen Counts",
+            "text": "<p>2600 serum-infused microneedles on each pair. Made with 3 key peptides and adenosine the concentrated formula helps smooth the appearance of fine lines and give firmer, younger-looking skin. No cream, no oil and tiny amounts of water in our concentrated formula.<\/p>"
+          }
+        },
+        "16306673507dd07b78-2": {
+          "type": "column",
+          "settings": {
+            "title": "Visible Improvement",
+            "text": "<p>High performance formulation made with peptides, hyalauronic acid, vitamin c and glutathione for visibly firmer, brighter, more hydrated skin. Visible improvements that get better with continued use.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306673507dd07b78-0",
+        "16306673507dd07b78-1",
+        "16306673507dd07b78-2"
+      ],
+      "settings": {
+        "title": "Why Eye Rejuvenator?",
+        "background_style": "pink"
+      }
+    },
+    "163066738607a4d67e": {
+      "type": "quote",
+      "blocks": {
+        "16306673869cfd67d4-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "16306673869cfd67d4-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Telegraph<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306673869cfd67d4-0",
+        "16306673869cfd67d4-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "1630667495e3b57b45": {
+      "type": "multicolumn",
+      "blocks": {
+        "1630667495b88b054a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
+          }
+        },
+        "1630667495b88b054a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        },
+        "1630667495b88b054a-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": ""
+          }
+        },
+        "975d5d6f-64a1-471b-bb9c-d0ca08ac1071": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Ultra-Low Water",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1630667495b88b054a-0",
+        "1630667495b88b054a-1",
+        "1630667495b88b054a-2",
+        "975d5d6f-64a1-471b-bb9c-d0ca08ac1071"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
+      }
+    },
+    "16306676334fb98a7a": {
+      "type": "image-surround",
+      "blocks": {
+        "16306676333cf327e2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "16306676333cf327e2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+          }
+        },
+        "c1e4dfa9-ef79-4f37-b379-fff41de4f96d": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+          }
+        },
+        "4e764b33-8ead-4da0-8984-d37d4d42c035": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+          }
+        },
+        "7d0aed61-5e32-4548-b463-e8e58afee955": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306676333cf327e2-0",
+        "16306676333cf327e2-1",
+        "c1e4dfa9-ef79-4f37-b379-fff41de4f96d",
+        "4e764b33-8ead-4da0-8984-d37d4d42c035",
+        "7d0aed61-5e32-4548-b463-e8e58afee955"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP_540b1183-618e-4df2-898c-beb32cbdfd70.png",
+        "height": "adapt",
+        "color_scheme": "background-1"
+      }
+    },
+    "16306676362bdcc2a1": {
+      "type": "text-with-background",
+      "blocks": {
+        "16306676361a3677c6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recommended Use",
+            "heading_size": "small"
+          }
+        },
+        "16306676361a3677c6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve and release all of the ingredients. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use, results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>"
+          }
+        },
+        "16306676361a3677c6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16306676361a3677c6-0",
+        "16306676361a3677c6-1",
+        "16306676361a3677c6-2"
+      ],
+      "settings": {
+        "color_background": "#ffdae3",
+        "color_border": "#e72677",
+        "full_width": false
+      }
+    },
+    "1630667750e5ff8974": {
+      "type": "multicolumn",
+      "blocks": {
+        "16306677505ea62545-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100_d94b9b90-4387-41c6-b1a6-972306b96c9f.jpg",
+            "title": "Peptides",
+            "text": "<p>Peptides are known for their ability to stimulate collagen production, which is important for firm-looking skim.<\/p><p>We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
+          }
+        },
+        "16306677505ea62545-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID_adcda84a-1f39-43ba-97b7-b75fffef2fb7.jpg",
+            "title": "Hyaluronic Acid",
+            "text": "<p>Helps the skin retain its moisture,<br\/>resulting in hydrated, nourished and plumper-looking skin. <\/p>"
+          }
+        },
+        "16306677505ea62545-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100_8b721664-7927-40f5-93d6-9eb578175137.jpg",
+            "title": "Vitamin C",
+            "text": "<p>An antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16306677505ea62545-0",
+        "16306677505ea62545-1",
+        "16306677505ea62545-2"
+      ],
+      "settings": {
+        "title": "Key Ingredients",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "163066789374079d02": {
+      "type": "image-with-text",
+      "blocks": {
+        "16306678930909c823-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Want to Know More?"
+          }
+        },
+        "16306678930909c823-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed. <\/p><p>High-performing but gentle on skin, our ultimate eye patches are formulated to soften fine lines, boost hydration, and brighten the eye area. <\/p><p><\/p><p>Press down to activate and feel the tiny prickle which tells you the microneedles are getting straight to work beneath the skin surface. Each pair contains 2600 self-dissolving microneedles preloaded with our skin-restoring formula. Once applied, the needles self-dissolve releasing a burst of ingredients into the epidermis where they’re most needed to leave skin looking plumper, smoother and rejuvenated.<br\/><\/p>"
+          }
+        },
+        "16306678930909c823-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16306678930909c823-0",
+        "16306678930909c823-1",
+        "16306678930909c823-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1346_Facetune_10-08-2021-07-37-05.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163066801691ce005c": {
+      "type": "image-with-text",
+      "blocks": {
+        "163066801602f8cb56-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "163066801602f8cb56-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The needles contain a blend of high-performing active ingredients, known for their skin rejuvenating properties. Peptides work with your body’s natural collagen production to promote cell rejuvenation, visibly plumping skin for a youthful and renewed appearance. <\/p><p><\/p><p>Hyaluronic acid provides deep hydration, leaving skin well-moisturised and hydrated. Vitamin C and Glutathione work in unison to brighten, smooth and restore skin, while balancing skin tone to reveal a radiant glow. <\/p><p>Designed to be gentle on the delicate eye area these easy to apply ultimate eye patches fit seamlessly into your routine with visible improvements over time which get better with continued use.  <\/p>"
+          }
+        },
+        "163066801602f8cb56-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163066801602f8cb56-0",
+        "163066801602f8cb56-1",
+        "163066801602f8cb56-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1080x1080_IG_PINK_10_a3ad6ec6-de5a-4e4d-8da5-c2c318b01770.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1630668022cab0cd42": {
+      "type": "quote",
+      "blocks": {
+        "1630668022df696414-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "THIS 'MIRACLE' PRODUCT COULD BE THE SOLUTION WE'RE ALL SEARCHING FOR."
+          }
+        },
+        "1630668022df696414-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Sun<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630668022df696414-0",
+        "1630668022df696414-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "1630668062b8a6dbc5": {
+      "type": "faq",
+      "blocks": {
+        "797f4843-7aa4-488f-aed6-641355773a99": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the Eye Rejuvenator patches reusable?",
+            "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "0f3f1ec7-ed7b-4705-bb59-31448ddd3e24": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the Eye Rejuvenator patches vegan?",
+            "content": "<p>Yes, our Eye Rejuvenator patches are fully vegan. Our formula uses peptides to boost the skin’s natural collagen production, instead of collagen protein, which is mostly derived from animal sources.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "1d6f02b9-8deb-4f0b-b38c-b7809bd9e91c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Will Eye Rejuvenator patches work on dark circles?",
+            "content": "<p>Yes, our formula contains vitamin C, which is an antioxidant that fights free radicals in the skin, known to cause ageing, hyperpigmentation and dark circles. It brightens the skin while hyaluronic acid works to plump and hydrate the under-eye area.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "379ba45d-e55d-4a2a-9c6e-0048f23ca4e3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Will Eye Rejuvenator patches help with under eye bags?",
+            "content": "<p>No, the Eye Rejuvenator patches have unique properties, which are specifically designed to reduce fine lines and wrinkles. They are also formulated to hydrate and rejuvenate the skin, resulting in a plumper, smoother and youthful complexion.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "37dbc49b-f676-42cd-9993-1a7d15bedb67": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When can I expect to see results?",
+            "content": "<p>It differs for everyone, but you may start seeing results straight away. From one application you can expect to see deeper hydration around the eye area, but it may take between 6 - 8 applications to see significant results.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "797f4843-7aa4-488f-aed6-641355773a99",
+        "0f3f1ec7-ed7b-4705-bb59-31448ddd3e24",
+        "1d6f02b9-8deb-4f0b-b38c-b7809bd9e91c",
+        "379ba45d-e55d-4a2a-9c6e-0048f23ca4e3",
+        "37dbc49b-f676-42cd-9993-1a7d15bedb67"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions"
+      }
+    },
+    "16306681249299ca0a": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "8a763d67-6733-4e0b-896b-0ee61b62304b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "455d13e2-648f-41c2-ae3f-9393a377bed2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ae482b64-ebec-4bc7-9a1c-3e7b89775569": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "6b71d4a6-72b1-469f-884c-d510a80af41b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "8a763d67-6733-4e0b-896b-0ee61b62304b",
+        "455d13e2-648f-41c2-ae3f-9393a377bed2",
+        "ae482b64-ebec-4bc7-9a1c-3e7b89775569",
+        "6b71d4a6-72b1-469f-884c-d510a80af41b"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1630667350eac58cba",
+    "163066738607a4d67e",
+    "1630667495e3b57b45",
+    "16306676334fb98a7a",
+    "16306676362bdcc2a1",
+    "1630667750e5ff8974",
+    "163066789374079d02",
+    "163066801691ce005c",
+    "1630668022cab0cd42",
+    "1630668062b8a6dbc5",
+    "16306681249299ca0a"
+  ]
+}
