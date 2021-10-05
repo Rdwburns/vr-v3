@@ -5,7 +5,6 @@
       "blocks": {
         "ded84350-da35-4b5d-be22-f69cec5f1827": {
           "type": "review-stars",
-          "disabled": true,
           "settings": {
           }
         },
@@ -527,6 +526,12 @@
       "settings": {
         "heading": ""
       }
+    },
+    "163344909955aa512e": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
     }
   },
   "order": [
@@ -542,6 +547,7 @@
     "163066801691ce005c",
     "1630668022cab0cd42",
     "1630668062b8a6dbc5",
-    "16306681249299ca0a"
+    "16306681249299ca0a",
+    "163344909955aa512e"
   ]
 }
