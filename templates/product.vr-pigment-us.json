@@ -43,6 +43,14 @@
           "settings": {
           }
         },
+        "1a32cc72-bb9f-4b5b-94af-0d9be0a008e5": {
+          "type": "text",
+          "settings": {
+            "text": "Exclusive pre-order discount! Your order will be shipped on 10\/15.",
+            "color": "#000000",
+            "text_style": "uppercase"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -68,6 +76,7 @@
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
         "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "price",
+        "1a32cc72-bb9f-4b5b-94af-0d9be0a008e5",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
