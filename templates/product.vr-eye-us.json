@@ -26,7 +26,15 @@
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
             "color": "#000000",
-            "text_style": "italic"
+            "text_style": "body"
+          }
+        },
+        "84bbf6b8-0852-4093-9e08-7f5c915c6ae5": {
+          "type": "text",
+          "settings": {
+            "text": "Exclusive pre-order discount! Your order will be shipped on 10\/15.",
+            "color": "#000000",
+            "text_style": "uppercase"
           }
         },
         "price": {
@@ -57,6 +65,7 @@
         "title",
         "vendor",
         "subtitle",
+        "84bbf6b8-0852-4093-9e08-7f5c915c6ae5",
         "price",
         "variant_picker",
         "quantity_selector",
