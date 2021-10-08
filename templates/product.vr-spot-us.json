@@ -48,7 +48,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         }
       },
@@ -115,11 +115,12 @@
     },
     "163066578569987736": {
       "type": "before-after",
-      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Eva, 34",
+        "before_image": "shopify:\/\/shop_images\/Eva-Before.jpg",
         "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Eva-After.jpg",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -132,11 +133,12 @@
     },
     "16306659269238a056": {
       "type": "before-after",
-      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Jemima, 25",
+        "before_image": "shopify:\/\/shop_images\/Jemima_before.jpg",
         "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Jemima_after.jpg",
         "after_caption": "After 1 Use",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -149,11 +151,11 @@
     },
     "16306701834173a61d": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1630670183a78fe379-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
             "text": ""
           }
@@ -161,6 +163,7 @@
         "1630670183a78fe379-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
             "title": "Cruelty Free",
             "text": ""
           }
@@ -168,6 +171,7 @@
         "1630670183a78fe379-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
             "text": ""
           }
@@ -175,6 +179,7 @@
         "dd428091-6592-4d2a-ac85-545657f1027d": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
             "text": ""
           }
@@ -354,7 +359,6 @@
     },
     "1630670605efc9d8e8": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "16306706059d664fbe-0": {
           "type": "heading",
@@ -383,6 +387,7 @@
         "16306706059d664fbe-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/model.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -390,7 +395,6 @@
     },
     "16306706442722ab1c": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "16306706447d17b881-0": {
           "type": "heading",
@@ -419,6 +423,7 @@
         "16306706447d17b881-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -509,6 +514,62 @@
         "heading": "Frequently Asked Questions"
       }
     },
+    "16336365084608cb13": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
+    },
+    "1630670794bbb91b25": {
+      "type": "faq",
+      "blocks": {
+        "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "7825e2de-8ede-40e1-9183-87d822ad162d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "shipping-information",
+            "icon": "none"
+          }
+        },
+        "03010517-4855-4015-952f-3f10770e4630": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "returns-information",
+            "icon": "none"
+          }
+        },
+        "e057c615-5b2f-413c-a59e-ca130e466266": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the US?",
+            "content": "",
+            "page": "international-shipping-information",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "ccfb11ff-ccab-4a85-9d96-67368a9a749f",
+        "7825e2de-8ede-40e1-9183-87d822ad162d",
+        "03010517-4855-4015-952f-3f10770e4630",
+        "e057c615-5b2f-413c-a59e-ca130e466266"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "163067078558f946c3": {
       "type": "multicolumn-images",
       "blocks": {
@@ -556,53 +617,6 @@
         "image_ratio": "adapt",
         "swipe_on_mobile": true
       }
-    },
-    "1630670794bbb91b25": {
-      "type": "faq",
-      "disabled": true,
-      "blocks": {
-        "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "7825e2de-8ede-40e1-9183-87d822ad162d": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "03010517-4855-4015-952f-3f10770e4630": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible tab",
-            "content": "",
-            "page": "",
-            "icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "ccfb11ff-ccab-4a85-9d96-67368a9a749f",
-        "7825e2de-8ede-40e1-9183-87d822ad162d",
-        "03010517-4855-4015-952f-3f10770e4630"
-      ],
-      "settings": {
-        "heading": ""
-      }
-    },
-    "16336365084608cb13": {
-      "type": "product-reviews",
-      "settings": {
-        "heading": "Customer Reviews"
-      }
     }
   },
   "order": [
@@ -620,8 +634,8 @@
     "16306706442722ab1c",
     "1630670725d93383b2",
     "163067075567773c25",
-    "163067078558f946c3",
+    "16336365084608cb13",
     "1630670794bbb91b25",
-    "16336365084608cb13"
+    "163067078558f946c3"
   ]
 }
