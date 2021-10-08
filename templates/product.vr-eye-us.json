@@ -85,21 +85,21 @@
           "type": "column",
           "settings": {
             "title": "Precision Delivery System",
-            "text": "<p>Unlike topical creams, our Microneedle Technology goes directly where it’s needed, deeper in the skin. Pyramid-shaped microneedles on perfect-fitting hydrocolloid patches ensure gentle, effective penetration and fast absorption of ingredients.<\/p>"
+            "text": "<p>Pyramid-shaped microneedles ensure painless penetration of the skin and fast absorption of the active ingredients deeper down, where it counts. <\/p>"
           }
         },
         "16306673507dd07b78-1": {
           "type": "column",
           "settings": {
             "title": "Collagen Counts",
-            "text": "<p>2600 serum-infused microneedles on each pair. Made with 3 key peptides and adenosine the concentrated formula helps smooth the appearance of fine lines and give firmer, younger-looking skin. No cream, no oil and tiny amounts of water in our concentrated formula.<\/p>"
+            "text": "<p>2600 microneedles melt to deliver 3 key peptides for firmer, younger-looking skin.<\/p>"
           }
         },
         "16306673507dd07b78-2": {
           "type": "column",
           "settings": {
             "title": "Visible Improvement",
-            "text": "<p>High performance formulation made with peptides, hyalauronic acid, vitamin c and glutathione for visibly firmer, brighter, more hydrated skin. Visible improvements that get better with continued use.<\/p>"
+            "text": "<p>A concentrated blend of Hyaluronic Acid, Vitamin C and Glutathione to plump, brighten, hydrate and reduce the appearance of fine lines<\/p>"
           }
         }
       },
@@ -140,11 +140,11 @@
     },
     "1630667495e3b57b45": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1630667495b88b054a-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
             "text": ""
           }
@@ -152,6 +152,7 @@
         "1630667495b88b054a-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
             "title": "Cruelty Free",
             "text": ""
           }
@@ -159,6 +160,7 @@
         "1630667495b88b054a-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
             "text": ""
           }
@@ -166,6 +168,7 @@
         "975d5d6f-64a1-471b-bb9c-d0ca08ac1071": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
             "text": ""
           }
@@ -187,6 +190,42 @@
         "button_link": "",
         "swipe_on_mobile": false,
         "grid_on_mobile": true
+      }
+    },
+    "16336830014dc3e825": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Before and After",
+        "review_title": "Tania, 50, 4 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Week1_a9d86dfb-d0bd-4bdd-9e83-103d0b802eff.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4_46317b34-cd24-423e-b4d5-78629f409b37.jpg",
+        "after_caption": "After 4 Uses",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1633683188260763b6": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Abbé, 42, 3 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use_180bc879-3faf-439c-8988-687152b687ae.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications_c2854a7a-0bcf-41ce-b8ba-ca9bfda48a1d.jpg",
+        "after_caption": "After 3 Uses",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "This is my third application. I’ve always suffered from under eye shadows and since using I can really see a difference, it’s so much brighter under the eyes and also so much smoother and I can feel a deeper moisturization.",
+        "button_label": "Button label",
+        "button_link": ""
       }
     },
     "16306676334fb98a7a": {
@@ -476,15 +515,20 @@
         "heading": "Frequently Asked Questions"
       }
     },
+    "163344909955aa512e": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
+    },
     "16306681249299ca0a": {
       "type": "faq",
-      "disabled": true,
       "blocks": {
         "8a763d67-6733-4e0b-896b-0ee61b62304b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
-            "content": "",
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -492,27 +536,27 @@
         "455d13e2-648f-41c2-ae3f-9393a377bed2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Delivery Information",
             "content": "",
-            "page": "",
+            "page": "shipping-information",
             "icon": "none"
           }
         },
         "ae482b64-ebec-4bc7-9a1c-3e7b89775569": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Returns Information",
             "content": "",
-            "page": "",
+            "page": "returns-information",
             "icon": "none"
           }
         },
         "6b71d4a6-72b1-469f-884c-d510a80af41b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Shopping Outside of the US?",
             "content": "",
-            "page": "",
+            "page": "international-shipping-information",
             "icon": "none"
           }
         }
@@ -526,12 +570,6 @@
       "settings": {
         "heading": ""
       }
-    },
-    "163344909955aa512e": {
-      "type": "product-reviews",
-      "settings": {
-        "heading": "Customer Reviews"
-      }
     }
   },
   "order": [
@@ -540,6 +578,8 @@
     "1630667350eac58cba",
     "163066738607a4d67e",
     "1630667495e3b57b45",
+    "16336830014dc3e825",
+    "1633683188260763b6",
     "16306676334fb98a7a",
     "16306676362bdcc2a1",
     "1630667750e5ff8974",
@@ -547,7 +587,7 @@
     "163066801691ce005c",
     "1630668022cab0cd42",
     "1630668062b8a6dbc5",
-    "16306681249299ca0a",
-    "163344909955aa512e"
+    "163344909955aa512e",
+    "16306681249299ca0a"
   ]
 }
