@@ -23,15 +23,11 @@
         },
         "68a8aec7-bf15-4dba-bd03-4a7d68078c2b": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
             "color": "#000000",
             "text_style": "italic"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
           }
         },
         "c8592b1a-2ae7-4aa0-a80b-3276b781e1c0": {
@@ -40,6 +36,11 @@
             "text": "Exclusive pre-order discount! Your order will be shipped on 10\/15.",
             "color": "#000000",
             "text_style": "uppercase"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
           }
         },
         "variant_picker": {
@@ -65,8 +66,8 @@
         "title",
         "subtitle",
         "68a8aec7-bf15-4dba-bd03-4a7d68078c2b",
-        "price",
         "c8592b1a-2ae7-4aa0-a80b-3276b781e1c0",
+        "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
