@@ -172,7 +172,7 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "more": true
+        "more": false
       }
     },
     "162816866649a3b1b1": {
@@ -704,7 +704,7 @@
         "05cceef3-a7b9-44e3-983e-1cd6e513e545": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shopping Outside of the UK?",
+            "heading": "Shopping Outside of the US?",
             "content": "",
             "page": "international-shipping-information",
             "icon": "none"
