@@ -80,7 +80,7 @@
             <span 
               style="display: inline-block;"
               class="yotpo bottomLine"
-              data-appkey="vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI"
+              data-appkey={% if request.host == 'vicereversa.co.uk' %}"vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI" {% elsif request.host == 'vicereversaskin.com' %}"sO8rB32YVfbLjrFFyqFErsUGKLPnjt0ppxQ3ttS9" {% elsif request.host == 'vicereversaskin.com.au' %}"C7nzQWFdp12UV6ClFpvqWrVvkvGtCDqfZ1k0EpzW" {% endif %}
               data-domain="{{shop.permanent_domain | escape }}"
               data-product-id="{{ product.id }}"
               data-product-models="{{ product.id }}"
