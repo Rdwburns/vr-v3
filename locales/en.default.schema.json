@@ -976,6 +976,9 @@
         "menu": {
           "label": "Menu"
         },
+        "secondary-menu": {
+          "label": "Secondary Menu"
+        },
         "show_line_separator": {
           "label": "Show separator line"
         },

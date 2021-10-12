@@ -1786,11 +1786,6 @@ input[type='checkbox'] {
     width: 30%;
   }
 
-  .header__icon:not(.header__icon--summary),
-  .header__icon span {
-    margin-top: -2rem;
-  }
-
   .header--top-left {
     grid-template-areas:
       'heading icons'
@@ -1887,7 +1882,6 @@ input[type='checkbox'] {
   flex-wrap: nowrap;
   align-items: center;
   justify-content: flex-end;
-  margin-top: 22px;
   height: 44px;
 }
 
@@ -1943,6 +1937,32 @@ input[type='checkbox'] {
   .header__icon--account {
     display: none !important;
   }
+}
+
+.header__menu-item__hollow {
+    margin: 0 2em 0 0;
+    font-size: 0.8em;
+    padding: 1.2rem 2rem !important;
+    border: 2px solid #000;
+}
+
+.header__menu-item__secondary {
+  background-color: #F5D3CC;
+  margin: 0 2em 0 0;
+  font-size: 0.8em;
+  padding: 1.2rem 2rem !important;
+}
+
+.header__menu-item__secondary > .header__active-menu-item {
+  text-decoration: none !important;
+}
+
+.header__menu-item__secondary:hover {
+  background-color: #ffae9e;
+}
+
+.header__menu-item__secondary:hover span {
+  text-decoration: none !important;
 }
 
 /* Search */

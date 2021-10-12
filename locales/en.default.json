@@ -30,6 +30,14 @@
       }
     },
     "continue_shopping": "Continue shopping",
+    "branded": {
+      "shop_all": "Shop all skincare products",
+      "wants":{
+        "eye": "I want to rejuvenate my eyes",
+        "spot": "I want to reduce my pimples",
+        "pigment": "I want to reduce my dark spots"
+      }
+    },
     "pagination": {
       "label": "Pagination",
       "page": "Page {{ number }}",
@@ -193,6 +201,7 @@
       "note": "Order special instructions",
       "checkout": "Check out",
       "empty": "Your cart is empty",
+      "empty_secondary": "Let us find the right skincare product for you.",
       "cart_error": "There was an error while updating your cart. Please try again.",
       "cart_quantity_error_html": "You can only add [quantity] of this item to your cart.",
       "taxes_and_shipping_policy_at_checkout_html": "Taxes and <a href=\"{{ link }}\">shipping<\/a> calculated at checkout",
