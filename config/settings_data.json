@@ -51,6 +51,7 @@
           "logo_width": 100,
           "logo_position": "middle-center",
           "menu": "v3-main-menu",
+          "secondary-menu": "secondary-main-menu",
           "show_line_separator": true,
           "enable_search": false,
           "enable_sticky_header": true
