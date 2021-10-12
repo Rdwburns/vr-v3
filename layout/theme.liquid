@@ -169,16 +169,16 @@
     {% render "geo-modal" %} 
 
     <!-- Yotpo -->
-    {% if request.host == 'vicereversa.co.uk' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
-    {% elsif request.host == 'vicereversaskin.com.au' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/C7nzQWFdp12UV6ClFpvqWrVvkvGtCDqfZ1k0EpzW/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
-    {% elsif request.host == 'vicereversaskin.com' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/sO8rB32YVfbLjrFFyqFErsUGKLPnjt0ppxQ3ttS9/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
+    {% if shop.permanent_domain == 'vice-reversa-skin-care-uk.myshopify.com' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
+    {% elsif shop.permanent_domain == 'vicereversa.myshopify.com' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/C7nzQWFdp12UV6ClFpvqWrVvkvGtCDqfZ1k0EpzW/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
+    {% elsif shop.permanent_domain == 'vice-reversa-usa.myshopify.com' %}<script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/sO8rB32YVfbLjrFFyqFErsUGKLPnjt0ppxQ3ttS9/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
     {% endif %}
     <!-- End Yotpo -->
     <!-- Klaviyo CRM -->
-    {% if request.host == 'vicereversa.co.uk' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=R7cuJw"></script>
-    {% elsif request.host == 'vicereversaskin.com.au' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=Xravjv"></script>
-    {% elsif request.host == 'vicereversaskin.eu' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=YAYTbB"></script>
-    {% elsif request.host == 'vicereversaskin.com' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=ScgFtZ"></script>
+    {% if shop.permanent_domain == 'vice-reversa-skin-care-uk.myshopify.com' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=R7cuJw"></script>
+    {% elsif shop.permanent_domain == 'vicereversa.myshopify.com' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=Xravjv"></script>
+    {% elsif shop.permanent_domain == 'vice-reversa-ie.myshopify.com' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=YAYTbB"></script>
+    {% elsif shop.permanent_domain == 'vice-reversa-usa.myshopify.com' %}<script defer type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=ScgFtZ"></script>
     {% endif %}
     <!-- End Klaviyo CRM -->
     <!-- MOUSEFLOW --> <script type="text/javascript">

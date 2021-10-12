@@ -80,7 +80,7 @@
             <span 
               style="display: inline-block;"
               class="yotpo bottomLine"
-              data-appkey={% if request.host == 'vicereversa.co.uk' %}"vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI" {% elsif request.host == 'vicereversaskin.com' %}"sO8rB32YVfbLjrFFyqFErsUGKLPnjt0ppxQ3ttS9" {% elsif request.host == 'vicereversaskin.com.au' %}"C7nzQWFdp12UV6ClFpvqWrVvkvGtCDqfZ1k0EpzW" {% endif %}
+              data-appkey={% if shop.permanent_domain == 'vice-reversa-skin-care-uk.myshopify.com' %}"vUt2Q0fWkKTjmfnyVM4p5dnvcJc3erQqoi8TZCTI" {% elsif shop.permanent_domain == 'vice-reversa-usa.myshopify.com' %}"sO8rB32YVfbLjrFFyqFErsUGKLPnjt0ppxQ3ttS9" {% elsif shop.permanent_domain == 'vicereversa.myshopify.com' %}"C7nzQWFdp12UV6ClFpvqWrVvkvGtCDqfZ1k0EpzW" {% endif %}
               data-domain="{{shop.permanent_domain | escape }}"
               data-product-id="{{ product.id }}"
               data-product-models="{{ product.id }}"
