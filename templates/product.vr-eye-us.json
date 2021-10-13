@@ -33,6 +33,7 @@
         },
         "84bbf6b8-0852-4093-9e08-7f5c915c6ae5": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Exclusive pre-order discount! Your order will be shipped on 10\/13.",
             "color": "#000000",
