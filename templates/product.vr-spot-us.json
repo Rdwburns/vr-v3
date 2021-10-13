@@ -5,6 +5,7 @@
       "blocks": {
         "1ee344ff-d4e2-4e80-92ee-b5057cb31988": {
           "type": "review-stars",
+          "disabled": true,
           "settings": {
           }
         },
@@ -32,6 +33,7 @@
         },
         "c8592b1a-2ae7-4aa0-a80b-3276b781e1c0": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Exclusive pre-order discount! Your order will be shipped on 10\/15.",
             "color": "#000000",
@@ -526,6 +528,7 @@
     },
     "16336365084608cb13": {
       "type": "product-reviews",
+      "disabled": true,
       "settings": {
         "heading": "Customer Reviews"
       }
