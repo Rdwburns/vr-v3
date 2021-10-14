@@ -20,19 +20,19 @@
     {%- when 'shipping_bar' -%}
       <div class="announcement-bar color-{{ block.settings.color_scheme }}" role="region" aria-label="{{ 'sections.header.announcement' | t }}" {{ block.shopify_attributes }}>
         {%- if cart == empty -%}
-          {% if request.host == 'vicereversa.co.uk' %}<p class="announcement-bar__message h5">Free UK Shipping on All Orders</p>
+          {% if shop.permanent_domain == 'vice-reversa-skin-care-uk.myshopify.com' %}<p class="announcement-bar__message h5">Free UK Shipping on All Orders</p>
           {% endif %}
         {%- endif -%}
         {%- if cart != empty -%}
-          {%- if request.host == 'vicereversa.co.uk' -%}
+          {%- if shop.permanent_domain == 'vice-reversa-skin-care-uk.myshopify.com' -%}
             <p class="announcement-bar__message h5">Your order ships free! 📦</p>
-            {%- elsif request.host == 'vicereversaskin.com.au' -%}
+            {%- elsif shop.permanent_domain == 'vicereversa.myshopify.com' -%}
               {%- if cart.total_price > 12000 -%}<p class="announcement-bar__message h5">Your order ships free! 📦</p>
               {%- else -%}<p class="announcement-bar__message h5">Spend just {{ 12000 | minus: cart.total_price | money }} more to get free shipping!</p>
               {%- endif -%}
-            {%- elsif request.host == 'vicereversaskin.com' -%}
-              <p class="announcement-bar__message h5">Pre-order special - free US Mainland Shipping! 📦</p>
-            {%- elsif request.host == 'vicereversaskin.eu' -%}
+            {%- elsif shop.permanent_domain == 'vice-reversa-usa.myshopify.com' -%}
+              <p class="announcement-bar__message h5">Free US Mainland Shipping! 📦</p>
+            {%- elsif shop.permanent_domain == 'vicereversa-ie.myshopify.com' -%}
               {%- if cart.total_price > 5000 -%}<p class="announcement-bar__message h5">Your order ships free! 📦</p>
               {%- else -%}<p class="announcement-bar__message h5">Spend just {{ 5000 | minus: cart.total_price | money }} more to get free shipping!</p>
               {%- endif -%}
