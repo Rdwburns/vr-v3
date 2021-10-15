@@ -1,7 +1,57 @@
 {
   "sections": {
+    "163429427349f9c8d4": {
+      "type": "image-banner",
+      "blocks": {
+        "e751c457-6aaf-4d3f-a3ae-1e293e521d41": {
+          "type": "text",
+          "settings": {
+            "text": "★★★★★  1000+ 5* Reviews",
+            "text_style": "body"
+          }
+        },
+        "163429427349f9c8d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Precision Microneedle Skincare Products"
+          }
+        },
+        "163429427349f9c8d4-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Microneedle Skincare",
+            "button_link_1": "shopify:\/\/collections\/all-products",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        },
+        "163429427349f9c8d4-1": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping on All Orders",
+            "text_style": "uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "e751c457-6aaf-4d3f-a3ae-1e293e521d41",
+        "163429427349f9c8d4-0",
+        "163429427349f9c8d4-2",
+        "163429427349f9c8d4-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner_3000_new_v7.png",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "adapt_height_first_image": false
+      }
+    },
     "1627380753df25bb94": {
       "type": "custom-header",
+      "disabled": true,
       "blocks": {
         "1627380753df25bb94-0": {
           "type": "heading",
@@ -24,7 +74,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Meet The Microneedle Lineup",
         "collection": "all-products",
         "products_to_show": 4,
         "show_view_all": false,
@@ -228,6 +278,7 @@
     }
   },
   "order": [
+    "163429427349f9c8d4",
     "1627380753df25bb94",
     "featured_products",
     "162826528758e4667d",
