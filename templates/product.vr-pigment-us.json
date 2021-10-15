@@ -88,6 +88,36 @@
         "enable_video_looping": false
       }
     },
+    "16343039891aba28c9": {
+      "type": "faq",
+      "blocks": {
+        "8dc1f09c-5c9b-4e5f-9dd7-f6aafee4126e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p><strong>NLESS PYRAMID NEEDLES<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p><p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p><p>RECOMMENDED USE<\/p><p>Leave on for at least 2 hours, ideally overnight, allowing the microneedles to fully dissolve and release the actives deeper into the skin where they can be most effective.<br\/><br\/>For best results, use two-three times per week for from 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. To avoid risk of sensitivity, do not use more than 3 times per week or within 24 hours of previous application.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "881d160f-253e-4275-acc1-3a684f4efb41": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Info",
+            "content": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed.<br\/><br\/>Our innovative brilliant dark spot patches use Microneedle Technology to fade dark spots and blemishes. 500 self-dissolving microneedles melt into the skin to deliver a hydrating cocktail of brightening actives deep down where it counts.<\/p><p>Each microscopic needle contains a blend of high-performing active ingredients including tranexamic acid, niacinamide, vitamin C and glutathione, known for their skin rejuvenating properties. This potent combination of regenerative ingredients helps to gradually brighten skin tone, restore skin texture and reduce the appearance of dark spots.<br\/><br\/>Use these easy to apply patches where it's needed most. For best results, use two-three times per week for 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "8dc1f09c-5c9b-4e5f-9dd7-f6aafee4126e",
+        "881d160f-253e-4275-acc1-3a684f4efb41"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "1626248705b8c25b91": {
       "type": "multicolumn-icons",
       "blocks": {
@@ -194,15 +224,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": ""
-          }
-        },
-        "162816866649a3b1b1-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": ""
+            "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
           }
         },
         "162816866649a3b1b1-2": {
@@ -210,7 +232,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
-            "text": ""
+            "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
           }
         },
         "d6e983ac-06d4-434c-874d-8245ae55ba49": {
@@ -218,15 +240,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": ""
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+          }
+        },
+        "162816866649a3b1b1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
+            "title": "Totally Painless",
+            "text": "<p>Just the gentle sensation of the microneedles getting to work<\/p>"
           }
         }
       },
       "block_order": [
         "162816866649a3b1b1-0",
-        "162816866649a3b1b1-1",
         "162816866649a3b1b1-2",
-        "d6e983ac-06d4-434c-874d-8245ae55ba49"
+        "d6e983ac-06d4-434c-874d-8245ae55ba49",
+        "162816866649a3b1b1-1"
       ],
       "settings": {
         "title": "",
@@ -802,6 +832,7 @@
   },
   "order": [
     "main",
+    "16343039891aba28c9",
     "1626248705b8c25b91",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
