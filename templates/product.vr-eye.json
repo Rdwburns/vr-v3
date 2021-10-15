@@ -151,16 +151,17 @@
             "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
           }
         },
-        "1626290450f9c0b3c8-1": {
-          "type": "source",
+        "e4c8271d-6159-46b3-b0f0-c5891c9f5aac": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "1626290450f9c0b3c8-0",
-        "1626290450f9c0b3c8-1"
+        "e4c8271d-6159-46b3-b0f0-c5891c9f5aac"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -229,7 +230,7 @@
         "before_image": "shopify:\/\/shop_images\/Week1.jpg",
         "before_caption": "Before",
         "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
-        "after_caption": "After 4 Uses",
+        "after_caption": "After 4 Uses (2 Weeks)",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
@@ -247,7 +248,7 @@
         "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
         "before_caption": "Before",
         "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
-        "after_caption": "After 3 Uses",
+        "after_caption": "After 3 Uses (2 Weeks)",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
@@ -361,7 +362,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
             "title": "Peptides",
-            "text": "<p>Peptides are known for their ability to stimulate collagen production, which is important for firm-looking skim.<\/p><p>We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
+            "text": "<p>Peptides are known for their ability to stimulate collagen production, which is important for firm-looking skin. We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
           }
         },
         "1626170270666543f7-1": {
@@ -400,6 +401,7 @@
     },
     "16262976340da42008": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "16262976340da42008-0": {
           "type": "quote",
