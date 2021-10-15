@@ -151,16 +151,17 @@
             "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
           }
         },
-        "1626290450f9c0b3c8-1": {
-          "type": "source",
+        "e4c8271d-6159-46b3-b0f0-c5891c9f5aac": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "1626290450f9c0b3c8-0",
-        "1626290450f9c0b3c8-1"
+        "e4c8271d-6159-46b3-b0f0-c5891c9f5aac"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -400,6 +401,7 @@
     },
     "16262976340da42008": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "16262976340da42008-0": {
           "type": "quote",
