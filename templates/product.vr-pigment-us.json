@@ -319,6 +319,7 @@
     },
     "1628247699cb016317": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "1628247699cb016317-0": {
           "type": "heading",
@@ -412,6 +413,7 @@
     },
     "162617023530160b5c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
@@ -448,6 +450,7 @@
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
