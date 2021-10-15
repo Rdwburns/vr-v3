@@ -1940,7 +1940,6 @@ input[type='checkbox'] {
 }
 
 .header__menu-item__hollow {
-    margin: 0 2em 0 0;
     font-size: 0.8em;
     padding: 1.2rem 2rem !important;
     border: 2px solid #000;
@@ -1948,7 +1947,6 @@ input[type='checkbox'] {
 
 .header__menu-item__secondary {
   background-color: #F5D3CC;
-  margin: 0 2em 0 0;
   font-size: 0.8em;
   padding: 1.2rem 2rem !important;
 }
@@ -2264,6 +2262,52 @@ main#MainContent {
     height: 100%;
 }
 
-.a.text-m {
+.text-m {
   color: #000000;
+  font-family: 'GothamBook' !important;
+
+}
+
+.yotpo.review-homepage .text-m {
+  padding-left: 10px;
+}
+
+.yotpo.review-homepage .yotpo-stars .yotpo-icon-star, .yotpo.review-homepage .yotpo-stars .yotpo-icon-half-star {
+  color: #000;  
+}
+
+.card-information__wrapper .card-info-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-bottom: 2rem;
+}
+
+.card-information__wrapper .card-info-bar .price-item {
+  font-family: 'GothamBook' !important;
+  font-size: 13px !important;
+  color: #2c2c2c !important;
+  vertical-align: bottom;
+  font-style: italic;
+}
+
+.grid-gap-1 {
+  grid-gap: 1rem;
+}
+
+.home-subtitle {
+  text-transform: capitalize;
+  letter-spacing: 0.1em;
+  font-size: 0.9em;
+  padding: 0.5em 0 0 0;
+}
+
+.w-full {
+  width: 100%;
+  text-align: center;
+}
+
+.header--image{
+  object-fit: cover !important;
+  object-position: right !important;
 }

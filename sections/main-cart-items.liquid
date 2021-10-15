@@ -12,10 +12,27 @@
   </div>
 
   <div class="cart__warnings">
-    <h2 class="cart__empty-text">{{ 'sections.cart.empty' | t }}</h2>
-    <a href="{{ routes.all_products_collection_url }}" class="link">
-      {{ 'general.continue_shopping' | t }}
-    </a>
+    <h2 class="cart__empty-text">{{ 'sections.cart.empty' | t }}<br /><br /><span class="cart__empty-text__secondary">{{ 'sections.cart.empty_secondary' | t }}</span></h2>
+    <div class="cart__links">
+      {% if section.settings.eye_url != blank %}
+      <a class="header__menu-item__hollow link link--text header__menu-item" href="{{ section.settings.eye_url }}" class="link">
+        {{ 'general.branded.wants.eye' | t }}
+      </a>
+      {% endif %}
+      {% if section.settings.spot_url != blank %}
+      <a class="header__menu-item__hollow link link--text header__menu-item" href="{{ section.settings.spot_url }}" class="link">
+        {{ 'general.branded.wants.spot' | t }}
+      </a>
+      {% endif %}
+      {% if section.settings.pigment_url != blank %}
+      <a class="header__menu-item__hollow link link--text header__menu-item" href="{{ section.settings.pigment_url }}" class="link">
+        {{ 'general.branded.wants.pigment' | t }}
+      </a>
+      {% endif %}
+      <a class="header__menu-item__secondary link link--text header__menu-item" href="{{ routes.all_products_collection_url }}" class="link">
+        {{ 'general.branded.shop_all' | t }}
+      </a>
+    </div>
   </div>
 
   <form action="{{ routes.cart_url }}" class="cart__contents critical-hidden" method="post" id="cart">
@@ -228,6 +245,21 @@
       "id": "show_vendor",
       "default": false,
       "label": "t:sections.main-cart-items.settings.show_vendor.label"
+    },
+    {
+      "type": "url",
+      "id": "eye_url",
+      "label": "t:sections.main-cart-items.settings.eye_url.label"
+    },
+    {
+      "type": "url",
+      "id": "spot_url",
+      "label": "t:sections.main-cart-items.settings.spot_url.label"
+    },
+    {
+      "type": "url",
+      "id": "pigment_url",
+      "label": "t:sections.main-cart-items.settings.pigment_url.label"
     }
   ]
 }

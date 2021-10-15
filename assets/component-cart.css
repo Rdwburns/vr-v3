@@ -31,7 +31,7 @@ cart-items.is-empty .title-wrapper-with-link,
 
 @media screen and (min-width: 990px) {
   .cart__warnings {
-    padding: 10rem 0 15rem;
+    padding: 5rem 0 10rem;
   }
 
   .cart__empty-text {
@@ -172,6 +172,21 @@ cart-items {
   background-color: #006637;
 }
 
+.cart__empty-text__secondary {
+  font-family: 'GothamBook', arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  text-transform: none;
+  letter-spacing: initial;
+  padding: 1em 0;
+  color: #a2a2a2;
+  font-size: 0.8em;
+}
+
+.cart__links {
+  display: inline-grid;
+  grid-gap: 1rem;
+}
 
 .cart__ctas {
   text-align: center;
