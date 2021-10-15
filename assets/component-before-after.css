@@ -28,13 +28,12 @@
 
 .before-after__media .image-caption {
     text-align: center;
-    font-size: 0.8em;
+    font-size: 0.7em;
     background-color: #000;
     color: #fff;
     width: 100%;
     height: auto;
     text-transform: uppercase;
-    letter-spacing: 0.2em;
 }
 
 
@@ -309,4 +308,10 @@
 .review_title {
     letter-spacing: 0.2em;
     text-transform: uppercase;
+}
+
+.after-image-caption {
+  background-color: #ffdae3 !important;
+  color: #000 !important;
+  font-weight: bold;
 }

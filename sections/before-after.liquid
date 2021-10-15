@@ -31,7 +31,7 @@
         {%- else -%}
           {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
         {%- endif -%}
-        <div class="before-image-caption image-caption">{{section.settings.before_caption}}</div>
+        <div class="before-image-caption image-caption">{{ section.settings.before_caption }}</div>
       </div>
         <div class="before-after__media before-after__media--{{ section.settings.height }} {% if section.settings.after_image != blank %}media{% else %}before-after__media--placeholder placeholder{% endif %}"
              style="padding-bottom:100%;"
@@ -54,11 +54,11 @@
             {%- else -%}
             {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
             {%- endif -%}
-            <div class="after-image-caption image-caption">{{section.settings.after_caption}}</div>
+            <div class="after-image-caption image-caption">{{ section.settings.after_caption }}</div>
         </div>
     </div>
     <div class="grid__item before_after--review_text">
-        <div class="review_title h3">{{ section.settings.review_title}}</div>
+        <div class="review_title h3">{{ section.settings.review_title }}</div>
         <div class="before_after--review_body rte review-quote-text">
             <p class="review-quote-text-body">{{ section.settings.review }}</p>
         </div>

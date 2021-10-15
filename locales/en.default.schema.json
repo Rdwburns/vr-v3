@@ -759,6 +759,14 @@
               "label": "Source"
             }
           }
+        },
+        "source_image": {
+          "name": "Source Image",
+          "settings": {
+            "source_image": {
+              "label": "Source Image"
+            }
+          }
         }
       },
       "presets": {
@@ -1319,6 +1327,15 @@
       "settings": {
         "show_vendor": {
           "label": "Show vendor"
+        },
+        "eye_url": {
+          "label": "Eye Page URL"
+        },
+        "spot_url": {
+          "label": "Spot Page URL"
+        },
+        "pigment_url": {
+          "label": "Pigment Page URL"
         }
       }
     },

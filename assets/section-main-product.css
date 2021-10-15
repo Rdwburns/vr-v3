@@ -123,7 +123,7 @@ variant-selects {
   margin-bottom: 1.6rem;
 }
 
-.product-form__input .form__label {
+.product-form__quantity.product-form__input .form__label {
   padding-left: 0;
   float: left;
   align-self: center;
@@ -131,6 +131,11 @@ variant-selects {
 
 fieldset.product-form__input .form__label {
   margin-bottom: 0.2rem;
+}
+
+fieldset.product-form__input > span {
+  width: 100%;
+  display: flex;
 }
 
 .product-form__input input[type='radio'] {
@@ -143,11 +148,10 @@ fieldset.product-form__input .form__label {
 
 .product-form__input input[type='radio'] + label {
   border: 0.1rem solid rgba(var(--color-foreground), 0.55);
-  border-radius: 4rem;
   background-color: rgb(var(--color-background));
   color: rgb(var(--color-foreground));
   display: inline-block;
-  margin: 0.7rem 0.5rem 0.2rem 0;
+  margin: 0.7rem 0 0.2rem 0;
   padding: 1rem 2rem;
   font-size: 1.2rem;
   letter-spacing: 0.1rem;
@@ -155,6 +159,11 @@ fieldset.product-form__input .form__label {
   text-align: center;
   transition: border var(--duration-short) ease;
   cursor: pointer;
+  flex-grow: 1;
+}
+
+.product-form__input input[type='radio'] + label:not(:last-child){
+  margin-right: 0.5rem;
 }
 
 .product-form__input input[type='radio'] + label:hover {
@@ -218,7 +227,7 @@ fieldset.product-form__input .form__label {
 .product__info-container .product-form,
 .product__info-container .product__description,
 .product__info-container .share-button {
-  margin: 2.5rem 0;
+  margin: 0 0 2.5rem 0;
 }
 
 .product__text {

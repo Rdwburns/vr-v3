@@ -6,10 +6,27 @@
     <div class="quote-text">
         <h3 class="h1 mb-zero quote-text-body">{{ block.settings.quote | escape }}
     </div>
-    {%- endif -%}
-    {%- if block.settings.source -%}
-        <div class="quote-source">{{ block.settings.source }}</div>
-    {%- endif -%}
+  {%- endif -%}
+  {%- if block.settings.image -%}
+  <div class="image-with-text__media image-with-text__media--{{ block.settings.height }} quote-image">
+      <img srcset="{%- if block.settings.image.width >= 375 -%}{{ block.settings.image | img_url: '375x' }} 375w,{%- endif -%}
+        {%- if block.settings.image.width >= 750 -%}{{ block.settings.image | img_url: '750x' }} 750w,{%- endif -%}
+        {%- if block.settings.image.width >= 1100 -%}{{ block.settings.image | img_url: '1100x' }} 1100w,{%- endif -%}
+        {%- if block.settings.image.width >= 1500 -%}{{ block.settings.image | img_url: '1500x' }} 1500w,{%- endif -%}
+        {%- if block.settings.image.width >= 1780 -%}{{ block.settings.image | img_url: '1780x' }} 1780w,{%- endif -%}
+        {%- if block.settings.image.width >= 2000 -%}{{ block.settings.image | img_url: '2000x' }} 2000w,{%- endif -%}
+        {%- if block.settings.image.width >= 2800 -%}{{ block.settings.image | img_url: '2800x' }} 2800w{%- endif -%}"
+        src="{{ section.settings.image | img_url: '533x' }}"
+        sizes="(min-width: 1100px) 285px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
+        alt="{{ section.settings.image.alt | escape }}"
+        loading="lazy"
+        width="{{ section.settings.image.width }}"
+        height="{{ section.settings.image.height }}"
+      >
+  </div>
+  {%- elsif block.settings.source -%}
+      <div class="quote-source">{{ block.settings.source }}</div>
+  {%- endif -%}
 {% endfor %}
   {%- if section.settings.more -%}
     <div class="quote-source"><a class="read_more_quote" href="#ProductSection-product-reviews">Read More Reviews {% render 'icon-caret' %}</a></div>
@@ -80,6 +97,38 @@
           "id": "source",
           "default": "<p>A. Person<br>The Daily News</p>",
           "label": "t:sections.quote.blocks.source.settings.source.label"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "t:sections.quote.blocks.source_image.name",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "t:sections.quote.blocks.source.settings.source_image.label"
+        },
+        {
+          "type": "select",
+          "id": "height",
+          "options": [
+            {
+              "value": "adapt",
+              "label": "t:sections.image-with-text.settings.height.options__1.label"
+            },
+            {
+              "value": "small",
+              "label": "t:sections.image-with-text.settings.height.options__2.label"
+            },
+            {
+              "value": "large",
+              "label": "t:sections.image-with-text.settings.height.options__3.label"
+            }
+          ],
+          "default": "adapt",
+          "label": "t:sections.image-with-text.settings.height.label"
         }
       ]
     }

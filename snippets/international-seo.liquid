@@ -34,7 +34,7 @@
     <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/products/wrinkle-reversa-microneedle-plumping-eye-patches">
     <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/products/wrinkle-reversa-microneedle-plumping-eye-patches">
 {% endif %}
-{% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all'  or collection.handle == 'all-products' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us"  %}
+{% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all'  or collection.handle == 'all-products' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us" %}
     <link rel="alternate" hreflang="en-au" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com.au" }}">
     <link rel="alternate" hreflang="en-us" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com" }}">
     <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">

@@ -102,6 +102,9 @@
         max-width: 90%;
         width: 90%;
     }
+    .multicolumn-card__info .rte > p {
+      font-size: 1rem;
+  }
   }
   
   .multicolumn-icons-card__image-wrapper--third-width {
