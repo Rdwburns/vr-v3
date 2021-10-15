@@ -198,15 +198,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": ""
-          }
-        },
-        "1630670183a78fe379-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": ""
+            "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
           }
         },
         "1630670183a78fe379-2": {
@@ -214,7 +206,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
-            "text": ""
+            "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
           }
         },
         "dd428091-6592-4d2a-ac85-545657f1027d": {
@@ -222,15 +214,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": ""
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+          }
+        },
+        "1630670183a78fe379-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
+            "title": "Totally Painless",
+            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
           }
         }
       },
       "block_order": [
         "1630670183a78fe379-0",
-        "1630670183a78fe379-1",
         "1630670183a78fe379-2",
-        "dd428091-6592-4d2a-ac85-545657f1027d"
+        "dd428091-6592-4d2a-ac85-545657f1027d",
+        "1630670183a78fe379-1"
       ],
       "settings": {
         "title": "",
@@ -253,16 +253,17 @@
             "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
           }
         },
-        "16306702244df286bb-1": {
-          "type": "source",
+        "909f4134-6114-472b-8757-819b8e64e79b": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "16306702244df286bb-0",
-        "16306702244df286bb-1"
+        "909f4134-6114-472b-8757-819b8e64e79b"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -475,6 +476,7 @@
     },
     "1630670725d93383b2": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "1630670725e31cbdd3-0": {
           "type": "quote",
