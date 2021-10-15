@@ -77,6 +77,36 @@
         "enable_video_looping": false
       }
     },
+    "1634292444c9076929": {
+      "type": "faq",
+      "blocks": {
+        "3e37c3fe-831d-40a0-adea-3a265e87f6e4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve and release all of the ingredients. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use, results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Information",
+            "content": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed.<\/p><p>High-performing but gentle on skin, our ultimate eye patches are formulated to soften fine lines, boost hydration, and brighten the eye area.<\/p><p>Press down to activate and feel the tiny prickle which tells you the microneedles are getting straight to work beneath the skin surface. Each pair contains 2600 self-dissolving microneedles preloaded with our skin-restoring formula. Once applied, the needles self-dissolve releasing a burst of ingredients into the epidermis where they’re most needed to leave skin looking plumper, smoother and rejuvenated.<\/p><p>The needles contain a blend of high-performing active ingredients, known for their skin rejuvenating properties. Peptides work with your body’s natural collagen production to promote cell rejuvenation, visibly plumping skin for a youthful and renewed appearance. <\/p><p>Hyaluronic acid provides deep hydration, leaving skin well-moisturised and hydrated. Vitamin C and Glutathione work in unison to brighten, smooth and restore skin, while balancing skin tone to reveal a radiant glow. <\/p><p>Designed to be gentle on the delicate eye area these easy to apply ultimate eye patches fit seamlessly into your routine with visible improvements over time which get better with continued use.  <\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "3e37c3fe-831d-40a0-adea-3a265e87f6e4",
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "1626248705b8c25b91": {
       "type": "multicolumn-icons",
       "blocks": {
@@ -134,7 +164,7 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "more": true
+        "more": false
       }
     },
     "162748427714eba7e0": {
@@ -287,6 +317,7 @@
     },
     "16282467341f7ecbb2": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "16282467341f7ecbb2-0": {
           "type": "heading",
@@ -367,116 +398,6 @@
         "grid_on_mobile": false
       }
     },
-    "162617023530160b5c": {
-      "type": "image-with-text",
-      "blocks": {
-        "162617023530160b5c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Want to Know More?"
-          }
-        },
-        "162617023530160b5c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed. <\/p><p>High-performing but gentle on skin, our ultimate eye patches are formulated to soften fine lines, boost hydration, and brighten the eye area. <\/p><p><\/p><p>Press down to activate and feel the tiny prickle which tells you the microneedles are getting straight to work beneath the skin surface. Each pair contains 2600 self-dissolving microneedles preloaded with our skin-restoring formula. Once applied, the needles self-dissolve releasing a burst of ingredients into the epidermis where they’re most needed to leave skin looking plumper, smoother and rejuvenated.<br\/><\/p>"
-          }
-        },
-        "162617023530160b5c-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "162617023530160b5c-0",
-        "162617023530160b5c-1",
-        "162617023530160b5c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Jordana-Image-2000x2000.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "1626170242ffa87f4b": {
-      "type": "image-with-text",
-      "blocks": {
-        "1626170242ffa87f4b-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1626170242ffa87f4b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The needles contain a blend of high-performing active ingredients, known for their skin rejuvenating properties. Peptides work with your body’s natural collagen production to promote cell rejuvenation, visibly plumping skin for a youthful and renewed appearance. <\/p><p><\/p><p>Hyaluronic acid provides deep hydration, leaving skin well-moisturised and hydrated. Vitamin C and Glutathione work in unison to brighten, smooth and restore skin, while balancing skin tone to reveal a radiant glow. <\/p><p>Designed to be gentle on the delicate eye area these easy to apply ultimate eye patches fit seamlessly into your routine with visible improvements over time which get better with continued use.  <\/p>"
-          }
-        },
-        "1626170242ffa87f4b-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1626170242ffa87f4b-0",
-        "1626170242ffa87f4b-1",
-        "1626170242ffa87f4b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1080x1080PDPEYEREPLACEMENT.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
-    "1626170247b0785461": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1626170247b0785461-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1626170247b0785461-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>After two hours the microneedles<br\/>self-dissolve releasing the ngredients into the dermal layers to purify from within, prevent bacteria from forming, reduce inflammation, moisturise, soothe and repair your skin.<\/p>"
-          }
-        },
-        "1626170247b0785461-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1626170247b0785461-0",
-        "1626170247b0785461-1",
-        "1626170247b0785461-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "16262976340da42008": {
       "type": "quote",
       "blocks": {
@@ -499,36 +420,7 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "more": true
-      }
-    },
-    "16269032410f2256e7": {
-      "type": "collage-how-to",
-      "disabled": true,
-      "blocks": {
-        "16269032410f2256e7-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video for customers using screen readers",
-            "image_padding": false
-          }
-        },
-        "f04bfab5-2596-4e17-82f9-e1729e53353d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>1.Cleanse and dry your face thoroughly. This will help the microneedles to attach properly to your skin.<\/p><p>2.Remove the thin plastic film from each eye mask – careful not to touch those magic microneedles in the centre.<\/p><p>3.Gently place onto the under-eye area and press the mask into skin to activate the microneedles. Do not rub.<\/p><p>4.Leave on for at least two hours, allowing your skin to absorb the ingredients. Remove and discard when done.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16269032410f2256e7-0",
-        "f04bfab5-2596-4e17-82f9-e1729e53353d"
-      ],
-      "settings": {
-        "heading": "How to Apply",
-        "desktop_layout": "left",
-        "mobile_layout": "collage-how-to"
+        "more": false
       }
     },
     "162627080538092e1b": {
@@ -734,58 +626,11 @@
       "settings": {
         "heading": ""
       }
-    },
-    "1626334150955f5504": {
-      "type": "multicolumn-images",
-      "blocks": {
-        "1626334150955f5504-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
-          }
-        },
-        "1626334150955f5504-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
-          }
-        },
-        "1626334150955f5504-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/vogue_logo.png"
-          }
-        },
-        "0492de53-d677-4622-9335-c3758c65858e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
-          }
-        },
-        "51ce3061-3b5b-4039-be91-6970f9fc910b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
-          }
-        }
-      },
-      "block_order": [
-        "1626334150955f5504-0",
-        "1626334150955f5504-1",
-        "1626334150955f5504-2",
-        "0492de53-d677-4622-9335-c3758c65858e",
-        "51ce3061-3b5b-4039-be91-6970f9fc910b"
-      ],
-      "settings": {
-        "title": "As Seen In",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "swipe_on_mobile": true
-      }
     }
   },
   "order": [
     "main",
+    "1634292444c9076929",
     "1626248705b8c25b91",
     "1626290450f9c0b3c8",
     "162748427714eba7e0",
@@ -795,14 +640,9 @@
     "product-recommendations",
     "16282467341f7ecbb2",
     "1626170270666543f7",
-    "162617023530160b5c",
-    "1626170242ffa87f4b",
-    "1626170247b0785461",
     "16262976340da42008",
-    "16269032410f2256e7",
     "162627080538092e1b",
     "16269033832bed337e",
-    "16281713360ba03071",
-    "1626334150955f5504"
+    "16281713360ba03071"
   ]
 }
