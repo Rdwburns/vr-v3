@@ -77,6 +77,36 @@
         "enable_video_looping": false
       }
     },
+    "1634296593d0671659": {
+      "type": "faq",
+      "blocks": {
+        "8b2e024c-6cda-499c-a5f1-0ff597f2166c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots. However for deeper, more stubborn spots a second application may be needed.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "c5ddf80b-f26a-4ad9-9d9b-60df3bebe34f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Info",
+            "content": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p><p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "8b2e024c-6cda-499c-a5f1-0ff597f2166c",
+        "c5ddf80b-f26a-4ad9-9d9b-60df3bebe34f"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "1626248705b8c25b91": {
       "type": "multicolumn-icons",
       "blocks": {
@@ -156,15 +186,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": ""
-          }
-        },
-        "162816866649a3b1b1-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": ""
+            "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
           }
         },
         "162816866649a3b1b1-2": {
@@ -172,7 +194,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
-            "text": ""
+            "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
           }
         },
         "d6e983ac-06d4-434c-874d-8245ae55ba49": {
@@ -180,15 +202,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": ""
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+          }
+        },
+        "162816866649a3b1b1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_0fa9fc49-ae73-47f5-84eb-0fbfd4088f91.png",
+            "title": "Totally Painless",
+            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
           }
         }
       },
       "block_order": [
         "162816866649a3b1b1-0",
-        "162816866649a3b1b1-1",
         "162816866649a3b1b1-2",
-        "d6e983ac-06d4-434c-874d-8245ae55ba49"
+        "d6e983ac-06d4-434c-874d-8245ae55ba49",
+        "162816866649a3b1b1-1"
       ],
       "settings": {
         "title": "",
@@ -211,20 +241,21 @@
             "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
           }
         },
-        "1626290450f9c0b3c8-1": {
-          "type": "source",
+        "9d3e8170-f0af-45ab-97b4-1614ab68dccc": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "1626290450f9c0b3c8-0",
-        "1626290450f9c0b3c8-1"
+        "9d3e8170-f0af-45ab-97b4-1614ab68dccc"
       ],
       "settings": {
         "color_scheme": "background-1",
-        "more": true
+        "more": false
       }
     },
     "16262053277f68e5df": {
@@ -272,43 +303,6 @@
         "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP.png",
         "height": "adapt",
         "color_scheme": "background-1"
-      }
-    },
-    "1628247699cb016317": {
-      "type": "text-with-background",
-      "blocks": {
-        "1628247699cb016317-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Recommended Use",
-            "heading_size": "small"
-          }
-        },
-        "1628247699cb016317-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots. However for deeper, more stubborn spots a second application may be needed.<\/p>"
-          }
-        },
-        "1628247699cb016317-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1628247699cb016317-0",
-        "1628247699cb016317-1",
-        "1628247699cb016317-2"
-      ],
-      "settings": {
-        "color_background": "#fff1b9",
-        "color_border": "#ffd902",
-        "full_width": false
       }
     },
     "1626170270666543f7": {
@@ -367,118 +361,9 @@
         "show_vendor": false
       }
     },
-    "162617023530160b5c": {
-      "type": "image-with-text",
-      "blocks": {
-        "162617023530160b5c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "WANT TO KNOW MORE?"
-          }
-        },
-        "162617023530160b5c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p>"
-          }
-        },
-        "162617023530160b5c-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "162617023530160b5c-0",
-        "162617023530160b5c-1",
-        "162617023530160b5c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2._MODEL.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "1626170242ffa87f4b": {
-      "type": "image-with-text",
-      "blocks": {
-        "1626170242ffa87f4b-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1626170242ffa87f4b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>"
-          }
-        },
-        "1626170242ffa87f4b-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1626170242ffa87f4b-0",
-        "1626170242ffa87f4b-1",
-        "1626170242ffa87f4b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
-    "1626170247b0785461": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1626170247b0785461-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1626170247b0785461-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our efficient and easy-to-use pimple patches deliver targeted treatment to where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently.<\/p>"
-          }
-        },
-        "1626170247b0785461-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1626170247b0785461-0",
-        "1626170247b0785461-1",
-        "1626170247b0785461-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "16262976340da42008": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "16262976340da42008-0": {
           "type": "quote",
@@ -500,35 +385,6 @@
       "settings": {
         "color_scheme": "background-1",
         "more": true
-      }
-    },
-    "16269032410f2256e7": {
-      "type": "collage-how-to",
-      "disabled": true,
-      "blocks": {
-        "16269032410f2256e7-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video for customers using screen readers",
-            "image_padding": false
-          }
-        },
-        "f04bfab5-2596-4e17-82f9-e1729e53353d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>1.Cleanse and dry your face thoroughly. This will help the microneedles to attach properly to your skin.<\/p><p>2.Remove the thin plastic film from each eye mask – careful not to touch those magic microneedles in the centre.<\/p><p>3.Gently place onto the under-eye area and press the mask into skin to activate the microneedles. Do not rub.<\/p><p>4.Leave on for at least two hours, allowing your skin to absorb the ingredients. Remove and discard when done.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16269032410f2256e7-0",
-        "f04bfab5-2596-4e17-82f9-e1729e53353d"
-      ],
-      "settings": {
-        "heading": "How to Apply",
-        "desktop_layout": "left",
-        "mobile_layout": "collage-how-to"
       }
     },
     "162627080538092e1b": {
@@ -668,54 +524,6 @@
         "heading": "Frequently Asked Questions"
       }
     },
-    "1626334150955f5504": {
-      "type": "multicolumn-images",
-      "blocks": {
-        "1626334150955f5504-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
-          }
-        },
-        "1626334150955f5504-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
-          }
-        },
-        "1626334150955f5504-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/vogue_logo.png"
-          }
-        },
-        "0492de53-d677-4622-9335-c3758c65858e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
-          }
-        },
-        "51ce3061-3b5b-4039-be91-6970f9fc910b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
-          }
-        }
-      },
-      "block_order": [
-        "1626334150955f5504-0",
-        "1626334150955f5504-1",
-        "1626334150955f5504-2",
-        "0492de53-d677-4622-9335-c3758c65858e",
-        "51ce3061-3b5b-4039-be91-6970f9fc910b"
-      ],
-      "settings": {
-        "title": "As Seen In",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "swipe_on_mobile": true
-      }
-    },
     "162824594567c2397d": {
       "type": "faq",
       "blocks": {
@@ -786,22 +594,17 @@
   },
   "order": [
     "main",
+    "1634296593d0671659",
     "1626248705b8c25b91",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
     "162816866649a3b1b1",
     "1626290450f9c0b3c8",
     "16262053277f68e5df",
-    "1628247699cb016317",
     "1626170270666543f7",
     "product-recommendations",
-    "162617023530160b5c",
-    "1626170242ffa87f4b",
-    "1626170247b0785461",
     "16262976340da42008",
-    "16269032410f2256e7",
     "162627080538092e1b",
-    "1626334150955f5504",
     "162824594567c2397d",
     "16269033832bed337e"
   ]
