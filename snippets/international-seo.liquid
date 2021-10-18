@@ -1,45 +1,64 @@
-{% if template.name == "list-collections" or collection.handle == 'all' or collection.handle == 'all-products' %}
-    <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au">
-    <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com">
-    <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu">
-    <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de">
-    <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr">
-{% elsif template.name == "article" or template.name == "blog" %}
-    <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-{% elsif page.handle == "about-us" %}
-    <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/pages/about">
-    <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/pages/about">
-    <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/pages/about">
-    <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/pages/about">
-    <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/pages/about">
-{% elsif product.handle == "spot-stoppa-microneedle-patches" %}
-    <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/products/pimple-reversa-microneedle-patches">
-    <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/products/pimple-reversa-microneedle-patches">
-    <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/products/pimple-reversa-microneedle-patches">
-    <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/products/pimple-reversa-microneedle-patches">
-    <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/products/pimple-reversa-microneedle-patches">
-{% elsif product.handle == "eye-rejuvenator-microneedle-patches" %}
-    <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/products/wrinkle-reversa-microneedle-plumping-eye-patches">
-    <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/products/wrinkle-reversa-microneedle-plumping-eye-patches">
-    <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/products/wrinkle-reversa-microneedle-plumping-eye-patches">
-    <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/products/wrinkle-reversa-microneedle-plumping-eye-patches">
-    <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/products/wrinkle-reversa-microneedle-plumping-eye-patches">
-{% endif %}
-{% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all'  or collection.handle == 'all-products' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us" %}
-    <link rel="alternate" hreflang="en-au" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com.au" }}">
-    <link rel="alternate" hreflang="en-us" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com" }}">
-    <link rel="alternate" hreflang="x-default" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-gb" href="{{ canonical_url }}">
-    <link rel="alternate" hreflang="en-ie" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.eu" | remove: "/de" | remove: "/fr" }}">
-    <link rel="alternate" hreflang="de-de" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/de" }}">
-    <link rel="alternate" hreflang="fr-fr" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/fr" }}">
-{% endunless %}
+    {% if template.name == "list-collections" or collection.handle == 'all' %}
+        <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au">
+        <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com">
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk">
+        <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu">
+        <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de">
+        <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr">
+    {% elsif collection.handle == 'all-products' %} 
+        <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/collections/all-products">
+        <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/collections/all-products">
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/collections/all-products">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/collections/all-products">
+        <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/collections/all-products">
+        <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/collections/all-products">
+        <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/collections/all-products">
+    {% elsif template.name == "article" %}
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/article/{{ article.handle }}">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/article/{{ article.handle }}">
+    {% elsif template.name == "blog" %}
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/blog/{{ blog.handle }}">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/blog/{{ blog.handle }}">
+    {% elsif page.handle == "about-us" %}
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/pages/about">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/pages/about">
+        <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/pages/about">
+        <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/pages/about">
+        <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/pages/about">
+        <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/pages/about">
+        <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/pages/about-us">
+    {% elsif product.handle == "spot-stoppa-microneedle-patches" %}
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/products/spot-stoppa-microneedle-patches">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/products/spot-stoppa-microneedle-patches">
+        <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/products/spot-stoppa-microneedle-patches">
+        <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/products/spot-stoppa-microneedle-patches">
+        <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/products/spot-stoppa-microneedle-patches">
+        <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/products/spot-stoppa-microneedle-patches">
+        <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/products/spot-stoppa-microneedle-patches">
+    {% elsif product.handle == "eye-rejuvenator-microneedle-wrinkle-patches" %}
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/products/eye-rejuvenator-microneedle-wrinkle-patches">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/products/eye-rejuvenator-microneedle-wrinkle-patches">
+        <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/products/eye-rejuvenator-microneedle-wrinkle-patches">
+        <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/products/eye-rejuvenator-microneedle-wrinkle-patches">
+        <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/products/eye-rejuvenator-microneedle-wrinkle-patches">
+        <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/products/eye-rejuvenator-microneedle-wrinkle-patches">
+        <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/products/eye-rejuvenator-microneedle-wrinkle-patches">
+    {% elsif product.handle == "pigment-fader-microneedle-dark-spot-patches" %}
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/products/pigment-fader-microneedle-dark-spot-patches">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/products/pigment-fader-microneedle-dark-spot-patches">
+        <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/products/pigment-fader-microneedle-dark-spot-patches">
+        <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/products/pigment-fader-microneedle-dark-spot-patches">
+        <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/products/pigment-fader-microneedle-dark-spot-patches">
+        <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/products/pigment-fader-microneedle-dark-spot-patches">
+        <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/products/pigment-fader-microneedle-dark-spot-patches">
+    {% endif %}
+    {% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all'  or collection.handle == 'all-products' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us" %}
+        <link rel="alternate" hreflang="en-au" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com.au" }}">
+        <link rel="alternate" hreflang="en-us" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com" }}">
+        <link rel="alternate" hreflang="x-default" href="{{ canonical_url | replace: shop.domain, "vicereversa.co.uk" }}">
+        <link rel="alternate" hreflang="en-gb" href="{{ canonical_url | replace: shop.domain, "vicereversa.co.uk" }}">
+        <link rel="alternate" hreflang="en-ie" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.eu" | remove: "/de" | remove: "/fr" }}">
+        <link rel="alternate" hreflang="de-de" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/de" }}">
+        <link rel="alternate" hreflang="fr-fr" href="{{ canonical_url | remove: "/de" | remove: "/fr" | replace: shop.domain, "vicereversaskin.eu/fr" }}">
+    {% endunless %}
