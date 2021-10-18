@@ -78,6 +78,36 @@
         "enable_video_looping": false
       }
     },
+    "163430327573c39d8c": {
+      "type": "faq",
+      "blocks": {
+        "503d7bbe-9351-4351-878f-d9ec5fce52bb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots. However for deeper, more stubborn spots a second application may be needed.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "06d57c18-0a42-4b71-b540-b688f840fddb": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Info",
+            "content": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p><p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "503d7bbe-9351-4351-878f-d9ec5fce52bb",
+        "06d57c18-0a42-4b71-b540-b688f840fddb"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -168,15 +198,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": ""
-          }
-        },
-        "1630670183a78fe379-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": ""
+            "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
           }
         },
         "1630670183a78fe379-2": {
@@ -184,7 +206,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
-            "text": ""
+            "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
           }
         },
         "dd428091-6592-4d2a-ac85-545657f1027d": {
@@ -192,15 +214,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": ""
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+          }
+        },
+        "1630670183a78fe379-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
+            "title": "Totally Painless",
+            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
           }
         }
       },
       "block_order": [
         "1630670183a78fe379-0",
-        "1630670183a78fe379-1",
         "1630670183a78fe379-2",
-        "dd428091-6592-4d2a-ac85-545657f1027d"
+        "dd428091-6592-4d2a-ac85-545657f1027d",
+        "1630670183a78fe379-1"
       ],
       "settings": {
         "title": "",
@@ -223,16 +253,17 @@
             "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
           }
         },
-        "16306702244df286bb-1": {
-          "type": "source",
+        "909f4134-6114-472b-8757-819b8e64e79b": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "16306702244df286bb-0",
-        "16306702244df286bb-1"
+        "909f4134-6114-472b-8757-819b8e64e79b"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -288,6 +319,7 @@
     },
     "1630670401e8a21014": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "1630670401cc0a1dcb-0": {
           "type": "heading",
@@ -370,6 +402,7 @@
     },
     "1630670605efc9d8e8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306706059d664fbe-0": {
           "type": "heading",
@@ -406,6 +439,7 @@
     },
     "16306706442722ab1c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306706447d17b881-0": {
           "type": "heading",
@@ -442,6 +476,7 @@
     },
     "1630670725d93383b2": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "1630670725e31cbdd3-0": {
           "type": "quote",
@@ -633,6 +668,7 @@
   },
   "order": [
     "main",
+    "163430327573c39d8c",
     "product-recommendations",
     "1630665518a37c4504",
     "163066578569987736",

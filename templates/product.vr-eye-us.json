@@ -78,6 +78,36 @@
         "enable_video_looping": false
       }
     },
+    "1634303035b7c3199c": {
+      "type": "faq",
+      "blocks": {
+        "ccbd6155-f8bc-43f0-a744-fb70b68e08c3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve and release all of the ingredients. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use, results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "0182cc06-a05f-440f-ae79-10d30a6e7422": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Info",
+            "content": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed. <\/p><p>High-performing but gentle on skin, our ultimate eye patches are formulated to soften fine lines, boost hydration, and brighten the eye area. <\/p><p>Press down to activate and feel the tiny prickle which tells you the microneedles are getting straight to work beneath the skin surface. Each pair contains 2600 self-dissolving microneedles preloaded with our skin-restoring formula. Once applied, the needles self-dissolve releasing a burst of ingredients into the epidermis where they’re most needed to leave skin looking plumper, smoother and rejuvenated.<\/p><p>The needles contain a blend of high-performing active ingredients, known for their skin rejuvenating properties. Peptides work with your body’s natural collagen production to promote cell rejuvenation, visibly plumping skin for a youthful and renewed appearance. <\/p><p>Hyaluronic acid provides deep hydration, leaving skin well-moisturised and hydrated. Vitamin C and Glutathione work in unison to brighten, smooth and restore skin, while balancing skin tone to reveal a radiant glow. <\/p><p>Designed to be gentle on the delicate eye area these easy to apply ultimate eye patches fit seamlessly into your routine with visible improvements over time which get better with continued use.  <\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "ccbd6155-f8bc-43f0-a744-fb70b68e08c3",
+        "0182cc06-a05f-440f-ae79-10d30a6e7422"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -133,16 +163,17 @@
             "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
           }
         },
-        "16306673869cfd67d4-1": {
-          "type": "source",
+        "7586331e-d5b0-49ee-9fe5-0c769a36493a": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "16306673869cfd67d4-0",
-        "16306673869cfd67d4-1"
+        "7586331e-d5b0-49ee-9fe5-0c769a36493a"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -157,15 +188,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": ""
-          }
-        },
-        "1630667495b88b054a-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": ""
+            "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
           }
         },
         "1630667495b88b054a-2": {
@@ -173,7 +196,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
-            "text": ""
+            "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
           }
         },
         "975d5d6f-64a1-471b-bb9c-d0ca08ac1071": {
@@ -181,15 +204,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": ""
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+          }
+        },
+        "1630667495b88b054a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
+            "title": "Totally Painless",
+            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
           }
         }
       },
       "block_order": [
         "1630667495b88b054a-0",
-        "1630667495b88b054a-1",
         "1630667495b88b054a-2",
-        "975d5d6f-64a1-471b-bb9c-d0ca08ac1071"
+        "975d5d6f-64a1-471b-bb9c-d0ca08ac1071",
+        "1630667495b88b054a-1"
       ],
       "settings": {
         "title": "",
@@ -288,6 +319,7 @@
     },
     "16306676362bdcc2a1": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "16306676361a3677c6-0": {
           "type": "heading",
@@ -299,7 +331,7 @@
         "16306676361a3677c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve and release all of the ingredients. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use, results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>"
+            "text": ""
           }
         },
         "16306676361a3677c6-2": {
@@ -370,6 +402,7 @@
     },
     "163066789374079d02": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306678930909c823-0": {
           "type": "heading",
@@ -406,6 +439,7 @@
     },
     "163066801691ce005c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "163066801602f8cb56-0": {
           "type": "heading",
@@ -443,6 +477,7 @@
     },
     "1630668022cab0cd42": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "1630668022df696414-0": {
           "type": "quote",
@@ -585,6 +620,7 @@
   },
   "order": [
     "main",
+    "1634303035b7c3199c",
     "product-recommendations",
     "1630667350eac58cba",
     "163066738607a4d67e",
