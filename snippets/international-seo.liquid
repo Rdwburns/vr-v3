@@ -20,7 +20,7 @@
     {% elsif template.name == "blog" %}
         <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/blogs/{{ blog.handle }}">
         <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/blogs/{{ blog.handle }}">
-    {% elsif page.handle == "about-us" %}
+    {% elsif page.handle == "about-us" or page.handle == "about" %}
         <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/pages/about-us">
         <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/pages/about-us">
         <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/pages/about">
@@ -28,6 +28,14 @@
         <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/pages/about">
         <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/pages/about">
         <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/pages/about-us">
+    {% elsif page.handle == "contact" %}
+        <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/pages/contact">
+        <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/pages/contact">
+        <link rel="alternate" hreflang="en-ie" href="https://vicereversaskin.eu/pages/contact">
+        <link rel="alternate" hreflang="de-de" href="https://vicereversaskin.eu/de/pages/contact">
+        <link rel="alternate" hreflang="fr-fr" href="https://vicereversaskin.eu/fr/pages/contact">
+        <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/pages/contact">
+        <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/pages/contact">
     {% elsif product.handle == "spot-stoppa-microneedle-patches" %}
         <link rel="alternate" hreflang="x-default" href="https://vicereversa.co.uk/products/spot-stoppa-microneedle-patches">
         <link rel="alternate" hreflang="en-gb" href="https://vicereversa.co.uk/products/spot-stoppa-microneedle-patches">
@@ -53,7 +61,7 @@
         <link rel="alternate" hreflang="en-au" href="https://vicereversaskin.com.au/products/pigment-fader-microneedle-dark-spot-patches">
         <link rel="alternate" hreflang="en-us" href="https://vicereversaskin.com/products/pigment-fader-microneedle-dark-spot-patches">
     {% endif %}
-    {% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all'  or collection.handle == 'all-products' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us" %}
+    {% unless template.name == "product" or template.name == "list-collections" or collection.handle == 'all'  or collection.handle == 'all-products' or template.name == "article" or template.name == "blog" or page.handle == "contact" or page.handle == "about-us" or page.handle == 'ccpa-opt-out' %}
         <link rel="alternate" hreflang="en-au" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com.au" }}">
         <link rel="alternate" hreflang="en-us" href="{{ canonical_url | replace: shop.domain, "vicereversaskin.com" }}">
         <link rel="alternate" hreflang="x-default" href="{{ canonical_url | replace: shop.domain, "vicereversa.co.uk" }}">
