@@ -524,6 +524,12 @@
         "heading": "Frequently Asked Questions"
       }
     },
+    "16269033832bed337e": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
+    },
     "162824594567c2397d": {
       "type": "faq",
       "blocks": {
@@ -584,12 +590,6 @@
       "settings": {
         "heading": ""
       }
-    },
-    "16269033832bed337e": {
-      "type": "product-reviews",
-      "settings": {
-        "heading": "Customer Reviews"
-      }
     }
   },
   "order": [
@@ -605,7 +605,7 @@
     "product-recommendations",
     "16262976340da42008",
     "162627080538092e1b",
-    "162824594567c2397d",
-    "16269033832bed337e"
+    "16269033832bed337e",
+    "162824594567c2397d"
   ]
 }
