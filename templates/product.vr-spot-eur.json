@@ -5,7 +5,6 @@
       "blocks": {
         "1ee344ff-d4e2-4e80-92ee-b5057cb31988": {
           "type": "review-stars",
-          "disabled": true,
           "settings": {
           }
         },
@@ -49,7 +48,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         }
       },
@@ -66,6 +65,36 @@
       "settings": {
         "enable_sticky_info": true,
         "enable_video_looping": false
+      }
+    },
+    "163532400960ecd6ac": {
+      "type": "faq",
+      "blocks": {
+        "29aa003b-1ac6-456e-bace-0edc1d347cba": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>Wherever possible, catch spots early, as soon as you feel that tell-tale tingle under the skin. Have some patches handy in case!<\/p><p>Leave on for at least 2 hours, ideally overnight. The hydrocolloid patch can be left on longer to protect the spot from touching and getting infected.<\/p><p>One application is usually enough to stop most spots. However for deeper, more stubborn spots a second application may be needed.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "5d9a82ae-beac-4ad1-889a-f7df688e150c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Info",
+            "content": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p><p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "29aa003b-1ac6-456e-bace-0edc1d347cba",
+        "5d9a82ae-beac-4ad1-889a-f7df688e150c"
+      ],
+      "settings": {
+        "heading": ""
       }
     },
     "product-recommendations": {
@@ -213,16 +242,17 @@
             "quote": "THESE SPOT STICKERS ARE SO DAMN EFFECTIVE THAT THEY KEEP SELLING OUT."
           }
         },
-        "16306702244df286bb-1": {
-          "type": "source",
+        "b1cc8420-69fc-449a-ad6b-8d49731fa0f9": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "16306702244df286bb-0",
-        "16306702244df286bb-1"
+        "b1cc8420-69fc-449a-ad6b-8d49731fa0f9"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -271,13 +301,14 @@
         "d014f1c8-f674-404d-a62a-da1e2fc79fc4"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP_540b1183-618e-4df2-898c-beb32cbdfd70.png",
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP_b6416e2f-cc3a-4936-854b-f262e72f2365.png",
         "height": "adapt",
         "color_scheme": "background-1"
       }
     },
     "1630670401e8a21014": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "1630670401cc0a1dcb-0": {
           "type": "heading",
@@ -319,7 +350,7 @@
         "1630670454d46c61ec-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100_f0ef302b-6934-4954-8952-a7c0ba96841b.jpg",
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
             "title": "Salicylic Acid",
             "text": "<p>A staple when it comes to blemish-prone skin, salicylic acid is known for its ability to help unclog pores, reduce bacteria and sooth swollen skin.<\/p>"
           }
@@ -327,7 +358,7 @@
         "1630670454d46c61ec-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100_cbc150c5-7be0-43ab-bfb7-819b04434676.jpg",
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100.jpg",
             "title": "Totarol",
             "text": "<p>Totarol’s antibacterial superpowers are well-known, reinforcing the skin’s natural defences against toxins and UV damage.<\/p>"
           }
@@ -335,7 +366,7 @@
         "1630670454d46c61ec-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100_79e2f469-3b11-4ba9-b31d-b636371b6d58.jpg",
+            "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
             "title": "Green Tea Extract",
             "text": "<p>A powerful antioxidant known to unclog pores and eliminate surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
           }
@@ -360,6 +391,7 @@
     },
     "1630670605efc9d8e8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306706059d664fbe-0": {
           "type": "heading",
@@ -396,6 +428,7 @@
     },
     "16306706442722ab1c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306706447d17b881-0": {
           "type": "heading",
@@ -432,6 +465,7 @@
     },
     "1630670725d93383b2": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "1630670725e31cbdd3-0": {
           "type": "quote",
@@ -517,35 +551,31 @@
     },
     "163067078558f946c3": {
       "type": "multicolumn-images",
+      "disabled": true,
       "blocks": {
         "163067078502d32b10-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
           }
         },
         "163067078502d32b10-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
           }
         },
         "163067078502d32b10-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/vogue_logo.png"
           }
         },
         "bbd2a802-1960-4dfd-939d-f3cc7ebe1339": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
           }
         },
         "24a03b52-6fcf-42a1-81ad-237dc8ee2719": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
           }
         }
       },
@@ -565,13 +595,12 @@
     },
     "1630670794bbb91b25": {
       "type": "faq",
-      "disabled": true,
       "blocks": {
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
-            "content": "",
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -579,18 +608,27 @@
         "7825e2de-8ede-40e1-9183-87d822ad162d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Delivery Information",
             "content": "",
-            "page": "",
+            "page": "shipping-information",
             "icon": "none"
           }
         },
         "03010517-4855-4015-952f-3f10770e4630": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible tab",
+            "heading": "Returns Information",
             "content": "",
-            "page": "",
+            "page": "returns-information",
+            "icon": "none"
+          }
+        },
+        "308c7720-e8dd-4164-ad9a-192bfd69df60": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of Europe?",
+            "content": "",
+            "page": "international-shipping-information",
             "icon": "none"
           }
         }
@@ -598,7 +636,8 @@
       "block_order": [
         "ccfb11ff-ccab-4a85-9d96-67368a9a749f",
         "7825e2de-8ede-40e1-9183-87d822ad162d",
-        "03010517-4855-4015-952f-3f10770e4630"
+        "03010517-4855-4015-952f-3f10770e4630",
+        "308c7720-e8dd-4164-ad9a-192bfd69df60"
       ],
       "settings": {
         "heading": ""
@@ -607,6 +646,7 @@
   },
   "order": [
     "main",
+    "163532400960ecd6ac",
     "product-recommendations",
     "1630665518a37c4504",
     "163066578569987736",
