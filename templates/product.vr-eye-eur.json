@@ -227,14 +227,16 @@
       "type": "before-after",
       "settings": {
         "heading": "Before and After",
-        "review_title": "Arthur, 21, Athens",
-        "before_caption": "Day 1",
-        "after_caption": "Day 30",
+        "review_title": "Tania, 50, 4 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 2 Weeks",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
         "button_label": "Button label",
         "button_link": ""
       }
@@ -242,15 +244,17 @@
     "16353228968b3c5ba6": {
       "type": "before-after",
       "settings": {
-        "heading": "Before and After",
-        "review_title": "Arthur, 21, Athens",
-        "before_caption": "Day 1",
-        "after_caption": "Day 30",
+        "heading": "",
+        "review_title": "Abbé, 42, 3 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 2 Weeks",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "review": "This is my third application. I’ve always suffered from under eye shadows and since using I can really see a difference, it’s so much brighter under the eyes and also so much smoother and I can feel a deeper moisturization.",
         "button_label": "Button label",
         "button_link": ""
       }
