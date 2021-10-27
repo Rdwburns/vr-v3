@@ -5,6 +5,7 @@
       "blocks": {
         "b4da7636-b379-4c70-88c5-be3b4c806d42": {
           "type": "review-stars",
+          "disabled": true,
           "settings": {
           }
         },
@@ -75,6 +76,36 @@
       "settings": {
         "enable_sticky_info": true,
         "enable_video_looping": false
+      }
+    },
+    "16353246332b47c74e": {
+      "type": "faq",
+      "blocks": {
+        "30815264-fdcf-4c6a-940e-1f34336bd9b1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p>Leave on for at least 2 hours, ideally overnight, allowing the microneedles to fully dissolve and release the actives deeper into the skin where they can be most effective.<br\/><br\/>For best results, use two-three times per week for from 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. To avoid risk of sensitivity, do not use more than 3 times per week or within 24 hours of previous application.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "d5bf76c3-cb9d-4d4b-b3b6-469d9cb7c525": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Info",
+            "content": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed.<br\/><br\/>Our innovative brilliant dark spot patches use Microneedle Technology to fade dark spots and blemishes. 500 self-dissolving microneedles melt into the skin to deliver a hydrating cocktail of brightening actives deep down where it counts.<\/p><p>Each microscopic needle contains a blend of high-performing active ingredients including tranexamic acid, niacinamide, vitamin C and glutathione, known for their skin rejuvenating properties. This potent combination of regenerative ingredients helps to gradually brighten skin tone, restore skin texture and reduce the appearance of dark spots.<br\/><br\/>Use these easy to apply patches where it's needed most. For best results, use two-three times per week for 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "30815264-fdcf-4c6a-940e-1f34336bd9b1",
+        "d5bf76c3-cb9d-4d4b-b3b6-469d9cb7c525"
+      ],
+      "settings": {
+        "heading": "FAQ"
       }
     },
     "1626248705b8c25b91": {
@@ -159,20 +190,21 @@
             "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
           }
         },
-        "1626290450f9c0b3c8-1": {
-          "type": "source",
+        "5e547489-e26d-4fd0-ae06-33d4cde3d98f": {
+          "type": "image",
           "settings": {
-            "source": "<p>The Telegraph<\/p>"
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "1626290450f9c0b3c8-0",
-        "1626290450f9c0b3c8-1"
+        "5e547489-e26d-4fd0-ae06-33d4cde3d98f"
       ],
       "settings": {
         "color_scheme": "background-1",
-        "more": true
+        "more": false
       }
     },
     "162816866649a3b1b1": {
@@ -183,15 +215,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/045-vegan.png",
             "title": "Vegan",
-            "text": ""
-          }
-        },
-        "162816866649a3b1b1-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
-            "title": "Cruelty Free",
-            "text": ""
+            "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
           }
         },
         "162816866649a3b1b1-2": {
@@ -199,7 +223,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/018-paraben_free.png",
             "title": "No Nasties",
-            "text": ""
+            "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
           }
         },
         "d6e983ac-06d4-434c-874d-8245ae55ba49": {
@@ -207,15 +231,23 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": ""
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+          }
+        },
+        "162816866649a3b1b1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
+            "title": "Totally Painless",
+            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
           }
         }
       },
       "block_order": [
         "162816866649a3b1b1-0",
-        "162816866649a3b1b1-1",
         "162816866649a3b1b1-2",
-        "d6e983ac-06d4-434c-874d-8245ae55ba49"
+        "d6e983ac-06d4-434c-874d-8245ae55ba49",
+        "162816866649a3b1b1-1"
       ],
       "settings": {
         "title": "",
@@ -278,6 +310,7 @@
     },
     "1628247699cb016317": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "1628247699cb016317-0": {
           "type": "heading",
@@ -371,6 +404,7 @@
     },
     "162617023530160b5c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "162617023530160b5c-0": {
           "type": "heading",
@@ -399,7 +433,6 @@
         "162617023530160b5c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Photo_29-08-2021_12_17_30.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -407,6 +440,7 @@
     },
     "1626170242ffa87f4b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1626170242ffa87f4b-0": {
           "type": "heading",
@@ -436,7 +470,6 @@
         "1626170242ffa87f4b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Pigment.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -481,6 +514,7 @@
     },
     "16262976340da42008": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "16262976340da42008-0": {
           "type": "quote",
@@ -678,7 +712,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Full Ingredients",
-            "content": "<p><\/p>",
+            "content": "<p>{{ product.metafields.my_fields.product_ingredients.value }}<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -704,7 +738,7 @@
         "05cceef3-a7b9-44e3-983e-1cd6e513e545": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shopping Outside of the UK?",
+            "heading": "Shopping Outside of Europe?",
             "content": "",
             "page": "international-shipping-information",
             "icon": "none"
@@ -734,35 +768,31 @@
     },
     "1626334150955f5504": {
       "type": "multicolumn-images",
+      "disabled": true,
       "blocks": {
         "1626334150955f5504-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/glamour-logo.png"
           }
         },
         "1626334150955f5504-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/r29_logo.png"
           }
         },
         "1626334150955f5504-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/vogue_logo.png"
           }
         },
         "0492de53-d677-4622-9335-c3758c65858e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tatler_logo.png"
           }
         },
         "51ce3061-3b5b-4039-be91-6970f9fc910b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo.png"
           }
         }
       },
@@ -782,6 +812,7 @@
     },
     "16269033832bed337e": {
       "type": "product-reviews",
+      "disabled": true,
       "settings": {
         "heading": "Customer Reviews"
       }
@@ -789,6 +820,7 @@
   },
   "order": [
     "main",
+    "16353246332b47c74e",
     "1626248705b8c25b91",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
