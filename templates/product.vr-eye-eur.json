@@ -571,7 +571,7 @@
           "settings": {
             "heading": "Delivery Information",
             "content": "",
-            "page": "",
+            "page": "shipping-information",
             "icon": "none"
           }
         },
@@ -580,7 +580,7 @@
           "settings": {
             "heading": "Returns Information",
             "content": "",
-            "page": "",
+            "page": "returns-information",
             "icon": "none"
           }
         },
@@ -589,7 +589,7 @@
           "settings": {
             "heading": "Shopping Outside of the UK?",
             "content": "",
-            "page": "",
+            "page": "international-shipping-information",
             "icon": "none"
           }
         }
