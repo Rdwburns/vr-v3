@@ -593,6 +593,12 @@
         "swipe_on_mobile": true
       }
     },
+    "1635324535530dea74": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "Customer Reviews"
+      }
+    },
     "1630670794bbb91b25": {
       "type": "faq",
       "blocks": {
@@ -661,6 +667,7 @@
     "1630670725d93383b2",
     "163067075567773c25",
     "163067078558f946c3",
+    "1635324535530dea74",
     "1630670794bbb91b25"
   ]
 }
