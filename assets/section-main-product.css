@@ -470,7 +470,7 @@ a.product__text {
 }
 
 .product-media-modal {
-  background-color: rgb(var(--color-background));
+  background-color: rgba(0,0,0,0.6);
   height: 100%;
   position: fixed;
   top: 0;
