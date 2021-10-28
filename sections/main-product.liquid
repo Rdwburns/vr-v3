@@ -76,7 +76,7 @@
           {%- when '@app' -%}
             {% render block %}
           {%- when 'text' -%}
-          <p style="color:{{ block.settings.color }};" class="product__text{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle {% elsif block.settings.text_style == 'quote' %} quote {% elsif block.settings.text_style == 'italic' %} italic{% endif %}" {{ block.shopify_attributes }}>
+            <p class="product__text{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle {% elsif block.settings.text_style == 'quote' %} quote {% elsif block.settings.text_style == 'italic' %} italic{% endif %}" {{ block.shopify_attributes }}>
               {{- block.settings.text -}}
             </p>
           {%- when 'title' -%}
