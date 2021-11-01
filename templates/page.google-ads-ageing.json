@@ -115,15 +115,17 @@
         "1635773765e5c40dca-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/original_a0d07519-7959-437f-9c80-8a52e6061bdd.jpg",
+            "title": "Jordana, Bournemouth",
+            "text": "<p>Quite simply amazing!! I've used a few times now and I can honestly say I saw a noticeable & instant change to my under-eye area.<\/p>"
           }
         },
         "1635773765e5c40dca-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/original_21c43d70-df44-4c21-a681-36a86b3075ae.jpg",
+            "title": "Maggie, Scottish Highlands",
+            "text": "<p>I'm 73 and I love Vice Reversa, it really does great for your under-eyes.<\/p>"
           }
         }
       },
