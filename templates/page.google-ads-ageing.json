@@ -9,16 +9,23 @@
     "1635772741deac246f": {
       "type": "image-banner",
       "blocks": {
+        "3b49fe4d-33f0-4360-ba47-7bf67caf9647": {
+          "type": "text",
+          "settings": {
+            "text": "Hundreds of five-star reviews",
+            "text_style": "body"
+          }
+        },
         "1635772741deac246f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Good ingredients are wasted outside your skin."
+            "heading": "Ingredients are wasted outside your skin."
           }
         },
         "1635772741deac246f-1": {
           "type": "text",
           "settings": {
-            "text": "Our Microneedle patches penetrate the outer layer of skin for maximum effectiveness.",
+            "text": "Our Microneedle patches penetrate the skin's outer layer and dissolve for maximum effectiveness.",
             "text_style": "body"
           }
         },
@@ -32,21 +39,13 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "3b49fe4d-33f0-4360-ba47-7bf67caf9647": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "34.95",
-            "text_style": "uppercase"
-          }
         }
       },
       "block_order": [
+        "3b49fe4d-33f0-4360-ba47-7bf67caf9647",
         "1635772741deac246f-0",
         "1635772741deac246f-1",
-        "1635772741deac246f-2",
-        "3b49fe4d-33f0-4360-ba47-7bf67caf9647"
+        "1635772741deac246f-2"
       ],
       "settings": {
         "desktop_text_box_position": "flex-end",
@@ -58,6 +57,12 @@
     "1635773209fdf5f63b": {
       "type": "image-surround",
       "blocks": {
+        "0b09eb17-128e-49c8-9418-0745032ac5fe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
         "1635773209fdf5f63b-1": {
           "type": "text",
           "settings": {
@@ -84,6 +89,7 @@
         }
       },
       "block_order": [
+        "0b09eb17-128e-49c8-9418-0745032ac5fe",
         "1635773209fdf5f63b-1",
         "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08",
         "98e40124-837a-4c92-a0e3-afeb1d3b7e18",
@@ -94,11 +100,55 @@
         "height": "small",
         "color_scheme": "background-1"
       }
+    },
+    "1635773765e5c40dca": {
+      "type": "multicolumn",
+      "blocks": {
+        "1635773765e5c40dca-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original.jpg",
+            "title": "Heather, Essex",
+            "text": "<p>I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.<\/p>"
+          }
+        },
+        "1635773765e5c40dca-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1635773765e5c40dca-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635773765e5c40dca-0",
+        "1635773765e5c40dca-1",
+        "1635773765e5c40dca-2"
+      ],
+      "settings": {
+        "title": "What Our Customers Say",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
     }
   },
   "order": [
     "main",
     "1635772741deac246f",
-    "1635773209fdf5f63b"
+    "1635773209fdf5f63b",
+    "1635773765e5c40dca"
   ]
 }
