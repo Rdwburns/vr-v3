@@ -2,11 +2,53 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1635772741deac246f": {
+      "type": "image-banner",
+      "blocks": {
+        "1635772741deac246f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "1635772741deac246f-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1635772741deac246f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now",
+            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1635772741deac246f-0",
+        "1635772741deac246f-1",
+        "1635772741deac246f-2"
+      ],
+      "settings": {
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1635772741deac246f"
   ]
 }
