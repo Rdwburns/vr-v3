@@ -58,12 +58,6 @@
     "1635773209fdf5f63b": {
       "type": "image-surround",
       "blocks": {
-        "1635773209fdf5f63b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
         "1635773209fdf5f63b-1": {
           "type": "text",
           "settings": {
@@ -90,7 +84,6 @@
         }
       },
       "block_order": [
-        "1635773209fdf5f63b-0",
         "1635773209fdf5f63b-1",
         "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08",
         "98e40124-837a-4c92-a0e3-afeb1d3b7e18",
