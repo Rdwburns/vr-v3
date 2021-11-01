@@ -109,7 +109,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/original.jpg",
             "title": "Heather, Essex",
-            "text": "<p>I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.<\/p>"
+            "text": "<p>\"I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.\"<\/p>"
           }
         },
         "1635773765e5c40dca-1": {
@@ -134,11 +134,11 @@
       ],
       "settings": {
         "title": "What Our Customers Say",
-        "image_width": "half",
+        "image_width": "third",
         "image_ratio": "circle",
         "column_alignment": "center",
         "background_style": "secondary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false,
         "grid_on_mobile": false
