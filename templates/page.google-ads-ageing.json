@@ -12,32 +12,41 @@
         "1635772741deac246f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner"
+            "heading": "Good ingredients are wasted outside your skin."
           }
         },
         "1635772741deac246f-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Our Microneedle patches penetrate the outer layer of skin for maximum effectiveness.",
             "text_style": "body"
           }
         },
         "1635772741deac246f-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy Now",
+            "button_label_1": "Buy Now for £34.95",
             "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "3b49fe4d-33f0-4360-ba47-7bf67caf9647": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "34.95",
+            "text_style": "uppercase"
+          }
         }
       },
       "block_order": [
         "1635772741deac246f-0",
         "1635772741deac246f-1",
-        "1635772741deac246f-2"
+        "1635772741deac246f-2",
+        "3b49fe4d-33f0-4360-ba47-7bf67caf9647"
       ],
       "settings": {
         "desktop_text_box_position": "flex-end",
@@ -45,10 +54,58 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "1635773209fdf5f63b": {
+      "type": "image-surround",
+      "blocks": {
+        "1635773209fdf5f63b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1635773209fdf5f63b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+          }
+        },
+        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare.<\/p>"
+          }
+        },
+        "98e40124-837a-4c92-a0e3-afeb1d3b7e18": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>PAINLESS MICRONEEDLES<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the epidermis.<\/p>"
+          }
+        },
+        "191761a4-b61b-40a0-929f-912f3fa61faf": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635773209fdf5f63b-0",
+        "1635773209fdf5f63b-1",
+        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08",
+        "98e40124-837a-4c92-a0e3-afeb1d3b7e18",
+        "191761a4-b61b-40a0-929f-912f3fa61faf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1I2A8780_a_cc709da0-fda2-49dd-8239-98217d0eefff.jpg",
+        "height": "small",
+        "color_scheme": "background-1"
+      }
     }
   },
   "order": [
     "main",
-    "1635772741deac246f"
+    "1635772741deac246f",
+    "1635773209fdf5f63b"
   ]
 }
