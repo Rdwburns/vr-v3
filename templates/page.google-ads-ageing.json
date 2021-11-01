@@ -54,51 +54,38 @@
         "adapt_height_first_image": false
       }
     },
-    "1635773209fdf5f63b": {
-      "type": "image-surround",
-      "blocks": {
-        "0b09eb17-128e-49c8-9418-0745032ac5fe": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "1635773209fdf5f63b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
-          }
-        },
-        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare.<\/p>"
-          }
-        },
-        "98e40124-837a-4c92-a0e3-afeb1d3b7e18": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>PAINLESS MICRONEEDLES<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the epidermis.<\/p>"
-          }
-        },
-        "191761a4-b61b-40a0-929f-912f3fa61faf": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "0b09eb17-128e-49c8-9418-0745032ac5fe",
-        "1635773209fdf5f63b-1",
-        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08",
-        "98e40124-837a-4c92-a0e3-afeb1d3b7e18",
-        "191761a4-b61b-40a0-929f-912f3fa61faf"
-      ],
+    "1635773768f6ccdb98": {
+      "type": "before-after",
       "settings": {
-        "image": "shopify:\/\/shop_images\/1I2A8780_a_cc709da0-fda2-49dd-8239-98217d0eefff.jpg",
-        "height": "small",
-        "color_scheme": "background-1"
+        "heading": "Real Results",
+        "review_title": "TANIA, 50, 4 APPLICATIONS (2 WEEKS)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 2 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "16357742369a5211b6": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Arthur, 21, Athens",
+        "before_caption": "Day 1",
+        "after_caption": "Day 30",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.",
+        "button_label": "Button label",
+        "button_link": ""
       }
     },
     "1635773765e5c40dca": {
@@ -145,12 +132,61 @@
         "swipe_on_mobile": false,
         "grid_on_mobile": false
       }
+    },
+    "1635773209fdf5f63b": {
+      "type": "image-surround",
+      "blocks": {
+        "0b09eb17-128e-49c8-9418-0745032ac5fe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1635773209fdf5f63b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+          }
+        },
+        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare.<\/p>"
+          }
+        },
+        "98e40124-837a-4c92-a0e3-afeb1d3b7e18": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>PAINLESS MICRONEEDLES<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the epidermis.<\/p>"
+          }
+        },
+        "191761a4-b61b-40a0-929f-912f3fa61faf": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0b09eb17-128e-49c8-9418-0745032ac5fe",
+        "1635773209fdf5f63b-1",
+        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08",
+        "98e40124-837a-4c92-a0e3-afeb1d3b7e18",
+        "191761a4-b61b-40a0-929f-912f3fa61faf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1I2A8780_a_cc709da0-fda2-49dd-8239-98217d0eefff.jpg",
+        "height": "small",
+        "color_scheme": "background-1"
+      }
     }
   },
   "order": [
     "main",
     "1635772741deac246f",
-    "1635773209fdf5f63b",
-    "1635773765e5c40dca"
+    "1635773768f6ccdb98",
+    "16357742369a5211b6",
+    "1635773765e5c40dca",
+    "1635773209fdf5f63b"
   ]
 }
