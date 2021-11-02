@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="#F5D3CC">
+    {% if shop.permanent_domain == 'vice-reversa-skin-care-uk.myshopify.com' and page.handle contains 'lp_-' %}<meta name="robots" content="noindex" />{% endif %}
     <link rel="canonical" href="{{ canonical_url }}">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
 
@@ -119,9 +120,11 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
-
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
- {% render "geo" %}</head> 
+    {% if shop.permanent_domain == 'vice-reversa-skin-care-uk.myshopify.com' %}<script async src="https://www.googleoptimize.com/optimize.js?id=OPT-5PHQ9GZ"></script>{% endif %}
+    {% render "geo" %}
+
+  </head> 
 
   <body>
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
