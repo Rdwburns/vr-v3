@@ -53,7 +53,7 @@
       >
     </div>
   {%- endif -%}
-  <div class="banner__content page-width" style="align-items: {{ section.settings.desktop_text_box_position }};">
+  <div class="banner__content page-width" style="align-items: {{ section.settings.desktop_text_box_position }}; justify-content: {{ section.settings.desktop_vertical_position }}">
     <div class="banner__box color-{{ section.settings.color_scheme }} banner_tp">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
@@ -115,6 +115,26 @@
       ],
       "default": "center",
       "label": "t:sections.image-banner.settings.desktop_text_box_position.label"
+    },
+    {
+      "type": "select",
+      "id": "desktop_vertical_position",
+      "options": [
+      {
+        "value": "flex-start",
+        "label": "t:sections.image-banner.settings.desktop_vertical_position.options__1.label"
+      },
+      {
+        "value": "center",
+        "label": "t:sections.image-banner.settings.desktop_vertical_position.options__2.label"
+      },
+      {
+        "value": "flex-end",
+        "label": "t:sections.image-banner.settings.desktop_vertical_position.options__3.label"
+      }
+      ],
+      "default": "center",
+      "label": "t:sections.image-banner.settings.desktop_vertical_position.label"
     },
     {
       "type": "select",

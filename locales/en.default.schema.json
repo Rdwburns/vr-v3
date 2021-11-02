@@ -1020,6 +1020,18 @@
           },
           "label": "Desktop text position"
         },
+        "desktop_vertical_position": {
+          "options__1": {
+            "label": "Left"
+          },
+          "options__2": {
+            "label": "Center"
+          },          
+          "options__3": {
+            "label": "Right"
+          },
+          "label": "Desktop vertical position"
+        },
         "color_scheme": {
           "options__1": {
             "label": "Accent 1"
