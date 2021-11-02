@@ -1,0 +1,288 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1635772741deac246f": {
+      "type": "image-banner",
+      "blocks": {
+        "3b49fe4d-33f0-4360-ba47-7bf67caf9647": {
+          "type": "text",
+          "settings": {
+            "text": "Hundreds of five-star reviews",
+            "text_style": "body"
+          }
+        },
+        "1635772741deac246f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Game Changing Solution to Fine Lines & Dark Circles"
+          }
+        },
+        "1635772741deac246f-1": {
+          "type": "text",
+          "settings": {
+            "text": "Our Microneedle patches penetrate the skin's outer layer and dissolve for maximum effectiveness.",
+            "text_style": "body"
+          }
+        },
+        "1635772741deac246f-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now for £34.95",
+            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "3b49fe4d-33f0-4360-ba47-7bf67caf9647",
+        "1635772741deac246f-0",
+        "1635772741deac246f-1",
+        "1635772741deac246f-2"
+      ],
+      "settings": {
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "1635773768f6ccdb98": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Real Results",
+        "review_title": "TANIA, 50, 4 APPLICATIONS (2 WEEKS)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 2 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "16357742369a5211b6": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "ABBÉ, 42, 3 APPLICATIONS (2 WEEKS)",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 2 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "This is my third application. I’ve always suffered from under eye shadows and since using I can really see a difference, it’s so much brighter under the eyes and also so much smoother and I can feel a deeper moisturization.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1635773765e5c40dca": {
+      "type": "multicolumn",
+      "blocks": {
+        "1635773765e5c40dca-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original.jpg",
+            "title": "Heather, Essex",
+            "text": "<p>\"I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.\"<\/p>"
+          }
+        },
+        "1635773765e5c40dca-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original_a0d07519-7959-437f-9c80-8a52e6061bdd.jpg",
+            "title": "Jordana, Bournemouth",
+            "text": "<p>Quite simply amazing!! I've used a few times now and I can honestly say I saw a noticeable & instant change to my under-eye area.<\/p>"
+          }
+        },
+        "1635773765e5c40dca-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original_21c43d70-df44-4c21-a681-36a86b3075ae.jpg",
+            "title": "Maggie, Scottish Highlands",
+            "text": "<p>I'm 73 and I love Vice Reversa, it really does great for your under-eyes.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635773765e5c40dca-0",
+        "1635773765e5c40dca-1",
+        "1635773765e5c40dca-2"
+      ],
+      "settings": {
+        "title": "What Our Customers Say",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "Try Eye Rejuvenator Now",
+        "button_link": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "1635773209fdf5f63b": {
+      "type": "image-surround",
+      "blocks": {
+        "0b09eb17-128e-49c8-9418-0745032ac5fe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1635773209fdf5f63b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+          }
+        },
+        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>ROOTED IN MEDICINE<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare.<\/p>"
+          }
+        },
+        "98e40124-837a-4c92-a0e3-afeb1d3b7e18": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>PAINLESS MICRONEEDLES<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the epidermis.<\/p>"
+          }
+        },
+        "191761a4-b61b-40a0-929f-912f3fa61faf": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0b09eb17-128e-49c8-9418-0745032ac5fe",
+        "1635773209fdf5f63b-1",
+        "5d84d4d4-2175-4fa0-96b5-7dfff5c80e08",
+        "98e40124-837a-4c92-a0e3-afeb1d3b7e18",
+        "191761a4-b61b-40a0-929f-912f3fa61faf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1I2A8780_a_cc709da0-fda2-49dd-8239-98217d0eefff.jpg",
+        "height": "small",
+        "color_scheme": "background-1"
+      }
+    },
+    "16357749108c8bfc7f": {
+      "type": "rich-text",
+      "blocks": {
+        "16357749108c8bfc7f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "16357749108c8bfc7f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16357749108c8bfc7f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16357749108c8bfc7f-0",
+        "16357749108c8bfc7f-1",
+        "16357749108c8bfc7f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16357752134be0a47a": {
+      "type": "multicolumn",
+      "blocks": {
+        "16357752134be0a47a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_0fa9fc49-ae73-47f5-84eb-0fbfd4088f91.png",
+            "title": "Suitable for Sensitive Skin",
+            "text": ""
+          }
+        },
+        "16357752134be0a47a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/014-cruelty_free.png",
+            "title": "Cruelty Free",
+            "text": ""
+          }
+        },
+        "16357752134be0a47a-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Phthalates",
+            "text": ""
+          }
+        },
+        "1b724f20-1c15-4804-a91d-36485fadc011": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "16357752134be0a47a-0",
+        "16357752134be0a47a-1",
+        "16357752134be0a47a-2",
+        "1b724f20-1c15-4804-a91d-36485fadc011"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Try Eye Rejuvenator Now",
+        "button_link": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1635772741deac246f",
+    "1635773768f6ccdb98",
+    "16357742369a5211b6",
+    "1635773765e5c40dca",
+    "1635773209fdf5f63b",
+    "16357749108c8bfc7f",
+    "16357752134be0a47a"
+  ]
+}
