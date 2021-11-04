@@ -184,44 +184,6 @@
         "color_scheme": "background-1"
       }
     },
-    "16357749108c8bfc7f": {
-      "type": "rich-text",
-      "blocks": {
-        "16357749108c8bfc7f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "medium"
-          }
-        },
-        "16357749108c8bfc7f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16357749108c8bfc7f-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16357749108c8bfc7f-0",
-        "16357749108c8bfc7f-1",
-        "16357749108c8bfc7f-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "16357752134be0a47a": {
       "type": "multicolumn",
       "blocks": {
@@ -275,6 +237,39 @@
         "swipe_on_mobile": false,
         "grid_on_mobile": true
       }
+    },
+    "16360322580fde8408": {
+      "type": "multicolumn-images",
+      "blocks": {
+        "7f8da746-d84e-4955-a007-9c52fb60dbdb": {
+          "type": "column",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "7f8da746-d84e-4955-a007-9c52fb60dbdb"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "swipe_on_mobile": false
+      }
+    },
+    "16360319466347df74": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Full Microneedle range",
+        "collection": "all-products",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_vendor": false
+      }
     }
   },
   "order": [
@@ -284,7 +279,8 @@
     "16357742369a5211b6",
     "1635773765e5c40dca",
     "1635773209fdf5f63b",
-    "16357749108c8bfc7f",
-    "16357752134be0a47a"
+    "16357752134be0a47a",
+    "16360322580fde8408",
+    "16360319466347df74"
   ]
 }
