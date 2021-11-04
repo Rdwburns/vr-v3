@@ -271,6 +271,43 @@
         "add_image_padding": true,
         "show_vendor": false
       }
+    },
+    "163603292114e59627": {
+      "type": "rich-text",
+      "blocks": {
+        "163603292114e59627-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "163603292114e59627-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The skin under and around your eyes is some of the thinnest of your body. Because it is less dense it has fewer oil glands and less collagen than the rest of your face, so is more prone to revealing the first signs of ageing. <\/p><p>Eye skincare needs to be specifically targeted and formulated to help reduce dark circles, fine lines and dryness while respecting the sensitivity of this area. <\/p><p>Many masks contain parabens, fragrances and dyes which can  cause irritation.<\/p><p>Vice Reversa Microneedle Patches have been designed to painlessly and gently deliver the right ingredients directly where they are needed.<\/p><p>Maximise hydration with hyaluronic acid, collagen-building peptides to help elasticity and vitamin C and glutathione to brighten skin.<\/p>"
+          }
+        },
+        "163603292114e59627-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163603292114e59627-0",
+        "163603292114e59627-1",
+        "163603292114e59627-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -282,6 +319,7 @@
     "1635773209fdf5f63b",
     "16357752134be0a47a",
     "16360322580fde8408",
-    "16360319466347df74"
+    "16360319466347df74",
+    "163603292114e59627"
   ]
 }
