@@ -259,6 +259,7 @@
     },
     "16360319466347df74": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Our Full Microneedle range",
         "collection": "all-products",
