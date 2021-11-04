@@ -48,7 +48,9 @@
         "1635772741deac246f-2"
       ],
       "settings": {
-        "desktop_text_box_position": "flex-end",
+        "image": "shopify:\/\/shop_images\/Header_Image.jpg",
+        "desktop_text_box_position": "center",
+        "desktop_vertical_position": "flex-start",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
