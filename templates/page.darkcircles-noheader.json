@@ -18,9 +18,8 @@
         },
         "163655130965d6edaa-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Eye Rejuvenator is the",
             "text_style": "body"
           }
         },
@@ -181,9 +180,15 @@
         "163655209801f30986-2"
       ],
       "settings": {
-        "color_background": "#ddcadf",
-        "color_border": "#c69aca",
-        "full_width": false
+        "color_background": "#ffdae3",
+        "color_border": "#d9bcc3",
+        "full_width": true
+      }
+    },
+    "1636554484d9a7252e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
       }
     },
     "1636551559de7fa8b2": {
@@ -216,6 +221,7 @@
         "1636551559de7fa8b2-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -251,6 +257,7 @@
         "1636551601169b7466-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -286,6 +293,7 @@
         "16365515812523f34c-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_GLUTATHIONE-100.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -321,6 +329,7 @@
         "16365516314ff5630f-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -426,6 +435,7 @@
     "16365517311eb69c5d",
     "1636551685893226a7",
     "163655209801f30986",
+    "1636554484d9a7252e",
     "1636551559de7fa8b2",
     "1636551601169b7466",
     "16365515812523f34c",
