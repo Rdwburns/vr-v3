@@ -54,7 +54,7 @@
     </div>
   {%- endif -%}
   <div class="banner__content page-width" style="align-items: {{ section.settings.desktop_text_box_position }}; justify-content: {{ section.settings.desktop_vertical_position }}">
-    <div class="banner__box color-{{ section.settings.color_scheme }} banner_tp">
+    <div class="banner__box color-{{ section.settings.color_scheme }} banner_tp {% if section.settings.text_align == 'left' %}banner__box__text-align__left{% endif %}">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'heading' -%}
@@ -66,7 +66,7 @@
               <span>{{ block.settings.text | escape }}</span>
             </div>
           {%- when 'buttons' -%}
-            <div class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_link_1 != blank and block.settings.button_label_2 != blank and block.settings.button_link_2 != blank %} banner__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
+            <div class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_link_1 != blank and block.settings.button_label_2 != blank and block.settings.button_link_2 != blank %} banner__buttons--multiple{% endif %}{% if section.settings.text_align == 'left' %} banner__buttons__left{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.button_label_1 != blank -%}
                 <a{% if block.settings.button_link_1 != blank %} href="{{ block.settings.button_link_1 }}"{% endif %} class="button{% if block.settings.button_style_secondary_1 %} header__menu-item header__menu-item__secondary{% else %} button--primary{% endif %}"{% if block.settings.button_link_1 == blank %} aria-disabled="true"{% endif %}>{{ block.settings.button_label_1 | escape }}</a>
               {%- endif -%}
@@ -135,6 +135,22 @@
       ],
       "default": "center",
       "label": "t:sections.image-banner.settings.desktop_vertical_position.label"
+    },
+    {
+      "type": "select",
+      "id": "text_align",
+      "options": [
+      {
+        "value": "left",
+        "label": "t:sections.image-banner.settings.text-align.options__1.label"
+      },
+      {
+        "value": "center",
+        "label": "t:sections.image-banner.settings.text-align.options__2.label"
+      }
+      ],
+      "default": "center",
+      "label": "t:sections.image-banner.settings.text-align.label"
     },
     {
       "type": "select",

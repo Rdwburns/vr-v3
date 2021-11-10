@@ -1032,6 +1032,15 @@
           },
           "label": "Desktop vertical position"
         },
+        "text-align": {
+          "options__1": {
+            "label": "Left"
+          },
+          "options__2": {
+            "label": "Center"
+          },
+          "label": "Text align"
+        },
         "color_scheme": {
           "options__1": {
             "label": "Accent 1"
