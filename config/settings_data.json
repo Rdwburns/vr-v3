@@ -110,6 +110,19 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "simple-header": {
+        "type": "simple-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Black_on_White_bg_cad5ee66-53b2-4bea-9173-8d6a359f8f74.png",
+          "logo_width": 100,
+          "logo_position": "top-center",
+          "menu": "main-menu",
+          "secondary-menu": "",
+          "show_line_separator": true,
+          "enable_search": true,
+          "enable_sticky_header": true
+        }
       }
     },
     "content_for_index": [
