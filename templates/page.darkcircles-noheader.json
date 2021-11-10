@@ -394,23 +394,37 @@
         "1636551699f73082f6-0": {
           "type": "quote",
           "settings": {
-            "quote": "Quote About the Product"
+            "quote": "This \"miracle\" product could be the solution we're all searching for."
           }
         },
         "1636551699f73082f6-1": {
           "type": "source",
+          "disabled": true,
           "settings": {
             "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        },
+        "d6e34629-4338-456b-9d8a-9f3cb15b94fe": {
+          "type": "image",
+          "settings": {
+            "height": "adapt"
           }
         }
       },
       "block_order": [
         "1636551699f73082f6-0",
-        "1636551699f73082f6-1"
+        "1636551699f73082f6-1",
+        "d6e34629-4338-456b-9d8a-9f3cb15b94fe"
       ],
       "settings": {
         "color_scheme": "background-1",
         "more": false
+      }
+    },
+    "16365625998ed10f6f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
       }
     },
     "163655170635dd160e": {
@@ -497,6 +511,7 @@
     "16365515812523f34c",
     "16365516314ff5630f",
     "1636551699f73082f6",
+    "16365625998ed10f6f",
     "163655170635dd160e"
   ]
 }
