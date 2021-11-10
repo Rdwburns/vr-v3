@@ -19,7 +19,7 @@
         "163655130965d6edaa-1": {
           "type": "text",
           "settings": {
-            "text": "Eye Rejuvenator is the latest",
+            "text": "Eye Rejuvenator patches use Microneedle Technology to penetrate the skin's outer layer and dissolve in the epidermis where they are most effective.",
             "text_style": "body"
           }
         },
@@ -63,22 +63,22 @@
         "1636551498e8cfb0c1-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "PRECISION DELIVERY",
+            "text": "<p>Each of our patches contain 1300 pyramid-shaped needles which penetrate the skin's outer layer and dissolve into the epidermis where they are most effective.<\/p>"
           }
         },
         "1636551498e8cfb0c1-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "HIGH-POWERED INGREDIENTS",
+            "text": "<p>Each needle is infused with a mix of Hyaluronic Acid, Vitamin C, Glutathione and Collagen-boosting Peptides to fight dark circles and fine lines.<\/p>"
           }
         },
         "1636551498e8cfb0c1-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "VISIBLE IMPROVEMENT",
+            "text": "<p>The result is an instant feeling of hydration from the first use and a noticeable and lasting improvement to the under eye area after only six weeks of use.<\/p>"
           }
         }
       },
@@ -171,7 +171,7 @@
         "163655209801f30986-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Dark circles are one of the most common signs of ageing, caused by a thinning of the skin in the under-eye area, making the blood vessels appear more visible. <\/p><p>The outer layers of your skin form a protective barrier which is designed to protect you from harmful toxins and micro-organisms in the environment. <\/p><p>Conventional creams and serums use complicated chemical delivery systems to penetrate this barrier, but they're not 100% effective. A lot of the active ingredients you're paying for just sit on the surface.<\/p><p>The solution? 2600 tiny microneedles, each as thin as a human hair painlessly penetrate the outer layer of skin and dissolve to release a concentrated mix of active ingredients directly to your epidermis where they can have the most impact. <\/p>"
           }
         },
         "163655209801f30986-2": {
@@ -198,7 +198,44 @@
     "1636554484d9a7252e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": ""
+        "custom_liquid": "<div style=\"padding:30px 0;\"><\/div>"
+      }
+    },
+    "16365579915849713f": {
+      "type": "rich-text",
+      "blocks": {
+        "16365579915849713f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "16365579915849713f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16365579915849713f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16365579915849713f-0",
+        "16365579915849713f-1",
+        "16365579915849713f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "1636551559de7fa8b2": {
@@ -447,6 +484,7 @@
     "1636551685893226a7",
     "163655209801f30986",
     "1636554484d9a7252e",
+    "16365579915849713f",
     "1636551559de7fa8b2",
     "1636551601169b7466",
     "16365515812523f34c",
