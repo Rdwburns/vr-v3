@@ -19,7 +19,7 @@
         "163655130965d6edaa-1": {
           "type": "text",
           "settings": {
-            "text": "Eye Rejuvenator is the",
+            "text": "Eye Rejuvenator is the latest",
             "text_style": "body"
           }
         },
@@ -45,6 +45,7 @@
         "image": "shopify:\/\/shop_images\/Header_Image.jpg",
         "desktop_text_box_position": "center",
         "desktop_vertical_position": "flex-start",
+        "text_align": "left",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
@@ -421,6 +422,7 @@
         "image": "shopify:\/\/shop_images\/LP_Dark_Circles_PDP_Header_2ae21b52-9608-491d-80a5-6b0e3d37575d.png",
         "desktop_text_box_position": "center",
         "desktop_vertical_position": "flex-start",
+        "text_align": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
