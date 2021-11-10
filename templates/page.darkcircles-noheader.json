@@ -198,7 +198,7 @@
     "1636554484d9a7252e": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"padding:30px 0;\"><\/div>"
+        "custom_liquid": ""
       }
     },
     "16365579915849713f": {
@@ -207,7 +207,7 @@
         "16365579915849713f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Our Amazing Ingredients",
             "heading_size": "medium"
           }
         },
