@@ -1,0 +1,436 @@
+{
+  "sections": {
+    "163655130965d6edaa": {
+      "type": "image-banner",
+      "blocks": {
+        "ecc39a0b-9498-4e42-b863-872a80b66da9": {
+          "type": "text",
+          "settings": {
+            "text": "Over 250 5* Reviews",
+            "text_style": "uppercase"
+          }
+        },
+        "163655130965d6edaa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Game Changing Solution to Dark Circles"
+          }
+        },
+        "163655130965d6edaa-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "163655130965d6edaa-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "ecc39a0b-9498-4e42-b863-872a80b66da9",
+        "163655130965d6edaa-0",
+        "163655130965d6edaa-1",
+        "163655130965d6edaa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Header_Image.jpg",
+        "desktop_text_box_position": "center",
+        "desktop_vertical_position": "flex-start",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1636551498e8cfb0c1": {
+      "type": "multicolumn",
+      "blocks": {
+        "1636551498e8cfb0c1-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1636551498e8cfb0c1-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1636551498e8cfb0c1-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636551498e8cfb0c1-0",
+        "1636551498e8cfb0c1-1",
+        "1636551498e8cfb0c1-2"
+      ],
+      "settings": {
+        "title": "Why Eye Rejuvenator?",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "1636551636826a612b": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "16365517311eb69c5d": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Real Results",
+        "review_title": "Abbé, 42",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 4 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1636551685893226a7": {
+      "type": "quote",
+      "blocks": {
+        "1636551685893226a7-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "Quote About the Product"
+          }
+        },
+        "1636551685893226a7-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636551685893226a7-0",
+        "1636551685893226a7-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "163655209801f30986": {
+      "type": "text-with-background",
+      "blocks": {
+        "163655209801f30986-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Science",
+            "heading_size": "medium"
+          }
+        },
+        "163655209801f30986-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "163655209801f30986-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163655209801f30986-0",
+        "163655209801f30986-1",
+        "163655209801f30986-2"
+      ],
+      "settings": {
+        "color_background": "#ddcadf",
+        "color_border": "#c69aca",
+        "full_width": false
+      }
+    },
+    "1636551559de7fa8b2": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636551559de7fa8b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hyaluronic Acid"
+          }
+        },
+        "1636551559de7fa8b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1636551559de7fa8b2-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636551559de7fa8b2-0",
+        "1636551559de7fa8b2-1",
+        "1636551559de7fa8b2-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1636551601169b7466": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636551601169b7466-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vitamin C"
+          }
+        },
+        "1636551601169b7466-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1636551601169b7466-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636551601169b7466-0",
+        "1636551601169b7466-1",
+        "1636551601169b7466-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16365515812523f34c": {
+      "type": "image-with-text",
+      "blocks": {
+        "16365515812523f34c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Glutathione"
+          }
+        },
+        "16365515812523f34c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16365515812523f34c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16365515812523f34c-0",
+        "16365515812523f34c-1",
+        "16365515812523f34c-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16365516314ff5630f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16365516314ff5630f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Collagen-Boosting Peptides"
+          }
+        },
+        "16365516314ff5630f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16365516314ff5630f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16365516314ff5630f-0",
+        "16365516314ff5630f-1",
+        "16365516314ff5630f-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636551699f73082f6": {
+      "type": "quote",
+      "blocks": {
+        "1636551699f73082f6-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "Quote About the Product"
+          }
+        },
+        "1636551699f73082f6-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636551699f73082f6-0",
+        "1636551699f73082f6-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "163655170635dd160e": {
+      "type": "image-banner",
+      "blocks": {
+        "36a5e496-d14c-40f2-89ba-94f667f9fe60": {
+          "type": "text",
+          "settings": {
+            "text": "Hundreds of 5-STAR REviews",
+            "text_style": "uppercase"
+          }
+        },
+        "163655170635dd160e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eye Rejuvenator"
+          }
+        },
+        "163655170635dd160e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Microneedle Eye Masks for Dark Circles and Fine Lines",
+            "text_style": "body"
+          }
+        },
+        "c4a21509-4ce3-4767-94d4-6dbabb0042e4": {
+          "type": "text",
+          "settings": {
+            "text": "Includes 4 Applications for Weekly Use.",
+            "text_style": "italic"
+          }
+        },
+        "163655170635dd160e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now for £34.95",
+            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+            "button_style_secondary_1": true,
+            "button_label_2": "Learn More",
+            "button_link_2": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary_2": true
+          }
+        },
+        "5d87883f-01b8-43ba-b89b-220c94dfabca": {
+          "type": "text",
+          "settings": {
+            "text": "Pay in 3 with Klarna Available",
+            "text_style": "uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "36a5e496-d14c-40f2-89ba-94f667f9fe60",
+        "163655170635dd160e-0",
+        "163655170635dd160e-1",
+        "c4a21509-4ce3-4767-94d4-6dbabb0042e4",
+        "163655170635dd160e-2",
+        "5d87883f-01b8-43ba-b89b-220c94dfabca"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LP_Dark_Circles_PDP_Header_2ae21b52-9608-491d-80a5-6b0e3d37575d.png",
+        "desktop_text_box_position": "center",
+        "desktop_vertical_position": "flex-start",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    }
+  },
+  "order": [
+    "163655130965d6edaa",
+    "main",
+    "1636551498e8cfb0c1",
+    "1636551636826a612b",
+    "16365517311eb69c5d",
+    "1636551685893226a7",
+    "163655209801f30986",
+    "1636551559de7fa8b2",
+    "1636551601169b7466",
+    "16365515812523f34c",
+    "16365516314ff5630f",
+    "1636551699f73082f6",
+    "163655170635dd160e"
+  ]
+}
