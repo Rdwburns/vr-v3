@@ -101,27 +101,80 @@
     },
     "1636551636826a612b": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": ""
       }
     },
-    "16365517311eb69c5d": {
-      "type": "before-after",
+    "1636621586c5858b81": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636621586c5858b81-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Problem with Creams & Serums"
+          }
+        },
+        "1636621586c5858b81-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The outer ‘horny’ layer of your skin is designed to protect you from harmful toxins and micro-organisms in the environment. <\/p><p>Conventional creams and serums need complicated chemical delivery systems to penetrate this barrier. A lot of the ingredients you're paying for just sit on the surface.<\/p>"
+          }
+        },
+        "1636621586c5858b81-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636621586c5858b81-0",
+        "1636621586c5858b81-1",
+        "1636621586c5858b81-2"
+      ],
       "settings": {
-        "heading": "Real Results",
-        "review_title": "Abbé, 42",
-        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
-        "after_caption": "After 4 Weeks",
+        "image": "shopify:\/\/shop_images\/Alternative_Cream.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
-        "button_label": "Button label",
-        "button_link": ""
+        "layout": "text_first"
+      }
+    },
+    "1636621748d7571b31": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636621748d7571b31-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Solution"
+          }
+        },
+        "1636621748d7571b31-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2600 tiny microneedles, each as thin as a human hair, painlessly penetrate this outer layer then self-dissolve directly to your epidermis and beyond. There are no miracle cures to ageing, but our technology ensures you get the maximum concentration of active ingredients deeper in the skin where it counts. Easy to apply and effective using from only once a week.<\/p>"
+          }
+        },
+        "1636621748d7571b31-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636621748d7571b31-0",
+        "1636621748d7571b31-1",
+        "1636621748d7571b31-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Needle.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
       }
     },
     "1636551685893226a7": {
@@ -158,6 +211,24 @@
         "more": false
       }
     },
+    "16365517311eb69c5d": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Real Results",
+        "review_title": "Abbé, 42",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 4 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches"
+      }
+    },
     "163656256236251506": {
       "type": "custom-liquid",
       "settings": {
@@ -177,7 +248,7 @@
         "163655209801f30986-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Dark circles are one of the most common signs of ageing, caused by a thinning of the skin in the under-eye area, making the blood vessels appear more visible. <\/p><p>The outer layers of your skin form a protective barrier which is designed to protect you from harmful toxins and micro-organisms in the environment. <\/p><p>Conventional creams and serums need complicated chemical delivery systems to penetrate this barrier. A lot of the active ingredients you're paying for just sit on the surface.<\/p><p>The solution? 2600 tiny microneedles, each as thin as a human hair painlessly penetrate the outer layer of skin and dissolve to release a concentrated mix of active ingredients directly to your epidermis where they can have the most impact. <\/p>"
+            "text": "<p>Dark circles are when the skin beneath both eyes appears darkened and are really common in both men and women. The skin around the eyes is some of the thinnest on the body it is more translucent, so more easily reveals dilated blood vessels and hyper-pigmentation as dark circles. <\/p><p>Because of the thinness of the skin around the eyes, it also has fewer oil glands and less collagen production. The natural ageing process further slows collagen and oil production to make dark circles and fine lines more visible.<\/p><p>The effects of ageing are inevitable but we can take steps to help counter their visible signs. Eye Rejuvenator microneedle patches deliver concentrated hydrating, brightening and collagen-boosting ingredients directly in to the sensitive skin under the eyes. There they help plump, firm and brighten the skin for smoother, younger looking skin and reduce the appearance of dark circles.<\/p>"
           }
         },
         "163655209801f30986-2": {
@@ -244,55 +315,19 @@
         "full_width": true
       }
     },
-    "1636551559de7fa8b2": {
-      "type": "image-with-text",
-      "blocks": {
-        "1636551559de7fa8b2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Hyaluronic Acid"
-          }
-        },
-        "1636551559de7fa8b2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1636551559de7fa8b2-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1636551559de7fa8b2-0",
-        "1636551559de7fa8b2-1",
-        "1636551559de7fa8b2-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "1636551601169b7466": {
       "type": "image-with-text",
       "blocks": {
         "1636551601169b7466-0": {
           "type": "heading",
           "settings": {
-            "heading": "Vitamin C"
+            "heading": "Brightening"
           }
         },
         "1636551601169b7466-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><strong>Glutathione<\/strong> is known as a master antioxidant. It boosts other antioxidants, including vitamin C and is known to help even out skin tone and reduce the appearance of wrinkles. <strong>Madecassoside<\/strong> is an active skin care ingredient derived from the plant Gotu Kola known for its antioxidant-rich properties and ability to promote healing by speeding up skin cell production and improve skin hydration. It is also thought to reduce inflammation and stimulate collagen production.<\/p>"
           }
         },
         "1636551601169b7466-2": {
@@ -316,19 +351,55 @@
         "layout": "text_first"
       }
     },
+    "1636551559de7fa8b2": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636551559de7fa8b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hydrating"
+          }
+        },
+        "1636551559de7fa8b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hyaluronic Acid<\/strong> is a natural compound and part of the human skin. It works to build up proteins and to regulate the water concentration in the skin.<\/p>"
+          }
+        },
+        "1636551559de7fa8b2-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636551559de7fa8b2-0",
+        "1636551559de7fa8b2-1",
+        "1636551559de7fa8b2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "16365515812523f34c": {
       "type": "image-with-text",
       "blocks": {
         "16365515812523f34c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Glutathione"
+            "heading": "Firming"
           }
         },
         "16365515812523f34c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><strong>Peptides <\/strong>are short strings of amino acid that signal the skin to produce collagen. The positive anti-aging effect of peptides on the skin has already been verified in several studies. Our combination of three peptides are known for their ability to stimulate the production of collagen and deliver trace elements that boost collagen synthesis, improve elasticity and help skin heal faster. <\/p><p><strong>Adenosine<\/strong>  is a natural ingredient and a ‘high-energy’ molecule that stimulates collagen production. Studies have shown skincare containing adenosine led to significant improvements in skin smoothness and decreased lines. The result is a smoother more youthful complexion. <\/p>"
           }
         },
         "16365515812523f34c-2": {
@@ -354,6 +425,7 @@
     },
     "16365516314ff5630f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16365516314ff5630f-0": {
           "type": "heading",
@@ -501,14 +573,16 @@
     "main",
     "1636551498e8cfb0c1",
     "1636551636826a612b",
-    "16365517311eb69c5d",
+    "1636621586c5858b81",
+    "1636621748d7571b31",
     "1636551685893226a7",
+    "16365517311eb69c5d",
     "163656256236251506",
     "163655209801f30986",
     "1636554484d9a7252e",
     "16365579915849713f",
-    "1636551559de7fa8b2",
     "1636551601169b7466",
+    "1636551559de7fa8b2",
     "16365515812523f34c",
     "16365516314ff5630f",
     "1636551699f73082f6",

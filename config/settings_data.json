@@ -119,9 +119,9 @@
           "logo_position": "top-center",
           "menu": "main-menu",
           "secondary-menu": "",
-          "show_line_separator": true,
-          "enable_search": true,
-          "enable_sticky_header": true
+          "show_line_separator": false,
+          "enable_search": false,
+          "enable_sticky_header": false
         }
       }
     },
