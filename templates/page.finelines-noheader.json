@@ -238,6 +238,24 @@
         "button_link": ""
       }
     },
+    "1636646174af769491": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "TANIA, 50, 4 APPLICATIONS (2 WEEKS)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 2 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
     "1636623054dad3c8f0": {
       "type": "multicolumn",
       "blocks": {
@@ -587,6 +605,7 @@
     "1636621748d7571b31",
     "1636551685893226a7",
     "16365517311eb69c5d",
+    "1636646174af769491",
     "1636623054dad3c8f0",
     "163655209801f30986",
     "1636554484d9a7252e",
