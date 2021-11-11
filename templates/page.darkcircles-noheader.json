@@ -225,8 +225,45 @@
         "layout": "image_first",
         "mobile_stack": "inline",
         "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
-        "button_label": "Shop Now",
-        "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches"
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "1636622177539ee47a": {
+      "type": "rich-text",
+      "blocks": {
+        "1636622177539ee47a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "1636622177539ee47a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1636622177539ee47a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "1636622177539ee47a-0",
+        "1636622177539ee47a-1",
+        "1636622177539ee47a-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "163656256236251506": {
@@ -577,6 +614,7 @@
     "1636621748d7571b31",
     "1636551685893226a7",
     "16365517311eb69c5d",
+    "1636622177539ee47a",
     "163656256236251506",
     "163655209801f30986",
     "1636554484d9a7252e",
