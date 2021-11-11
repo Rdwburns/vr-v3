@@ -544,7 +544,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Buy Now for £34.95",
-            "button_link_1": "\/cart\/39447608066108:1",
+            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
             "button_style_secondary_1": true,
             "button_label_2": "Learn More",
             "button_link_2": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
