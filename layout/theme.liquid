@@ -143,7 +143,9 @@
   </a>
 
   {% section 'announcement-bar' %}
-  {% if template.suffix contains 'noheader' %}{% section 'simple-header' %}{% else %}{% section 'header' %}{% endif %}
+  {% comment %}{% if template.suffix contains 'noheader' %}{% section 'simple-header' %}{% else %}{% endif %}{% endcomment %}
+  {% section 'header' %}
+  
 
   <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
     {% if request.host == 'vicereversaskin.com' %}{{ content_for_layout | replace:
