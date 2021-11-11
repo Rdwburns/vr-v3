@@ -60,6 +60,14 @@
     "1636551498e8cfb0c1": {
       "type": "multicolumn",
       "blocks": {
+        "86dab03c-09df-4992-ad93-e4e4aedc47c0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "PAINLESSLY EFFECTIVE",
+            "text": "<p>The <\/p>"
+          }
+        },
         "1636551498e8cfb0c1-0": {
           "type": "column",
           "settings": {
@@ -83,6 +91,7 @@
         }
       },
       "block_order": [
+        "86dab03c-09df-4992-ad93-e4e4aedc47c0",
         "1636551498e8cfb0c1-0",
         "1636551498e8cfb0c1-1",
         "1636551498e8cfb0c1-2"
