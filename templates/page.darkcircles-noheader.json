@@ -177,43 +177,6 @@
         "layout": "text_first"
       }
     },
-    "163662261215d1fe6f": {
-      "type": "rich-text",
-      "blocks": {
-        "163662261215d1fe6f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "medium"
-          }
-        },
-        "163662261215d1fe6f-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "163662261215d1fe6f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Eye Rejuvenator Now",
-            "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "163662261215d1fe6f-0",
-        "163662261215d1fe6f-1",
-        "163662261215d1fe6f-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "1636551685893226a7": {
       "type": "quote",
       "blocks": {
@@ -264,6 +227,51 @@
         "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
         "button_label": "",
         "button_link": ""
+      }
+    },
+    "1636623054dad3c8f0": {
+      "type": "multicolumn",
+      "blocks": {
+        "1636623054dad3c8f0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original.jpg",
+            "title": "Heather, Essex",
+            "text": "<p>\"I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.\"<\/p>"
+          }
+        },
+        "1636623054dad3c8f0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original_a0d07519-7959-437f-9c80-8a52e6061bdd.jpg",
+            "title": "Jordana, Bournemouth",
+            "text": "<p>Quite simply amazing!! I've used a few times now and I can honestly say I saw a noticeable & instant change to my under-eye area.<\/p>"
+          }
+        },
+        "1636623054dad3c8f0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/square.jpg",
+            "title": "Ja, London",
+            "text": "<p>I've been using once a week for 4 weeks and have seen an improvement. My eyes look less tired and my lines are less noticeable.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636623054dad3c8f0-0",
+        "1636623054dad3c8f0-1",
+        "1636623054dad3c8f0-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
       }
     },
     "163655209801f30986": {
@@ -451,7 +459,7 @@
         "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_GLUTATHIONE-100.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "1636551699f73082f6": {
@@ -569,9 +577,9 @@
     "1636551636826a612b",
     "1636621586c5858b81",
     "1636621748d7571b31",
-    "163662261215d1fe6f",
     "1636551685893226a7",
     "16365517311eb69c5d",
+    "1636623054dad3c8f0",
     "163655209801f30986",
     "1636554484d9a7252e",
     "16365579915849713f",
