@@ -26,8 +26,8 @@
         "163655130965d6edaa-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy Now for 34.95",
-            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+            "button_label_1": "Buy Now",
+            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -543,11 +543,11 @@
         "163655170635dd160e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy Now for £34.95",
-            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+            "button_label_1": "Buy Now",
+            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
             "button_style_secondary_1": true,
-            "button_label_2": "Learn More",
-            "button_link_2": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_label_2": "",
+            "button_link_2": "",
             "button_style_secondary_2": true
           }
         },
@@ -571,7 +571,7 @@
         "image": "shopify:\/\/shop_images\/LP_Dark_Circles_PDP_Header_2ae21b52-9608-491d-80a5-6b0e3d37575d.png",
         "desktop_text_box_position": "center",
         "desktop_vertical_position": "flex-start",
-        "text_align": "center",
+        "text_align": "left",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
