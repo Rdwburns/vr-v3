@@ -229,6 +229,43 @@
         "button_link": ""
       }
     },
+    "163662261215d1fe6f": {
+      "type": "rich-text",
+      "blocks": {
+        "163662261215d1fe6f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "163662261215d1fe6f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "163662261215d1fe6f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "163662261215d1fe6f-0",
+        "163662261215d1fe6f-1",
+        "163662261215d1fe6f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "163656256236251506": {
       "type": "custom-liquid",
       "settings": {
@@ -423,43 +460,6 @@
         "layout": "image_first"
       }
     },
-    "16365516314ff5630f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "16365516314ff5630f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Collagen-Boosting Peptides"
-          }
-        },
-        "16365516314ff5630f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16365516314ff5630f-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16365516314ff5630f-0",
-        "16365516314ff5630f-1",
-        "16365516314ff5630f-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_PEPTIDES-100.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
     "1636551699f73082f6": {
       "type": "quote",
       "blocks": {
@@ -577,6 +577,7 @@
     "1636621748d7571b31",
     "1636551685893226a7",
     "16365517311eb69c5d",
+    "163662261215d1fe6f",
     "163656256236251506",
     "163655209801f30986",
     "1636554484d9a7252e",
@@ -584,7 +585,6 @@
     "1636551601169b7466",
     "1636551559de7fa8b2",
     "16365515812523f34c",
-    "16365516314ff5630f",
     "1636551699f73082f6",
     "16365625998ed10f6f",
     "163655170635dd160e"
