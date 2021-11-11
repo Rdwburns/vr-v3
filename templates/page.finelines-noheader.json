@@ -1,0 +1,601 @@
+{
+  "sections": {
+    "163655130965d6edaa": {
+      "type": "image-banner",
+      "blocks": {
+        "ecc39a0b-9498-4e42-b863-872a80b66da9": {
+          "type": "text",
+          "settings": {
+            "text": "★★★★★ Over 250 5* Reviews",
+            "text_style": "uppercase"
+          }
+        },
+        "163655130965d6edaa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Game Changing Solution to Dark Circles"
+          }
+        },
+        "163655130965d6edaa-1": {
+          "type": "text",
+          "settings": {
+            "text": "Eye Rejuvenator uses breakthrough Microneedle Technology to deliver concentrated ingredients directly where they are needed, deep in the skin. An easy, targeted, painless and effective at-home treatment.",
+            "text_style": "body"
+          }
+        },
+        "163655130965d6edaa-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "ecc39a0b-9498-4e42-b863-872a80b66da9",
+        "163655130965d6edaa-0",
+        "163655130965d6edaa-1",
+        "163655130965d6edaa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Header_Image_2.png",
+        "desktop_text_box_position": "center",
+        "desktop_vertical_position": "flex-start",
+        "text_align": "left",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1636551498e8cfb0c1": {
+      "type": "multicolumn",
+      "blocks": {
+        "86dab03c-09df-4992-ad93-e4e4aedc47c0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "PAINLESSLY EFFECTIVE",
+            "text": "<p>The <\/p>"
+          }
+        },
+        "1636551498e8cfb0c1-0": {
+          "type": "column",
+          "settings": {
+            "title": "PRECISION UNDEREYE CARE",
+            "text": "<p>This delicate and sensitive area needs specialised solutions. Our perfectly shaped patches painlessly and comfortably deliver our unique formula via 2600 self-dissolving microneedles.<\/p>"
+          }
+        },
+        "1636551498e8cfb0c1-1": {
+          "type": "column",
+          "settings": {
+            "title": "BRIGHTENS, PLUMPS & FIRMS",
+            "text": "<p>Each needle is infused with a power cocktail serum of hydrating Hyaluronic Acid, brightening Vitamin C & Glutathione and pro-Collagen Peptides to fight dark circles and fine lines.<\/p>"
+          }
+        },
+        "1636551498e8cfb0c1-2": {
+          "type": "column",
+          "settings": {
+            "title": "VISIBLE IMPROVEMENT",
+            "text": "<p>The result is an instant feeling of hydration from the first use and a noticeable and lasting improvement to the under eye area from only six weekly applications.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "86dab03c-09df-4992-ad93-e4e4aedc47c0",
+        "1636551498e8cfb0c1-0",
+        "1636551498e8cfb0c1-1",
+        "1636551498e8cfb0c1-2"
+      ],
+      "settings": {
+        "title": "Why Eye Rejuvenator?",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "1636551636826a612b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "1636621586c5858b81": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636621586c5858b81-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Problem with Creams & Serums"
+          }
+        },
+        "1636621586c5858b81-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The outer ‘horny’ layer of your skin is designed to protect you from harmful toxins and micro-organisms in the environment. <\/p><p>Conventional creams and serums need complicated chemical delivery systems to penetrate this barrier. A lot of the ingredients you're paying for just sit on the surface.<\/p>"
+          }
+        },
+        "1636621586c5858b81-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636621586c5858b81-0",
+        "1636621586c5858b81-1",
+        "1636621586c5858b81-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Cream.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636621748d7571b31": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636621748d7571b31-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Solution"
+          }
+        },
+        "1636621748d7571b31-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>2600 tiny microneedles, each as thin as a human hair, painlessly penetrate this outer layer then self-dissolve directly to your epidermis and beyond. There are no miracle cures to ageing, but our technology ensures you get the maximum concentration of active ingredients deeper in the skin where it counts. Easy to apply and effective using from only once a week.<\/p>"
+          }
+        },
+        "1636621748d7571b31-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches"
+          }
+        }
+      },
+      "block_order": [
+        "1636621748d7571b31-0",
+        "1636621748d7571b31-1",
+        "1636621748d7571b31-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Needle.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636551685893226a7": {
+      "type": "quote",
+      "blocks": {
+        "1636551685893226a7-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "1636551685893226a7-1": {
+          "type": "source",
+          "disabled": true,
+          "settings": {
+            "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        },
+        "660a1c94-d2fa-4a52-b9c5-481c234ee985": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
+          }
+        }
+      },
+      "block_order": [
+        "1636551685893226a7-0",
+        "1636551685893226a7-1",
+        "660a1c94-d2fa-4a52-b9c5-481c234ee985"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "16365517311eb69c5d": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Real Results",
+        "review_title": "Abbé, 42",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 4 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "1636623054dad3c8f0": {
+      "type": "multicolumn",
+      "blocks": {
+        "1636623054dad3c8f0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original.jpg",
+            "title": "Heather, Essex",
+            "text": "<p>\"I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.\"<\/p>"
+          }
+        },
+        "1636623054dad3c8f0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/original_a0d07519-7959-437f-9c80-8a52e6061bdd.jpg",
+            "title": "Jordana, Bournemouth",
+            "text": "<p>Quite simply amazing!! I've used a few times now and I can honestly say I saw a noticeable & instant change to my under-eye area.<\/p>"
+          }
+        },
+        "1636623054dad3c8f0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/square.jpg",
+            "title": "Ja, London",
+            "text": "<p>I've been using once a week for 4 weeks and have seen an improvement. My eyes look less tired and my lines are less noticeable.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1636623054dad3c8f0-0",
+        "1636623054dad3c8f0-1",
+        "1636623054dad3c8f0-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "163655209801f30986": {
+      "type": "text-with-background",
+      "blocks": {
+        "163655209801f30986-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Science",
+            "heading_size": "medium"
+          }
+        },
+        "163655209801f30986-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dark circles are when the skin beneath both eyes appears darkened and are really common in both men and women. The skin around the eyes is some of the thinnest on the body it is more translucent, so more easily reveals dilated blood vessels and hyper-pigmentation as dark circles. <\/p><p>Because of the thinness of the skin around the eyes, it also has fewer oil glands and less collagen production. The natural ageing process further slows collagen and oil production to make dark circles and fine lines more visible.<\/p><p>The effects of ageing are inevitable but we can take steps to help counter their visible signs. Eye Rejuvenator microneedle patches deliver concentrated hydrating, brightening and collagen-boosting ingredients directly in to the sensitive skin under the eyes. There they help plump, firm and brighten the skin for smoother, younger looking skin and reduce the appearance of dark circles.<\/p>"
+          }
+        },
+        "163655209801f30986-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163655209801f30986-0",
+        "163655209801f30986-1",
+        "163655209801f30986-2"
+      ],
+      "settings": {
+        "color_background": "#ffdae3",
+        "color_border": "#d9bcc3",
+        "full_width": true
+      }
+    },
+    "1636554484d9a7252e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "16365579915849713f": {
+      "type": "rich-text",
+      "blocks": {
+        "16365579915849713f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Amazing Ingredients",
+            "heading_size": "medium"
+          }
+        },
+        "16365579915849713f-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16365579915849713f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16365579915849713f-0",
+        "16365579915849713f-1",
+        "16365579915849713f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1636551601169b7466": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636551601169b7466-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brightening"
+          }
+        },
+        "1636551601169b7466-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Glutathione<\/strong> is known as a master antioxidant. It boosts other antioxidants, including vitamin C and is known to help even out skin tone and reduce the appearance of wrinkles. <strong>Madecassoside<\/strong> is an active skin care ingredient derived from the plant Gotu Kola known for its antioxidant-rich properties and ability to promote healing by speeding up skin cell production and improve skin hydration. It is also thought to reduce inflammation and stimulate collagen production.<\/p>"
+          }
+        },
+        "1636551601169b7466-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636551601169b7466-0",
+        "1636551601169b7466-1",
+        "1636551601169b7466-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636551559de7fa8b2": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636551559de7fa8b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hydrating"
+          }
+        },
+        "1636551559de7fa8b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hyaluronic Acid<\/strong> is a natural compound and part of the human skin. It works to build up proteins and to regulate the water concentration in the skin.<\/p>"
+          }
+        },
+        "1636551559de7fa8b2-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636551559de7fa8b2-0",
+        "1636551559de7fa8b2-1",
+        "1636551559de7fa8b2-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16365515812523f34c": {
+      "type": "image-with-text",
+      "blocks": {
+        "16365515812523f34c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Firming"
+          }
+        },
+        "16365515812523f34c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Peptides <\/strong>are short strings of amino acid that signal the skin to produce collagen. The positive anti-aging effect of peptides on the skin has already been verified in several studies. Our combination of three peptides are known for their ability to stimulate the production of collagen and deliver trace elements that boost collagen synthesis, improve elasticity and help skin heal faster. <\/p><p><strong>Adenosine<\/strong>  is a natural ingredient and a ‘high-energy’ molecule that stimulates collagen production. Studies have shown skincare containing adenosine led to significant improvements in skin smoothness and decreased lines. The result is a smoother more youthful complexion. <\/p>"
+          }
+        },
+        "16365515812523f34c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16365515812523f34c-0",
+        "16365515812523f34c-1",
+        "16365515812523f34c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_GLUTATHIONE-100.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1636551699f73082f6": {
+      "type": "quote",
+      "blocks": {
+        "1636551699f73082f6-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "This \"miracle\" product could be the solution we're all searching for."
+          }
+        },
+        "1636551699f73082f6-1": {
+          "type": "source",
+          "disabled": true,
+          "settings": {
+            "source": "<p>A. Person<br>The Daily News<\/p>"
+          }
+        },
+        "d6e34629-4338-456b-9d8a-9f3cb15b94fe": {
+          "type": "image",
+          "settings": {
+            "height": "adapt"
+          }
+        }
+      },
+      "block_order": [
+        "1636551699f73082f6-0",
+        "1636551699f73082f6-1",
+        "d6e34629-4338-456b-9d8a-9f3cb15b94fe"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "16365625998ed10f6f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "163655170635dd160e": {
+      "type": "image-banner",
+      "blocks": {
+        "36a5e496-d14c-40f2-89ba-94f667f9fe60": {
+          "type": "text",
+          "settings": {
+            "text": "★★★★★ Hundreds of 5-STAR REviews",
+            "text_style": "uppercase"
+          }
+        },
+        "163655170635dd160e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Eye Rejuvenator"
+          }
+        },
+        "163655170635dd160e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Microneedle Eye Patches for Dark Circles and Fine Lines",
+            "text_style": "body"
+          }
+        },
+        "c4a21509-4ce3-4767-94d4-6dbabb0042e4": {
+          "type": "text",
+          "settings": {
+            "text": "Includes 4 Applications for Weekly Use.",
+            "text_style": "italic"
+          }
+        },
+        "163655170635dd160e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now for £34.95",
+            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "5d87883f-01b8-43ba-b89b-220c94dfabca": {
+          "type": "text",
+          "settings": {
+            "text": "Pay in 3 with Klarna Available",
+            "text_style": "uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "36a5e496-d14c-40f2-89ba-94f667f9fe60",
+        "163655170635dd160e-0",
+        "163655170635dd160e-1",
+        "c4a21509-4ce3-4767-94d4-6dbabb0042e4",
+        "163655170635dd160e-2",
+        "5d87883f-01b8-43ba-b89b-220c94dfabca"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LP_Dark_Circles_PDP_Header_2ae21b52-9608-491d-80a5-6b0e3d37575d.png",
+        "desktop_text_box_position": "center",
+        "desktop_vertical_position": "flex-start",
+        "text_align": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    }
+  },
+  "order": [
+    "163655130965d6edaa",
+    "main",
+    "1636551498e8cfb0c1",
+    "1636551636826a612b",
+    "1636621586c5858b81",
+    "1636621748d7571b31",
+    "1636551685893226a7",
+    "16365517311eb69c5d",
+    "1636623054dad3c8f0",
+    "163655209801f30986",
+    "1636554484d9a7252e",
+    "16365579915849713f",
+    "1636551601169b7466",
+    "1636551559de7fa8b2",
+    "16365515812523f34c",
+    "1636551699f73082f6",
+    "16365625998ed10f6f",
+    "163655170635dd160e"
+  ]
+}
