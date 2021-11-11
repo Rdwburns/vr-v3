@@ -26,8 +26,8 @@
         "163655130965d6edaa-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_label_1": "Buy Now for 34.95",
+            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -544,11 +544,11 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Buy Now for £34.95",
-            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_link_1": "\/cart\/39447608066108:1",
             "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_2": "Learn More",
+            "button_link_2": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary_2": true
           }
         },
         "5d87883f-01b8-43ba-b89b-220c94dfabca": {
