@@ -13,14 +13,14 @@
         "163655130965d6edaa-0": {
           "type": "heading",
           "settings": {
-            "heading": "THE GAME CHANGING SOLUTION TO UNDER-EYE WRINKLES",
+            "heading": "THE GAME CHANGING SOLUTION TO HORMONAL Spots",
             "heading_style": "h1_heading"
           }
         },
         "163655130965d6edaa-1": {
           "type": "text",
           "settings": {
-            "text": "Eye Rejuvenator uses breakthrough Microneedle Technology to ensure that active ingredients get where they’re needed, deeper in the skin. An easy-to-use, painless and effective at-home treatment to target fine lines and wrinkles.",
+            "text": "Spot Stoppa uses breakthrough Microneedle Technology to ensure that active ingredients get where they’re needed, deeper in the skin. An easy-to-use, painless and effective at-home treatment to target stubborn pimples and cystic acne.",
             "text_style": "body"
           }
         },
@@ -28,7 +28,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Buy Now",
-            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_link_1": "shopify:\/\/products\/spot-stoppa-microneedle-patches",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -72,22 +72,22 @@
         "1636551498e8cfb0c1-0": {
           "type": "column",
           "settings": {
-            "title": "PRECISION UNDEREYE CARE",
-            "text": "<p>The first signs of ageing often appear in the skin around our eyes, a delicate and sensitive area. 2600 ultra-fine microneedles on our perfectly shaped patches painlessly penetrate the outer skin layer to deliver key ingredients directly to the epidermis and beyond where they’re most needed.<\/p>"
+            "title": "VISIBLE RESULTS",
+            "text": "<p>Designed for hormonal zits, early-stage pimples and deep under-the-skin spots. With noticeable changes in size, colour and pressure. Get to work from just two hours.<\/p>"
           }
         },
         "1636551498e8cfb0c1-1": {
           "type": "column",
           "settings": {
-            "title": "BRIGHTENS, PLUMPS & FIRMS",
-            "text": "<p>Each self-dissolving microneedle is infused with our unique serum formulation of pro-collagen Peptides & Adenosine, intensely hydrating Hylauronic Acid and brightening antioxidants Vitamin C and Glutathione. They combine to gently but effectively plump and smooth the skin from deeper down, where it really counts.<\/p>"
+            "title": "DERM-BACKED INGREDIENTS",
+            "text": "<p>The concentrated formula of salicylic acid, totarol, green tea extract and hyaluronic acid melts into skin, purifying spots from within to reduce the appearance, soothe skin and reverse breakouts.<br\/><\/p>"
           }
         },
         "1636551498e8cfb0c1-2": {
           "type": "column",
           "settings": {
-            "title": "VISIBLE IMPROVEMENT",
-            "text": "<p>Enjoy an instant hydrating and glow effect from the first application. Follow our recommended program and expect visibly reduced fine lines and wrinkles from just 10 applications over 6-8 weeks and results that get better over time with continued use.<\/p>"
+            "title": "CUTTING EDGE TECH",
+            "text": "<p>Precision skincare designed for where you need it most. 500 self-dissolving microneedles on each patch. Pyramid shaped for fast absorption. <br\/><\/p>"
           }
         }
       },
@@ -98,7 +98,7 @@
         "1636551498e8cfb0c1-2"
       ],
       "settings": {
-        "title": "Why Eye Rejuvenator?",
+        "title": "Why Spot Stoppa",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
@@ -117,6 +117,7 @@
     },
     "1636621586c5858b81": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1636621586c5858b81-0": {
           "type": "heading",
@@ -153,6 +154,7 @@
     },
     "1636621748d7571b31": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1636621748d7571b31-0": {
           "type": "heading",
@@ -193,7 +195,7 @@
         "1636551685893226a7-0": {
           "type": "quote",
           "settings": {
-            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+            "quote": "These spot stickers are so effective they keep selling out"
           }
         },
         "1636551685893226a7-1": {
@@ -206,7 +208,7 @@
         "660a1c94-d2fa-4a52-b9c5-481c234ee985": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "image": "shopify:\/\/shop_images\/HSkk1IwmOPtA.jpg",
             "height": "adapt"
           }
         }
@@ -225,22 +227,23 @@
       "type": "before-after",
       "settings": {
         "heading": "Real Results",
-        "review_title": "Abbé, 42",
-        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
-        "after_caption": "After 4 Weeks",
+        "review_title": "",
+        "before_image": "shopify:\/\/shop_images\/EVE-BEFORE.jpg",
+        "before_caption": "",
+        "after_image": "shopify:\/\/shop_images\/EVE-AFTER.jpg",
+        "after_caption": "",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
+        "review": "I love these! I have suffered with adult hormonal acne for ages now and have tried everything (or so I thought) these are so easy to use and made a huge difference in stopping the spots coming out to their worst, normally they are so painful. I used the patches overnight and then from there the spots cleared up so much quicker on their own!",
         "button_label": "",
         "button_link": ""
       }
     },
     "1636646174af769491": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "TANIA, 50, 4 APPLICATIONS (2 WEEKS)",
@@ -263,25 +266,25 @@
         "1636623054dad3c8f0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/original.jpg",
-            "title": "Heather, Essex",
-            "text": "<p>\"I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.\"<\/p>"
+            "image": "shopify:\/\/shop_images\/E8255D1C-A0F4-45BC-AD2F-DF90D96A775F.jpg",
+            "title": "Han",
+            "text": "<p>I was pleasantly surprised. I only use them on deep hormonal acne spots. I find they penetrate the pimple really well and extract the contents. Leaving the bump gone and the wound heals within a few days. I always have a pack on hand.<br\/><\/p>"
           }
         },
         "1636623054dad3c8f0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/original_a0d07519-7959-437f-9c80-8a52e6061bdd.jpg",
-            "title": "Jordana, Bournemouth",
-            "text": "<p>Quite simply amazing!! I've used a few times now and I can honestly say I saw a noticeable & instant change to my under-eye area.<\/p>"
+            "image": "shopify:\/\/shop_images\/natasha.kendall_2.jpg",
+            "title": "Rachel",
+            "text": "<p>Still suffering in my late 20s with hormonal under the skin acne along my jawline and chin. Needless to say have tried everything! I’ve tried other patches, but these are the best I’ve tried so far, noticeable reduction in swelling. Still some redness but I expected this (there are no miracle cures!).<br\/><\/p>"
           }
         },
         "1636623054dad3c8f0-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/square.jpg",
-            "title": "Ja, London",
-            "text": "<p>I've been using once a week for 4 weeks and have seen an improvement. My eyes look less tired and my lines are less noticeable.<\/p>"
+            "image": "shopify:\/\/shop_images\/image00001.jpg",
+            "title": "Bal",
+            "text": "<p>I suffer from minor cystic acne & these are perfect for those red bumpy spots that hurt! Left on overnight and the spot is considerably reduced and not so angry! Virtually gone by second night. Lifesaver.<\/p>"
           }
         }
       },
@@ -304,6 +307,7 @@
     },
     "163655209801f30986": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "163655209801f30986-0": {
           "type": "heading",
@@ -351,7 +355,7 @@
         "16365579915849713f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Our Amazing Ingredients",
+            "heading": "Derm-backed Ingredients",
             "heading_size": "medium"
           }
         },
@@ -388,13 +392,13 @@
         "1636551601169b7466-0": {
           "type": "heading",
           "settings": {
-            "heading": "Brightening"
+            "heading": "Salicylic Acid"
           }
         },
         "1636551601169b7466-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Glutathione<\/strong> is known as a master antioxidant. It boosts other antioxidants, including vitamin C and is known to help even out skin tone and reduce the appearance of wrinkles. <strong>Madecassoside<\/strong> is an active skin care ingredient derived from the plant Gotu Kola known for its antioxidant-rich properties and ability to promote healing by speeding up skin cell production and improve skin hydration. It is also thought to reduce inflammation and stimulate collagen production.<\/p>"
+            "text": "<p>A staple when it comes to blemish-prone skin, salicylic acid is known for its ability to help unclog pores, reduce bacteria and sooth swollen skin.<\/p>"
           }
         },
         "1636551601169b7466-2": {
@@ -412,7 +416,7 @@
         "1636551601169b7466-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
+        "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_SALICYLIC_ACID-100.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -424,13 +428,13 @@
         "1636551559de7fa8b2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hydrating"
+            "heading": "Totarol"
           }
         },
         "1636551559de7fa8b2-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Hyaluronic Acid<\/strong> is a natural compound and part of the human skin. It works to build up proteins and to regulate the water concentration in the skin.<\/p>"
+            "text": "<p>Totarol’s antibacterial superpowers are well-known, reinforcing the skin’s natural defences against toxins and UV damage.<\/p>"
           }
         },
         "1636551559de7fa8b2-2": {
@@ -448,7 +452,7 @@
         "1636551559de7fa8b2-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
+        "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_TOTAROL-100.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -460,13 +464,13 @@
         "16365515812523f34c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Firming"
+            "heading": "Green Tea Extract"
           }
         },
         "16365515812523f34c-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Peptides <\/strong>are short strings of amino acid that signal the skin to produce collagen. The positive anti-aging effect of peptides on the skin has already been verified in several studies. Our combination of three peptides are known for their ability to stimulate the production of collagen and deliver trace elements that boost collagen synthesis, improve elasticity and help skin heal faster. <\/p><p><strong>Adenosine<\/strong>  is a natural ingredient and a ‘high-energy’ molecule that stimulates collagen production. Studies have shown skincare containing adenosine led to significant improvements in skin smoothness and decreased lines. The result is a smoother more youthful complexion. <\/p>"
+            "text": "<p>A powerful antioxidant known to unclog pores and eliminate surplus sebum, disinfects the skin and soothes irritation all-in-one.<\/p>"
           }
         },
         "16365515812523f34c-2": {
@@ -484,7 +488,7 @@
         "16365515812523f34c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_GLUTATHIONE-100.png",
+        "image": "shopify:\/\/shop_images\/SPOT_STOPA_V_NEEDLE_GREEM_TEA-100.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -542,19 +546,20 @@
         "163655170635dd160e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Eye Rejuvenator",
+            "heading": "Spot Stoppa",
             "heading_style": "heading"
           }
         },
         "163655170635dd160e-1": {
           "type": "text",
           "settings": {
-            "text": "Microneedle Eye Patches for Dark Circles and Fine Lines",
+            "text": "Microneedle Patches for Stubborn Spots",
             "text_style": "body"
           }
         },
         "c4a21509-4ce3-4767-94d4-6dbabb0042e4": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Includes 4 Applications for Weekly Use.",
             "text_style": "italic"
@@ -563,11 +568,11 @@
         "163655170635dd160e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy Now for £34.95",
-            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
+            "button_label_1": "Buy Now for £24.95",
+            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447623565372:1",
             "button_style_secondary_1": true,
             "button_label_2": "Learn More",
-            "button_link_2": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_link_2": "shopify:\/\/products\/spot-stoppa-microneedle-patches",
             "button_style_secondary_2": true
           }
         },
@@ -588,7 +593,7 @@
         "5d87883f-01b8-43ba-b89b-220c94dfabca"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/LP_Dark_Circles_PDP_Header_2ae21b52-9608-491d-80a5-6b0e3d37575d.png",
+        "image": "shopify:\/\/shop_images\/Spot_Stoppa_Header_4ee519f9-da8e-46f3-bdf3-1b309a058d62.png",
         "desktop_text_box_position": "center",
         "desktop_vertical_position": "flex-start",
         "text_align": "center",
