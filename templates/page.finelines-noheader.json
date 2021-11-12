@@ -13,7 +13,8 @@
         "163655130965d6edaa-0": {
           "type": "heading",
           "settings": {
-            "heading": "THE GAME CHANGING SOLUTION TO UNDER-EYE WRINKLES"
+            "heading": "THE GAME CHANGING SOLUTION TO UNDER-EYE WRINKLES",
+            "heading_style": "h1_heading"
           }
         },
         "163655130965d6edaa-1": {
@@ -541,7 +542,8 @@
         "163655170635dd160e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Eye Rejuvenator"
+            "heading": "Eye Rejuvenator",
+            "heading_style": "heading"
           }
         },
         "163655170635dd160e-1": {
