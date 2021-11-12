@@ -19,7 +19,8 @@
         "1635772741deac246f-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Game Changing Solution to Fine Lines & Dark Circles"
+            "heading": "The Game Changing Solution to Fine Lines & Dark Circles",
+            "heading_style": "h1_heading"
           }
         },
         "1635772741deac246f-1": {
@@ -51,6 +52,7 @@
         "image": "shopify:\/\/shop_images\/Header_Image.jpg",
         "desktop_text_box_position": "center",
         "desktop_vertical_position": "flex-start",
+        "text_align": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
@@ -114,7 +116,6 @@
         "1635773765e5c40dca-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/original_21c43d70-df44-4c21-a681-36a86b3075ae.jpg",
             "title": "Maggie, Scottish Highlands",
             "text": "<p>I'm 73 and I love Vice Reversa, it really does great for your under-eyes.<\/p>"
           }
@@ -179,7 +180,6 @@
         "191761a4-b61b-40a0-929f-912f3fa61faf"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1I2A8780_a_cc709da0-fda2-49dd-8239-98217d0eefff.jpg",
         "height": "small",
         "color_scheme": "background-1"
       }
@@ -190,7 +190,6 @@
         "16357752134be0a47a-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_0fa9fc49-ae73-47f5-84eb-0fbfd4088f91.png",
             "title": "Suitable for Sensitive Skin",
             "text": ""
           }
