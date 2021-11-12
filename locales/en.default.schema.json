@@ -1072,6 +1072,15 @@
           "settings": {
             "heading": {
               "label": "Heading"
+            },
+            "heading_style": {
+              "label": "Heading Style",
+              "options__1": {
+                "label": "H2 Heading"
+              },
+              "options__2": {
+                "label": "H1 Heading"
+              }
             }
           }
         },
