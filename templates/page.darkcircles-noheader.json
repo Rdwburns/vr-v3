@@ -578,6 +578,44 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "16368014535c893bcd": {
+      "type": "text-with-background",
+      "blocks": {
+        "163680145304237d4a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "163680145304237d4a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vice Reversa's Microneedle Technology has been specially formulated working alongside export Korean dermatologists. Eye Rejuvenator is an easy fine line and dark circle treatment which you can apply at home. Our patented formulation uses the best natural ingredients for treating dark circles. Eye Rejuvenator is the best alternative to under-eye creams and serums to help you get rid of dark circles under eyes. <\/p>"
+          }
+        },
+        "163680145304237d4a-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163680145304237d4a-0",
+        "163680145304237d4a-1",
+        "163680145304237d4a-2"
+      ],
+      "settings": {
+        "color_background": "#ffffff",
+        "color_border": "#ffffff",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -598,6 +636,7 @@
     "16365515812523f34c",
     "1636551699f73082f6",
     "16365625998ed10f6f",
-    "163655170635dd160e"
+    "163655170635dd160e",
+    "16368014535c893bcd"
   ]
 }
