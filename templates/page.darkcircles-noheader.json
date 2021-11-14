@@ -278,7 +278,7 @@
         "image_ratio": "circle",
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Shop Now",
+        "button_label": "Read More Reviews",
         "button_link": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
         "swipe_on_mobile": false,
         "grid_on_mobile": false
@@ -545,8 +545,8 @@
         "163655170635dd160e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy Now",
-            "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_label_1": "Add to Cart",
+            "button_link_1": "https:\/\/vicereversa-uk.re-peat.shop\/replenish?v=1f850f98227d403abdb783530b19ea32",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
