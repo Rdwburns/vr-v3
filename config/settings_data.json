@@ -32,14 +32,25 @@
           },
           "c2490c2d-2eaa-480a-a83d-285e7d6e0b93": {
             "type": "shipping_bar",
+            "disabled": true,
             "settings": {
               "color_scheme": "vr-default"
+            }
+          },
+          "0bf7656a-b096-4bf2-8eba-657fa8b45364": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "BLACK FRIDAY: 20% off everything with code BF20 at checkout",
+              "color_scheme": "inverse",
+              "link": ""
             }
           }
         },
         "block_order": [
           "e33af555-54e1-46df-a206-f438dc4a1d61",
-          "c2490c2d-2eaa-480a-a83d-285e7d6e0b93"
+          "c2490c2d-2eaa-480a-a83d-285e7d6e0b93",
+          "0bf7656a-b096-4bf2-8eba-657fa8b45364"
         ],
         "settings": {
         }
