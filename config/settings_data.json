@@ -39,6 +39,7 @@
           },
           "0bf7656a-b096-4bf2-8eba-657fa8b45364": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "BLACK FRIDAY: 20% off everything - use code BF20 at checkout",
               "color_scheme": "inverse",
