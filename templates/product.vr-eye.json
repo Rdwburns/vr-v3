@@ -169,6 +169,42 @@
         "more": false
       }
     },
+    "1626903216068cfb52": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Before and After",
+        "review_title": "Tania, 50, 8 Applications (6 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 6 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the microneedle working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1626940710a73ccd9b": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Abbé, 42, 8 Applications (6 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 6 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
     "162748427714eba7e0": {
       "type": "multicolumn",
       "blocks": {
@@ -221,42 +257,6 @@
         "button_link": "",
         "swipe_on_mobile": false,
         "grid_on_mobile": true
-      }
-    },
-    "1626903216068cfb52": {
-      "type": "before-after",
-      "settings": {
-        "heading": "Before and After",
-        "review_title": "Tania, 50, 8 Applications (6 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
-        "after_caption": "After 6 Weeks",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the microneedle working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
-        "button_label": "Button label",
-        "button_link": ""
-      }
-    },
-    "1626940710a73ccd9b": {
-      "type": "before-after",
-      "settings": {
-        "heading": "",
-        "review_title": "Abbé, 42, 8 Applications (6 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
-        "after_caption": "After 6 Weeks",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
-        "button_label": "Button label",
-        "button_link": ""
       }
     },
     "16262053277f68e5df": {
@@ -636,9 +636,9 @@
     "1634292444c9076929",
     "1626248705b8c25b91",
     "1626290450f9c0b3c8",
-    "162748427714eba7e0",
     "1626903216068cfb52",
     "1626940710a73ccd9b",
+    "162748427714eba7e0",
     "16262053277f68e5df",
     "product-recommendations",
     "16282467341f7ecbb2",
