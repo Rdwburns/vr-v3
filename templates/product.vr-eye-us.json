@@ -17,8 +17,8 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "color": "#e72677",
-            "text_style": "subtitle"
+            "text_style": "subtitle",
+            "color": "#e72677"
           }
         },
         "subtitle": {
@@ -26,8 +26,8 @@
           "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
-            "color": "#000000",
-            "text_style": "body"
+            "text_style": "body",
+            "color": "#000000"
           }
         },
         "84bbf6b8-0852-4093-9e08-7f5c915c6ae5": {
@@ -35,8 +35,8 @@
           "disabled": true,
           "settings": {
             "text": "Exclusive pre-order discount! Your order will be shipped on 10\/13.",
-            "color": "#000000",
-            "text_style": "uppercase"
+            "text_style": "uppercase",
+            "color": "#000000"
           }
         },
         "price": {
@@ -75,6 +75,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "hide_variants": false,
         "enable_video_looping": false
       }
     },
@@ -85,7 +86,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Recommended Use",
-            "content": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve and release all of the ingredients. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use, results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>",
+            "content": "<p><strong>Start-Up Program (4 applications) Weeks 1 and 2<\/strong><\/p><p>If you’re new to our patches, the way to go is to start off applying twice a week (but no more than 3 x per week to avoid risk of sensitivity). From the first application Hyaluronic Acid will intensely hydrate and plump and start to smooth out any crepiness. The brightening properties of vitamin c and glutathione will give undereye skin a glowing, transparent quality. The result; tired, bleary eyes will look more wide-awake, making you look distinctly fresher-faced.<\/p><p>Want to see fine lines softening and dark circles brightening? Then you’ll need some more patience, and patches!  <\/p><p><\/p><p><strong>Foundation Program (applications 5-10) Weeks 3 to 6<\/strong><\/p><p>OK, so you’ve finished your first two weeks applications but you’ve set your sights on getting the full range of benefits from our patches. 6 weeks is roughly the time it takes for a skin renewal cycle to turn over, so you’ll want to commit to at least 4 more weekly applications. As the weeks progress peptides will start getting to work on smoother, firmer skin with improved elasticity. Meanwhile, Hyaluronic Acid further plumps, and antioxidant heroes Vitamin C and glutathione continue to brighten and even out skin tone.<\/p><p><\/p><p><strong>Optimisation Program Week 6 onwards<\/strong><\/p><p>Ageing is, unfortunately, an ongoing process so the secret to great skin around your eyes is consistency. Active ingredients such as peptides and vitamin c work progressively, needing regular topping-up to ensure firm, healthy, line-free skin. Using at least once a week, your dividends will include a youthful radiance with visibly reduced fine lines and dark circles.<\/p>",
             "page": "",
             "icon": "none"
           }
