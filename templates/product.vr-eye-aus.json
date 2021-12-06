@@ -68,6 +68,36 @@
         "enable_video_looping": false
       }
     },
+    "1638781842e066e278": {
+      "type": "faq",
+      "blocks": {
+        "c5e18e3a-9b10-4c03-9719-6a465171e534": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p><strong>Start-Up Program (4 applications) Weeks 1 and 2<\/strong><\/p><p>If you’re new to our patches, the way to go is to start off applying twice a week (but no more than 3 x per week to avoid risk of sensitivity). From the first application Hyaluronic Acid will intensely hydrate and plump and start to smooth out any crepiness. The brightening properties of vitamin c and glutathione will give undereye skin a glowing, transparent quality. The result; tired, bleary eyes will look more wide-awake, making you look distinctly fresher-faced.<\/p><p>Want to see fine lines softening and dark circles brightening? Then you’ll need some more patience, and patches!  <\/p><p><\/p><p><strong>Foundation Program (applications 5-10) Weeks 3 to 6<\/strong><\/p><p>OK, so you’ve finished your first two weeks applications but you’ve set your sights on getting the full range of benefits from our patches. 6 weeks is roughly the time it takes for a skin renewal cycle to turn over, so you’ll want to commit to at least 4 more weekly applications. As the weeks progress peptides will start getting to work on smoother, firmer skin with improved elasticity. Meanwhile, Hyaluronic Acid further plumps, and antioxidant heroes Vitamin C and glutathione continue to brighten and even out skin tone.<\/p><p><\/p><p><strong>Optimisation Program Week 6 onwards<\/strong><\/p><p>Ageing is, unfortunately, an ongoing process so the secret to great skin around your eyes is consistency. Active ingredients such as peptides and vitamin c work progressively, needing regular topping-up to ensure firm, healthy, line-free skin. Using at least once a week, your dividends will include a youthful radiance with visibly reduced fine lines and dark circles.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "b74fd8f4-e9b9-459e-a10f-aedc5df6705f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Information",
+            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"https:\/\/vicereversa.co.uk\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" title=\"https:\/\/vicereversa.co.uk\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough Microneedle Technology to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "c5e18e3a-9b10-4c03-9719-6a465171e534",
+        "b74fd8f4-e9b9-459e-a10f-aedc5df6705f"
+      ],
+      "settings": {
+        "heading": "FAQ"
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -139,6 +169,42 @@
         "more": false
       }
     },
+    "1632169642a29ddb29": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Before and After",
+        "review_title": "Tania, 50, 4 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 4 Uses",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "16321696297cb2a199": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Abbé, 42, 3 Applications (2 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 3 Uses",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "This is my third application. I’ve always suffered from under eye shadows and since using I can really see a difference, it’s so much brighter under the eyes and also so much smoother and I can feel a deeper moisturization.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
     "1630667495e3b57b45": {
       "type": "multicolumn",
       "blocks": {
@@ -193,42 +259,6 @@
         "grid_on_mobile": true
       }
     },
-    "1632169642a29ddb29": {
-      "type": "before-after",
-      "settings": {
-        "heading": "Before and After",
-        "review_title": "Tania, 50, 4 Applications (2 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
-        "after_caption": "After 4 Uses",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "I’m in my early 50s and naturally have fine lines. As recommended, I have used Eye Rejuvenator twice a week for the first two weeks and am already starting to see a visible difference to my skin. I will continue to use weekly as part of my routine and look forward to seeing how the results get better over time.",
-        "button_label": "Button label",
-        "button_link": ""
-      }
-    },
-    "16321696297cb2a199": {
-      "type": "before-after",
-      "settings": {
-        "heading": "",
-        "review_title": "Abbé, 42, 3 Applications (2 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
-        "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
-        "after_caption": "After 3 Uses",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first",
-        "mobile_stack": "inline",
-        "review": "This is my third application. I’ve always suffered from under eye shadows and since using I can really see a difference, it’s so much brighter under the eyes and also so much smoother and I can feel a deeper moisturization.",
-        "button_label": "Button label",
-        "button_link": ""
-      }
-    },
     "16306676334fb98a7a": {
       "type": "image-surround",
       "blocks": {
@@ -278,6 +308,7 @@
     },
     "16306676362bdcc2a1": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "16306676361a3677c6-0": {
           "type": "heading",
@@ -360,6 +391,7 @@
     },
     "163066789374079d02": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16306678930909c823-0": {
           "type": "heading",
@@ -396,6 +428,7 @@
     },
     "163066801691ce005c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "163066801602f8cb56-0": {
           "type": "heading",
@@ -575,12 +608,13 @@
   },
   "order": [
     "main",
+    "1638781842e066e278",
     "product-recommendations",
     "1630667350eac58cba",
     "163066738607a4d67e",
-    "1630667495e3b57b45",
     "1632169642a29ddb29",
     "16321696297cb2a199",
+    "1630667495e3b57b45",
     "16306676334fb98a7a",
     "16306676362bdcc2a1",
     "1630667750e5ff8974",
