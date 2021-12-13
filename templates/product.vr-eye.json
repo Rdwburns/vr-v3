@@ -59,6 +59,14 @@
           "settings": {
             "show_dynamic_checkout": false
           }
+        },
+        "d1deca78-edf3-42c6-a075-a3aff8e53067": {
+          "type": "text",
+          "settings": {
+            "text": "Order Before December 17th to get it in time for Christmas!",
+            "text_style": "italic",
+            "color": "#000000"
+          }
         }
       },
       "block_order": [
@@ -70,7 +78,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "d1deca78-edf3-42c6-a075-a3aff8e53067"
       ],
       "settings": {
         "enable_sticky_info": true,
