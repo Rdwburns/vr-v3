@@ -62,6 +62,7 @@
         },
         "d1deca78-edf3-42c6-a075-a3aff8e53067": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Order Before December 17th to get it in time for Christmas!",
             "text_style": "italic",
