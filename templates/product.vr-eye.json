@@ -197,6 +197,24 @@
         "button_link": ""
       }
     },
+    "16419186068ffb2db6": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Dorothy, 50's, 10 APPLICATIONS",
+        "before_image": "shopify:\/\/shop_images\/D-Besfore.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/D-After.jpg",
+        "after_caption": "After 6 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’ve tried multiple products and nothing seems to work. I’m noticing dark circles which I’m really not liking its making me look older. After 6 weeks my eyes are noticeably brighter, and the dark circles are disappearing which is nice to see and the lines around my eyes have softened. I’m going to continue to use weekly to maintain my results and also to see how they continue to improve over time.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
     "1626940710a73ccd9b": {
       "type": "before-after",
       "settings": {
@@ -647,6 +665,7 @@
     "1626248705b8c25b91",
     "1626290450f9c0b3c8",
     "1626903216068cfb52",
+    "16419186068ffb2db6",
     "1626940710a73ccd9b",
     "162748427714eba7e0",
     "16262053277f68e5df",
