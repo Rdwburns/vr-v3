@@ -13,7 +13,8 @@
         "163429427349f9c8d4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Precision Microneedle Skincare Products"
+            "heading": "Dissolving Microneedle PatChes, Next Level Skincare",
+            "heading_style": "heading"
           }
         },
         "163429427349f9c8d4-2": {
@@ -43,8 +44,10 @@
         "163429427349f9c8d4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_3000_new_v7.png",
+        "image": "shopify:\/\/shop_images\/Desktop_1.jpg",
         "desktop_text_box_position": "center",
+        "desktop_vertical_position": "center",
+        "text_align": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": false,
         "adapt_height_first_image": false
