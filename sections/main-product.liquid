@@ -389,6 +389,20 @@
                     data-description="{{ product.description | escape }}"
                     data-bread-crumbs="{% for tag in product.tags %}{{ tag | escape }};{% endfor %}">
                     </span>
+                {% elsif shop.permanent_domain == 'vicereversa-ie.myshopify.com' %}
+                    <span 
+                    style="display: inline-block;"
+                    class="yotpo bottomLine"
+                    data-appkey="bcOPk991NaUrF0hGtagIBeGqaRafpIeT81EcVC3l"
+                    data-domain="{{ shop.permanent_domain | escape }}"
+                    data-product-id="{{ product.id }}"
+                    data-product-models="{{ product.id }}"
+                    data-name="{{ product.title | escape }}"
+                    data-url="{{ shop.url }}{{ product.url }}"
+                    data-image-url="{{ product.featured_image | img_url: 'large' | replace: '?', '%3F' | replace: '&', '%26' }}"
+                    data-description="{{ product.description | escape }}"
+                    data-bread-crumbs="{% for tag in product.tags %}{{ tag | escape }};{% endfor %}">
+                    </span>
                 {% endif %}
           {%- endcase -%}
         {%- endfor -%}
