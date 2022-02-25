@@ -616,6 +616,44 @@
       "settings": {
         "heading": ""
       }
+    },
+    "164578763484ac3411": {
+      "type": "text-with-background",
+      "blocks": {
+        "16457876340af4da08-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "16457876340af4da08-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Results may vary from those shown or described. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.<\/p>"
+          }
+        },
+        "16457876340af4da08-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16457876340af4da08-0",
+        "16457876340af4da08-1",
+        "16457876340af4da08-2"
+      ],
+      "settings": {
+        "color_background": "#ffffff",
+        "color_border": "#ffffff",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -635,6 +673,7 @@
     "1630668022cab0cd42",
     "1630668062b8a6dbc5",
     "163344909955aa512e",
-    "16306681249299ca0a"
+    "16306681249299ca0a",
+    "164578763484ac3411"
   ]
 }
