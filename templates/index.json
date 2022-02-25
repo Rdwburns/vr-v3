@@ -279,6 +279,44 @@
         "swipe_on_mobile": false,
         "grid_on_mobile": false
       }
+    },
+    "1645787117971924bb": {
+      "type": "text-with-background",
+      "blocks": {
+        "164578711755ee88d1-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "164578711755ee88d1-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "164578711755ee88d1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164578711755ee88d1-0",
+        "164578711755ee88d1-1",
+        "164578711755ee88d1-2"
+      ],
+      "settings": {
+        "color_background": "#e4e4e4",
+        "color_border": "#ffffff",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -288,6 +326,7 @@
     "162826528758e4667d",
     "1627478021f2611bd4",
     "1626972980f1b89adb",
-    "1627485247b9c2be22"
+    "1627485247b9c2be22",
+    "1645787117971924bb"
   ]
 }
