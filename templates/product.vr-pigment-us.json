@@ -18,16 +18,16 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "color": "#7f3386",
-            "text_style": "subtitle"
+            "text_style": "subtitle",
+            "color": "#7f3386"
           }
         },
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
-            "color": "#000000",
-            "text_style": "italic"
+            "text_style": "italic",
+            "color": "#000000"
           }
         },
         "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
@@ -35,8 +35,8 @@
           "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields.product_quote.value }}",
-            "color": "#000000",
-            "text_style": "quote"
+            "text_style": "quote",
+            "color": "#000000"
           }
         },
         "1a32cc72-bb9f-4b5b-94af-0d9be0a008e5": {
@@ -44,8 +44,8 @@
           "disabled": true,
           "settings": {
             "text": "Exclusive pre-order discount! Your order will be shipped on 10\/15.",
-            "color": "#000000",
-            "text_style": "uppercase"
+            "text_style": "uppercase",
+            "color": "#000000"
           }
         },
         "price": {
@@ -85,6 +85,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "hide_variants": false,
         "enable_video_looping": false
       }
     },
@@ -548,35 +549,6 @@
         "more": false
       }
     },
-    "16269032410f2256e7": {
-      "type": "collage-how-to",
-      "disabled": true,
-      "blocks": {
-        "16269032410f2256e7-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video for customers using screen readers",
-            "image_padding": false
-          }
-        },
-        "f04bfab5-2596-4e17-82f9-e1729e53353d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>1.Cleanse and dry your face thoroughly. This will help the microneedles to attach properly to your skin.<\/p><p>2.Remove the thin plastic film from each eye mask – careful not to touch those magic microneedles in the centre.<\/p><p>3.Gently place onto the under-eye area and press the mask into skin to activate the microneedles. Do not rub.<\/p><p>4.Leave on for at least two hours, allowing your skin to absorb the ingredients. Remove and discard when done.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16269032410f2256e7-0",
-        "f04bfab5-2596-4e17-82f9-e1729e53353d"
-      ],
-      "settings": {
-        "heading": "How to Apply",
-        "desktop_layout": "left",
-        "mobile_layout": "collage-how-to"
-      }
-    },
     "162627080538092e1b": {
       "type": "faq",
       "disabled": true,
@@ -717,7 +689,6 @@
     },
     "16269033832bed337e": {
       "type": "product-reviews",
-      "disabled": true,
       "settings": {
         "heading": "Customer Reviews"
       }
@@ -831,6 +802,44 @@
         "image_ratio": "adapt",
         "swipe_on_mobile": true
       }
+    },
+    "16457877303f04ea05": {
+      "type": "text-with-background",
+      "blocks": {
+        "16457877305c851c4f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "16457877305c851c4f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Results may vary from those shown or described. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.<\/p>"
+          }
+        },
+        "16457877305c851c4f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16457877305c851c4f-0",
+        "16457877305c851c4f-1",
+        "16457877305c851c4f-2"
+      ],
+      "settings": {
+        "color_background": "#ffffff",
+        "color_border": "#ffffff",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -849,10 +858,10 @@
     "1626170242ffa87f4b",
     "1626170247b0785461",
     "16262976340da42008",
-    "16269032410f2256e7",
     "162627080538092e1b",
     "16269033832bed337e",
     "162824594567c2397d",
-    "1626334150955f5504"
+    "1626334150955f5504",
+    "16457877303f04ea05"
   ]
 }
