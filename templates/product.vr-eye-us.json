@@ -25,7 +25,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
-            "text_style": "body",
+            "text_style": "italic",
             "color": "#000000"
           }
         },
