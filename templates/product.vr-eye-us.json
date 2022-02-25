@@ -23,7 +23,6 @@
         },
         "subtitle": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
             "text_style": "body",
