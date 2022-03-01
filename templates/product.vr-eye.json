@@ -31,7 +31,6 @@
         },
         "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields.product_quote.value }}",
             "text_style": "quote",
@@ -47,6 +46,14 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
+          }
+        },
+        "772619c3-44b6-4f34-a14c-5374b3a66243": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "How many should I get?",
+            "page": "about-us"
           }
         },
         "quantity_selector": {
@@ -78,6 +85,7 @@
         "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "price",
         "variant_picker",
+        "772619c3-44b6-4f34-a14c-5374b3a66243",
         "quantity_selector",
         "buy_buttons",
         "d1deca78-edf3-42c6-a075-a3aff8e53067"
