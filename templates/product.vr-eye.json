@@ -45,7 +45,7 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "772619c3-44b6-4f34-a14c-5374b3a66243": {
@@ -92,7 +92,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "hide_variants": true,
+        "hide_variants": false,
         "enable_video_looping": true
       }
     },
