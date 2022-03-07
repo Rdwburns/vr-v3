@@ -54,9 +54,9 @@
     margin: 0;
   }
 
-  .before-after-headline {
+/*  .before-after-headline {
     justify-content: flex-start;
-  }
+  } */
   
 
   @media screen and (min-width: 750px) {
