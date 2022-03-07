@@ -34,6 +34,14 @@
           "settings": {
           }
         },
+        "cf98b4cb-54ac-4858-a131-93bf55443e25": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping to Australia and NZ",
+            "text_style": "uppercase",
+            "color": "#000000"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -58,6 +66,7 @@
         "vendor",
         "subtitle",
         "price",
+        "cf98b4cb-54ac-4858-a131-93bf55443e25",
         "variant_picker",
         "quantity_selector",
         "buy_buttons"
