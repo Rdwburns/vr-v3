@@ -10,6 +10,7 @@
         },
         "7d1867d2-c126-4541-8096-fd2e44496654": {
           "type": "fomo",
+          "disabled": true,
           "settings": {
           }
         },
