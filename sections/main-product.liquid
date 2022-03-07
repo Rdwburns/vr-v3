@@ -77,7 +77,7 @@
           {%- case block.type -%}
           {%- when 'fomo' -%}
             <div class="fomo-inline" data-aid="57937" style="display: none;" data-min-count-to-show="6">
-              🔥 {{ visitor_count }} users have viewed this product recently
+              {{ block.settings.text }}
             </div>
             <script async src="https://load.fomo.com/widget/inline/57937.js"></script>
           {%- when '@app' -%}
@@ -874,6 +874,12 @@
     {
       "type": "fomo",
       "name": "t:sections.main-product.blocks.fomo.name",
+      "settings": [
+      {
+        "type": "text",
+        "label": "t:sections.main-product.blocks.fomo.text.label"
+      }
+      ]
       "limit": 1
     }
   ],

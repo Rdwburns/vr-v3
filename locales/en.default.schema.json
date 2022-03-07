@@ -1738,7 +1738,12 @@
           "name": "Review Stars"
         },
         "fomo": {
-          "name": "FOMO"
+          "name": "FOMO",
+          "settings": {
+            "text": {
+              "label": "Text"
+            }
+          }
         },
         "custom-liquid": {
           "name": "Custom Liquid"
