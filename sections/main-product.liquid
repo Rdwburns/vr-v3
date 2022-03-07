@@ -76,10 +76,10 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
           {%- when 'fomo' -%}
-            <div style="font-size: 13px;color: #000; margin-top:0" class="fomo-inline" data-aid="57937" style="display: none;" data-min-count-to-show="2">
-              🔥 {{ visitor_count }} users have viewed this product recently
+            <div class="fomo-inline" data-aid="57942" style="display: none;" data-min-count-to-show="1">
+            {{ count }} people bought this in the last 24 hours
             </div>
-            <script async src="https://load.fomo.com/widget/inline/57937.js"></script>
+            <script async src="https://load.fomo.com/widget/inline/57942.js"></script>
           {%- when '@app' -%}
             {% render block %}
           {%- when 'text' -%}
