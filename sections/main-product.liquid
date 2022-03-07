@@ -75,6 +75,11 @@
 
         {%- for block in section.blocks -%}
           {%- case block.type -%}
+          {%- when 'fomo' -%}
+            <div class="fomo-inline" data-aid="57937" style="display: none;" data-min-count-to-show="1">
+              {{ visitor_count }} users are viewing this just now
+            </div>
+            <script async src="https://load.fomo.com/widget/inline/57937.js"></script>
           {%- when '@app' -%}
             {% render block %}
           {%- when 'text' -%}
@@ -864,6 +869,11 @@
     {
       "type": "review-stars",
       "name": "t:sections.main-product.blocks.review-stars.name",
+      "limit": 1
+    },
+    {
+      "type": "fomo",
+      "name": "t:sections.main-product.blocks.fomo.name",
       "limit": 1
     }
   ],
