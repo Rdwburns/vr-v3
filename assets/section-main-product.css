@@ -270,7 +270,6 @@ a.product__text {
 }
 
 .product .price {
-  align-items: flex-start;
   font-family: 'GothamBold';
   font-size: 18pt;
   letter-spacing: 0.2em;
