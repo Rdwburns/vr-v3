@@ -807,13 +807,20 @@ summary::-webkit-details-marker {
 
 .title-wrapper-with-link {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-end;
   gap: 1rem;
   margin: 4rem 0 3rem;
   flex-wrap: wrap;
 }
 
+@media screen and (max-width: 750px) {
+
+.title-wrapper-with-link {
+  justify-content: space-around;
+  }
+}  
+  
 .title--primary {
   margin: 4rem 0;
 }
