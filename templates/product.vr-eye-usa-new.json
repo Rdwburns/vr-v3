@@ -39,7 +39,7 @@
         "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
           "type": "text",
           "settings": {
-            "text": "Dispatched Immediately. Free UK Shipping.",
+            "text": "Free Mainland US Shipping.",
             "text_style": "uppercase",
             "color": "#000000"
           }
@@ -129,7 +129,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "More Information",
-            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" target=\"_blank\" title=\"How to Treat Dark Circles Under the Eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough <a href=\"\/blogs\/news\/what-are-microneedle-patches\" target=\"_blank\" title=\"What Are Microneedle Patches and How Do They Work?\">Microneedle Technology<\/a> to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
+            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including dark circles, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough Microneedle Technology to deliver concentrated hydration effectively in the skin.<\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within.<\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -330,7 +330,7 @@
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+            "text": "<p><\/p><p><strong>NO WATER<\/strong><\/p><p>Our patches contain only minimal water, so no ingredients are wasted on your hands or outside your skin.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
@@ -416,7 +416,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Peptides_Needle2.jpg",
             "title": "Peptides",
-            "text": "<p><a href=\"\/blogs\/news\/collagen-peptides-for-skincare\" target=\"_blank\" title=\"Collagen peptides for skincare\">Peptides<\/a> are known for their ability to stimulate collagen production, which is important for firm-looking skin. We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
+            "text": "<p>Peptides are known for their ability to stimulate collagen production, which is important for firm-looking skin. We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
           }
         },
         "1626170270666543f7-1": {
@@ -424,7 +424,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Hyaluronic_Needle2.jpg",
             "title": "Hyaluronic Acid",
-            "text": "<p><a href=\"\/blogs\/news\/hyaluronic-acid-skincare-effects-benefits\" target=\"_blank\" title=\"What is hyaluronic acid and what does it do for my skin?\">Hyaluronic Acid<\/a> helps the skin retain its moisture, resulting in hydrated, nourished and plumper-looking skin. <\/p>"
+            "text": "<p>Hyaluronic Acid helps the skin retain its moisture, resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
         },
         "1626170270666543f7-2": {
@@ -432,7 +432,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/VIT_C_Needle2.jpg",
             "title": "Vitamin C",
-            "text": "<p><a href=\"\/blogs\/news\/vitamin-c-for-skincare\" title=\"Vitamin C for Skincare\">Vitamin C<\/a> is an antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
+            "text": "<p>Vitamin C is an antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
           }
         }
       },
@@ -655,7 +655,7 @@
         "223a2ffc-d74a-46c7-b667-e5908de6430c": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shopping Outside of the UK?",
+            "heading": "Shopping Outside of the US?",
             "content": "",
             "page": "international-shipping-information",
             "icon": "none"
@@ -682,6 +682,43 @@
       "settings": {
         "heading": ""
       }
+    },
+    "1646779457cf952686": {
+      "type": "rich-text",
+      "blocks": {
+        "164677945735985839-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "164677945735985839-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Results may vary from those shown or described. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.<\/p>"
+          }
+        },
+        "164677945735985839-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164677945735985839-0",
+        "164677945735985839-1",
+        "164677945735985839-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -700,6 +737,7 @@
     "16262976340da42008",
     "162627080538092e1b",
     "16269033832bed337e",
-    "16281713360ba03071"
+    "16281713360ba03071",
+    "1646779457cf952686"
   ]
 }
