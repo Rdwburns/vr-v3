@@ -49,14 +49,6 @@
           "settings": {
           }
         },
-        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
-          "type": "text",
-          "settings": {
-            "text": "Dispatched Immediately. Free UK Shipping.",
-            "text_style": "uppercase",
-            "color": "#000000"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -74,6 +66,14 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+          }
+        },
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
+          "type": "text",
+          "settings": {
+            "text": "Dispatched Immediately. Free UK Shipping.",
+            "text_style": "uppercase",
+            "color": "#000000"
           }
         },
         "d1deca78-edf3-42c6-a075-a3aff8e53067": {
@@ -100,10 +100,10 @@
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
         "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "price",
-        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "variant_picker",
         "772619c3-44b6-4f34-a14c-5374b3a66243",
         "quantity_selector",
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "d1deca78-edf3-42c6-a075-a3aff8e53067",
         "buy_buttons"
       ],
