@@ -8,14 +8,6 @@
           "settings": {
           }
         },
-        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
-          "type": "text",
-          "settings": {
-            "text": "🔥   65 people have viewed this recently",
-            "text_style": "uppercase",
-            "color": "#000000"
-          }
-        },
         "30fa4e8c-e91b-4623-b287-765a637edbd4": {
           "type": "fomo",
           "disabled": true,
@@ -41,6 +33,14 @@
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
             "text_style": "italic",
+            "color": "#000000"
+          }
+        },
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
+          "type": "text",
+          "settings": {
+            "text": "🔥   65 people have viewed this recently",
+            "text_style": "uppercase",
             "color": "#000000"
           }
         },
@@ -94,11 +94,11 @@
       },
       "block_order": [
         "dc8e1b3d-d5c1-469d-9647-2fc11bce375a",
-        "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "30fa4e8c-e91b-4623-b287-765a637edbd4",
         "title",
         "subtitle",
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "price",
         "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "variant_picker",
