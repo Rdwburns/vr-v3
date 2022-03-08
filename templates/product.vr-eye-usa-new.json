@@ -1,0 +1,705 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a": {
+          "type": "review-stars",
+          "settings": {
+          }
+        },
+        "30fa4e8c-e91b-4623-b287-765a637edbd4": {
+          "type": "fomo",
+          "disabled": true,
+          "settings": {
+            "text": "🔥   users have viewed this product recently"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle",
+            "color": "#d63b78"
+          }
+        },
+        "a6d28a41-e904-4f31-82fa-195a5ae6f20b": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields.product_short_description.value }}",
+            "text_style": "italic",
+            "color": "#000000"
+          }
+        },
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
+          "type": "text",
+          "settings": {
+            "text": "Dispatched Immediately. Free UK Shipping.",
+            "text_style": "uppercase",
+            "color": "#000000"
+          }
+        },
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
+          "type": "text",
+          "settings": {
+            "text": "🔥   65 people have viewed this recently.",
+            "text_style": "uppercase",
+            "color": "#000000"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "772619c3-44b6-4f34-a14c-5374b3a66243": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "How many should I get?",
+            "page": "about-us"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "d1deca78-edf3-42c6-a075-a3aff8e53067": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "All Payments Processed 100% Securely.",
+            "text_style": "uppercase",
+            "color": "#000000"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        }
+      },
+      "block_order": [
+        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a",
+        "30fa4e8c-e91b-4623-b287-765a637edbd4",
+        "title",
+        "subtitle",
+        "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506",
+        "price",
+        "variant_picker",
+        "772619c3-44b6-4f34-a14c-5374b3a66243",
+        "quantity_selector",
+        "d1deca78-edf3-42c6-a075-a3aff8e53067",
+        "buy_buttons"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": true
+      }
+    },
+    "1634292444c9076929": {
+      "type": "faq",
+      "blocks": {
+        "3e37c3fe-831d-40a0-adea-3a265e87f6e4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Recommended Use",
+            "content": "<p><strong>Start-Up Program (4 applications) Weeks 1 and 2<\/strong><\/p><p>If you’re new to our patches, the way to go is to start off applying twice a week (but no more than 3 x per week to avoid risk of sensitivity). From the first application Hyaluronic Acid will intensely hydrate and plump and start to smooth out any crepiness. The brightening properties of vitamin c and glutathione will give undereye skin a glowing, transparent quality. The result; tired, bleary eyes will look more wide-awake, making you look distinctly fresher-faced.<\/p><p>Want to see fine lines softening and dark circles brightening? Then you’ll need some more patience, and patches!  <\/p><p><\/p><p><strong>Foundation Program (applications 5-10) Weeks 3 to 6<\/strong><\/p><p>OK, so you’ve finished your first two weeks applications but you’ve set your sights on getting the full range of benefits from our patches. 6 weeks is roughly the time it takes for a skin renewal cycle to turn over, so you’ll want to commit to at least 4 more weekly applications. As the weeks progress peptides will start getting to work on smoother, firmer skin with improved elasticity. Meanwhile, Hyaluronic Acid further plumps, and antioxidant heroes Vitamin C and glutathione continue to brighten and even out skin tone.<\/p><p><\/p><p><strong>Optimisation Program Week 6 onwards<\/strong><\/p><p>Ageing is, unfortunately, an ongoing process so the secret to great skin around your eyes is consistency. Active ingredients such as peptides and vitamin c work progressively, needing regular topping-up to ensure firm, healthy, line-free skin. Using at least once a week, your dividends will include a youthful radiance with visibly reduced fine lines and dark circles.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Information",
+            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" target=\"_blank\" title=\"How to Treat Dark Circles Under the Eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough <a href=\"\/blogs\/news\/what-are-microneedle-patches\" target=\"_blank\" title=\"What Are Microneedle Patches and How Do They Work?\">Microneedle Technology<\/a> to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "3e37c3fe-831d-40a0-adea-3a265e87f6e4",
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    },
+    "1626248705b8c25b91": {
+      "type": "multicolumn-icons",
+      "blocks": {
+        "1626248705b8c25b91-2": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Delivery System",
+            "text": "<p>Pyramid-shaped microneedles ensure painless penetration of the skin and fast absorption of the active ingredients deeper down, where it counts. <\/p>"
+          }
+        },
+        "1626248705b8c25b91-0": {
+          "type": "column",
+          "settings": {
+            "title": "Smoother, Firmer Skin",
+            "text": "<p>2600 ultra-fine needles deliver 3 key pro-collagen peptides and adenosine for tighter, more youthful skin.<\/p>"
+          }
+        },
+        "1626248705b8c25b91-1": {
+          "type": "column",
+          "settings": {
+            "title": "Brighten Dark Circles",
+            "text": "<p>A concentrated blend of Hyaluronic Acid, Vitamin C and Glutathione plump and even out skin tone for a glowing complexion<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626248705b8c25b91-2",
+        "1626248705b8c25b91-0",
+        "1626248705b8c25b91-1"
+      ],
+      "settings": {
+        "title": "Why Eye Rejuvenator?",
+        "background_style": "pink"
+      }
+    },
+    "1626290450f9c0b3c8": {
+      "type": "quote",
+      "blocks": {
+        "1626290450f9c0b3c8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "REVOLUTIONARY, EFFECTIVE AND PAINLESS"
+          }
+        },
+        "e4c8271d-6159-46b3-b0f0-c5891c9f5aac": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/telegraph_logo_rectangle.png",
+            "height": "adapt"
+          }
+        }
+      },
+      "block_order": [
+        "1626290450f9c0b3c8-0",
+        "e4c8271d-6159-46b3-b0f0-c5891c9f5aac"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "1626903216068cfb52": {
+      "type": "before-after",
+      "settings": {
+        "heading": "Before and After",
+        "review_title": "Tania, 50, 8 Applications (6 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_caption": "After 6 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the microneedle working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "16419186068ffb2db6": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Dorothy, 50's, 10 APPLICATIONS",
+        "before_image": "shopify:\/\/shop_images\/D-Besfore.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/D-After.jpg",
+        "after_caption": "After 6 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "I’ve tried multiple products and nothing seems to work. I’m noticing dark circles which I’m really not liking its making me look older. After 6 weeks my eyes are noticeably brighter, and the dark circles are disappearing which is nice to see and the lines around my eyes have softened. I’m going to continue to use weekly to maintain my results and also to see how they continue to improve over time.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "1626940710a73ccd9b": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Abbé, 42, 8 Applications (6 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_caption": "After 6 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "What I can always see right away is a brightening of the shadows and lightening my dark circles. It’s unbelievable just how much lighter they are. The skin looks so much hydrated which has really helped to reduce the crepiness of my skin and soften the lines.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
+    "162748427714eba7e0": {
+      "type": "multicolumn",
+      "blocks": {
+        "162748427714eba7e0-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "title": "Vegan",
+            "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
+          }
+        },
+        "162748427714eba7e0-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "title": "No Nasties",
+            "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
+          }
+        },
+        "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "title": "Ultra-Low Water",
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+          }
+        },
+        "162748427714eba7e0-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_0fa9fc49-ae73-47f5-84eb-0fbfd4088f91.png",
+            "title": "Totally Painless",
+            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "162748427714eba7e0-0",
+        "162748427714eba7e0-2",
+        "be18d4b1-7f75-4ef3-8765-bbbed38ed574",
+        "162748427714eba7e0-1"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": true
+      }
+    },
+    "16262053277f68e5df": {
+      "type": "image-surround",
+      "blocks": {
+        "16262053277f68e5df-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "16262053277f68e5df-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+          }
+        },
+        "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+          }
+        },
+        "f38976e4-b244-4ad1-a741-c2878db66fc3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+          }
+        },
+        "f681b201-8329-477e-9561-801502724c66": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Fast-melting<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16262053277f68e5df-0",
+        "16262053277f68e5df-1",
+        "b91060dc-6eba-44de-94ff-9b84d8f5b06d",
+        "f38976e4-b244-4ad1-a741-c2878db66fc3",
+        "f681b201-8329-477e-9561-801502724c66"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alternative_Needle_PDP.png",
+        "height": "adapt",
+        "color_scheme": "background-1"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    },
+    "16282467341f7ecbb2": {
+      "type": "text-with-background",
+      "disabled": true,
+      "blocks": {
+        "16282467341f7ecbb2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recommended Use",
+            "heading_size": "small"
+          }
+        },
+        "16282467341f7ecbb2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For best results, we recommend using twice per week for two weeks, then weekly. Leave on for at least 2 hours to allow the microneedles to fully dissolve and release all of the ingredients. <\/p><p>Upon removal you should notice immediate hydrating and brightening effects and, after 4-6 weeks, visible improvement on fine lines. With continued use, results will get better over time.<\/p><p>Can also be used as an occasional “SOS plump-up treatment” to give a revitalising, hydrating and brightening effect when you feel you need or deserve it.<\/p><p>To avoid potential sensitivity from the microneedles we recommend you do not use more than 3 times per week.<\/p>"
+          }
+        },
+        "16282467341f7ecbb2-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16282467341f7ecbb2-0",
+        "16282467341f7ecbb2-1",
+        "16282467341f7ecbb2-2"
+      ],
+      "settings": {
+        "color_background": "#ffdae3",
+        "color_border": "#e72677",
+        "full_width": false
+      }
+    },
+    "1626170270666543f7": {
+      "type": "multicolumn",
+      "blocks": {
+        "1626170270666543f7-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Peptides_Needle2.jpg",
+            "title": "Peptides",
+            "text": "<p><a href=\"\/blogs\/news\/collagen-peptides-for-skincare\" target=\"_blank\" title=\"Collagen peptides for skincare\">Peptides<\/a> are known for their ability to stimulate collagen production, which is important for firm-looking skin. We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
+          }
+        },
+        "1626170270666543f7-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hyaluronic_Needle2.jpg",
+            "title": "Hyaluronic Acid",
+            "text": "<p><a href=\"\/blogs\/news\/hyaluronic-acid-skincare-effects-benefits\" target=\"_blank\" title=\"What is hyaluronic acid and what does it do for my skin?\">Hyaluronic Acid<\/a> helps the skin retain its moisture, resulting in hydrated, nourished and plumper-looking skin. <\/p>"
+          }
+        },
+        "1626170270666543f7-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VIT_C_Needle2.jpg",
+            "title": "Vitamin C",
+            "text": "<p><a href=\"\/blogs\/news\/vitamin-c-for-skincare\" title=\"Vitamin C for Skincare\">Vitamin C<\/a> is an antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1626170270666543f7-0",
+        "1626170270666543f7-1",
+        "1626170270666543f7-2"
+      ],
+      "settings": {
+        "title": "Key Ingredients",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "grid_on_mobile": false
+      }
+    },
+    "16262976340da42008": {
+      "type": "quote",
+      "disabled": true,
+      "blocks": {
+        "16262976340da42008-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "THIS 'MIRACLE' PRODUCT COULD BE THE SOLUTION WE'RE ALL SEARCHING FOR."
+          }
+        },
+        "16262976340da42008-1": {
+          "type": "source",
+          "settings": {
+            "source": "<p>The Sun<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16262976340da42008-0",
+        "16262976340da42008-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "more": false
+      }
+    },
+    "162627080538092e1b": {
+      "type": "faq",
+      "blocks": {
+        "cb54a1b4-576f-4f13-a32a-0145ca6de647": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "What are microneedles?",
+            "content": "<p>Microneedles are – quite literally – microscopic needles made from crystallised serum of our skin-boosting ingredients. When the microneedles meet the skin the needles fully dissolve releasing the ingredients beneath the skin where they can be most effective delivering powerful and longer-lasting results.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "68fbae2d-c403-44bd-8ab8-88ae09d01b00": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Do the microneedles hurt?",
+            "content": "<p>No, microneedle patches are completely painless. Microneedles used in at-home procedures are much smaller than those used by dermatologists, making them safe and straightforward to use. <\/p><p>You may feel a slight sensation when you first press the patch onto the skin, followed by a warm tingle as the microneedles begin to dissolve.  <\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "1c04b4ee-dc7b-4749-b1f2-c095dd106588": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Do the microneedles damage the skin?",
+            "content": "<p>Absolutely not. Our microneedle patches use ultra-fine microscopic microneedles, which are designed to gently penetrate the skin resulting in no pain, damage or trauma.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "e81d8fcd-dcd7-46b1-9341-c3186dca38f6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the Eye Rejuvenator patches reusable?",
+            "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "286d8c0c-1519-43df-86e6-69d68b85ce06": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are the Eye Rejuvenator patches vegan?",
+            "content": "<p>Yes, our Eye Rejuvenator patches are fully vegan. Our formula uses peptides to boost the skin’s natural collagen production, instead of collagen protein, which is mostly derived from animal sources.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "47d059da-84d0-4db9-8a2e-078cb4c2ed8e": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Can I use Eye Rejuvenator patches with Filler or Botox?",
+            "content": "<p>Absolutely. The Eye Rejuvenator patches gently penetrate the skin to allow active ingredients to reach the epidermis layers beneath the surface. Similarly, fillers are subcutaneous and are applied beneath the skin’s epidermis.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "cce384b9-4bdb-4bae-863e-6aa44fe61b6c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Will Eye Rejuvenator patches work on dark circles?",
+            "content": "<p>Yes, our formula contains vitamin C, which is an antioxidant that fights free radicals in the skin, known to cause ageing, hyperpigmentation and dark circles. It brightens the skin while hyaluronic acid works to plump and hydrate the under-eye area.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "34f2c89a-7817-47f0-a67c-5714acfe86fd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Will Eye Rejuvenator patches help with under eye bags?",
+            "content": "<p>No, the Eye Rejuvenator patches have unique properties, which are specifically designed to reduce fine lines and wrinkles. They are also formulated to hydrate and rejuvenate the skin, resulting in a plumper, smoother and youthful complexion.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "e473012e-e4b4-47fa-978f-c715a4062929": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When can I expect to see results?",
+            "content": "<p>It differs for everyone, but you may start seeing results straight away. From one application you can expect to see deeper hydration around the eye area, but it may take between 6 - 8 applications to see significant results.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "6dafca75-5813-4441-a839-64a16211f4d2": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Are Eye Rejuvenator patches an alternative to Botox?",
+            "content": "<p>Vice Reversa aims to hydrate, nourish and rejuvenate the skin from within, helping restore collagen and elastin for a brighter, hydrated complexion. The Eye Rejuvenator patches are not an alternative to Botox, but are effective in improving the appearance of fine lines and wrinkles with continued use.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "827f105e-c9ea-40cf-98cb-afa3be7cbbe0": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "How do I add Eye Rejuvenator patches to my skincare routine?",
+            "content": "<p>It’s easy to add our patches to any skincare routine, as they are simple to use and hassle-free. For best results, use twice weekly for the first fortnight, and then once a week from then on.<\/p><p>We always recommend applying the patches directly after cleansing to dry skin (before applying any serums or moisturisers). Once applied, you can carry on with your normal daily routine. It’s important to leave the patches on for at least two hours to give the microneedles time to fully dissolve.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "8d58dc27-f35c-40d0-90af-bc6fe9cb0e72": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "How long do I have to wear Eye Rejuvenator patches for?",
+            "content": "<p>The patches need to be worn for a minimum of two hours to allow the microneedles to dissolve and release all the active ingredients. They can also be worn overnight if preferred. <\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "cb54a1b4-576f-4f13-a32a-0145ca6de647",
+        "68fbae2d-c403-44bd-8ab8-88ae09d01b00",
+        "1c04b4ee-dc7b-4749-b1f2-c095dd106588",
+        "e81d8fcd-dcd7-46b1-9341-c3186dca38f6",
+        "286d8c0c-1519-43df-86e6-69d68b85ce06",
+        "47d059da-84d0-4db9-8a2e-078cb4c2ed8e",
+        "cce384b9-4bdb-4bae-863e-6aa44fe61b6c",
+        "34f2c89a-7817-47f0-a67c-5714acfe86fd",
+        "e473012e-e4b4-47fa-978f-c715a4062929",
+        "6dafca75-5813-4441-a839-64a16211f4d2",
+        "827f105e-c9ea-40cf-98cb-afa3be7cbbe0",
+        "8d58dc27-f35c-40d0-90af-bc6fe9cb0e72"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions"
+      }
+    },
+    "16269033832bed337e": {
+      "type": "product-reviews",
+      "settings": {
+        "heading": "What people say"
+      }
+    },
+    "16281713360ba03071": {
+      "type": "faq",
+      "blocks": {
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Full Ingredients",
+            "content": "<p>{{ product.metafields.my_fields.ingredients.value }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Information",
+            "content": "",
+            "page": "shipping-information",
+            "icon": "none"
+          }
+        },
+        "264197d3-38b5-4d2f-91f7-d829d8cfbc36": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns Information",
+            "content": "",
+            "page": "returns-information",
+            "icon": "none"
+          }
+        },
+        "223a2ffc-d74a-46c7-b667-e5908de6430c": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shopping Outside of the UK?",
+            "content": "",
+            "page": "international-shipping-information",
+            "icon": "none"
+          }
+        },
+        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Any Questions?",
+            "content": "",
+            "page": "",
+            "icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "7eba25f2-92ac-4fc2-b8e6-33773f71e083",
+        "ff14d247-0f9a-429d-b2f8-3cacf2b4bf6e",
+        "264197d3-38b5-4d2f-91f7-d829d8cfbc36",
+        "223a2ffc-d74a-46c7-b667-e5908de6430c",
+        "7c7ac7bb-c7a8-45b3-9e5a-f511468fa281"
+      ],
+      "settings": {
+        "heading": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1634292444c9076929",
+    "1626248705b8c25b91",
+    "1626290450f9c0b3c8",
+    "1626903216068cfb52",
+    "16419186068ffb2db6",
+    "1626940710a73ccd9b",
+    "162748427714eba7e0",
+    "16262053277f68e5df",
+    "product-recommendations",
+    "16282467341f7ecbb2",
+    "1626170270666543f7",
+    "16262976340da42008",
+    "162627080538092e1b",
+    "16269033832bed337e",
+    "16281713360ba03071"
+  ]
+}
