@@ -235,7 +235,7 @@
         "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_13.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     }
   },
