@@ -2335,6 +2335,9 @@ main#MainContent {
   background-color:#F0D9CC;
 }
 
-.tips-image {
-  max-width: 100%;
+@media screen and (max-width: 751px) {
+
+  .tips-image {
+    max-width:100%;
+  }
 }
