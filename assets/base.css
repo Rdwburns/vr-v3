@@ -2319,12 +2319,12 @@ main#MainContent {
   object-position: right !important;
 }
 
-@media screen and (min-width: 750px) {
 
 .tips-img {
-  max-width:1400px;
+  max-width:1400px; 
+  width: 100%;
 }
-}
+
 
 .tips-header {
   display:flex;
@@ -2335,9 +2335,3 @@ main#MainContent {
   background-color:#F0D9CC;
 }
 
-@media screen and (max-width: 751px) {
-
-  .tips-img {
-    max-width:100%;
-  }
-}
