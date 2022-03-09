@@ -1,7 +1,57 @@
 {
   "sections": {
+    "164684330546af7e34": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"display:flex;justify-content:space-around;margin-top:-5rem;margin-bottom:0;padding:0;background-color:#F0D9CC;\"> <img style=\"max-width:1400px;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/3572\/0768\/files\/VR_Web_Easy-Steps-Landing-Page_02.jpg?v=1646839074\" \/><\/div>"
+      }
+    },
+    "1646843280ac390583": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "164684328021a556a3-0": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video for customers using screen readers",
+            "image_padding": false
+          }
+        },
+        "164684328021a556a3-1": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "6dbad1a2-f3b2-404d-b88c-50ccf439be13": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_02.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "164684328021a556a3-0",
+        "164684328021a556a3-1",
+        "6dbad1a2-f3b2-404d-b88c-50ccf439be13"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "column"
+      }
+    },
     "16468390214dd15c25": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1646839021fb6bb87e-0": {
           "type": "heading",
@@ -244,6 +294,8 @@
     }
   },
   "order": [
+    "164684330546af7e34",
+    "1646843280ac390583",
     "16468390214dd15c25",
     "main",
     "164683913911e31538",
