@@ -131,10 +131,10 @@
   margin-bottom: 1rem;
 }
 
-@media screen and (min-width: 750px) {
-.bg-numbers {
+
+.bg-number {
   height: 500px;
-}}
+}
 
 .bg-1-pink {
   background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_07.jpg?v=1646840513');
