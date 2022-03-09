@@ -1,12 +1,251 @@
 {
   "sections": {
+    "16468390214dd15c25": {
+      "type": "image-banner",
+      "blocks": {
+        "1646839021fb6bb87e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_style": "heading"
+          }
+        },
+        "1646839021fb6bb87e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "1646839021fb6bb87e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1646839021fb6bb87e-0",
+        "1646839021fb6bb87e-1",
+        "1646839021fb6bb87e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_02.jpg",
+        "desktop_text_box_position": "flex-end",
+        "desktop_vertical_position": "flex-end",
+        "text_align": "left",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": true
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "164683913911e31538": {
+      "type": "rich-text",
+      "blocks": {
+        "164683913903f0fb58-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "164683913903f0fb58-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our innovative microneedle patches use different formulas to tackle specific skin concerns, but the one thing they do have in common is their <strong>clever delivery system.<\/strong><\/p><p><br\/>Follow these <strong>4 simple steps<\/strong> to ensure the best results from<br\/>your chosen patches.<\/p>"
+          }
+        },
+        "164683913903f0fb58-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164683913903f0fb58-0",
+        "164683913903f0fb58-1",
+        "164683913903f0fb58-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1646837914fef1669a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1646837914fa07e9c8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1646837914fa07e9c8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Holding the sheet with the writing reading the correct way, gently peel a patch away at the edges. Be careful not to touch the centre of the patch (you'll notice this area looks different)<\/p>"
+          }
+        },
+        "1646837914fa07e9c8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646837914fa07e9c8-0",
+        "1646837914fa07e9c8-1",
+        "1646837914fa07e9c8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_06.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1646837972ed364a98": {
+      "type": "image-with-text",
+      "blocks": {
+        "16468379724a2ea00a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16468379724a2ea00a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Holding the adhesive edge only, carefully place the patch in the desired area. It's important that you do NOT rub the patch.<\/p>"
+          }
+        },
+        "16468379724a2ea00a-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16468379724a2ea00a-0",
+        "16468379724a2ea00a-1",
+        "16468379724a2ea00a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_09.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16468394045b0fc08c": {
+      "type": "image-with-text",
+      "blocks": {
+        "16468394047ed5dc3b-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16468394047ed5dc3b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gently but firmly, press the patch into your skin to activate the microneedles. You should feel a slight tingle or 'velcro' sensation as the pyramids of crystallised serum get to work<\/p>"
+          }
+        },
+        "16468394047ed5dc3b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16468394047ed5dc3b-0",
+        "16468394047ed5dc3b-1",
+        "16468394047ed5dc3b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_10.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1646839427beef2aef": {
+      "type": "image-with-text",
+      "blocks": {
+        "164683942752529fc1-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "164683942752529fc1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leave your patches in place for at least two hours to ensure the microneedles have fully dissolved. Relax, work, exercise, sleep - your call!<\/p>"
+          }
+        },
+        "164683942752529fc1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164683942752529fc1-0",
+        "164683942752529fc1-1",
+        "164683942752529fc1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_13.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     }
   },
   "order": [
-    "main"
+    "16468390214dd15c25",
+    "main",
+    "164683913911e31538",
+    "1646837914fef1669a",
+    "1646837972ed364a98",
+    "16468394045b0fc08c",
+    "1646839427beef2aef"
   ]
 }
