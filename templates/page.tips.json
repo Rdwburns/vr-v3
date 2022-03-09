@@ -123,7 +123,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_06.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "text-background",
         "layout": "image_first",
         "bgtext": "bg-1"
       }
