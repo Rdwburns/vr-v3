@@ -125,7 +125,7 @@
         "height": "adapt",
         "color_scheme": "text-background",
         "layout": "image_first",
-        "bgtext": "bg-1-pink bg-numbers"
+        "bgtext": "bg-1-pink bg-number"
       }
     },
     "1646837972ed364a98": {
@@ -163,7 +163,7 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first",
-        "bgtext": "bg-2-pink bg-numbers"
+        "bgtext": "bg-2-pink bg-number"
       }
     },
     "16468394045b0fc08c": {
@@ -201,7 +201,7 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
-        "bgtext": "bg-3-pink bg-numbers"
+        "bgtext": "bg-3-pink bg-number"
       }
     },
     "1646839427beef2aef": {
@@ -239,7 +239,7 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first",
-        "bgtext": "bg-4-pink bg-numbers"
+        "bgtext": "bg-4-pink bg-number"
       }
     }
   },
