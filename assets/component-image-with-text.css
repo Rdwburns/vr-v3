@@ -134,10 +134,13 @@
 @media screen and (max-width: 750px) {
 .bg-number {
   height: calc(100vw / 1.2);
+}}
+
+.bg-number {
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
-}}
+}
 
 .bg-1-pink {
   background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_07.jpg?v=1646840513');
