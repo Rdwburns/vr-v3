@@ -2321,7 +2321,7 @@ main#MainContent {
 
 @media screen and (min-width: 750px) {
 
-.tips-image {
+.tips-img {
   max-width:1400px;
 }
 }
@@ -2337,7 +2337,7 @@ main#MainContent {
 
 @media screen and (max-width: 751px) {
 
-  .tips-image {
+  .tips-img {
     max-width:100%;
   }
 }
