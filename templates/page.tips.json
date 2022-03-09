@@ -3,7 +3,7 @@
     "164684330546af7e34": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"display:flex;justify-content:space-around;margin-top:-5rem;margin-bottom:0;padding:0;background-color:#F0D9CC;\"> <img style=\"max-width:1400px;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/3572\/0768\/files\/VR_Web_Easy-Steps-Landing-Page_02.jpg?v=1646839074\" \/><\/div>"
+        "custom_liquid": "<div class=\"tips-header\"> <img class=\"tips-image\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0050\/3572\/0768\/files\/VR_Web_Easy-Steps-Landing-Page_02.jpg?v=1646839074\" \/><\/div>"
       }
     },
     "1646843280ac390583": {
