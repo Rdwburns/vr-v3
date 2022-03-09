@@ -163,7 +163,7 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first",
-        "bgtext": "bg-2"
+        "bgtext": "bg-no-2"
       }
     },
     "16468394045b0fc08c": {
@@ -201,7 +201,7 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first",
-        "bgtext": "bg-3"
+        "bgtext": "bg-no-3"
       }
     },
     "1646839427beef2aef": {
@@ -239,7 +239,7 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first",
-        "bgtext": "bg-4"
+        "bgtext": "bg-no-4"
       }
     }
   },
