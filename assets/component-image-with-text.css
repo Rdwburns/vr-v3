@@ -132,17 +132,21 @@
 }
 
 .bg-no-1 {
-  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_07.jpg?v=1646840513')
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_07.jpg?v=1646840513');
+  background-size: 100%;
 }
 
 .bg-no-2 {
-  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_08.jpg?v=1646840514')
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_08.jpg?v=1646840514');
+  background-size: 100%;
 }
 
 .bg-no-3 {
-  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_11.jpg?v=1646840514')
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_11.jpg?v=1646840514');
+  background-size: 100%;
 }
 
 .bg-no-4 {
-  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_12.jpg?v=1646840513')
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_12.jpg?v=1646840513');
+  background-size: 100%;
 }
