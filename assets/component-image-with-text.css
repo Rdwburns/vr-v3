@@ -130,3 +130,25 @@
   margin-top: 0;
   margin-bottom: 1rem;
 }
+
+.text-bg {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #F4EBEC;
+  font-size: 25.5vw;
+}
+
+.bg-1 {
+  content: "1";
+}
+
+.bg-2 {
+  content: "2";
+}
+
+.bg-3 {
+  content: "3";
+}
+
+.bg-4 {
+  content: "4";
+}
