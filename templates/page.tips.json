@@ -124,7 +124,8 @@
         "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_06.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "image_first",
+        "bgtext": "bg-1"
       }
     },
     "1646837972ed364a98": {
@@ -161,7 +162,8 @@
         "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_09.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": "bg-2"
       }
     },
     "16468394045b0fc08c": {
@@ -198,7 +200,8 @@
         "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_10.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "image_first",
+        "bgtext": "bg-3"
       }
     },
     "1646839427beef2aef": {
@@ -235,7 +238,8 @@
         "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_13.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": "bg-4"
       }
     }
   },
