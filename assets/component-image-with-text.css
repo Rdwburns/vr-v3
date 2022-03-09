@@ -131,24 +131,18 @@
   margin-bottom: 1rem;
 }
 
-.text-bg {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #F4EBEC;
-  font-size: 25.5vw;
-}
-
 .bg-1 {
-  content: "1";
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_07.jpg?v=1646840513')
 }
 
 .bg-2 {
-  content: "2";
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_08.jpg?v=1646840514')
 }
 
 .bg-3 {
-  content: "3";
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_11.jpg?v=1646840514')
 }
 
 .bg-4 {
-  content: "4";
+  background-image: url('https://cdn.shopify.com/s/files/1/0050/3572/0768/files/VR_Web_Easy-Steps-Landing-Page_12.jpg?v=1646840513')
 }
