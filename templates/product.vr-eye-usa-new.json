@@ -288,7 +288,6 @@
         "162748427714eba7e0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_0fa9fc49-ae73-47f5-84eb-0fbfd4088f91.png",
             "title": "Totally Painless",
             "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
           }
@@ -414,7 +413,6 @@
         "1626170270666543f7-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Peptides_Needle2.jpg",
             "title": "Peptides",
             "text": "<p>Peptides are known for their ability to stimulate collagen production, which is important for firm-looking skin. We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
           }
@@ -422,7 +420,6 @@
         "1626170270666543f7-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hyaluronic_Needle2.jpg",
             "title": "Hyaluronic Acid",
             "text": "<p>Hyaluronic Acid helps the skin retain its moisture, resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
@@ -430,7 +427,6 @@
         "1626170270666543f7-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VIT_C_Needle2.jpg",
             "title": "Vitamin C",
             "text": "<p>Vitamin C is an antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
           }
