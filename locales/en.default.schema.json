@@ -1590,6 +1590,35 @@
             }
           }
         },
+        "longtext": {
+          "name": "Long Text",
+          "settings": {
+            "text": {
+              "label": "Text"
+            },
+            "color": {
+              "label": "Text Colour"
+            },
+            "text_style": {
+              "label": "Text style",
+              "options__1": {
+                "label": "Body"
+              },
+              "options__2": {
+                "label": "Subtitle"
+              },
+              "options__3": {
+                "label": "Uppercase"
+              },
+              "options__4": {
+                "label": "Quote"
+              },
+              "options__5": {
+                "label": "Italic"
+              }
+            }
+          }
+        },
         "title": {
           "name": "Title"
         },
