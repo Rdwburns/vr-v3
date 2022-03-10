@@ -3,20 +3,9 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a": {
-          "type": "review-stars",
-          "settings": {
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
-          }
-        },
-        "30fa4e8c-e91b-4623-b287-765a637edbd4": {
-          "type": "fomo",
-          "settings": {
-            "text": "🔥   users have viewed this product recently"
           }
         },
         "subtitle": {
@@ -27,6 +16,17 @@
             "color": "#d63b78"
           }
         },
+        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a": {
+          "type": "review-stars",
+          "settings": {
+          }
+        },
+        "30fa4e8c-e91b-4623-b287-765a637edbd4": {
+          "type": "fomo",
+          "settings": {
+            "text": "🔥   users have viewed this product recently"
+          }
+        },
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b": {
           "type": "text",
           "settings": {
@@ -35,16 +35,9 @@
             "color": "#000000"
           }
         },
-        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
-          "type": "text",
-          "settings": {
-            "text": "Dispatched Immediately. Free UK Shipping.",
-            "text_style": "uppercase",
-            "color": "#000000"
-          }
-        },
         "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "🔥   65 people have viewed this recently.",
             "text_style": "uppercase",
@@ -54,6 +47,14 @@
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
+          "type": "text",
+          "settings": {
+            "text": "Free UK Shipping.",
+            "text_style": "uppercase",
+            "color": "#000000"
           }
         },
         "variant_picker": {
@@ -92,14 +93,14 @@
         }
       },
       "block_order": [
-        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a",
         "title",
-        "30fa4e8c-e91b-4623-b287-765a637edbd4",
         "subtitle",
+        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a",
+        "30fa4e8c-e91b-4623-b287-765a637edbd4",
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
-        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "price",
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "variant_picker",
         "772619c3-44b6-4f34-a14c-5374b3a66243",
         "quantity_selector",
@@ -115,28 +116,48 @@
     "1634292444c9076929": {
       "type": "faq",
       "blocks": {
-        "3e37c3fe-831d-40a0-adea-3a265e87f6e4": {
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Recommended Use",
-            "content": "<p><strong>Start-Up Program (4 applications) Weeks 1 and 2<\/strong><\/p><p>If you’re new to our patches, the way to go is to start off applying twice a week (but no more than 3 x per week to avoid risk of sensitivity). From the first application Hyaluronic Acid will intensely hydrate and plump and start to smooth out any crepiness. The brightening properties of vitamin c and glutathione will give undereye skin a glowing, transparent quality. The result; tired, bleary eyes will look more wide-awake, making you look distinctly fresher-faced.<\/p><p>Want to see fine lines softening and dark circles brightening? Then you’ll need some more patience, and patches!  <\/p><p><\/p><p><strong>Foundation Program (applications 5-10) Weeks 3 to 6<\/strong><\/p><p>OK, so you’ve finished your first two weeks applications but you’ve set your sights on getting the full range of benefits from our patches. 6 weeks is roughly the time it takes for a skin renewal cycle to turn over, so you’ll want to commit to at least 4 more weekly applications. As the weeks progress peptides will start getting to work on smoother, firmer skin with improved elasticity. Meanwhile, Hyaluronic Acid further plumps, and antioxidant heroes Vitamin C and glutathione continue to brighten and even out skin tone.<\/p><p><\/p><p><strong>Optimisation Program Week 6 onwards<\/strong><\/p><p>Ageing is, unfortunately, an ongoing process so the secret to great skin around your eyes is consistency. Active ingredients such as peptides and vitamin c work progressively, needing regular topping-up to ensure firm, healthy, line-free skin. Using at least once a week, your dividends will include a youthful radiance with visibly reduced fine lines and dark circles.<\/p>",
+            "heading": "Full Description",
+            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" target=\"_blank\" title=\"How to Treat Dark Circles Under the Eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough <a href=\"\/blogs\/news\/what-are-microneedle-patches\" target=\"_blank\" title=\"What Are Microneedle Patches and How Do They Work?\">Microneedle Technology<\/a> to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
             "page": "",
             "icon": "none"
           }
         },
-        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2": {
+        "3e37c3fe-831d-40a0-adea-3a265e87f6e4": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "More Information",
-            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" target=\"_blank\" title=\"How to Treat Dark Circles Under the Eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough <a href=\"\/blogs\/news\/what-are-microneedle-patches\" target=\"_blank\" title=\"What Are Microneedle Patches and How Do They Work?\">Microneedle Technology<\/a> to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
+            "heading": "How do I use the patches?",
+            "content": "<p><strong>Start-Up Program<br\/>Weeks 1 and 2<\/strong><\/p><p>Start off applying twice a week (but no more than 3 x per week to avoid risk of sensitivity). From the first application Hyaluronic Acid will intensely hydrate and plump and start to smooth out any crepiness. The result; tired, bleary eyes will look more wide-awake, making you look distinctly fresher-faced.<\/p><p><\/p><p><strong>Foundation Program<br\/>Weeks 3 to 6<\/strong><\/p><p>6 weeks is roughly the time it takes for a skin renewal cycle to turn over, so you’ll want to commit to at least 4 more weekly applications. As the weeks progress peptides will start getting to work on smoother, firmer skin with improved elasticity. <\/p><p><\/p><p><strong>Optimisation Program <br\/>Week 6 onwards<\/strong><\/p><p>Ageing is, unfortunately, an ongoing process so the secret to great skin around your eyes is consistency. Using at least once a week, your dividends will include a youthful radiance with visibly reduced fine lines and dark circles.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "3a0de545-a633-4d4f-8021-5bdfb7e8fcb3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What if I don’t see results straight away?",
+            "content": "<p>There are no miracles in skincare, but with persistence and consistency good things can come. The skin renewal cycle is around 6 weeks at 40 years of age. So, working with that and building the weekly habit of deep treatments with Eye Rejuvenator, you can boost your anti-ageing skincare to the next level.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "e8f4ad07-8ce9-48b3-af66-eecb45ff8132": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Are these really different from other patches?",
+            "content": "<p>Creams, serums, collagen patches, sheet masks are all applied topically. They sit on top of the skin and need lots of water, oil and sophisticated carrier systems just to get some of their ingredients where it counts, deeper in the skin below the stratum corneum. Our microneedle technology ensures our concentrated actives can get where it matters – fast, gently and effectively.<\/p>",
             "page": "",
             "icon": "none"
           }
         }
       },
       "block_order": [
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2",
         "3e37c3fe-831d-40a0-adea-3a265e87f6e4",
-        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2"
+        "3a0de545-a633-4d4f-8021-5bdfb7e8fcb3",
+        "e8f4ad07-8ce9-48b3-af66-eecb45ff8132"
       ],
       "settings": {
         "heading": ""
