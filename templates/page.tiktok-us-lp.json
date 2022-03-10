@@ -3,6 +3,20 @@
     "163655130965d6edaa": {
       "type": "image-banner",
       "blocks": {
+        "163655130965d6edaa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "EYE REJUVENATOR",
+            "heading_style": "h1_heading"
+          }
+        },
+        "83c1dbdf-97dc-4618-950e-f6c93ae0e910": {
+          "type": "text",
+          "settings": {
+            "text": "Under Eye Fine Line Patches",
+            "text_style": "subtitle"
+          }
+        },
         "ecc39a0b-9498-4e42-b863-872a80b66da9": {
           "type": "text",
           "settings": {
@@ -10,24 +24,17 @@
             "text_style": "uppercase"
           }
         },
-        "163655130965d6edaa-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "THE GAME CHANGING SOLUTION TO UNDER-EYE WRINKLES",
-            "heading_style": "h1_heading"
-          }
-        },
         "163655130965d6edaa-1": {
           "type": "text",
           "settings": {
-            "text": "Eye Rejuvenator uses breakthrough Microneedle Technology to ensure that active ingredients get where they’re needed, deeper in the skin. An easy-to-use, painless and effective at-home treatment to target fine lines and wrinkles.",
-            "text_style": "body"
+            "text": "With dissolving crystals that go deeper to maximise hydration, ramp up radiance and minimise the appearance of fine lines.",
+            "text_style": "italic"
           }
         },
         "163655130965d6edaa-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy Now",
+            "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -37,13 +44,14 @@
         }
       },
       "block_order": [
-        "ecc39a0b-9498-4e42-b863-872a80b66da9",
         "163655130965d6edaa-0",
+        "83c1dbdf-97dc-4618-950e-f6c93ae0e910",
+        "ecc39a0b-9498-4e42-b863-872a80b66da9",
         "163655130965d6edaa-1",
         "163655130965d6edaa-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Header_Image_2.png",
+        "image": "shopify:\/\/shop_images\/2_VISA_REVERSA_06122021_SHOT_4_1004.jpg",
         "desktop_text_box_position": "center",
         "desktop_vertical_position": "flex-start",
         "text_align": "left",
@@ -72,22 +80,25 @@
         "1636551498e8cfb0c1-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Amazon_Aplus_3.jpg",
             "title": "PRECISION UNDEREYE CARE",
-            "text": "<p>The first signs of ageing often appear in the skin around our eyes, a delicate and sensitive area. 2600 ultra-fine microneedles on our perfectly shaped patches painlessly penetrate the outer skin layer to deliver key ingredients directly to the epidermis and beyond where they’re most needed.<\/p>"
+            "text": "<p>Pyramid-shaped crystals ensure painless penetration of the skin and fast absorption of the active ingredients deeper down, where it counts. <\/p>"
           }
         },
         "1636551498e8cfb0c1-1": {
           "type": "column",
           "settings": {
-            "title": "BRIGHTENS, PLUMPS & FIRMS",
-            "text": "<p>Each self-dissolving microneedle is infused with our unique serum formulation of pro-collagen Peptides & Adenosine, intensely hydrating Hylauronic Acid and brightening antioxidants Vitamin C and Glutathione. They combine to gently but effectively plump and smooth the skin from deeper down, where it really counts.<\/p>"
+            "image": "shopify:\/\/shop_images\/Application_2.jpg",
+            "title": "SMOOTHER, FIRMER SKIN",
+            "text": "<p>2600 ultra-fine crystals deliver 3 key pro-collagen peptides and adenosine for tighter, more youthful skin.<\/p>"
           }
         },
         "1636551498e8cfb0c1-2": {
           "type": "column",
           "settings": {
-            "title": "VISIBLE IMPROVEMENT",
-            "text": "<p>Enjoy an instant hydrating and glow effect from the first application. Follow our recommended program and expect visibly reduced fine lines and wrinkles from just 10 applications over 6-8 weeks and results that get better over time with continued use.<\/p>"
+            "image": "shopify:\/\/shop_images\/Static_Michellle_patches.jpg",
+            "title": "BRIGHTEN DARK CIRCLES",
+            "text": "<p>A concentrated blend of Hyaluronic Acid, Vitamin C and Glutathione plump and hydrate for a glowing complexion<\/p>"
           }
         }
       },
@@ -98,7 +109,7 @@
         "1636551498e8cfb0c1-2"
       ],
       "settings": {
-        "title": "Why Eye Rejuvenator?",
+        "title": "",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
@@ -111,12 +122,14 @@
     },
     "1636551636826a612b": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": ""
       }
     },
     "1636621586c5858b81": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1636621586c5858b81-0": {
           "type": "heading",
@@ -145,14 +158,15 @@
         "1636621586c5858b81-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Alternative_Cream.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": ""
       }
     },
     "1636621748d7571b31": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1636621748d7571b31-0": {
           "type": "heading",
@@ -184,11 +198,13 @@
         "image": "shopify:\/\/shop_images\/Alternative_Needle.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": ""
       }
     },
     "1636551685893226a7": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "1636551685893226a7-0": {
           "type": "quote",
@@ -224,7 +240,7 @@
     "16365517311eb69c5d": {
       "type": "before-after",
       "settings": {
-        "heading": "Real Results",
+        "heading": "",
         "review_title": "Abbé, 42",
         "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
         "before_caption": "Before",
@@ -259,11 +275,11 @@
     },
     "1636623054dad3c8f0": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1636623054dad3c8f0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/original.jpg",
             "title": "Heather, Essex",
             "text": "<p>\"I absolutely love these patches! I find them super quick, easy and convenient to use. After I wear the patches for two hours, my skin looks smooth and hydrated.\"<\/p>"
           }
@@ -271,7 +287,6 @@
         "1636623054dad3c8f0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/original_a0d07519-7959-437f-9c80-8a52e6061bdd.jpg",
             "title": "Jordana, Bournemouth",
             "text": "<p>Quite simply amazing!! I've used a few times now and I can honestly say I saw a noticeable & instant change to my under-eye area.<\/p>"
           }
@@ -279,7 +294,6 @@
         "1636623054dad3c8f0-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/square.jpg",
             "title": "Ja, London",
             "text": "<p>I've been using once a week for 4 weeks and have seen an improvement. My eyes look less tired and my lines are less noticeable.<\/p>"
           }
@@ -304,6 +318,7 @@
     },
     "163655209801f30986": {
       "type": "text-with-background",
+      "disabled": true,
       "blocks": {
         "163655209801f30986-0": {
           "type": "heading",
@@ -341,12 +356,14 @@
     },
     "1636554484d9a7252e": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": ""
       }
     },
     "16365579915849713f": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16365579915849713f-0": {
           "type": "heading",
@@ -384,6 +401,7 @@
     },
     "1636551601169b7466": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1636551601169b7466-0": {
           "type": "heading",
@@ -415,11 +433,13 @@
         "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_VITAMINE_C-100.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": ""
       }
     },
     "1636551559de7fa8b2": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1636551559de7fa8b2-0": {
           "type": "heading",
@@ -451,11 +471,13 @@
         "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_HYLAURONIC_ACID.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "image_first",
+        "bgtext": ""
       }
     },
     "16365515812523f34c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16365515812523f34c-0": {
           "type": "heading",
@@ -484,14 +506,15 @@
         "16365515812523f34c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/EYE_REJUVENATOR_V_NEEDLE_GLUTATHIONE-100.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": ""
       }
     },
     "1636551699f73082f6": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "1636551699f73082f6-0": {
           "type": "quote",
@@ -525,6 +548,7 @@
     },
     "16365625998ed10f6f": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": ""
       }
@@ -532,13 +556,6 @@
     "163655170635dd160e": {
       "type": "image-banner",
       "blocks": {
-        "36a5e496-d14c-40f2-89ba-94f667f9fe60": {
-          "type": "text",
-          "settings": {
-            "text": "★★★★★ Hundreds of 5-STAR REviews",
-            "text_style": "uppercase"
-          }
-        },
         "163655170635dd160e-0": {
           "type": "heading",
           "settings": {
@@ -549,8 +566,19 @@
         "163655170635dd160e-1": {
           "type": "text",
           "settings": {
-            "text": "Microneedle Eye Patches for Dark Circles and Fine Lines",
+            "text": "Microcrystal Eye Patches for Dark Circles and Fine Lines",
             "text_style": "body"
+          }
+        },
+        "163655170635dd160e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy Now for $59.95",
+            "button_link_1": "https:\/\/vicereversaskin.com\/cart\/40618805493942:1?payment=shop_pay&discount=WELCOME10",
+            "button_style_secondary_1": true,
+            "button_label_2": "See Other Buying Options",
+            "button_link_2": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
+            "button_style_secondary_2": true
           }
         },
         "c4a21509-4ce3-4767-94d4-6dbabb0042e4": {
@@ -560,19 +588,23 @@
             "text_style": "italic"
           }
         },
-        "163655170635dd160e-2": {
-          "type": "buttons",
+        "da611d56-c720-44c5-93d5-dcd83f924cfb": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Buy Now for £34.95",
-            "button_link_1": "https:\/\/vicereversa.co.uk\/cart\/39447608066108:1",
-            "button_style_secondary_1": true,
-            "button_label_2": "Learn More",
-            "button_link_2": "shopify:\/\/products\/eye-rejuvenator-microneedle-wrinkle-patches",
-            "button_style_secondary_2": true
+            "text": "VEGAN | NO NASTIES | CRUELTY FREE",
+            "text_style": "uppercase"
+          }
+        },
+        "36a5e496-d14c-40f2-89ba-94f667f9fe60": {
+          "type": "text",
+          "settings": {
+            "text": "FREE MAINLAND US SHIPPING",
+            "text_style": "uppercase"
           }
         },
         "5d87883f-01b8-43ba-b89b-220c94dfabca": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Pay in 3 with Klarna Available",
             "text_style": "uppercase"
@@ -580,15 +612,16 @@
         }
       },
       "block_order": [
-        "36a5e496-d14c-40f2-89ba-94f667f9fe60",
         "163655170635dd160e-0",
         "163655170635dd160e-1",
-        "c4a21509-4ce3-4767-94d4-6dbabb0042e4",
         "163655170635dd160e-2",
+        "c4a21509-4ce3-4767-94d4-6dbabb0042e4",
+        "da611d56-c720-44c5-93d5-dcd83f924cfb",
+        "36a5e496-d14c-40f2-89ba-94f667f9fe60",
         "5d87883f-01b8-43ba-b89b-220c94dfabca"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/LP_Dark_Circles_PDP_Header_2ae21b52-9608-491d-80a5-6b0e3d37575d.png",
+        "image": "shopify:\/\/shop_images\/Static_Michellle_patches.jpg",
         "desktop_text_box_position": "center",
         "desktop_vertical_position": "flex-start",
         "text_align": "center",
