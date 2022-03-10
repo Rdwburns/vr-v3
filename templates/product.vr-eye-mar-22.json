@@ -3,18 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a": {
-          "type": "review-stars",
-          "settings": {
-          }
-        },
-        "30fa4e8c-e91b-4623-b287-765a637edbd4": {
-          "type": "fomo",
-          "disabled": true,
-          "settings": {
-            "text": "🔥   users have viewed this product recently"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -28,6 +16,17 @@
             "color": "#d63b78"
           }
         },
+        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a": {
+          "type": "review-stars",
+          "settings": {
+          }
+        },
+        "30fa4e8c-e91b-4623-b287-765a637edbd4": {
+          "type": "fomo",
+          "settings": {
+            "text": "🔥   users have viewed this product recently"
+          }
+        },
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b": {
           "type": "text",
           "disabled": true,
@@ -37,12 +36,18 @@
             "color": "#000000"
           }
         },
-        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
-          "type": "text",
+        "be055395-81ec-42df-8b6d-eebfeeb2cf2a": {
+          "type": "longtext",
           "settings": {
-            "text": "🔥   65 people have viewed this recently.",
-            "text_style": "uppercase",
+            "longtext": "\"When we realised wrinkle creams and serums contain <strong>up to 90% water<\/strong> - we knew there had to be a more effective way. Collaborating with <strong>top Korean Beauty scientists<\/strong> we’ve developed our efficient, painless weekly treatments to help supercharge your anti-ageing skincare.\"\n<br><br>\n<em>Arthur & Peter, founders<\/em>",
+            "text_style": "quote",
             "color": "#000000"
+          }
+        },
+        "98395fb7-8125-4f82-b267-4cc8000ddcc2": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<ul style=\"padding-left:15px;font-size:14px;\">\n<li style=\"font-size:14px;\">Over 150,000 Pairs Sold in 2021<\/li>\n<li style=\"font-size:14px;\">Clinically proven to deliver active ingredients deeper, where they make a difference<\/li>\n<li style=\"font-size:14px;\">No Water. No Nasties. Vegan.<\/li>\n<\/ul>"
           }
         },
         "price": {
@@ -77,10 +82,11 @@
           "settings": {
           }
         },
-        "d1deca78-edf3-42c6-a075-a3aff8e53067": {
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "All Payments Processed 100% Securely.",
+            "text": "🔥   65 people have viewed this recently.",
             "text_style": "uppercase",
             "color": "#000000"
           }
@@ -91,30 +97,32 @@
             "show_dynamic_checkout": false
           }
         },
-        "be055395-81ec-42df-8b6d-eebfeeb2cf2a": {
-          "type": "longtext",
+        "d1deca78-edf3-42c6-a075-a3aff8e53067": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "When we realised wrinkle creams and serums contain up to 90% water - we knew there had to be a more effective way. Collaborating with top Korean Beauty scientists we’ve developed our efficient, painless weekly treatments to help supercharge your anti-ageing skincare.",
-            "text_style": "quote",
+            "text": "All Payments Processed 100% Securely.",
+            "text_style": "uppercase",
             "color": "#000000"
           }
         }
       },
       "block_order": [
-        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a",
-        "30fa4e8c-e91b-4623-b287-765a637edbd4",
         "title",
         "subtitle",
+        "dc8e1b3d-d5c1-469d-9647-2fc11bce375a",
+        "30fa4e8c-e91b-4623-b287-765a637edbd4",
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
-        "36349aab-0272-47a6-b5c9-5f9ba0c41506",
+        "be055395-81ec-42df-8b6d-eebfeeb2cf2a",
+        "98395fb7-8125-4f82-b267-4cc8000ddcc2",
         "price",
         "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "variant_picker",
         "772619c3-44b6-4f34-a14c-5374b3a66243",
         "quantity_selector",
-        "d1deca78-edf3-42c6-a075-a3aff8e53067",
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506",
         "buy_buttons",
-        "be055395-81ec-42df-8b6d-eebfeeb2cf2a"
+        "d1deca78-edf3-42c6-a075-a3aff8e53067"
       ],
       "settings": {
         "enable_sticky_info": true,
