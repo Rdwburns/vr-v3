@@ -2335,6 +2335,6 @@ main#MainContent {
   background-color:#F0D9CC;
 }
 
-.card-info-bar .price-compare {
+.card-info-bar .price__compare {
   display: none;
 }
