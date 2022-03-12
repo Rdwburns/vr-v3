@@ -5,6 +5,7 @@
       "blocks": {
         "dc8e1b3d-d5c1-469d-9647-2fc11bce375a": {
           "type": "review-stars",
+          "disabled": true,
           "settings": {
           }
         },
@@ -22,9 +23,17 @@
         "subtitle": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "Under Eye Fine Line Patches",
             "text_style": "subtitle",
             "color": "#d63b78"
+          }
+        },
+        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
+          "type": "text",
+          "settings": {
+            "text": "🔥   32 people have viewed this recently.",
+            "text_style": "uppercase",
+            "color": "#000000"
           }
         },
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b": {
@@ -35,26 +44,9 @@
             "color": "#000000"
           }
         },
-        "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "🔥   65 people have viewed this recently.",
-            "text_style": "uppercase",
-            "color": "#000000"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
-          }
-        },
-        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
-          "type": "text",
-          "settings": {
-            "text": "Free UK Shipping.",
-            "text_style": "uppercase",
-            "color": "#000000"
           }
         },
         "variant_picker": {
@@ -85,6 +77,14 @@
             "color": "#000000"
           }
         },
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671": {
+          "type": "text",
+          "settings": {
+            "text": "Free Mainland US Shipping.",
+            "text_style": "uppercase",
+            "color": "#000000"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -97,14 +97,14 @@
         "30fa4e8c-e91b-4623-b287-765a637edbd4",
         "title",
         "subtitle",
-        "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
         "36349aab-0272-47a6-b5c9-5f9ba0c41506",
+        "a6d28a41-e904-4f31-82fa-195a5ae6f20b",
         "price",
-        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "variant_picker",
         "772619c3-44b6-4f34-a14c-5374b3a66243",
         "quantity_selector",
         "d1deca78-edf3-42c6-a075-a3aff8e53067",
+        "5c4ecbcb-7e8a-42f9-9f87-7a09011db671",
         "buy_buttons"
       ],
       "settings": {
@@ -115,49 +115,30 @@
     },
     "1634292444c9076929": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
-        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Full Description",
-            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" target=\"_blank\" title=\"How to Treat Dark Circles Under the Eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough <a href=\"\/blogs\/news\/what-are-microneedle-patches\" target=\"_blank\" title=\"What Are Microneedle Patches and How Do They Work?\">Microneedle Technology<\/a> to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
-            "page": "",
-            "icon": "none"
-          }
-        },
         "3e37c3fe-831d-40a0-adea-3a265e87f6e4": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How do I use the patches?",
-            "content": "<p><strong>Start-Up Program<br\/>Weeks 1 and 2<\/strong><\/p><p>Start off applying twice a week (but no more than 3 x per week to avoid risk of sensitivity). From the first application Hyaluronic Acid will intensely hydrate and plump and start to smooth out any crepiness. The result; tired, bleary eyes will look more wide-awake, making you look distinctly fresher-faced.<\/p><p><\/p><p><strong>Foundation Program<br\/>Weeks 3 to 6<\/strong><\/p><p>6 weeks is roughly the time it takes for a skin renewal cycle to turn over, so you’ll want to commit to at least 4 more weekly applications. As the weeks progress peptides will start getting to work on smoother, firmer skin with improved elasticity. <\/p><p><\/p><p><strong>Optimisation Program <br\/>Week 6 onwards<\/strong><\/p><p>Ageing is, unfortunately, an ongoing process so the secret to great skin around your eyes is consistency. Using at least once a week, your dividends will include a youthful radiance with visibly reduced fine lines and dark circles.<\/p>",
+            "heading": "Recommended Use",
+            "content": "<p><strong>Start-Up Program (4 applications) Weeks 1 and 2<\/strong><\/p><p>If you’re new to our patches, the way to go is to start off applying twice a week (but no more than 3 x per week to avoid risk of sensitivity). From the first application Hyaluronic Acid will intensely hydrate and plump and start to smooth out any crepiness. The brightening properties of vitamin c and glutathione will give undereye skin a glowing, transparent quality. The result; tired, bleary eyes will look more wide-awake, making you look distinctly fresher-faced.<\/p><p>Want to see fine lines softening and dark circles brightening? Then you’ll need some more patience, and patches!  <\/p><p><\/p><p><strong>Foundation Program (applications 5-10) Weeks 3 to 6<\/strong><\/p><p>OK, so you’ve finished your first two weeks applications but you’ve set your sights on getting the full range of benefits from our patches. 6 weeks is roughly the time it takes for a skin renewal cycle to turn over, so you’ll want to commit to at least 4 more weekly applications. As the weeks progress peptides will start getting to work on smoother, firmer skin with improved elasticity. Meanwhile, Hyaluronic Acid further plumps, and antioxidant heroes Vitamin C and glutathione continue to brighten and even out skin tone.<\/p><p><\/p><p><strong>Optimisation Program Week 6 onwards<\/strong><\/p><p>Ageing is, unfortunately, an ongoing process so the secret to great skin around your eyes is consistency. Active ingredients such as peptides and vitamin c work progressively, needing regular topping-up to ensure firm, healthy, line-free skin. Using at least once a week, your dividends will include a youthful radiance with visibly reduced fine lines and dark circles.<\/p>",
             "page": "",
             "icon": "none"
           }
         },
-        "3a0de545-a633-4d4f-8021-5bdfb7e8fcb3": {
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "What if I don’t see results straight away?",
-            "content": "<p>There are no miracles in skincare, but with persistence and consistency good things can come. The skin renewal cycle is around 6 weeks at 40 years of age. So, working with that and building the weekly habit of deep treatments with Eye Rejuvenator, you can boost your anti-ageing skincare to the next level.<\/p>",
-            "page": "",
-            "icon": "none"
-          }
-        },
-        "e8f4ad07-8ce9-48b3-af66-eecb45ff8132": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Are these really different from other patches?",
-            "content": "<p>Creams, serums, collagen patches, sheet masks are all applied topically. They sit on top of the skin and need lots of water, oil and sophisticated carrier systems just to get some of their ingredients where it counts, deeper in the skin below the stratum corneum. Our microneedle technology ensures our concentrated actives can get where it matters – fast, gently and effectively.<\/p>",
+            "heading": "More Information",
+            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including dark circles, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough Microneedle Technology to deliver concentrated hydration effectively in the skin.<\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within.<\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
             "page": "",
             "icon": "none"
           }
         }
       },
       "block_order": [
-        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2",
         "3e37c3fe-831d-40a0-adea-3a265e87f6e4",
-        "3a0de545-a633-4d4f-8021-5bdfb7e8fcb3",
-        "e8f4ad07-8ce9-48b3-af66-eecb45ff8132"
+        "e7c6a3cf-d5e5-43c3-bc81-34468fa05ac2"
       ],
       "settings": {
         "heading": ""
@@ -170,21 +151,21 @@
           "type": "column",
           "settings": {
             "title": "Precision Delivery System",
-            "text": "<p>Pyramid-shaped microneedles ensure painless penetration of the skin and fast absorption of the active ingredients deeper down, where it counts. <\/p>"
+            "text": "<p>Pyramid-shaped crystals ensure painless penetration of the skin and fast absorption of the active ingredients deeper down, where it counts. <\/p>"
           }
         },
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
             "title": "Smoother, Firmer Skin",
-            "text": "<p>2600 ultra-fine needles deliver 3 key pro-collagen peptides and adenosine for tighter, more youthful skin.<\/p>"
+            "text": "<p>2600 ultra-fine crystals deliver 3 key pro-collagen peptides and adenosine for tighter, more youthful skin.<\/p>"
           }
         },
         "1626248705b8c25b91-1": {
           "type": "column",
           "settings": {
             "title": "Brighten Dark Circles",
-            "text": "<p>A concentrated blend of Hyaluronic Acid, Vitamin C and Glutathione plump and even out skin tone for a glowing complexion<\/p>"
+            "text": "<p>A concentrated blend of Hyaluronic Acid, Vitamin C and Glutathione plump and hydrate for a glowing complexion<\/p>"
           }
         }
       },
@@ -237,19 +218,18 @@
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the microneedle working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
+        "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the dissolving crystals working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
         "button_label": "Button label",
         "button_link": ""
       }
     },
     "16419186068ffb2db6": {
       "type": "before-after",
+      "disabled": true,
       "settings": {
         "heading": "",
         "review_title": "Dorothy, 50's, 10 APPLICATIONS",
-        "before_image": "shopify:\/\/shop_images\/D-Besfore.jpg",
         "before_caption": "Before",
-        "after_image": "shopify:\/\/shop_images\/D-After.jpg",
         "after_caption": "After 6 Weeks",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -302,15 +282,15 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+            "text": "<p>Our dissolving crystals don’t need water or oil as a carrier<\/p>"
           }
         },
         "162748427714eba7e0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_0fa9fc49-ae73-47f5-84eb-0fbfd4088f91.png",
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
             "title": "Totally Painless",
-            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
+            "text": "<p>Just the gentle sensation of the microcrystals getting to work.<\/p>"
           }
         }
       },
@@ -334,6 +314,7 @@
     },
     "16262053277f68e5df": {
       "type": "image-surround",
+      "disabled": true,
       "blocks": {
         "16262053277f68e5df-0": {
           "type": "heading",
@@ -350,7 +331,7 @@
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+            "text": "<p><\/p><p><strong>NO WATER<\/strong><\/p><p>Our patches contain only minimal water, so no ingredients are wasted on your hands or outside your skin.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
@@ -436,7 +417,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Peptides_Needle2.jpg",
             "title": "Peptides",
-            "text": "<p><a href=\"\/blogs\/news\/collagen-peptides-for-skincare\" target=\"_blank\" title=\"Collagen peptides for skincare\">Peptides<\/a> are known for their ability to stimulate collagen production, which is important for firm-looking skin. We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
+            "text": "<p>Peptides are known for their ability to stimulate collagen production, which is important for firm-looking skin. We use 3 key peptides to help improve the appearance of fine lines.<\/p>"
           }
         },
         "1626170270666543f7-1": {
@@ -444,7 +425,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Hyaluronic_Needle2.jpg",
             "title": "Hyaluronic Acid",
-            "text": "<p><a href=\"\/blogs\/news\/hyaluronic-acid-skincare-effects-benefits\" target=\"_blank\" title=\"What is hyaluronic acid and what does it do for my skin?\">Hyaluronic Acid<\/a> helps the skin retain its moisture, resulting in hydrated, nourished and plumper-looking skin. <\/p>"
+            "text": "<p>Hyaluronic Acid helps the skin retain its moisture, resulting in hydrated, nourished and plumper-looking skin. <\/p>"
           }
         },
         "1626170270666543f7-2": {
@@ -452,7 +433,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/VIT_C_Needle2.jpg",
             "title": "Vitamin C",
-            "text": "<p><a href=\"\/blogs\/news\/vitamin-c-for-skincare\" title=\"Vitamin C for Skincare\">Vitamin C<\/a> is an antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
+            "text": "<p>Vitamin C is an antioxidant known for its ability to help restore damage and aid the regeneration process, while brightening and evening skin texture.<\/p>"
           }
         }
       },
@@ -638,12 +619,14 @@
     },
     "16269033832bed337e": {
       "type": "product-reviews",
+      "disabled": true,
       "settings": {
         "heading": "What people say"
       }
     },
     "16281713360ba03071": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "7eba25f2-92ac-4fc2-b8e6-33773f71e083": {
           "type": "collapsible_tab",
@@ -675,7 +658,7 @@
         "223a2ffc-d74a-46c7-b667-e5908de6430c": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shopping Outside of the UK?",
+            "heading": "Shopping Outside of the US?",
             "content": "",
             "page": "international-shipping-information",
             "icon": "none"
@@ -702,6 +685,43 @@
       "settings": {
         "heading": ""
       }
+    },
+    "1646779457cf952686": {
+      "type": "rich-text",
+      "blocks": {
+        "164677945735985839-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "medium"
+          }
+        },
+        "164677945735985839-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Results may vary from those shown or described. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.<\/p>"
+          }
+        },
+        "164677945735985839-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164677945735985839-0",
+        "164677945735985839-1",
+        "164677945735985839-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -720,6 +740,7 @@
     "16262976340da42008",
     "162627080538092e1b",
     "16269033832bed337e",
-    "16281713360ba03071"
+    "16281713360ba03071",
+    "1646779457cf952686"
   ]
 }
