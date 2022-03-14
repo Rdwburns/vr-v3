@@ -140,6 +140,44 @@
         "full_width": true
       }
     },
+    "1647250701acdb86be": {
+      "type": "image-with-text",
+      "blocks": {
+        "164725070151770ee0-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "164725070151770ee0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Only ever use our patches on clean, dry skin. Wash your face and dry the area thoroughly before you begin application.<\/p>"
+          }
+        },
+        "164725070151770ee0-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164725070151770ee0-0",
+        "164725070151770ee0-1",
+        "164725070151770ee0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_07_fa4d85e4-7f72-4f7f-b3b0-65a7037746d5.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "bgtext": "bg-1-pink bg-number"
+      }
+    },
     "1646837914fef1669a": {
       "type": "image-with-text",
       "blocks": {
@@ -171,11 +209,11 @@
         "1646837914fa07e9c8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_06.jpg",
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_10_2945b19c-ebd6-4432-8667-60ff910004ea.jpg",
         "height": "adapt",
         "color_scheme": "text-background",
-        "layout": "image_first",
-        "bgtext": "bg-1-pink bg-number"
+        "layout": "text_first",
+        "bgtext": "bg-2-pink bg-number"
       }
     },
     "1646837972ed364a98": {
@@ -209,11 +247,11 @@
         "16468379724a2ea00a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_09.jpg",
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_14.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first",
-        "bgtext": "bg-2-pink bg-number"
+        "layout": "image_first",
+        "bgtext": "bg-3-pink bg-number"
       }
     },
     "16468394045b0fc08c": {
@@ -247,11 +285,11 @@
         "16468394047ed5dc3b-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_10.jpg",
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_16.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first",
-        "bgtext": "bg-3-pink bg-number"
+        "layout": "text_first",
+        "bgtext": "bg-4-pink bg-number"
       }
     },
     "1646839427beef2aef": {
@@ -285,11 +323,49 @@
         "164683942752529fc1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_13.jpg",
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_18.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "bgtext": "bg-5-pink bg-number"
+      }
+    },
+    "1647250904c9782d7f": {
+      "type": "image-with-text",
+      "blocks": {
+        "164725090470a535db-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "164725090470a535db-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If using Eye Rejuvenator or Pigment Fader, always leave 48 hours between each application.<\/p>"
+          }
+        },
+        "164725090470a535db-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164725090470a535db-0",
+        "164725090470a535db-1",
+        "164725090470a535db-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/VR_Web_Easy-Steps-Landing-Page_20_35bff8fb-0e3d-4e59-9970-d5fa34455bfa.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first",
-        "bgtext": "bg-4-pink bg-number"
+        "bgtext": "bg-6-pink bg-number"
       }
     }
   },
@@ -299,9 +375,11 @@
     "16468390214dd15c25",
     "main",
     "164683913911e31538",
+    "1647250701acdb86be",
     "1646837914fef1669a",
     "1646837972ed364a98",
     "16468394045b0fc08c",
-    "1646839427beef2aef"
+    "1646839427beef2aef",
+    "1647250904c9782d7f"
   ]
 }
