@@ -61,12 +61,13 @@
         render 'icon-play'
       when 'model'
         render 'icon-3d-model'
-      else
-        render 'icon-zoom'
+
       endcase
     -%}
   </span>
 
+  <!-- else render 'icon-zoom' -->
+  
   <div class="product__media media" style="padding-top: {{ 1 | divided_by: media.preview_image.aspect_ratio | times: 100 }}%;">
     <img
       srcset="{% if media.preview_image.width >= 288 %}{{ media.preview_image | img_url: '288x' }} 288w,{% endif %}
