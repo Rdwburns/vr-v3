@@ -53,7 +53,6 @@
   {%- endif -%}
 </noscript>
 
-{% if media.media_type == 'video' or media.media_type == 'external_video' or media.media_type == 'model' %}
 <modal-opener class="product__modal-opener product__modal-opener--{{ media.media_type }} no-js-hidden" data-modal="#ProductModal-{{ modal_id }}">
   <span class="product__media-icon motion-reduce" aria-hidden="true">
     {%- liquid
@@ -93,7 +92,6 @@
   </span>
 </button>
 </modal-opener>
- {% endif %}
 
 {%- if media.media_type != 'image' -%}
   {%- if media.media_type == 'model' -%}
