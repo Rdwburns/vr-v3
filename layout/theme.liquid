@@ -19,6 +19,7 @@
   {% render 'international-seo' %}
 
   <title>{{ page_title }}</title>
+ 
 
   {% if page_description %}
   <meta name="description" content="{{ page_description | escape }}">
@@ -127,6 +128,15 @@
   font-size: 1.6rem;
   }
   }
+  
+  textarea,
+  input.text,
+  input[type="text"],
+  input[type="button"],
+  input[type="submit"],
+  .input-checkbox {
+  	-webkit-appearance: none;
+  } 
   {% endstyle %}
 
   {{ 'base.css' | asset_url | stylesheet_tag }}
