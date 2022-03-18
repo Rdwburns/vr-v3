@@ -21,6 +21,7 @@ strong {
 }
 
 
+
 /* Color custom properties */
 
 :root,
@@ -2338,4 +2339,9 @@ main#MainContent {
 
 .card-info-bar .price__compare {
   display: none;
+}
+
+.rc_widget__option__plans__dropdown {
+  -webkit-appearance: none;
+  border-radius: 0;
 }
