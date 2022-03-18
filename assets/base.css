@@ -2350,14 +2350,16 @@ main#MainContent {
   color: #000;
 }
   
-
+.rc_widget__option__plans {
+  position: relative;
+}
+  
 .rc_widget__option__plans:after {
   content: "▼";
   color: #000;
-  right: 14px;
-  top: 4px;
+  right: 6px;
+  top: 6px;
   height: 26px;
-  padding: 15px 0px 0px 8px;
   position: absolute;
   pointer-events: none;
 }
