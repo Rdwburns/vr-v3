@@ -2352,7 +2352,7 @@ main#MainContent {
   
 
 .rc_widget__option__plans:after {
-  content: '▼';
+  content: "▼";
   color: #000;
   right: 14px;
   top: 4px;
