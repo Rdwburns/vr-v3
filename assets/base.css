@@ -2349,3 +2349,15 @@ main#MainContent {
   height: 2em;
   color: #000;
 }
+  
+
+.rc_widget__option__plans:after {
+  content: '\0025BC';
+  color: #000;
+  right: 14px;
+  top: 4px;
+  height: 26px;
+  padding: 15px 0px 0px 8px;
+  position: absolute;
+  pointer-events: none;
+}
