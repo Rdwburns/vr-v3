@@ -2344,4 +2344,6 @@ main#MainContent {
 .rc_widget__option__plans__dropdown {
   -webkit-appearance: none;
   border-radius: 0;
+  background-color: #fff;
+  border: 1px solid #000;
 }
