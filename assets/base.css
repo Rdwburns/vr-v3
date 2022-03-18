@@ -2346,4 +2346,6 @@ main#MainContent {
   border-radius: 0;
   background-color: #fff;
   border: 1px solid #000;
+  height: 2em;
+  color: #000;
 }
