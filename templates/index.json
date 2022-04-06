@@ -264,6 +264,7 @@
         },
         "594d0dca-4123-4fbf-8181-0ea743c1056e": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
