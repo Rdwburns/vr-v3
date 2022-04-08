@@ -17,16 +17,16 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "color": "#e41f1a",
-            "text_style": "subtitle"
+            "text_style": "subtitle",
+            "color": "#e41f1a"
           }
         },
         "68a8aec7-bf15-4dba-bd03-4a7d68078c2b": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
-            "color": "#000000",
-            "text_style": "italic"
+            "text_style": "italic",
+            "color": "#000000"
           }
         },
         "price": {
@@ -64,6 +64,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "hide_variants": false,
         "enable_video_looping": false
       }
     },
@@ -85,14 +86,14 @@
           "type": "column",
           "settings": {
             "title": "Precision Delivery System",
-            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our MicroCrystals <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
           }
         },
         "1630665518e425ef08-1": {
           "type": "column",
           "settings": {
             "title": "Spot-Busting Formulation",
-            "text": "<p>500 microneedles on each patch. The concentrated formula of salicylic acid, totarol, green tea extract and hyaluronic acid melts into skin, purifying spots from within. Reduces the appearance of spots, soothes skin and reverses breakouts.<\/p>"
+            "text": "<p>500 MicroCrystal on each patch. The concentrated formula of salicylic acid, totarol, green tea extract and hyaluronic acid melts into skin, purifying spots from within. Reduces the appearance of spots, soothes skin and reverses breakouts.<\/p>"
           }
         },
         "1630665518e425ef08-2": {
@@ -240,19 +241,19 @@
         "1630670398a34d591f-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our MicroCrystals are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
           }
         },
         "677a3bb1-7ae3-4d4a-9775-6e229a5a42ba": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision MicroCrystal skincare. <\/p>"
           }
         },
         "e0fba308-d7e0-4083-972c-19a427aaa993": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>Painless pyramid crystals<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "d014f1c8-f674-404d-a62a-da1e2fc79fc4": {
@@ -369,7 +370,7 @@
         "16306706059d664fbe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Each microneedle is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p>"
+            "text": "<p>Each MicroCrystal is made from high-quality ingredients to tackle untimely breakouts and deep-rooted spots. Salicylic acid is known for its ability to unblock pores, purify and sooth irritation. Totarol, derived from an indigenous New Zealand tree, is rich in antioxidants with antimicrobial properties known for strengthening the skin’s defences against toxins to prevent further breakouts. Green tea extract is renowned for its ability to break down bacteria, clear pores and cleanse the skin, while also reducing redness.<\/p>"
           }
         },
         "16306706059d664fbe-2": {
@@ -390,7 +391,8 @@
         "image": "shopify:\/\/shop_images\/Product_-_Pimple-v2.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "image_first",
+        "bgtext": ""
       }
     },
     "16306706442722ab1c": {
@@ -406,7 +408,7 @@
         "16306706447d17b881-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the microneedles do their magic.<\/p>"
+            "text": "<p>Our effective and easy-to-use pimple patches deliver precisely where it’s needed most, whether it’s breakout zones or solitary spots. Simply place the patch on the target area and press gently, then let the MicroCrystals do their magic.<\/p>"
           }
         },
         "16306706447d17b881-2": {
@@ -426,7 +428,8 @@
         "image": "shopify:\/\/shop_images\/1080x1080_IG_ORANGE_4.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": ""
       }
     },
     "1630670725d93383b2": {
