@@ -17,16 +17,16 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "color": "#e41f1a",
-            "text_style": "subtitle"
+            "text_style": "subtitle",
+            "color": "#e41f1a"
           }
         },
         "a6d28a41-e904-4f31-82fa-195a5ae6f20b": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.product_short_description.value }}",
-            "color": "#000000",
-            "text_style": "italic"
+            "text_style": "italic",
+            "color": "#000000"
           }
         },
         "36349aab-0272-47a6-b5c9-5f9ba0c41506": {
@@ -34,8 +34,8 @@
           "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields.product_quote.value }}",
-            "color": "#000000",
-            "text_style": "quote"
+            "text_style": "quote",
+            "color": "#000000"
           }
         },
         "price": {
@@ -74,6 +74,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
+        "hide_variants": false,
         "enable_video_looping": false
       }
     },
@@ -114,14 +115,14 @@
           "type": "column",
           "settings": {
             "title": "Precision Delivery System",
-            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our MicroCrystals <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
           }
         },
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
             "title": "Spot-Busting Formulation",
-            "text": "<p>500 microneedles on each patch. The concentrated formula of salicylic acid, totarol, green tea extract and hyaluronic acid melts into skin, purifying spots from within. Reduces the appearance of spots, soothes skin and reverses breakouts.<\/p>"
+            "text": "<p>500 MicroCrystals on each patch. The concentrated formula of salicylic acid, totarol, green tea extract and hyaluronic acid melts into skin, purifying spots from within. Reduces the appearance of spots, soothes skin and reverses breakouts.<\/p>"
           }
         },
         "1626248705b8c25b91-1": {
@@ -270,7 +271,7 @@
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our MicroCrystals are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
           }
         },
         "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
@@ -282,7 +283,7 @@
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>Painless pyramid crystals<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
@@ -490,7 +491,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "What makes Spot Stoppa patches different from cheaper alternatives? ",
-            "content": "<p>Our products have been designed for all skin types. The patch itself is a medical grade hydrocolloid base that gently extracts impurities and protects against further inflammation. The needles are infused with crystallised salicylic acid, totarol, and green tea extract to tackle even the most stubborn spots. <\/p><p>They’re also boosted with hyaluronic acid, which is incredibly gentle and poses low risk of irritation as the body naturally produces this ingredient. <\/p><p>We do understand that skin sensitivity varies from person-to-person and if you’re unsure of how you will react to these ingredients, try a patch test on the back of your hand before applying to your face.<\/p>",
+            "content": "<p>Our products have been designed for all skin types. The patch itself is a medical grade hydrocolloid base that gently extracts impurities and protects against further inflammation. The pyramids are infused with crystallised salicylic acid, totarol, and green tea extract to tackle even the most stubborn spots. <\/p><p>They’re also boosted with hyaluronic acid, which is incredibly gentle and poses low risk of irritation as the body naturally produces this ingredient. <\/p><p>We do understand that skin sensitivity varies from person-to-person and if you’re unsure of how you will react to these ingredients, try a patch test on the back of your hand before applying to your face.<\/p>",
             "page": "",
             "icon": "none"
           }
