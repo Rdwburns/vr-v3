@@ -96,7 +96,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Recommended Use",
-            "content": "<p><strong>NLESS PYRAMID NEEDLES<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p><p><strong>FAST-MELTING<\/strong><\/p><p>Unlike topical creams, masks and serums our ingredients dissolve directly into the deeper skin layers, to get to work from just two hours.<\/p><p>RECOMMENDED USE<\/p><p>Leave on for at least 2 hours, ideally overnight, allowing the microneedles to fully dissolve and release the actives deeper into the skin where they can be most effective.<br\/><br\/>For best results, use two-three times per week for from 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. To avoid risk of sensitivity, do not use more than 3 times per week or within 24 hours of previous application.<\/p>",
+            "content": "<p>Leave on for at least 2 hours, ideally overnight, allowing the MicroCrystals to fully dissolve and release the actives deeper into the skin where they can be most effective.<br\/><br\/>For best results, use two-three times per week for from 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved. To avoid risk of sensitivity, do not use more than 3 times per week or within 24 hours of previous application.<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -105,7 +105,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "More Info",
-            "content": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed.<br\/><br\/>Our innovative brilliant dark spot patches use Microneedle Technology to fade dark spots and blemishes. 500 self-dissolving microneedles melt into the skin to deliver a hydrating cocktail of brightening actives deep down where it counts.<\/p><p>Each microscopic needle contains a blend of high-performing active ingredients including tranexamic acid, niacinamide, vitamin C and glutathione, known for their skin rejuvenating properties. This potent combination of regenerative ingredients helps to gradually brighten skin tone, restore skin texture and reduce the appearance of dark spots.<br\/><br\/>Use these easy to apply patches where it's needed most. For best results, use two-three times per week for 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved.<\/p>",
+            "content": "<p>Creams and serums just don’t cut it anymore! They have to work hard just to get through the skin’s outer barrier layer to the epidermis, where they’re most needed.<br\/><br\/>Our innovative brilliant dark spot patches use MicroCrystal Technology to fade dark spots and blemishes. 500 self-dissolving MicroCrystals melt into the skin to deliver a hydrating cocktail of brightening actives deep down where it counts.<\/p><p>Each microscopic needle contains a blend of high-performing active ingredients including tranexamic acid, niacinamide, vitamin C and glutathione, known for their skin rejuvenating properties. This potent combination of regenerative ingredients helps to gradually brighten skin tone, restore skin texture and reduce the appearance of dark spots.<br\/><br\/>Use these easy to apply patches where it's needed most. For best results, use two-three times per week for 2 weeks for blemishes and 6-8 weeks for dark spots, or until desired result is an achieved.<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -126,14 +126,14 @@
           "type": "column",
           "settings": {
             "title": "Precision Delivery System",
-            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our microneedles <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
+            "text": "<p>Topical skincare products need sophisticated delivery systems, penetration enhancers and carriers like oil and water (which dilute the formula) just for any of their actives to get through to the epidermis. <\/p><p>Our MicroCrystals <em>are<\/em> our delivery system. Painlessly punching through that brick wall-like stratum corneum so the active formula can dissolve directly, deeper in the skin. <\/p>"
           }
         },
         "1626248705b8c25b91-0": {
           "type": "column",
           "settings": {
             "title": "Skin Brightening Formula",
-            "text": "<p>500 serum infused microneedles deliver a power cocktail of skin brightening ingredients including tranexamic acid, niacinamide, vitamin C and glutathione. Progressively reduce the appearance of dark spots, age spots and post breakout blemishes. <\/p>"
+            "text": "<p>500 serum infused MicroCrystals deliver a power cocktail of skin brightening ingredients including tranexamic acid, niacinamide, vitamin C and glutathione. Progressively reduce the appearance of dark spots, age spots and post breakout blemishes. <\/p>"
           }
         },
         "1626248705b8c25b91-1": {
@@ -241,7 +241,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
+            "text": "<p>Our dissolving MicroCrystals don’t need water or oil as a carrier<\/p>"
           }
         },
         "162816866649a3b1b1-1": {
@@ -249,7 +249,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
             "title": "Totally Painless",
-            "text": "<p>Just the gentle sensation of the microneedles getting to work<\/p>"
+            "text": "<p>Just the gentle sensation of the MicroCrystals getting to work<\/p>"
           }
         }
       },
@@ -283,19 +283,19 @@
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our MicroCrystals are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
           }
         },
         "911212cd-78d6-4d0a-b0a7-92ac6372d412": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision MicroCrystal skincare. <\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>Painless pyramid crystals<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
@@ -446,7 +446,8 @@
         "image": "shopify:\/\/shop_images\/Photo_29-08-2021_12_17_30.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "image_first",
+        "bgtext": ""
       }
     },
     "1626170242ffa87f4b": {
@@ -484,7 +485,8 @@
         "image": "shopify:\/\/shop_images\/Pigment.png",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": ""
       }
     },
     "1626170247b0785461": {
@@ -521,7 +523,8 @@
       "settings": {
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "image_first",
+        "bgtext": ""
       }
     },
     "16262976340da42008": {
