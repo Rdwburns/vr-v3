@@ -282,7 +282,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/033-petroleum.png",
             "title": "Ultra-Low Water",
-            "text": "<p>Our dissolving MicroCrystals don’t need water or oil as a carrier<\/p>"
+            "text": "<p>Our dissolving microneedles don’t need water or oil as a carrier<\/p>"
           }
         },
         "162748427714eba7e0-1": {
@@ -290,7 +290,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/042-for_sensitive_skin.png",
             "title": "Totally Painless",
-            "text": "<p>Just the gentle sensation of the MicroCrystals getting to work.<\/p>"
+            "text": "<p>Just the gentle sensation of the microneedles getting to work.<\/p>"
           }
         }
       },
@@ -336,7 +336,7 @@
         "f38976e4-b244-4ad1-a741-c2878db66fc3": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Painless pyramid crystals<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "f681b201-8329-477e-9561-801502724c66": {
@@ -516,7 +516,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Are the Eye Rejuvenator patches reusable?",
-            "content": "<p>No, each patch is single use. Each MicroCrystal is made from active ingredients crystalised into a serum. When the MicroCrystals meet the skin the pyramids fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
+            "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
             "page": "",
             "icon": "none"
           }

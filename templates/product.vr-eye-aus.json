@@ -93,7 +93,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "More Information",
-            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"https:\/\/vicereversa.co.uk\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" title=\"https:\/\/vicereversa.co.uk\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough Microneedle Technology to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
+            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including <a href=\"https:\/\/vicereversa.co.uk\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\" title=\"https:\/\/vicereversa.co.uk\/blogs\/news\/how-to-treat-dark-circles-under-the-eyes\">dark circles<\/a>, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough MicroCrystal Technology to deliver concentrated hydrating, brightening and collagen-boosting ingredients directly where they are needed, deep in the skin.  <\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine MicroCrystals preloaded with our skin-restoring formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within. <\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -125,7 +125,7 @@
           "type": "column",
           "settings": {
             "title": "Precision Delivery System",
-            "text": "<p>Unlike topical creams, our Microneedle Technology goes directly where it’s needed, deeper in the skin. Pyramid-shaped microneedles on perfect-fitting hydrocolloid patches ensure gentle, effective penetration and fast absorption of ingredients.<\/p>"
+            "text": "<p>Unlike topical creams, our MicroCrystal Technology goes directly where it’s needed, deeper in the skin. Pyramid-shaped MicroCrystals on perfect-fitting hydrocolloid patches ensure gentle, effective penetration and fast absorption of ingredients.<\/p>"
           }
         },
         "16306673507dd07b78-1": {
@@ -280,19 +280,19 @@
         "16306676333cf327e2-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our MicroCrystals are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
           }
         },
         "c1e4dfa9-ef79-4f37-b379-fff41de4f96d": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision microneedle skincare. <\/p>"
+            "text": "<p><\/p><p><strong>Rooted in medicine<\/strong><\/p><p>First developed to deliver painless, effective drugs and vaccines, we’ve worked with K-beauty scientists to create our precision MicroCrystal skincare. <\/p>"
           }
         },
         "4e764b33-8ead-4da0-8984-d37d4d42c035": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Painless pyramid needles<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
+            "text": "<p><strong>Painless pyramid crystals<\/strong><\/p><p>Perfectly shaped to painlessly push through the skin’s outer layer and deliver the maximum of good stuff to the skin cell-producing epidermis.<\/p>"
           }
         },
         "7d0aed61-5e32-4548-b463-e8e58afee955": {
@@ -432,7 +432,8 @@
         "image": "shopify:\/\/shop_images\/IMG_1346_Facetune_10-08-2021-07-37-05.jpg",
         "height": "small",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "layout": "image_first",
+        "bgtext": ""
       }
     },
     "163066801691ce005c": {
@@ -470,7 +471,8 @@
         "image": "shopify:\/\/shop_images\/1080x1080_IG_PINK_10_a3ad6ec6-de5a-4e4d-8da5-c2c318b01770.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "text_first",
+        "bgtext": ""
       }
     },
     "1630668022cab0cd42": {
@@ -505,7 +507,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Are the Eye Rejuvenator patches reusable?",
-            "content": "<p>No, each patch is single use. Each microneedle is made from active ingredients crystalised into a serum. When the microneedles meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
+            "content": "<p>No, each patch is single use. Each MicroCrystal is made from active ingredients crystalised into a serum. When the MicroCrystals meet the skin the needles fully dissolve releasing the ingredients into the skin where they can be most effective.<\/p>",
             "page": "",
             "icon": "none"
           }
