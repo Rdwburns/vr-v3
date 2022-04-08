@@ -13,14 +13,14 @@
         "163429427349f9c8d4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Dissolving Microneedle PatChes, Next Level Skincare",
+            "heading": "Dissolving MicroCrystal PatChes, Next Level Skincare",
             "heading_style": "heading"
           }
         },
         "163429427349f9c8d4-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Microneedle Skincare",
+            "button_label_1": "Shop MicroCrystal Skincare",
             "button_link_1": "shopify:\/\/collections\/all-products",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -78,7 +78,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Meet The Microneedle Lineup",
+        "title": "Meet The MicroCrystal Lineup",
         "collection": "all-products",
         "products_to_show": 4,
         "show_view_all": false,
@@ -95,13 +95,13 @@
         "175c5ddb-c279-49a0-a2f4-21b07e560775": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": ""
           }
         },
         "162826528758e4667d-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+            "text": "<p><strong>CRYSTALLISED SERUM<\/strong><\/p><p>Our MicroCrystal are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
           }
         },
         "8bac2994-31f6-47eb-b86b-29d0f0142e90": {
