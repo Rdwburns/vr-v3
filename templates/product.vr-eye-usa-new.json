@@ -129,7 +129,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "More Information",
-            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including dark circles, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough Microneedle Technology to deliver concentrated hydration effectively in the skin.<\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine microneedles preloaded with our formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within.<\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
+            "content": "<p>The first signs of ageing often appear in the skin around our eyes with visible signs including dark circles, fine lines and wrinkles. The effects of ageing are inevitable, but we can take steps to help counter their visible signs. <\/p><p>Eye Rejuvenator uses breakthrough MicroCrystal Technology to deliver concentrated hydration effectively in the skin.<\/p><p>Our perfectly shaped eye patches feature 2600 ultra-fine MicroCrystals preloaded with our formula of Hyaluronic Acid, Pro-Collagen Peptides and Vitamin C to visibly plump, hydrate and brighten the skin from within.<\/p><p>Designed to be gentle on the delicate eye area Eye Rejuvenator is an easy, targeted, painless and effective at-home treatment. We don’t believe in miracle skincare cures, but with a little patience and consistent use you can enjoy great results.<\/p>",
             "page": "",
             "icon": "none"
           }
@@ -150,7 +150,7 @@
           "type": "column",
           "settings": {
             "title": "Precision Delivery System",
-            "text": "<p>Pyramid-shaped microneedles ensure painless penetration of the skin and fast absorption of the active ingredients deeper down, where it counts. <\/p>"
+            "text": "<p>Pyramid-shaped MicroCrystals ensure painless penetration of the skin and fast absorption of the active ingredients deeper down, where it counts. <\/p>"
           }
         },
         "1626248705b8c25b91-0": {
@@ -217,7 +217,7 @@
         "color_scheme": "background-1",
         "layout": "image_first",
         "mobile_stack": "inline",
-        "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the microneedle working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
+        "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the MicroCrystal working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
         "button_label": "Button label",
         "button_link": ""
       }
@@ -324,7 +324,7 @@
         "16262053277f68e5df-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our microneedles are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
+            "text": "<p><strong>Crystallised serum<\/strong><\/p><p>Our MicroCrystals are crystallised, concentrated serums. No oil and only the absolute minimum of water. No filler, just killer ingredients.<\/p>"
           }
         },
         "b91060dc-6eba-44de-94ff-9b84d8f5b06d": {
