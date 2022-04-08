@@ -54,18 +54,16 @@
 </noscript>
 
 <modal-opener class="product__modal-opener product__modal-opener--{{ media.media_type }} no-js-hidden" data-modal="#ProductModal-{{ modal_id }}">
-  <!--<span class="product__media-icon motion-reduce" aria-hidden="true">
+ <span class="product__media-icon motion-reduce" aria-hidden="true">
     {%- liquid
       case media.media_type
       when 'video' or 'external_video'
         render 'icon-play'
       when 'model'
         render 'icon-3d-model'
-      else
-        render 'icon-zoom' 
       endcase
     -%}
-  </span>-->
+  </span>
 
 
   <div class="product__media media" style="padding-top: {{ 1 | divided_by: media.preview_image.aspect_ratio | times: 100 }}%;">
