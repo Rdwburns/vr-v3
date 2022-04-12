@@ -224,10 +224,28 @@
         "more": false
       }
     },
+    "16497755280bdd8a42": {
+      "type": "before-after",
+      "settings": {
+        "heading": "",
+        "review_title": "Fiona, 6 Applications (3 Weeks)",
+        "before_image": "shopify:\/\/shop_images\/Before_square.jpg",
+        "before_caption": "Before",
+        "after_image": "shopify:\/\/shop_images\/After_square.jpg",
+        "after_caption": "After 3 Weeks",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first",
+        "mobile_stack": "inline",
+        "review": "When you press them into your skin, those pyramids deliver all the goodness into the deeper layers of the skin because they go penetrate past that top layer of skin. Honestly, they don't hurt at all. They are so, so easy to use you just take them and you press them on.",
+        "button_label": "Button label",
+        "button_link": ""
+      }
+    },
     "1626903216068cfb52": {
       "type": "before-after",
       "settings": {
-        "heading": "Before and After",
+        "heading": "",
         "review_title": "Tania, 50, 8 Applications (6 Weeks)",
         "before_image": "shopify:\/\/shop_images\/Week1.jpg",
         "before_caption": "Before",
@@ -238,7 +256,7 @@
         "layout": "image_first",
         "mobile_stack": "inline",
         "review": "I’ve been using Eye Rejuvenator over the last 6 weeks. I love how easy the patches have been to use and incorporate into my routine. You literally peel them off gently push them and you can feel the MicroCrystals working. I can see the improvement the plumping of my lines and my eye area looks more awake and alive.",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": ""
       }
     },
@@ -709,6 +727,7 @@
     "1634292444c9076929",
     "1626248705b8c25b91",
     "1626290450f9c0b3c8",
+    "16497755280bdd8a42",
     "1626903216068cfb52",
     "16419186068ffb2db6",
     "1626940710a73ccd9b",
