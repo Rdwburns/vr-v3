@@ -229,9 +229,9 @@
       "settings": {
         "heading": "Customer Results",
         "review_title": "Fiona, 6 Applications (3 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/Before_square.jpg",
+        "before_image": "shopify:\/\/shop_images\/Fiona_Before_square.jpg",
         "before_caption": "Traditional Skincare",
-        "after_image": "shopify:\/\/shop_images\/After_square.jpg",
+        "after_image": "shopify:\/\/shop_images\/Fiona_After_square.jpg",
         "after_caption": "3 Weeks of Vice Reversa",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -247,9 +247,9 @@
       "settings": {
         "heading": "",
         "review_title": "Tania, 8 Applications (6 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/Week1.jpg",
+        "before_image": "shopify:\/\/shop_images\/Week1_0d5cbd47-527f-407a-84b7-96589d13454a.jpg",
         "before_caption": "Traditional Skincare",
-        "after_image": "shopify:\/\/shop_images\/Application_4.jpg",
+        "after_image": "shopify:\/\/shop_images\/Application_4_702bdcf1-a9e1-44f1-8ea1-1c66e5f70845.jpg",
         "after_caption": "6 Weeks of Vice Reversa",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -265,9 +265,9 @@
       "settings": {
         "heading": "",
         "review_title": "Dorothy, 10 APPLICATIONS (6 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/D-Besfore.jpg",
+        "before_image": "shopify:\/\/shop_images\/D-Besfore_38b460c4-3014-4508-962b-9a61b2772abd.jpg",
         "before_caption": "Traditional Skincare",
-        "after_image": "shopify:\/\/shop_images\/D-After.jpg",
+        "after_image": "shopify:\/\/shop_images\/D-After_cefeb150-4db2-428d-9ec3-80b2d924d4f3.jpg",
         "after_caption": "6 Weeks of Vice Reversa",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -283,9 +283,9 @@
       "settings": {
         "heading": "",
         "review_title": "Abbé, 8 Applications (6 Weeks)",
-        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use.jpg",
+        "before_image": "shopify:\/\/shop_images\/Abbe_-_Before_Use_dd1b1fe4-c00f-442c-b9c1-0ca582e0d4ad.jpg",
         "before_caption": "Traditional Skincare",
-        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications.jpg",
+        "after_image": "shopify:\/\/shop_images\/Abbe_3_Applications_46d12388-5038-41e5-8fb1-2065787e2875.jpg",
         "after_caption": "6 Weeks of Vice Reversa",
         "height": "adapt",
         "color_scheme": "background-1",
@@ -302,7 +302,7 @@
         "162748427714eba7e0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/045-vegan.png",
+            "image": "shopify:\/\/shop_images\/045-vegan_a2a97a91-3c58-4633-838f-2db76c7cb7bc.png",
             "title": "Vegan",
             "text": "<p>All our products are suitable for vegans and cruelty free<\/p>"
           }
@@ -310,7 +310,7 @@
         "162748427714eba7e0-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/018-paraben_free.png",
+            "image": "shopify:\/\/shop_images\/018-paraben_free_24465fac-6b74-4343-a726-20a9eb4d87bb.png",
             "title": "No Nasties",
             "text": "<p>Free from parabens, preservatives, fragrance, phthalates and sulphates<\/p>"
           }
@@ -318,7 +318,7 @@
         "be18d4b1-7f75-4ef3-8765-bbbed38ed574": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/033-petroleum.png",
+            "image": "shopify:\/\/shop_images\/033-petroleum_bd724274-9e28-45b5-8c45-2e175ec74a38.png",
             "title": "Ultra-Low Water",
             "text": "<p>Our dissolving MicroCrystals don’t need water or oil as a carrier<\/p>"
           }
@@ -326,7 +326,7 @@
         "162748427714eba7e0-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_0fa9fc49-ae73-47f5-84eb-0fbfd4088f91.png",
+            "image": "shopify:\/\/shop_images\/042-for_sensitive_skin_342179f8-ba23-4a6a-b22b-2f7696cf9e83.png",
             "title": "Totally Painless",
             "text": "<p>Just the gentle sensation of the MicroCrystals getting to work.<\/p>"
           }
