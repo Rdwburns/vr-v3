@@ -1,0 +1,20 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1652087668de2478d9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"octane-ai-quiz \" data-quiz-id=\"XaoYVO7xkcRkLTYC\" data-embed-type=\"fullpage\" data-mobile-height=\"match_browser\" data-desktop-height=\"match_browser\"><\/div>\n<script src=\"https:\/\/app.octaneai.com\/rqulj4doti4lgshh\/quiz.js\" async=\"\" defer=\"defer\"><\/script>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1652087668de2478d9"
+  ]
+}
